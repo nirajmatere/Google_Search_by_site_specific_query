@@ -1,0 +1,1764 @@
+{
+    "query": "企業 SNS分析",
+    "links": [
+        [
+            "https://www.mieruka-engine.com/media/sns",
+            "https://www.aspicjapan.org/asu/article/11582",
+            "https://moltsinc.co.jp/communication-strategy/19008/",
+            "https://www.nikkei.com/compass/theme/30370",
+            "https://sns.userlocal.jp/",
+            "https://insight-br.com/",
+            "https://kigyolog.com/service.php?id=208",
+            "https://umy-game.com/sns-marketing-kyougoubunseki/",
+            "https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_1L4GS503/_article/-char/ja/",
+            "https://saas-search.jp/saas-services/sns/sns-analysis/"
+        ],
+        [
+            "https://link-ap.com/lp/sns/",
+            "https://www.sns-sociamaga.com/function/analysis.html",
+            "https://www.umibe.art/post/2023060201",
+            "https://boxil.jp/mag/a3049/",
+            "https://www.medinew.jp/downloads/research/sns-use-status-202209",
+            "https://gaiax-socialmedialab.jp/post-59439/",
+            "https://www.comnico.jp/products/cms/jp",
+            "https://prtimes.jp/main/html/rd/p/000000380.000011944.html",
+            "https://www.dnp.co.jp/biz/column/detail/20168264_2781.html",
+            "https://prtimes.jp/main/html/rd/p/000000012.000089446.html"
+        ],
+        [
+            "https://find-model.jp/insta-lab/sns-marketing/",
+            "https://otp-blog.com/profile-analyze/",
+            "https://biz.ncbank.co.jp/posts/223",
+            "https://grove.tokyo/media/g0100/",
+            "https://qeee.jp/magazine/articles/380",
+            "https://tofu.misosil.com/",
+            "https://jpn.nec.com/press/202012/20201224_01.html",
+            "https://liskul.com/sns-support-34609",
+            "https://www.meltwater.com/jp/blog/what_social_media_is_telling_you_for_rugby_world_cup",
+            "https://keywordmap.jp/academy/twitter-best-post-time/"
+        ]
+    ],
+    "snapshot_ymd": "D2023-06-23",
+    "snapshot_timestamp": "D2023-06-23T01-26-34",
+    "responses": [
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "request": [
+                    {
+                        "title": "Google Custom Search - 企業 SNS分析",
+                        "totalResults": "39000000",
+                        "searchTerms": "企業 SNS分析",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 企業 SNS分析",
+                        "totalResults": "39000000",
+                        "searchTerms": "企業 SNS分析",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.529249,
+                "formattedSearchTime": "0.53",
+                "totalResults": "39000000",
+                "formattedTotalResults": "39,000,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "ソーシャルメディア分析（SNS分析）とは？ 始めるための基礎知識 ...",
+                    "htmlTitle": "ソーシャルメディア分析（<b>SNS分析</b>）とは？ 始めるための基礎知識 ...",
+                    "link": "https://www.mieruka-engine.com/media/sns",
+                    "displayLink": "www.mieruka-engine.com",
+                    "snippet": "SNS分析とは、ソーシャルメディア（ Twitter、Instagram、TikTokなど）で発信されている投稿を分析し、プロモーション戦略や顧客満足度の向上など、企業戦略に役立てる ...",
+                    "htmlSnippet": "<b>SNS分析</b>とは、ソーシャルメディア（ Twitter、Instagram、TikTokなど）で発信されている投稿を分析し、プロモーション戦略や顧客満足度の向上など、<b>企業</b>戦略に役立てる&nbsp;...",
+                    "cacheId": "9r-SdvbOdEwJ",
+                    "formattedUrl": "https://www.mieruka-engine.com/media/sns",
+                    "htmlFormattedUrl": "https://www.mieruka-engine.com/media/<b>sns</b>",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTg936QTAAnIkfcwPTLHAygMp5xDt2GD9LgcfCcvCExSHW-gz7FtRogcfYi",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://images.microcms-assets.io/assets/95e8502317d14b28b705b260c1e42074/a593e42ac7134c38a20b36814965f485/fv-md.png?w=1200&h=630&fit=crop",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "業界シェアNo.1テキストマイニング、顧客体験フィードバックシステム | 見える化エンジン",
+                                "viewport": "width=device-width,initial-scale=1",
+                                "og:title": "ソーシャルメディア分析（SNS分析）とは？ 始めるための基礎知識とツール活用例 | 見える化エンジン",
+                                "og:url": "https://www.mieruka-engine.com/media/sns",
+                                "og:description": "SNS分析とは、ソーシャルメディア（ Twitter、Instagram、TikTokなど）で発信されている投稿を分析し、プロモーション戦略や顧客満足度の向上など、企業戦略に役立てる時の参考材料として分析する手法です。特に生活者の声を重要視しているBtoC企業では、生活者のフラットな声が集中しているSNSの分析が注目を集めています。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://images.microcms-assets.io/assets/95e8502317d14b28b705b260c1e42074/a593e42ac7134c38a20b36814965f485/fv-md.png?w=1200&h=630&fit=crop"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "SNS分析ツール比較15選。法人向けのタイプや選び方｜アスピック",
+                    "htmlTitle": "<b>SNS分析</b>ツール比較15選。法人向けのタイプや選び方｜アスピック",
+                    "link": "https://www.aspicjapan.org/asu/article/11582",
+                    "displayLink": "www.aspicjapan.org",
+                    "snippet": "2023/04/14 ... 本格的にSNSマーケティングに取り組んでいる企業には、こちらのタイプがおすすめです。 TwitterやInstagram以外に、FacebookやYouTube、LINEなど多様なSNS ...",
+                    "htmlSnippet": "2023/04/14 <b>...</b> 本格的に<b>SNS</b>マーケティングに取り組んでいる<b>企業</b>には、こちらのタイプがおすすめです。 TwitterやInstagram以外に、FacebookやYouTube、LINEなど多様な<b>SNS</b>&nbsp;...",
+                    "cacheId": "yWDyHMaJDGoJ",
+                    "formattedUrl": "https://www.aspicjapan.org/asu/article/11582",
+                    "htmlFormattedUrl": "https://www.aspicjapan.org/asu/article/11582",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4jzHGYoeY7OADGQwSiZSuGBQrsKTT5nTqiT3oMOmgis0UGi63xlGDEBs",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.aspicjapan.org/asu/cms/wp-content/uploads/2022/02/snb001.jpg",
+                                "og:type": "article",
+                                "og:image:width": "1400",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "アスピック｜SaaS比較・活用サイト",
+                                "og:title": "SNS分析ツール比較15選。法人向けのタイプや選び方 | アスピック｜SaaS比較・活用サイト",
+                                "og:image:height": "933",
+                                "twitter:label1": "推定読み取り時間",
+                                "og:image:type": "image/jpeg",
+                                "og:description": "SNSからの声を活用して販促施策を強化したい、競合・市場調査や分析を効率化したいとお考えの方へ。SNS分析ツールの機能や目的別の選び方、おすすめのツールについて解説します。",
+                                "twitter:data1": "35分",
+                                "article:modified_time": "2023-05-08T01:35:35+00:00",
+                                "viewport": "width=device-width,initial-scale=1.0,user-scalable=no",
+                                "twitter:description": "SNSからの声を活用して販促施策を強化したい、競合・市場調査や分析を効率化したいとお考えの方へ。SNS分析ツールの機能や目的別の選び方、おすすめのツールについて解説します。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.aspicjapan.org/asu/article/11582",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.aspicjapan.org/asu/cms/wp-content/uploads/2022/02/snb001.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "SNS分析ツールの比較13選｜目的別おすすめと選び方を解説 | MOLTS",
+                    "htmlTitle": "<b>SNS分析</b>ツールの比較13選｜目的別おすすめと選び方を解説 | MOLTS",
+                    "link": "https://moltsinc.co.jp/communication-strategy/19008/",
+                    "displayLink": "moltsinc.co.jp",
+                    "snippet": "SNS分析ツールとは、ソーシャルメディア上の投稿内容、およびアカウントや投稿に ... の反響分析やトレンド予測、リスクモニタリングなど、さまざまな企業戦略に活用 ...",
+                    "htmlSnippet": "<b>SNS分析</b>ツールとは、ソーシャルメディア上の投稿内容、およびアカウントや投稿に ... の反響分析やトレンド予測、リスクモニタリングなど、さまざまな<b>企業</b>戦略に活用&nbsp;...",
+                    "cacheId": "UVvYDywBzuwJ",
+                    "formattedUrl": "https://moltsinc.co.jp/communication-strategy/19008/",
+                    "htmlFormattedUrl": "https://moltsinc.co.jp/communication-strategy/19008/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5jOmRBVl-MzI9FRdoKg8IwyrEoiPswGzla6uad9nIgkApLdADr-K1fwo",
+                                "width": "286",
+                                "height": "176"
+                            }
+                        ],
+                        "question": [
+                            {
+                                "name": "SNS分析ツールとは何ですか？"
+                            },
+                            {
+                                "name": "おすすめのSNS分析ツールを教えてください。"
+                            }
+                        ],
+                        "answer": [
+                            {
+                                "text": "SNS分析ツールとは、TwitterやFacebook、Instagramをはじめとするソーシャルメディアで発信されている投稿データを収集・分析するツールです。大きく..."
+                            },
+                            {
+                                "text": "現在人気のSNS分析ツールは下記5サービスです。 Keywordmap for SNS（Twitterアカウント運用） SINIS（Instagramアカウント運用） コムニコ マーケティングス..."
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://moltsinc.co.jp/wp-content/uploads/2022/10/shutterstock_2136195843_Fotor.jpg",
+                                "og:type": "article",
+                                "og:image:width": "1000",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "MOLTS",
+                                "og:title": "SNS分析ツールの比較13選｜目的別おすすめと選び方を解説 | MOLTS",
+                                "og:image:height": "618",
+                                "twitter:label1": "推定読み取り時間",
+                                "og:image:type": "image/jpeg",
+                                "og:description": "SNS分析ツールとは、ソーシャルメディア上の投稿内容、およびアカウントや投稿に属するデータ（フォロワー数やエンゲージメント率など）を収集・分析するツールです。本記事では、キャンペーンの反響測定や市場トレンド予測、自社アカウント運用改善など、SNS分析の目的に合わせておすすめのツールをご紹介します。",
+                                "twitter:data1": "25分",
+                                "url": "https://moltsinc.co.jp/communication-strategy/19008/",
+                                "facebook-domain-verification": "xj71l4x0qnb04lclhxcut7j6vkc6e1",
+                                "article:modified_time": "2023-06-06T06:33:13+00:00",
+                                "viewport": "width=device-width, minimum-scale=1, maximum-scale=10,user-scalable=no,initial-scale=1.0",
+                                "og:locale": "ja_JP",
+                                "position": "1",
+                                "og:url": "https://moltsinc.co.jp/communication-strategy/19008/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://moltsinc.co.jp/wp-content/uploads/2022/10/shutterstock_2136195843_Fotor.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "SNS分析・管理とは 関連企業や最新ニュースも | NIKKEI COMPASS ...",
+                    "htmlTitle": "<b>SNS分析</b>・管理とは 関連<b>企業</b>や最新ニュースも | NIKKEI COMPASS ...",
+                    "link": "https://www.nikkei.com/compass/theme/30370",
+                    "displayLink": "www.nikkei.com",
+                    "snippet": "【NIKKEI COMPASS】SNS分析・管理とは？に答える用語の定義・意味から業界の最新情報、課題や注目企業、関連ビジネスまで今後の市場動向や規模を知る上で欠かせない ...",
+                    "htmlSnippet": "【NIKKEI COMPASS】<b>SNS分析</b>・管理とは？に答える用語の定義・意味から業界の最新情報、課題や注目<b>企業</b>、関連ビジネスまで今後の市場動向や規模を知る上で欠かせない&nbsp;...",
+                    "cacheId": "ATUJMWkfZZkJ",
+                    "formattedUrl": "https://www.nikkei.com/compass/theme/30370",
+                    "htmlFormattedUrl": "https://www.nikkei.com/compass/theme/30370",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-RCE7-S392MGJikTj94uhGl4T89G4rf_Z58XdBU5n-caWQOQquoc8i6qV",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.nikkei.com/compass/assets/ogi_c.png",
+                                "next-head-count": "9",
+                                "twitter:card": "summary",
+                                "viewport": "width=device-width",
+                                "og:title": "SNS分析・管理とは 関連企業や最新ニュースも | NIKKEI COMPASS - 日本経済新聞",
+                                "og:description": "【NIKKEI COMPASS】SNS分析・管理とは？に答える用語の定義・意味から業界の最新情報、課題や注目企業、関連ビジネスまで今後の市場動向や規模を知る上で欠かせない情報をご紹介します。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.nikkei.com/compass/assets/ogi_c.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "ソーシャルインサイト(Social Insight) | ソーシャルメディアの解析 ...",
+                    "htmlTitle": "ソーシャルインサイト(Social Insight) | ソーシャルメディアの<b>解析</b> ...",
+                    "link": "https://sns.userlocal.jp/",
+                    "displayLink": "sns.userlocal.jp",
+                    "snippet": "SNS業務を効率化する分析・運用ツール · 多数の企業に導入いただいています · Social Insightの4つの特長 · #SNSキャンペーン · #投稿管理 · #SNSアカウント分析 · #クチコミ分析.",
+                    "htmlSnippet": "<b>SNS</b>業務を効率化する<b>分析</b>・運用ツール &middot; 多数の<b>企業</b>に導入いただいています &middot; Social Insightの4つの特長 &middot; #<b>SNS</b>キャンペーン &middot; #投稿管理 &middot; #<b>SNS</b>アカウント<b>分析</b> &middot; #クチコミ<b>分析</b>.",
+                    "cacheId": "mKBRD5W9pBwJ",
+                    "formattedUrl": "https://sns.userlocal.jp/",
+                    "htmlFormattedUrl": "https://<b>sns</b>.userlocal.jp/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvKMyy1FHhrMzAMiDl96D2jCA_1gSoT4l6U3IsurQxkmCv-Vq4bNX65Go",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://sns.userlocal.jp/files/ogp.png",
+                                "twitter:card": "summary_large_image",
+                                "og:type": "company",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "ソーシャルインサイト(Social Insight) | ソーシャルメディアの解析・運用",
+                                "og:locale": "ja_JP",
+                                "og:description": "ソーシャルインサイトは主要なSNSすべてを分析でき、複数のSNSアカウントを一括管理・運用できるSNSマーケティング支援サービスです。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://sns.userlocal.jp/files/ogp.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "企業向けSNS配信分析ツール｜Insight BRAIN（インサイトブレイン）",
+                    "htmlTitle": "<b>企業</b>向け<b>SNS</b>配信<b>分析</b>ツール｜Insight BRAIN（インサイトブレイン）",
+                    "link": "https://insight-br.com/",
+                    "displayLink": "insight-br.com",
+                    "snippet": "Insight BRAIN（インサイトブレイン）は、Facebook、Instagram、Youtubeといった複数のソーシャルメディアの分析を一元管理することができるクラウドサービスです。",
+                    "htmlSnippet": "Insight BRAIN（インサイトブレイン）は、Facebook、Instagram、Youtubeといった複数のソーシャルメディアの<b>分析</b>を一元管理することができるクラウドサービスです。",
+                    "cacheId": "ZPpgKTFxGWEJ",
+                    "formattedUrl": "https://insight-br.com/",
+                    "htmlFormattedUrl": "https://insight-br.com/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6Gi5EafRdibOChJZ56Bg9xvb91wt5preQYNDCR9EVLcWx4u9JB5IVe3N5",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://insight-br.com/images/ogp.png",
+                                "og:type": "article",
+                                "og:image:width": "800",
+                                "article:published_time": "2022-03-10T13:00:00+009:00",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "企業向けSNS配信分析ツール｜Insight BRAIN（インサイトブレイン）",
+                                "og:site_name": "企業向けSNS配信分析ツール｜Insight BRAIN（インサイトブレイン）",
+                                "twitter:domain": "insight-br.com",
+                                "og:title": "企業向けSNS配信分析ツール｜Insight BRAIN（インサイトブレイン）",
+                                "og:image:height": "450",
+                                "og:description": "Insight BRAIN（インサイトブレイン）は、Facebook、Instagram、Youtubeといった複数のソーシャルメディアの分析を一元管理することができるクラウドサービスです。施策全体やキャンペーンを実施した時の効果だけでなく、自社や競合も含めたクリエイティブ毎の詳細な分析が可能になります。",
+                                "og:image:secure_url": "https://insight-br.com/images/ogp.png",
+                                "twitter:image": "https://insight-br.com/images/ogp.png",
+                                "facebook-domain-verification": "smnh6zm3l2m6k5gl2vhr9a0zgwngg8",
+                                "article:modified_time": "2022-02-17T13:00:00+09:00",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "twitter:description": "Insight BRAIN（インサイトブレイン）は、Facebook、Instagram、Youtubeといった複数のソーシャルメディアの分析を一元管理することができるクラウドサービスです。施策全体やキャンペーンを実施した時の効果だけでなく、自社や競合も含めたクリエイティブ毎の詳細な分析が可能になります。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://insight-br.com"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://insight-br.com/images/ogp.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【2023年版】おすすめのSNS分析ツール25選を徹底比較！ - SaaS ...",
+                    "htmlTitle": "【2023年版】おすすめの<b>SNS分析</b>ツール25選を徹底比較！ - SaaS ...",
+                    "link": "https://kigyolog.com/service.php?id=208",
+                    "displayLink": "kigyolog.com",
+                    "snippet": "5 日前 ... 近年、多くの企業がSNSマーケティングに力を入れていますが、その成果がわかりづらいとお悩みの方も多いのではないでしょうか。 SNS分析ツールを使え ...",
+                    "htmlSnippet": "5 日前 <b>...</b> 近年、多くの<b>企業</b>がSNSマーケティングに力を入れていますが、その成果がわかりづらいとお悩みの方も多いのではないでしょうか。 <b>SNS分析</b>ツールを使え&nbsp;...",
+                    "cacheId": "o-tAeTDm7LcJ",
+                    "formattedUrl": "https://kigyolog.com/service.php?id=208",
+                    "htmlFormattedUrl": "https://kigyolog.com/service.php?id=208",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5OUebImyapKmUF1bj_7Ln8BN-D3MHGqiyJ-U-OFxIWV-A4xhP7be3EsLQ",
+                                "width": "299",
+                                "height": "169"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://image-prod.kigyolog.com/contents/service/b5a3e9c3cdea6a884bb09f4f1ba341a0.png",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "【2023年版】おすすめのSNS分析ツール25選を徹底比較！ - SaaS LOG",
+                                "og:type": "article",
+                                "og:site_name": "SaaS Log",
+                                "og:title": "【2023年版】おすすめのSNS分析ツール25選を徹底比較！ - SaaS LOG",
+                                "og:description": "この記事では世間に数多く展開されているSNS分析ツール・ソーシャルリスニングツールの中から、おすすめの25選をご紹介します！それぞれの特徴やメリット・デメリット、選ぶ際のポイントなどをまとめたので、比較検討する際のご参考にしていただければと思います。",
+                                "twitter:image": "https://image-prod.kigyolog.com/contents/service/b5a3e9c3cdea6a884bb09f4f1ba341a0.png",
+                                "fb:app_id": "248558462635024",
+                                "twitter:site": "https://kigyolog.com/service.php?id=208",
+                                "viewport": "width=device-width,user-scalable=no",
+                                "twitter:description": "この記事では世間に数多く展開されているSNS分析ツール・ソーシャルリスニングツールの中から、おすすめの25選をご紹介します！それぞれの特徴やメリット・デメリット、選ぶ際のポイントなどをまとめたので、比較検討する際のご参考にしていただければと思います。",
+                                "og:url": "https://kigyolog.com/service.php?id=208"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://image-prod.kigyolog.com/contents/service/b5a3e9c3cdea6a884bb09f4f1ba341a0.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "起業ログTOP",
+                                "name": "起業ログTOP",
+                                "position": "1"
+                            },
+                            {
+                                "item": "法人ITサービス一覧",
+                                "name": "法人ITサービス一覧",
+                                "position": "2"
+                            },
+                            {
+                                "item": "SNS分析ツール",
+                                "name": "SNS分析ツール",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "SNSマーケティングで成果を上げる！競合分析の必要性や分析 ...",
+                    "htmlTitle": "<b>SNS</b>マーケティングで成果を上げる！競合<b>分析</b>の必要性や<b>分析</b> ...",
+                    "link": "https://umy-game.com/sns-marketing-kyougoubunseki/",
+                    "displayLink": "umy-game.com",
+                    "snippet": "Facebook・Twitter・Instagram・LinkedInなど、競合が活動しているSNSプラットフォームを特定します。 フォロワー数・エンゲージメント率: 競合企業のフォロワー数や ...",
+                    "htmlSnippet": "Facebook・Twitter・Instagram・LinkedInなど、競合が活動している<b>SNS</b>プラットフォームを特定します。 フォロワー数・エンゲージメント率: 競合<b>企業</b>のフォロワー数や&nbsp;...",
+                    "cacheId": "F0DLUEWHlsUJ",
+                    "formattedUrl": "https://umy-game.com/sns-marketing-kyougoubunseki/",
+                    "htmlFormattedUrl": "https://umy-game.com/<b>sns</b>-marketing-kyougoubunseki/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvhsQ9u_WBGbiArC-6DTGDc1MO5SGv8zHwbYzEw2kTVQCSbM9N2i2vVDC8",
+                                "width": "314",
+                                "height": "160"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://umy-game.com/umy-game/wp-content/uploads/2022/04/AdobeStock_318728481-scaled-e1657082974977.jpeg",
+                                "og:type": "article",
+                                "article:published_time": "2023-05-16T03:00:00+00:00",
+                                "og:image:width": "1200",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "ウミガメ株式会社",
+                                "author": "new-umygame",
+                                "og:title": "SNSマーケティングで成果を上げる！競合分析の必要性や分析ツール6選！",
+                                "og:image:height": "613",
+                                "twitter:label1": "執筆者",
+                                "twitter:label2": "推定読み取り時間",
+                                "og:image:type": "image/jpeg",
+                                "msapplication-tileimage": "https://umy-game.com/umy-game/wp-content/uploads/2021/07/icon.png",
+                                "og:description": "SNS運用で成果を上げるためには、競合分析をしっかり行うことが必要です。競合分析を行うことで、フォロワー獲得につながり、自社の弱みを把握することができます。この記事では、SNS競合分析で分析すべき要素・おすすめの分析ツールなどを紹介します。",
+                                "twitter:data1": "new-umygame",
+                                "twitter:data2": "23分",
+                                "article:modified_time": "2023-05-15T10:07:10+00:00",
+                                "viewport": "width=device-width,initial-scale=1.0",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://umy-game.com/sns-marketing-kyougoubunseki/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://umy-game.com/umy-game/wp-content/uploads/2022/04/AdobeStock_318728481-scaled-e1657082974977.jpeg"
+                            }
+                        ],
+                        "blogposting": [
+                            {
+                                "text": "SNS運用は、今やマーケティング成功の大きな鍵を握っているといっても過言ではありません。 しかし、実際にSNS運用をはじめてみると、フォロワ...",
+                                "datepublished": "2023.05.16"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "item": "SNS運営",
+                                "name": "SNS運営"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "ソーシャルポルノ仮説に基づくメディア企業SNSアカウントの扇動 ...",
+                    "htmlTitle": "ソーシャルポルノ仮説に基づくメディア<b>企業SNS</b>アカウントの扇動 ...",
+                    "link": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_1L4GS503/_article/-char/ja/",
+                    "displayLink": "www.jstage.jst.go.jp",
+                    "snippet": "2020/06/19 ... ... ポルノ仮説に基づくメディア企業SNSアカウントの扇動性に関する分析 ... 近年，ウェブ・SNSの普及による情報発信・拡散の変化に伴い，デマや ...",
+                    "htmlSnippet": "2020/06/19 <b>...</b> ... ポルノ仮説に基づくメディア<b>企業SNS</b>アカウントの扇動性に関する<b>分析</b> ... 近年，ウェブ・<b>SNS</b>の普及による情報発信・拡散の変化に伴い，デマや&nbsp;...",
+                    "formattedUrl": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020.../ja/",
+                    "htmlFormattedUrl": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020.../ja/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "citation_keywords": "ソーシャルメディアマイニング",
+                                "citation_publication_date": "2020",
+                                "journal_code": "pjsai",
+                                "citation_author_institution": "株式会社ホットリンク",
+                                "citation_title": "ソーシャルポルノ仮説に基づくメディア企業SNSアカウントの扇動性に関する分析",
+                                "copyright": "2020 一般社団法人 人工知能学会",
+                                "twitter:card": "summary",
+                                "conference_title": "人工知能学会全国大会論文集 第34回 (2020)",
+                                "citation_publisher": "一般社団法人 人工知能学会",
+                                "firstpage": "1L4GS503",
+                                "pdf_url": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_1L4GS503/_pdf",
+                                "language": "ja",
+                                "title": "ソーシャルポルノ仮説に基づくメディア企業SNSアカウントの扇動性に関する分析",
+                                "citation_online_date": "2020/06/19",
+                                "citation_issn": "2758-7347",
+                                "twitter:site": "@jstage_ej",
+                                "online_issn": "2758-7347",
+                                "citation_language": "ja",
+                                "journal_abbrev": "JSAI大会論文集",
+                                "publication_date": "2020",
+                                "citation_pdf_url": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_1L4GS503/_pdf",
+                                "journal_title": "人工知能学会全国大会論文集",
+                                "authors_institutions": "株式会社ホットリンク",
+                                "citation_lastpage": "1L4GS503",
+                                "access_control": "フリー",
+                                "og:title": "ソーシャルポルノ仮説に基づくメディア企業SNSアカウントの扇動性に関する分析",
+                                "citation_author": "榊 剛史",
+                                "session_id": "1L4-GS-5-03",
+                                "lastpage": "1L4GS503",
+                                "abstract": "近年，ウェブ・SNSの普及による情報発信・拡散の変化に伴い，デマやフェイクニュースの拡散，エコーチェンバーの発生等，情報拡散にまつわる様々な問題のある現象が顕在化している．このような状況において，情報拡散の質を評価する技術の必要性が高まっている．本研究では，「ソーシャルポルノ（脊髄反射的に拡散・共有してしまいたくなる情報）」の存在を仮定し，それに基づいて，情報発信元（以下，メディア）の質を評価する定量的な指標を提案することを目指す．各メディアの情報を拡散するユーザの反応時間に着目し，メディアごとのユーザの反応時間を集計した指標を扇動性を表す一つの指標として提案した．結果として，提案指標は，記事や記事の拡散度合いによらず，メディアによって固有の値を持つ傾向が示唆された．今後は，大 ",
+                                "citation_firstpage": "1L4GS503",
+                                "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                                "citation_doi": "10.11517/pjsai.JSAI2020.0_1L4GS503",
+                                "online_date": "2020/06/19",
+                                "publisher": "一般社団法人 人工知能学会",
+                                "dc.identifier": "10.11517/pjsai.JSAI2020.0_1L4GS503",
+                                "citation_conference_title": "人工知能学会全国大会論文集 第34回 (2020)",
+                                "og:url": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_1L4GS503/_article/-char/ja/",
+                                "format-detection": "telephone=no",
+                                "authors": "榊 剛史",
+                                "doi": "10.11517/pjsai.JSAI2020.0_1L4GS503"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "企業アカウント運営に最適！SNS分析ツールおすすめ10選を徹底紹介",
+                    "htmlTitle": "<b>企業</b>アカウント運営に最適！<b>SNS分析</b>ツールおすすめ10選を徹底紹介",
+                    "link": "https://saas-search.jp/saas-services/sns/sns-analysis/",
+                    "displayLink": "saas-search.jp",
+                    "snippet": "2022/12/06 ... 近年ではSNSの重要性が高まっており、情報発信やマーケティングのためのSNSアカウントを活用することは、企業にとって有用です。しかし、SNSでの情報 ...",
+                    "htmlSnippet": "2022/12/06 <b>...</b> 近年では<b>SNS</b>の重要性が高まっており、情報発信やマーケティングのための<b>SNS</b>アカウントを活用することは、<b>企業</b>にとって有用です。しかし、<b>SNS</b>での情報&nbsp;...",
+                    "cacheId": "ZdKy7a8fyqgJ",
+                    "formattedUrl": "https://saas-search.jp/saas-services/sns/sns-analysis/",
+                    "htmlFormattedUrl": "https://saas-search.jp/saas-services/<b>sns</b>/<b>sns</b>-analysis/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTREESGe8mR4Aswy4zZAoD7vCPBRaHm51EEtZOGyGq7iQG_y6uM5kz4hK8m",
+                                "width": "300",
+                                "height": "168"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://saas-search.jp/wp/wp-content/uploads/2022/12/sns-1-730x410.jpeg",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "SaaSサーチ",
+                                "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                                "og:title": "企業アカウント運営に最適！SNS分析ツールおすすめ10選を徹底紹介",
+                                "og:url": "https://saas-search.jp/saas-services/sns/sns-analysis/",
+                                "og:description": "近年ではSNSの重要性が高まっており、情報発信やマーケティングのためのSNSアカウントを活用することは、企業にとって有用です。しかし、SNSでの情報発信やマーケ […]"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://saas-search.jp/wp/wp-content/uploads/2022/12/sns-1-730x410.jpeg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "title": "HOME",
+                                "url": "HOME"
+                            },
+                            {
+                                "title": "SaaSサービス",
+                                "url": "SaaSサービス"
+                            },
+                            {
+                                "title": "SNS",
+                                "url": "SNS"
+                            },
+                            {
+                                "title": "HOME",
+                                "url": "HOME"
+                            },
+                            {
+                                "title": "SaaSサービス",
+                                "url": "SaaSサービス"
+                            },
+                            {
+                                "title": "SNS",
+                                "url": "SNS"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 企業 SNS分析",
+                        "totalResults": "39000000",
+                        "searchTerms": "企業 SNS分析",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 企業 SNS分析",
+                        "totalResults": "39000000",
+                        "searchTerms": "企業 SNS分析",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 企業 SNS分析",
+                        "totalResults": "39000000",
+                        "searchTerms": "企業 SNS分析",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.381858,
+                "formattedSearchTime": "0.38",
+                "totalResults": "39000000",
+                "formattedTotalResults": "39,000,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "SNS分析・運用 企業アカウント運用代行～手軽に始められるSNS ...",
+                    "htmlTitle": "<b>SNS分析</b>・運用 <b>企業</b>アカウント運用代行～手軽に始められるSNS ...",
+                    "link": "https://link-ap.com/lp/sns/",
+                    "displayLink": "link-ap.com",
+                    "snippet": "SNS分析・運用 企業アカウント運用代行！企業アカウントのPR方法をご提案致します。～手軽に始められるSNSマーケティング～",
+                    "htmlSnippet": "<b>SNS分析</b>・運用 <b>企業</b>アカウント運用代行！<b>企業</b>アカウントのPR方法をご提案致します。～手軽に始められるSNSマーケティング～",
+                    "cacheId": "EMxT4zxWHO0J",
+                    "formattedUrl": "https://link-ap.com/lp/sns/",
+                    "htmlFormattedUrl": "https://link-ap.com/lp/<b>sns</b>/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRO5xgaQI2OiLXSjsBhyhS-QTyCODG5wHSOwHAuqDgcI7dfu0mW_L11FHU",
+                                "width": "198",
+                                "height": "254"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,initial-scale=1"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://link-ap.com/lp/sns/img/sp/fv.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "SNSの分析機能とは？企業アカウントにはSNS分析ツールを導入 ...",
+                    "htmlTitle": "SNSの分析機能とは？<b>企業</b>アカウントには<b>SNS分析</b>ツールを導入 ...",
+                    "link": "https://www.sns-sociamaga.com/function/analysis.html",
+                    "displayLink": "www.sns-sociamaga.com",
+                    "snippet": "SNS分析機能とは · SNS分析機能を実装するSNS管理ツール · Engage Manager（エンゲージマネージャー） · Sprout Social（スプラウトソーシャル） · Publer（パブラー） · Tofu ...",
+                    "htmlSnippet": "<b>SNS分析</b>機能とは &middot; <b>SNS分析</b>機能を実装するSNS管理ツール &middot; Engage Manager（エンゲージマネージャー） &middot; Sprout Social（スプラウトソーシャル） &middot; Publer（パブラー） &middot; Tofu&nbsp;...",
+                    "cacheId": "cbYKmPLtl9AJ",
+                    "formattedUrl": "https://www.sns-sociamaga.com/function/analysis.html",
+                    "htmlFormattedUrl": "https://www.<b>sns</b>-sociamaga.com/function/analysis.html",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "og:type": "article",
+                                "og:site_name": "SNS管理ツールの選び方「ソシャマガ」",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "og:title": "SNSの分析機能とは？企業アカウントにはSNS分析ツールを導入しよう！",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.sns-sociamaga.com/function/analysis.html",
+                                "og:description": "企業アカウントには分析ツールを導入すべき！分析はSNSマーケティングには欠かせない要素であり、成果につながる運用のために活用するべきツールです。SNS分析機能を実装しているSNS管理ツールを紹介しています。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "SNS管理ツールの選び方「ソシャマガ」",
+                                "name": "SNS管理ツールの選び方「ソシャマガ」",
+                                "position": "1"
+                            },
+                            {
+                                "item": "SNSツールの種類や機能を解説",
+                                "name": "SNSツールの種類や機能を解説",
+                                "position": "2"
+                            },
+                            {
+                                "name": "SNS分析機能",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "SNS分析が切り拓く未来 - 企業成長をリードするデジタル戦略と ...",
+                    "htmlTitle": "<b>SNS分析</b>が切り拓く未来 - <b>企業</b>成長をリードするデジタル戦略と ...",
+                    "link": "https://www.umibe.art/post/2023060201",
+                    "displayLink": "www.umibe.art",
+                    "snippet": "2023/06/02 ... SNS分析が切り拓く未来 - 企業成長をリードするデジタル戦略とデータの海から発掘するマーケティングの新しい一面 今日のビジネスシーンにおいて、SNS ...",
+                    "htmlSnippet": "2023/06/02 <b>...</b> <b>SNS分析</b>が切り拓く未来 - <b>企業</b>成長をリードするデジタル戦略とデータの海から発掘するマーケティングの新しい一面 今日のビジネスシーンにおいて、SNS&nbsp;...",
+                    "cacheId": "RdCP8UZ-6toJ",
+                    "formattedUrl": "https://www.umibe.art/post/2023060201",
+                    "htmlFormattedUrl": "https://www.umibe.art/post/2023060201",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmnrDfUCnZJKDqehD285s7VLTPOJ9_5vpO1AlmEkE_KJkXNYjJl7JNjcmi",
+                                "width": "259",
+                                "height": "194"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://static.wixstatic.com/media/3f164a_bb5fd90f8ba744c39f53f438cb37dfc1~mv2.jpg/v1/fill/w_1000,h_750,al_c,q_85,usm_0.66_1.00_0.01/3f164a_bb5fd90f8ba744c39f53f438cb37dfc1~mv2.jpg",
+                                "og:image:width": "1600",
+                                "og:type": "article",
+                                "article:published_time": "2023-06-02T11:11:39.763Z",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "SNS分析が切り拓く未来 - 企業成長をリードするデジタル戦略とデータの海から発掘するマーケティングの新しい一面 【公式】海辺の部屋 | デジタルと波の音",
+                                "og:site_name": "【公式】海辺の部屋 | デジタルと波の音",
+                                "skype_toolbar": "skype_toolbar_parser_compatible",
+                                "og:title": "SNS分析が切り拓く未来 - 企業成長をリードするデジタル戦略とデータの海から発掘するマーケティングの新しい一面 【公式】海辺の部屋 | デジタルと波の音",
+                                "og:image:height": "1200",
+                                "og:description": "SNS分析が切り拓く未来 - 企業成長をリードするデジタル戦略とデータの海から発掘するマーケティングの新しい一面 今日のビジネスシーンにおいて、SNS分析は欠かせない要素となりました。私が日々接する現場でも、その重要性を見過ごす企業はありません。とはいえ、ただデータを収集しているだけでは、その真価は発揮されません。ここで問われるのが、そのデータの分析と活用です。 例えば、日本のライブストリーミングプラットフォーム「SHOWROOM」は、ユーザーの行動データを効果的に活用し、自社のサービスを向上させました。その結果、ユーザー数はわずか1年で30%増、年間売上は10億円を超えました。このような成功は、単にデータを集めるだけではなく、その分析と活用によって可能になりました。 SNS分析とは？ SNS分析とは、SNSに投稿された ",
+                                "article:author": "可児有紀子",
+                                "twitter:image": "https://static.wixstatic.com/media/3f164a_bb5fd90f8ba744c39f53f438cb37dfc1~mv2.jpg/v1/fill/w_1000,h_750,al_c,q_85,usm_0.66_1.00_0.01/3f164a_bb5fd90f8ba744c39f53f438cb37dfc1~mv2.jpg",
+                                "fb_admins_meta_tag": "umibenoheya238",
+                                "article:modified_time": "2023-06-02T11:11:39.763Z",
+                                "viewport": "width=320, user-scalable=yes",
+                                "twitter:description": "SNS分析が切り拓く未来 - 企業成長をリードするデジタル戦略とデータの海から発掘するマーケティングの新しい一面 今日のビジネスシーンにおいて、SNS分析は欠かせない要素となりました。私が日々接する現場でも、その重要性を見過ごす企業はありません。とはいえ、ただデータを収集しているだけでは、その真価は発揮されません。ここで問われるのが、そのデータの分析と活用です。 例えば、日本のライブストリーミングプラットフォーム「SHOWROOM」は、ユーザーの行動データを効果的に活用し、自社のサービスを向上させました。その結果、ユーザー数はわずか1年で30%増、年間売上は10億円を超えました。このような成功は、単にデータを集めるだけではなく、その分析と活用によって可能になりました。 SNS分析とは？ SNS分析とは、SNSに投稿された ",
+                                "fb:admins": "umibenoheya238",
+                                "og:url": "https://www.umibe.art/post/2023060201",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://static.wixstatic.com/media/3f164a_bb5fd90f8ba744c39f53f438cb37dfc1~mv2.jpg/v1/fill/w_1000,h_750,al_c,q_85,usm_0.66_1.00_0.01/3f164a_bb5fd90f8ba744c39f53f438cb37dfc1~mv2.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "SNS分析ツール比較17選！分析手法とポイント・活用方法・口コミ ...",
+                    "htmlTitle": "<b>SNS分析</b>ツール比較17選！分析手法とポイント・活用方法・口コミ ...",
+                    "link": "https://boxil.jp/mag/a3049/",
+                    "displayLink": "boxil.jp",
+                    "snippet": "2023/04/28 ... SNSだけでなくブログや掲示板などからデータを取得し、テキストデータを定量的に評価可能です。SNSをテキストマイニング分析する企業のブランド認知度から ...",
+                    "htmlSnippet": "2023/04/28 <b>...</b> <b>SNS</b>だけでなくブログや掲示板などからデータを取得し、テキストデータを定量的に評価可能です。<b>SNS</b>をテキストマイニング<b>分析</b>する<b>企業</b>のブランド認知度から&nbsp;...",
+                    "cacheId": "GjCNcUcev9cJ",
+                    "formattedUrl": "https://boxil.jp/mag/a3049/",
+                    "htmlFormattedUrl": "https://boxil.jp/mag/a3049/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ35edSG_aPBFpFwvQHGQudN-j-A4uM5D-shDD4D2tDOZtvt1TcaBv4-dnD",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "msapplication-tilecolor": "#fff",
+                                "og:image": "https://store.boxil.jp/media/images/uploads/media_image/media_image/41287/large.jpg",
+                                "theme-color": "#ffffff",
+                                "twitter:title": "SNS分析ツール比較17選！分析手法とポイント・活用方法・口コミの重要性【無料あり】 | BOXIL Magazine",
+                                "og:type": "article",
+                                "article:section": "ソーシャルリスニング・SNS・口コミ分析ツール",
+                                "article:published_time": "2023-04-28T15:45:01+09:00",
+                                "msapplication-square70x70logo": "/mag/site-tile-70x70.png",
+                                "og:site_name": "【ボクシル】法人向けITサービスの比較・検索・資料請求サイト",
+                                "og:title": "SNS分析ツール比較17選！分析手法とポイント・活用方法・口コミの重要性【無料あり】 | BOXIL Magazine",
+                                "msapplication-wide310x150logo": "/mag/site-tile-310x150.png",
+                                "csrf-param": "authenticity_token",
+                                "msapplication-square150x150logo": "/mag/site-tile-150x150.png",
+                                "twitter:image": "https://store.boxil.jp/media/images/uploads/media_image/media_image/41287/large.jpg",
+                                "viewport": "width=device-width, user-scalable=no",
+                                "msapplication-square310x310logo": "/mag/site-tile-310x310.png",
+                                "csrf-token": "keCPdxkw56m17pBbOWOtKHfkFlVP59LFp/RATLAdGNZXmYUTNs65wX6NusM/BdKDLRof5VL6zsXgfCHrP2+D2w==",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://boxil.jp/mag/a3049/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://store.boxil.jp/media/images/uploads/media_image/media_image/41287/large.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【DL資料あり】製薬企業SNS利用状況調査｜2022年9月版 ...",
+                    "htmlTitle": "【DL資料あり】製薬<b>企業SNS</b>利用状況調査｜2022年9月版 ...",
+                    "link": "https://www.medinew.jp/downloads/research/sns-use-status-202209",
+                    "displayLink": "www.medinew.jp",
+                    "snippet": "2022/10/26 ... 今回はソーシャルメディアにスポットライトを当て、製薬企業がどのSNSを利用し、どのような内容を配信しているのか、2022年9月時点での19社のSNS利用 ...",
+                    "htmlSnippet": "2022/10/26 <b>...</b> 今回はソーシャルメディアにスポットライトを当て、製薬<b>企業</b>がどの<b>SNS</b>を利用し、どのような内容を配信しているのか、2022年9月時点での19社の<b>SNS</b>利用&nbsp;...",
+                    "cacheId": "JHBYvepE0ikJ",
+                    "formattedUrl": "https://www.medinew.jp/downloads/research/sns-use-status-202209",
+                    "htmlFormattedUrl": "https://www.medinew.jp/downloads/research/<b>sns</b>-use-status-202209",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwYPlQhvLwzFlKTKetIbJD0JV05NhcDj3xSd36n2K5sntsGxCZn_VtgVs",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "msapplication-tilecolor": "#fcfcfc",
+                                "og:image": "/medinew_logo.svg",
+                                "og:type": "article",
+                                "og:image:alt": "Medinew [メディニュー] | メディカルマーケティングマガジン",
+                                "og:image:width": "640",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "【DL資料あり】製薬企業SNS利用状況調査｜2022年9月版 | Medinew [メディニュー]",
+                                "theme-color": "#FCFCFC",
+                                "og:site_name": "Medinew [メディニュー] | メディカルマーケティングマガジン",
+                                "og:title": "【DL資料あり】製薬企業SNS利用状況調査｜2022年9月版 | Medinew [メディニュー]",
+                                "og:image:height": "336",
+                                "og:description": "今回はソーシャルメディアにスポットライトを当て、製薬企業がどのSNSを利用し、どのような内容を配信しているのか、2022年9月時点での19社のSNS利用状況を調査し、DL資料とともにまとめました。",
+                                "twitter:image": "https://images.microcms-assets.io/assets/ebbc87f8c52f471ab333f4895f78ff10/053c09d9407c44b19f5d2a768972438b/2022_10_sns2209.png",
+                                "next-head-count": "20",
+                                "twitter:site": "@Medinew_News",
+                                "viewport": "width=device-width",
+                                "twitter:description": "今回はソーシャルメディアにスポットライトを当て、製薬企業がどのSNSを利用し、どのような内容を配信しているのか、2022年9月時点での19社のSNS利用状況を調査し、DL資料とともにまとめました。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://medinew.jp/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.medinew.jp/_next/image?url=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2Febbc87f8c52f471ab333f4895f78ff10%2F053c09d9407c44b19f5d2a768972438b%2F2022_10_sns2209.png&w=1920&q=75"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "SNSマーケはユーザー行動分析にあり。企業のマーケターが持つ ...",
+                    "htmlTitle": "<b>SNS</b>マーケはユーザー行動<b>分析</b>にあり。<b>企業</b>のマーケターが持つ ...",
+                    "link": "https://gaiax-socialmedialab.jp/post-59439/",
+                    "displayLink": "gaiax-socialmedialab.jp",
+                    "snippet": "2018/11/13 ... なかでも、「ソーシャルメディアマーケティング」や「SNSマーケティング」といった概念は明確な定義がなく、企業のマーケターにとって最適解が ...",
+                    "htmlSnippet": "2018/11/13 <b>...</b> なかでも、「ソーシャルメディアマーケティング」や「<b>SNS</b>マーケティング」といった概念は明確な定義がなく、<b>企業</b>のマーケターにとって最適解が&nbsp;...",
+                    "cacheId": "Ri1doPYYdccJ",
+                    "formattedUrl": "https://gaiax-socialmedialab.jp/post-59439/",
+                    "htmlFormattedUrl": "https://gaiax-socialmedialab.jp/post-59439/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-al2K4Ydy9VSmzGxUCI0reP_1OhZGdpDQjGXqRRlXPD2QiPwKReDxO9aP",
+                                "width": "300",
+                                "height": "168"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://gaiax-socialmedialab.jp/wp-content/uploads/7fb8f1c748d490339c64aa37f2515920-5.jpg",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "SNSマーケはユーザー行動分析にあり。企業のマーケターが持つべき「メディア」の捉え方",
+                                "og:site_name": "株式会社ガイアックス｜SNSマーケティング支援サービス",
+                                "twitter:url": "https://gaiax-socialmedialab.jp/post-59439/",
+                                "og:title": "SNSマーケはユーザー行動分析にあり。企業のマーケターが持つべき「メディア」の捉え方 «  株式会社ガイアックス｜SNSマーケティング支援サービス",
+                                "msapplication-tileimage": "https://gaiax-socialmedialab.jp/wp-content/uploads/cropped-SML_logo_navy_2-270x270.png",
+                                "fb:pages": "159252044103268",
+                                "og:description": "ソーシャルメディアラボではFacebookやTwitter、Instagram、Pinterestなど様々なSNSの情報を発信してきました。なかでも、「ソーシャ […]",
+                                "twitter:creator": "@GX_SocialMedia",
+                                "twitter:image": "https://gaiax-socialmedialab.jp/wp-content/uploads/7fb8f1c748d490339c64aa37f2515920-5.jpg",
+                                "twitter:site": "@GX_SocialMedia",
+                                "viewport": "width=device-width,initial-scale=1.0",
+                                "twitter:description": "ソーシャルメディアラボではFacebookやTwitter、Instagram、Pinterestなど様々なSNSの情報を発信してきました。なかでも、「ソーシャ […]",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://gaiax-socialmedialab.jp/post-59439/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://gaiax-socialmedialab.jp/wp-content/uploads/7fb8f1c748d490339c64aa37f2515920-5.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "コムニコ マーケティングスイート｜SNSアカウント運用管理ツール",
+                    "htmlTitle": "コムニコ マーケティングスイート｜<b>SNS</b>アカウント運用管理ツール",
+                    "link": "https://www.comnico.jp/products/cms/jp",
+                    "displayLink": "www.comnico.jp",
+                    "snippet": "SNSの投稿管理や、分析のお悩みありませんか？ 社内のSNS投稿承認に時間がかかる. 投稿公開 ...",
+                    "htmlSnippet": "<b>SNS</b>の投稿管理や、<b>分析</b>のお悩みありませんか？ 社内の<b>SNS</b>投稿承認に時間がかかる. 投稿公開&nbsp;...",
+                    "cacheId": "h4iAvilIz0wJ",
+                    "formattedUrl": "https://www.comnico.jp/products/cms/jp",
+                    "htmlFormattedUrl": "https://www.comnico.jp/products/cms/jp",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUEcVftrwsUDnNZDCs43MKKQ31VB6TW4BrX4f6EqGvLADgcbMHRiM3Pf3a",
+                                "width": "302",
+                                "height": "167"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.comnico.jp/hubfs/cms_files/images/og_image.png",
+                                "twitter:title": "コムニコ マーケティングスイート｜SNSアカウント運用管理ツール",
+                                "twitter:card": "summary",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "author": "株式会社コムニコ",
+                                "twitter:description": "TwitterやInstagram、Facebookページの運用にかかる時間を大幅に削減する、SNS運用ツール「コムニコマーケティングスイート」。投稿予約・アカウント分析・競合分析・Instagramクチコミ分析・コメント管理に対応。無料トライアル14日間実施中！",
+                                "og:title": "コムニコ マーケティングスイート｜SNSアカウント運用管理ツール",
+                                "og:url": "https://www.comnico.jp/products/cms/jp",
+                                "og:description": "TwitterやInstagram、Facebookページの運用にかかる時間を大幅に削減する、SNS運用ツール「コムニコマーケティングスイート」。投稿予約・アカウント分析・競合分析・Instagramクチコミ分析・コメント管理に対応。無料トライアル14日間実施中！"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.comnico.jp/hubfs/cms_files/images/og_image.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【通常30万円が無料！】人気の「競合SNS分析レポート」を ...",
+                    "htmlTitle": "【通常30万円が無料！】人気の「競合<b>SNS分析</b>レポート」を ...",
+                    "link": "https://prtimes.jp/main/html/rd/p/000000380.000011944.html",
+                    "displayLink": "prtimes.jp",
+                    "snippet": "設問10問/所要時間5分のアンケートにご協力いただける企業担当者さまへ. リデル 2023年1月16日 11時00分. インフルエンサーマーケティング事業を展開するLIDDELL株式 ...",
+                    "htmlSnippet": "設問10問/所要時間5分のアンケートにご協力いただける<b>企業</b>担当者さまへ. リデル 2023年1月16日 11時00分. インフルエンサーマーケティング事業を展開するLIDDELL株式&nbsp;...",
+                    "cacheId": "K0gIXw6YSmYJ",
+                    "formattedUrl": "https://prtimes.jp/main/html/rd/p/000000380.000011944.html",
+                    "htmlFormattedUrl": "https://prtimes.jp/main/html/rd/p/000000380.000011944.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdgk5XMWLtA3SQurk4-PBbTgIApxq9pAkPPJhaV4a3g0SJpce6bfpTZiU",
+                                "width": "270",
+                                "height": "187"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://prtimes.jp/i/11944/380/resize/d11944-380-63e6d746c228283e4f3e-0.png"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://prtimes.jp/i/11944/380/ogp/d11944-380-63e6d746c228283e4f3e-0.png",
+                                "og:type": "article",
+                                "twitter:title": "【通常30万円が無料！】人気の「競合SNS分析レポート」をプレゼント！SNS・インフルエンサーマーケティング調査への協力企業を100社限定で大募集！",
+                                "twitter:card": "summary_large_image",
+                                "thumbnail": "https://prtimes.jp/i/11944/380/resize/d11944-380-63e6d746c228283e4f3e-0.png",
+                                "og:site_name": "プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES",
+                                "twitter:url": "https://prtimes.jp/main/html/rd/p/000000380.000011944.html",
+                                "og:title": "【通常30万円が無料！】人気の「競合SNS分析レポート」をプレゼント！SNS・インフルエンサーマーケティング調査への協力企業を100社限定で大募集！",
+                                "twitter:image:height": "300",
+                                "release:company": "リデル",
+                                "release:image": "https://prtimes.jp/i/11944/380/resize/d11944-380-63e6d746c228283e4f3e-0.png",
+                                "release:date": "2023年1月16日 11時00分",
+                                "og:description": "リデルのプレスリリース（2023年1月16日 11時00分） 通常30万円が無料！ 人気の[競合SNS分析レポート]をプレゼント！SNS・インフルエンサーマーケティング調査への協力企業を100社限定で大募集！",
+                                "twitter:creator": "@PRTIMES_JP",
+                                "twitter:image": "https://prtimes.jp/i/11944/380/ogp/d11944-380-63e6d746c228283e4f3e-0.png",
+                                "fb:app_id": "1495958567142613",
+                                "twitter:site": "@PRTIMES_JP",
+                                "twitter:image:width": "300",
+                                "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                                "twitter:description": "リデルのプレスリリース（2023年1月16日 11時00分） 通常30万円が無料！ 人気の[競合SNS分析レポート]をプレゼント！SNS・インフルエンサーマーケティング調査への協力企業を100社限定で大募集！",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://prtimes.jp/main/html/rd/p/000000380.000011944.html"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://prcdn.freetls.fastly.net/release_image/11944/380/11944-380-4e1949b11b41e774a2a1d7beb13d3b71-1200x830.png?format=jpeg&auto=webp&quality=85%2C75&width=1950&height=1350&fit=bounds"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "SNSマーケティングとは？ ～いまさら聞けないSNSマーケティング ...",
+                    "htmlTitle": "<b>SNS</b>マーケティングとは？ ～いまさら聞けない<b>SNS</b>マーケティング ...",
+                    "link": "https://www.dnp.co.jp/biz/column/detail/20168264_2781.html",
+                    "displayLink": "www.dnp.co.jp",
+                    "snippet": "SNSマーケティングと聞くと、企業のSNSアカウントを使った集客をイメージする方も ... これらの投稿情報を収集・分析する方法を「ソーシャルリスニング」と言います。",
+                    "htmlSnippet": "<b>SNS</b>マーケティングと聞くと、<b>企業</b>の<b>SNS</b>アカウントを使った集客をイメージする方も ... これらの投稿情報を収集・<b>分析</b>する方法を「ソーシャルリスニング」と言います。",
+                    "cacheId": "LIY84llBqsEJ",
+                    "formattedUrl": "https://www.dnp.co.jp/biz/column/detail/20168264_2781.html",
+                    "htmlFormattedUrl": "https://www.dnp.co.jp/biz/column/detail/20168264_2781.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfAF18dEREqMCSYnGUt7bBfgOSZ-xyRrHvvj_0UT9bP1aUrhao0uVKihW5",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "search_img": "https://www.dnp.co.jp/biz/column/detail/__icsFiles/afieldfile/2022/10/03/img_sns10.jpg",
+                                "og:image": "https://www.dnp.co.jp/biz/__icsFiles/metafile/2019/03/28/ogimage_DNP.png",
+                                "copyright": "Copyright DNP 大日本印刷",
+                                "theme-color": "#1432AA",
+                                "og:type": "article",
+                                "search_title": "SNSマーケティングとは？ ～いまさら聞けないSNSマーケティングの概要とソーシャルリスニングを徹底解説～",
+                                "og:site_name": "DNP 大日本印刷株式会社",
+                                "author": "DNP 大日本印刷",
+                                "og:title": "SNSマーケティングとは？ ～いまさら聞けないSNSマーケティングの概要とソーシャルリスニングを徹底解説～ | コラム・記事 | ソリューション／製品・サービス | DNP 大日本印刷",
+                                "search_lead": "2017年の流行語大賞に「インスタ映え」が選ばれ、最近では「スマホ依存」といった現象も起こっています。生活者にとってスマホは必要不可欠な存在となり、若年層だけでなく、Instagramやフェイスブック、twitterをはじめとするSNSでの情報発信、情報検索が当たり前のようになりました。\n\n企業がより多くの顧客を獲得するためには、SNSを用いたマーケティングが必須となりつつあります。SNSマーケティングと聞くと、企業のSNSアカウントを使った集客をイメージする方も多いのではないでしょうか。しかし、SNSマーケティングとは集客だけを指すものではありません。ITを活用することで生活者分析にも大いに活用することができます。\n\nこの記事では、SNSマーケティングの概要や、「ソーシャルリスニング」と呼ばれる生活者を分析するテクノロジーについ ",
+                                "og:description": "SNSでの情報発信、情報検索が当たり前になっている昨今、マーケターが知っておくべきSNSマーケティングの概要とソーシャルリスニングと呼ばれる分析手法について解説します。",
+                                "article:publisher": "https://www.facebook.com/dnpjp.official/",
+                                "twitter:image": "https://www.dnp.co.jp/biz/__icsFiles/metafile/2019/03/28/ogimage_DNP_1.png",
+                                "fb:app_id": "1081171268689004",
+                                "viewport": "width=device-width,initial-scale=1",
+                                "og:locale": "ja_JP",
+                                "search_tag01": "マーケティング・セールスプロモーション",
+                                "og:url": "https://www.dnp.co.jp/biz/column/detail/20168264_2781.html",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.dnp.co.jp/biz/__icsFiles/metafile/2019/03/28/ogimage_DNP.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ソリューション／製品・サービスホーム",
+                                "name": "ソリューション／製品・サービスホーム",
+                                "position": "1"
+                            },
+                            {
+                                "item": "コラム・記事",
+                                "name": "コラム・記事",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "No Company、SNSデータから見る「Z世代の注目企業2022」を発表",
+                    "htmlTitle": "No Company、<b>SNS</b>データから見る「Z世代の注目<b>企業</b>2022」を発表",
+                    "link": "https://prtimes.jp/main/html/rd/p/000000012.000089446.html",
+                    "displayLink": "prtimes.jp",
+                    "snippet": "2022/12/12 ... SNSデータ分析を起点に企業の採用広報・マーケティング支援を行う株式会社No Company（本社：東京都港区、代表取締役：秋山真）は、このたび、SNS ...",
+                    "htmlSnippet": "2022/12/12 <b>...</b> <b>SNS</b>データ<b>分析</b>を起点に<b>企業</b>の採用広報・マーケティング支援を行う株式会社No Company（本社：東京都港区、代表取締役：秋山真）は、このたび、<b>SNS</b>&nbsp;...",
+                    "cacheId": "i3j3uFzuL_oJ",
+                    "formattedUrl": "https://prtimes.jp/main/html/rd/p/000000012.000089446.html",
+                    "htmlFormattedUrl": "https://prtimes.jp/main/html/rd/p/000000012.000089446.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRao3-hYHM1IY_01oDR-4sbSLu-4_2-IiC_6JAyXfx5rFat34Y2WrfZ1bM",
+                                "width": "190",
+                                "height": "265"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://prtimes.jp/i/89446/12/resize/d89446-12-0b8b83f1cdae6032eff1-1.jpg"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://prtimes.jp/i/89446/12/ogp/d89446-12-0b8b83f1cdae6032eff1-1.jpg",
+                                "og:type": "article",
+                                "twitter:title": "No Company、SNSデータから見る「Z世代の注目企業2022」を発表",
+                                "twitter:card": "summary_large_image",
+                                "thumbnail": "https://prtimes.jp/i/89446/12/resize/d89446-12-0b8b83f1cdae6032eff1-1.jpg",
+                                "og:site_name": "プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES",
+                                "twitter:url": "https://prtimes.jp/main/html/rd/p/000000012.000089446.html",
+                                "og:title": "No Company、SNSデータから見る「Z世代の注目企業2022」を発表",
+                                "twitter:image:height": "300",
+                                "release:company": "株式会社No Company",
+                                "release:image": "https://prtimes.jp/i/89446/12/resize/d89446-12-0b8b83f1cdae6032eff1-1.jpg",
+                                "release:date": "2022年12月12日 09時40分",
+                                "og:description": "株式会社No Companyのプレスリリース（2022年12月12日 09時40分）No Company、SNSデータから見る[Z世代の注目企業2022]を発表",
+                                "twitter:creator": "@PRTIMES_JP",
+                                "twitter:image": "https://prtimes.jp/i/89446/12/ogp/d89446-12-0b8b83f1cdae6032eff1-1.jpg",
+                                "fb:app_id": "1495958567142613",
+                                "twitter:site": "@PRTIMES_JP",
+                                "twitter:image:width": "300",
+                                "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                                "twitter:description": "株式会社No Companyのプレスリリース（2022年12月12日 09時40分）No Company、SNSデータから見る[Z世代の注目企業2022]を発表",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://prtimes.jp/main/html/rd/p/000000012.000089446.html"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://prcdn.freetls.fastly.net/release_image/89446/12/89446-12-2e560821992b9c2ae4bd2a9cd617f210-1500x2092.jpg?format=jpeg&auto=webp&quality=85%2C65&width=1950&height=1350&fit=bounds"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 企業 SNS分析",
+                        "totalResults": "39000000",
+                        "searchTerms": "企業 SNS分析",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 企業 SNS分析",
+                        "totalResults": "39000000",
+                        "searchTerms": "企業 SNS分析",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 企業 SNS分析",
+                        "totalResults": "39000000",
+                        "searchTerms": "企業 SNS分析",
+                        "count": 10,
+                        "startIndex": 31,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.250346,
+                "formattedSearchTime": "0.25",
+                "totalResults": "39000000",
+                "formattedTotalResults": "39,000,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "SNSマーケティングとは？具体的な5つの手法と成功事例を徹底解説",
+                    "htmlTitle": "<b>SNS</b>マーケティングとは？具体的な5つの手法と成功事例を徹底解説",
+                    "link": "https://find-model.jp/insta-lab/sns-marketing/",
+                    "displayLink": "find-model.jp",
+                    "snippet": "2023/04/25 ... さらには、フォロワー数を何万人も抱えるような人気企業アカウントへと成長させるためには、SNS分析が欠かせません。 人気アカウントへと成長する要因 ...",
+                    "htmlSnippet": "2023/04/25 <b>...</b> さらには、フォロワー数を何万人も抱えるような人気<b>企業</b>アカウントへと成長させるためには、<b>SNS分析</b>が欠かせません。 人気アカウントへと成長する要因&nbsp;...",
+                    "cacheId": "rC3wzHFUTFkJ",
+                    "formattedUrl": "https://find-model.jp/insta-lab/sns-marketing/",
+                    "htmlFormattedUrl": "https://find-model.jp/insta-lab/<b>sns</b>-marketing/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS437HbOcXxl_n8WH2kSk4XPogNuORatlKVQ4C52CM45E8VVfi4O-Qiyak",
+                                "width": "300",
+                                "height": "168"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://find-model.jp/insta-lab/wp-content/uploads/2020/05/social-media-marketing-contents-150x150.jpeg"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://find-model.jp/insta-lab/wp-content/uploads/2020/05/social-media-marketing-contents.jpeg",
+                                "thumbnail": "https://find-model.jp/insta-lab/wp-content/uploads/2020/05/social-media-marketing-contents-150x150.jpeg",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "SNSマーケティングとは？具体的な5つの手法と成功事例を徹底解説",
+                                "og:site_name": "インスタラボ｜インスタグラム・インフルエンサーマーケティング専門メディア【Find Model】",
+                                "twitter:url": "https://find-model.jp/insta-lab/sns-marketing/",
+                                "og:title": "SNSマーケティングとは？具体的な5つの手法と成功事例を徹底解説",
+                                "og:description": "SNSマーケティングとはどのようなものか徹底解説。SNSアカウント運用、SNS広告、インフルエンサーPRなど、SNSマーケティングの具体的な手法を事例とともに紹介します。",
+                                "twitter:image": "https://find-model.jp/insta-lab/wp-content/uploads/2020/05/social-media-marketing-contents.jpeg",
+                                "facebook-domain-verification": "yc97onehjqlvifrbtxmpdrdp3topki",
+                                "twitter:site": "FM_instalab",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "SNSマーケティングとはどのようなものか徹底解説。SNSアカウント運用、SNS広告、インフルエンサーPRなど、SNSマーケティングの具体的な手法を事例とともに紹介します。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://find-model.jp/insta-lab/sns-marketing/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://find-model.jp/insta-lab/wp-content/uploads/2020/05/social-media-marketing-contents.jpeg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "item": "SNSマーケティング",
+                                "name": "SNSマーケティング",
+                                "position": "2"
+                            },
+                            {
+                                "item": "SNSマーケティングとは？具体的な5つの手法と成功事例を徹底解説",
+                                "name": "SNSマーケティングとは？具体的な5つの手法と成功事例を徹底解説",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【無料】企業SNSプロフィール分析実施中 | オン・ザ・プラネット",
+                    "htmlTitle": "【無料】<b>企業SNS</b>プロフィール<b>分析</b>実施中 | オン・ザ・プラネット",
+                    "link": "https://otp-blog.com/profile-analyze/",
+                    "displayLink": "otp-blog.com",
+                    "snippet": "弊社では、毎月10社様限定で 企業SNS（Twitter・Instagram）のプロフィール無料分析 を実施しております。 SNSセミナーにゲスト登壇した弊社コンサルタントによる無料分析 ...",
+                    "htmlSnippet": "弊社では、毎月10社様限定で <b>企業SNS</b>（Twitter・Instagram）のプロフィール無料<b>分析</b> を実施しております。 <b>SNS</b>セミナーにゲスト登壇した弊社コンサルタントによる無料<b>分析</b>&nbsp;...",
+                    "cacheId": "SlK_K6FDbEcJ",
+                    "formattedUrl": "https://otp-blog.com/profile-analyze/",
+                    "htmlFormattedUrl": "https://otp-blog.com/profile-analyze/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNN1r37FMRe1wmWDAFwi-ScvozpwUUWoJbghmdfP9riEdFPgrPaNpuRfo",
+                                "width": "294",
+                                "height": "171"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "オン・ザ・プラネット",
+                                "handheldfriendly": "True",
+                                "og:title": "【無料】企業SNSプロフィール分析実施中 | オン・ザ・プラネット",
+                                "twitter:label1": "推定読み取り時間",
+                                "msapplication-tileimage": "https://otp-blog.com/wp-content/uploads/2021/04/cropped-otpアイコン-270x270.png",
+                                "og:description": "ツイッター・インスタ運用に悩む企業様必見！SNSセミナー登壇コンサルタントのSNSプロフィール無料分析を実施中！毎月10社様限定です。",
+                                "dlm-version": "4.8.1",
+                                "twitter:data1": "4分",
+                                "article:modified_time": "2023-04-08T06:23:16+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "mobileoptimized": "320",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://otp-blog.com/profile-analyze/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://otp-blog.com/wp-content/uploads/2022/12/toppage.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "HOME",
+                                "name": "HOME",
+                                "position": "1"
+                            },
+                            {
+                                "name": "【無料】企業SNSプロフィール分析実施中",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "SNS運用＆分析ツール「Social Focus」は企業アカウント担当者に ...",
+                    "htmlTitle": "<b>SNS</b>運用＆<b>分析</b>ツール「Social Focus」は<b>企業</b>アカウント担当者に ...",
+                    "link": "https://biz.ncbank.co.jp/posts/223",
+                    "displayLink": "biz.ncbank.co.jp",
+                    "snippet": "2020/12/17 ... Twitter、FacebookなどのSNS、最近は個人だけでなく法人、企業アカウントも増加し、商品・サービスの紹介、マーケティングやお客さまとの接点づくりに ...",
+                    "htmlSnippet": "2020/12/17 <b>...</b> Twitter、Facebookなどの<b>SNS</b>、最近は個人だけでなく法人、<b>企業</b>アカウントも増加し、商品・サービスの紹介、マーケティングやお客さまとの接点づくりに&nbsp;...",
+                    "cacheId": "F0YR1l_PNSwJ",
+                    "formattedUrl": "https://biz.ncbank.co.jp/posts/223",
+                    "htmlFormattedUrl": "https://biz.ncbank.co.jp/posts/223",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXSGh4sWI70m5sFiqKXQaYtN9WE6jcVrwaRs9LZzTD-XygusqvuHrBrmQ",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://cdn.qurate.cloud/2020/12/17/11/27/53/bed1bc93-531f-4aec-b2fe-ae85d1b24e67/socialfocus_top.png",
+                                "og:image:width": "1200",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "renew（リニュー）",
+                                "twitter:url": "https://biz.ncbank.co.jp/posts/223",
+                                "apple-mobile-web-app-title": "renew（リニュー）",
+                                "og:image:type": "image/jpeg",
+                                "msapplication-tileimage": "https://cdn.qurate.cloud/2021/10/28/17/19/57/e48856fe-a305-40b9-920f-768ce2d478b1/256.png",
+                                "og:description": "Twitter、FacebookなどのSNS、最近は個人だけでなく法人、企業アカウントも増加し、商品・サービスの紹介、マーケティングやお客さまとの接点づくりに活用されています。しかしながら、日々の運用は想像以上に手間がかかり、「中の人」である担当者を悩ませています。企業アカウントの担当者「中の人」の業務は、投稿する内容の作成、承認審査、画像管理、炎上対策や口コミチェック、フォロワー数管理、リアクションの反応分析を含む運用結果の分析と報告、トレンドにあわせた企画まで多岐に渡ります。限られた時間の中で、業務を遂行するには、投稿から分析までをひとつのサービス内で完結するような改善策が必要です。この記事では、そんな西日本シティ銀行SNS担当者「中の人」の課題を改善してくれた、法人・企業アカウント向けSNS運用管理 ",
+                                "twitter:creator": "renew（リニュー）",
+                                "ahrefs-site-verification": "edd18fd422b64b63952747e6a5110e6f4987fc6b3d4197dfc0bf11a06191d66f",
+                                "twitter:site": "renew（リニュー）",
+                                "csrf-token": "rTKfUtKV2xq+2uY3mvnXpRNVqSQP1My9lhk9MgZb46z4BekcDfAw6/gtNt8H0IveZ8QoYA9LoDvu6tEVrqqWoQ==",
+                                "application-name": "renew（リニュー）",
+                                "msapplication-tilecolor": "#eeeeee",
+                                "msapplication-starturl": "biz.ncbank.co.jp",
+                                "og:type": "website",
+                                "twitter:title": "SNS運用＆分析ツール「Social Focus」は企業アカウント担当者におすすめ！各種機能やメリットを解説",
+                                "msapplication-window": "width=1024;height=768",
+                                "author": "renew（リニュー）",
+                                "og:title": "SNS運用＆分析ツール「Social Focus」は企業アカウント担当者におすすめ！各種機能やメリットを解説",
+                                "og:image:height": "630",
+                                "mobile-web-app-title": "renew（リニュー）",
+                                "csrf-param": "authenticity_token",
+                                "msapplication-navbutton-color": "#eeeeee",
+                                "twitter:image:src": "https://cdn.qurate.cloud/2020/12/17/11/27/45/feadf7eb-7dd1-4977-b165-f0fd349e49e1/socialfocus_top.png",
+                                "apple-mobile-web-app-status-bar-style": "black",
+                                "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                                "apple-mobile-web-app-capable": "yes",
+                                "twitter:description": "Twitter、FacebookなどのSNS、最近は個人だけでなく法人、企業アカウントも増加し、商品・サービスの紹介、マーケティングやお客さまとの接点づくりに活用されています。しかしながら、日々の運用は想像以上に手間がかかり、「中の人」である担当者を悩ませています。企業アカウントの担当者「中の人」の業務は、投稿する内容の作成、承認審査、画像管理、炎上対策や口コミチェック、フォロワー数管理、リアクションの反応分析を含む運用結果の分析と報告、トレンドにあわせた企画まで多岐に渡ります。限られた時間の中で、業務を遂行するには、投稿から分析までをひとつのサービス内で完結するような改善策が必要です。この記事では、そんな西日本シティ銀行SNS担当者「中の人」の課題を改善してくれた、法人・企業アカウント向けSNS運用管理 ",
+                                "mobile-web-app-capable": "yes",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://biz.ncbank.co.jp/posts/223"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://cdn.qurate.cloud/2020/12/17/11/27/53/bed1bc93-531f-4aec-b2fe-ae85d1b24e67/socialfocus_top.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【2021】SNS分析ツールおすすめ15選！分析指標と無料・有料 ...",
+                    "htmlTitle": "【2021】<b>SNS分析</b>ツールおすすめ15選！分析指標と無料・有料 ...",
+                    "link": "https://grove.tokyo/media/g0100/",
+                    "displayLink": "grove.tokyo",
+                    "snippet": "2021/03/08 ... そのため、SNSマーケティングを行う企業多くは「フォロワー数」をKPI（重要業績評価指標）として設定しています。 具体的には、次のような点を中心に分析 ...",
+                    "htmlSnippet": "2021/03/08 <b>...</b> そのため、<b>SNS</b>マーケティングを行う<b>企業</b>多くは「フォロワー数」をKPI（重要業績評価指標）として設定しています。 具体的には、次のような点を中心に<b>分析</b>&nbsp;...",
+                    "cacheId": "wVNfyyPd1j4J",
+                    "formattedUrl": "https://grove.tokyo/media/g0100/",
+                    "htmlFormattedUrl": "https://grove.tokyo/media/g0100/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxb9FUPyTx4PA5snqFAqGJMqdU1aVnOKb92aJX8W7naQC4n2SSWhcggw",
+                                "width": "250",
+                                "height": "40"
+                            }
+                        ],
+                        "imageobject": [
+                            {
+                                "width": "1024",
+                                "url": "https://grove.tokyo/media/wp-content/uploads/2021/03/88.jpg",
+                                "height": "683"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://grove.tokyo/media/wp-content/uploads/2020/07/grove-hp-logo-long-1-1.png",
+                                "og:type": "activity",
+                                "twitter:card": "summary",
+                                "twitter:title": "【2021】SNS分析ツールおすすめ15選！分析指標と無料・有料ツールをSNS別に比較 | GROVE｜SNSマーケティング・インフルエンサーマーケティングで売り上げるための情報メディア",
+                                "og:image:width": "1024",
+                                "og:site_name": "GROVE｜SNSマーケティング・インフルエンサーマーケティングで売り上げるための情報メディア",
+                                "og:title": "【2021】SNS分析ツールおすすめ15選！分析指標と無料・有料ツールをSNS別に比較 | GROVE｜SNSマーケティング・インフルエンサーマーケティングで売り上げるための情報メディア",
+                                "og:image:height": "683",
+                                "og:image:type": "image/jpeg",
+                                "og:description": "SNSのおすすめ分析ツールを15種類、Twitter、Instagram、Facebook、TikTok別に紹介します。無料・有料ともに紹介。ツールを使って分析すべき指標や成果を出すためのポイントもわかりやすく解説します。",
+                                "og:image:secure_url": "https://grove.tokyo/media/wp-content/uploads/2020/07/grove-hp-logo-long-1-1.png",
+                                "twitter:image": "https://grove.tokyo/media/wp-content/uploads/2020/07/grove-hp-logo-long-1-1.png",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "SNSのおすすめ分析ツールを15種類、Twitter、Instagram、Facebook、TikTok別に紹介します。無料・有料ともに紹介。ツールを使って分析すべき指標や成果を出すためのポイントもわかりやすく解説します。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://grove.tokyo/media/g0100/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://grove.tokyo/media/wp-content/uploads/2020/07/grove-hp-logo-long-1-1.png"
+                            }
+                        ],
+                        "article": [
+                            {
+                                "articlebody": "SNSの利用者が増加の一途をたどる中、SNSをビジネスに活用する企業が増えています。しかし、実際には「SNSマーケティングを導入したところ、思...",
+                                "datemodified": "2022-01-12T14:45:05+09:00",
+                                "headline": "SNS分析ツールおすすめ15選！分析指標と無料・有料ツールをSNS別に比較",
+                                "datepublished": "2021-03-08T21:12:29+09:00"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "GROVE｜SNSマーケティング・インフルエンサーマーケティングで売り上げるための情報メディア TOP",
+                                "name": "GROVE｜SNSマーケティング・インフルエンサーマーケティングで売り上げるための情報メディア",
+                                "position": "1"
+                            },
+                            {
+                                "item": "SNSマーケティング",
+                                "name": "SNSマーケティング",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【比較14選】SNS運用は分析が重要！ソーシャルリスニングツール ...",
+                    "htmlTitle": "【比較14選】<b>SNS</b>運用は<b>分析</b>が重要！ソーシャルリスニングツール ...",
+                    "link": "https://qeee.jp/magazine/articles/380",
+                    "displayLink": "qeee.jp",
+                    "snippet": "2023/02/21 ... プライベートでSNSを利用している人であれば、閲覧している最中に企業アカウントのシェアや広告で出てきた経験が誰しもあると思います。",
+                    "htmlSnippet": "2023/02/21 <b>...</b> プライベートで<b>SNS</b>を利用している人であれば、閲覧している最中に<b>企業</b>アカウントのシェアや広告で出てきた経験が誰しもあると思います。",
+                    "cacheId": "9kVkAB3kcmoJ",
+                    "formattedUrl": "https://qeee.jp/magazine/articles/380",
+                    "htmlFormattedUrl": "https://qeee.jp/magazine/articles/380",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPtUmfcde2uE-dyhB7LO_nfnrlyUfUPZIj4jfJAip0TJdMCEdrrOiy2fwx",
+                                "width": "320",
+                                "height": "157"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://image.magazine.qeee.jp/wp-content/uploads/2019/10/Q69.png",
+                                "next-head-count": "20",
+                                "og:image:width": "800",
+                                "og:type": "article",
+                                "og:image:alt": "記事サムネイル",
+                                "og:site_name": "QEEE(キウイ)",
+                                "viewport": "width=device-width",
+                                "og:title": "【比較14選】SNS運用は分析が重要！ソーシャルリスニングツールを紹介",
+                                "og:image:height": "600",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://qeee.jp/magazine/articles/380",
+                                "og:description": "プライベートでSNSを利用している人であれば、閲覧している最中に企業アカウントのシェアや広告で出てきた経験が誰しもあると思います。それからも分かるように、近年、BtoCの企業を始めとする多くの企業がマーケティングの一環としてソーシャルメディアを活用するようになりました。しかしSNSを効果的に活用するためには日々の反響をチェックし、正しく分析を行う必要があります。今回の記事ではSNS分析とは何..."
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://image.magazine.qeee.jp/wp-content/uploads/2019/10/Q69.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Tofu Analytics | 最先端のSNS分析ツールでSNSマーケティングを改善",
+                    "htmlTitle": "Tofu Analytics | 最先端の<b>SNS分析</b>ツールでSNSマーケティングを改善",
+                    "link": "https://tofu.misosil.com/",
+                    "displayLink": "tofu.misosil.com",
+                    "snippet": "... のキーワードやハッシュタグのソーシャルリスニングや 拡散に貢献しているインフルエンサーアカウントを分析し、企業のSNS集客やSNS運用をサポート.",
+                    "htmlSnippet": "... のキーワードやハッシュタグのソーシャルリスニングや 拡散に貢献しているインフルエンサーアカウントを<b>分析</b>し、<b>企業</b>の<b>SNS</b>集客や<b>SNS</b>運用をサポート.",
+                    "cacheId": "Ig9L_89BI50J",
+                    "formattedUrl": "https://tofu.misosil.com/",
+                    "htmlFormattedUrl": "https://tofu.misosil.com/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSf4gk8PLHZzu6WnXH6WxKf6EXSGiIfVpFSyCYA-4lMu-g-eAYuQoVAdr4",
+                                "width": "309",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://tofu.misosil.com/images/kakusan_ogp.png",
+                                "og:type": "website",
+                                "twitter:card": "summary",
+                                "twitter:title": "Tofu Analytics | 最先端のSNS分析ツールでSNSマーケティングを改善",
+                                "og:site_name": "Tofu Analytics | 最先端のSNS分析ツールでSNSマーケティングを改善",
+                                "author": "株式会社misosil",
+                                "og:title": "Tofu Analytics | 最先端のSNS分析ツールでSNSマーケティングを改善",
+                                "fb:app": "516628001870172",
+                                "csrf-param": "authenticity_token",
+                                "og:description": "インスタグラムやツイッター、LINE、tiktok、YouTubeのキーワードやハッシュタグのソーシャルリスニングや拡散に貢献しているインフルエンサーアカウントを分析し、企業のSNS集客やSNS運用をサポート",
+                                "twitter:image": "https://tofu.misosil.com/images/kakusan_ogp.png",
+                                "twitter:site": "@misosil_inc",
+                                "viewport": "width=device-width,maximum-scale=1.0,user-scalable=0",
+                                "twitter:description": "インスタグラムやツイッター、LINE、tiktok、YouTubeのキーワードやハッシュタグのソーシャルリスニングや拡散に貢献しているインフルエンサーアカウントを分析し、企業のSNS集客やSNS運用をサポート",
+                                "csrf-token": "N7j8sRlemzV/qoPwWovhYNUX8K+EvkWcfr+Lowje86O92aia5Ps4NN3w63DLwkj6Yu9mR7Ld6yje3XrGY9t0wA==",
+                                "og:url": "https://tofu.misosil.com"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://tofu.misosil.com/images/kakusan_ogp.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "NEC、風水害時の人流・SNS分析によるリアルタイム防災マップ ...",
+                    "htmlTitle": "NEC、風水害時の人流・<b>SNS分析</b>によるリアルタイム防災マップ ...",
+                    "link": "https://jpn.nec.com/press/202012/20201224_01.html",
+                    "displayLink": "jpn.nec.com",
+                    "snippet": "2020/12/24 ... NECは、行政や民間企業が保有する様々なデータを利活用した防災分野での取り組みとして、災害情報や人流情報、SNS情報などを分析することで、風水害時 ...",
+                    "htmlSnippet": "2020/12/24 <b>...</b> NECは、行政や民間<b>企業</b>が保有する様々なデータを利活用した防災分野での取り組みとして、災害情報や人流情報、<b>SNS</b>情報などを<b>分析</b>することで、風水害時&nbsp;...",
+                    "cacheId": "7cIOOnXdL9kJ",
+                    "formattedUrl": "https://jpn.nec.com/press/202012/20201224_01.html",
+                    "htmlFormattedUrl": "https://jpn.nec.com/press/202012/20201224_01.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVuT0QW5nIlMvNwzvJ90dT4Tm39Jcx1tVsqN5zaKK0cn64GBBHcF6icek",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://jpn.nec.com/press/202012/images/2401_ogp.jpg",
+                                "og:type": "article",
+                                "og:site_name": "NEC",
+                                "viewport": "width=device-width,initial-scale=1",
+                                "og:title": "NEC、風水害時の人流・SNS分析によるリアルタイム防災マップシミュレーションの実証実験を実施",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://jpn.nec.com/press/202012/20201224_01.html",
+                                "og:description": "NECは、行政や民間企業が保有する様々なデータを利活用した防災分野での取り組みとして、災害情報や人流情報、SNS情報などを分析することで、風水害時の災害発生箇所を迂回した通行可能性の高い物資搬送ルートや避難ルートを表示する防災マップシミュレーションの実証実験を行いました。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://jpn.nec.com/press/202012/images/2401_ogp.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【2023年最新版】SNS運用代行会社おすすめ15社を比較！選び方も ...",
+                    "htmlTitle": "【2023年最新版】<b>SNS</b>運用代行会社おすすめ15社を比較！選び方も ...",
+                    "link": "https://liskul.com/sns-support-34609",
+                    "displayLink": "liskul.com",
+                    "snippet": "SNS運用代行とは、複数のSNSアカウントをその企業に代わって運用するサービスです。SNS運用代行の導入 ... 運用の分析やクリエイティブ制作など運用を丸ごと代行できる ...",
+                    "htmlSnippet": "<b>SNS</b>運用代行とは、複数の<b>SNS</b>アカウントをその<b>企業</b>に代わって運用するサービスです。<b>SNS</b>運用代行の導入 ... 運用の<b>分析</b>やクリエイティブ制作など運用を丸ごと代行できる&nbsp;...",
+                    "cacheId": "2OmzPDESKi4J",
+                    "formattedUrl": "https://liskul.com/sns-support-34609",
+                    "htmlFormattedUrl": "https://liskul.com/<b>sns</b>-support-34609",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzIjhNoAyfZ0nR-3_pvzOcFEAS2t52yyolz3UGWsovx0OAcUXwrZ6SfL43",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://liskul.com/wp-content/uploads/2019/02/6d63d0a83319065a742fcf6b4e615251.jpg",
+                                "fb:app_id": "679566462077326",
+                                "twitter:card": "summary_large_image",
+                                "og:type": "article",
+                                "twitter:site": "@liskulcom",
+                                "og:site_name": "LISKUL",
+                                "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-swcalable=0",
+                                "og:title": "【2023年最新版】SNS運用代行会社おすすめ15社を比較！選び方も紹介 | LISKUL",
+                                "og:locale": "ja_JP",
+                                "fb:admins": "100011650418135",
+                                "og:url": "https://liskul.com/sns-support-34609",
+                                "og:description": "SNS運用代行とは、複数のSNSアカウントをその企業に代わって運用するサービスです。SNS運用代行の導入を検討する場合、運用方法や効果測定の基準、料金などに違いがあり比較は大変です。本記事はSNS運用代行15社の特徴や費用を整理してまとめました。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://liskul.com/wp-content/uploads/2019/02/6d63d0a83319065a742fcf6b4e615251.jpg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "item": "集客・広告",
+                                "name": "集客・広告",
+                                "position": "2"
+                            },
+                            {
+                                "item": "【2023年最新版】SNS運用代行会社おすすめ15社を比較！選び方も紹介",
+                                "name": "【2023年最新版】SNS運用代行会社おすすめ15社を比較！選び方も紹介",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "ラグビーW杯のソーシャルメディア分析で見えた！企業アカウント ...",
+                    "htmlTitle": "ラグビーW杯のソーシャルメディア<b>分析</b>で見えた！<b>企業</b>アカウント ...",
+                    "link": "https://www.meltwater.com/jp/blog/what_social_media_is_telling_you_for_rugby_world_cup",
+                    "displayLink": "www.meltwater.com",
+                    "snippet": "2019/12/19 ... ラグビーワールドカップ日本大会のソーシャルメディア分析をもとに、ユーザーのリアルな声の集め方を考えます。さらにこのデータを企業アカウントの ...",
+                    "htmlSnippet": "2019/12/19 <b>...</b> ラグビーワールドカップ日本大会のソーシャルメディア<b>分析</b>をもとに、ユーザーのリアルな声の集め方を考えます。さらにこのデータを<b>企業</b>アカウントの&nbsp;...",
+                    "cacheId": "ChaSmaI48MMJ",
+                    "formattedUrl": "https://www.meltwater.com/.../what_social_media_is_telling_you_for_rugby _world_cup",
+                    "htmlFormattedUrl": "https://www.meltwater.com/.../what_social_media_is_telling_you_for_rugby _world_cup",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "theme-color": "#ffffff",
+                                "twitter:card": "summary_large_image",
+                                "article:published_time": "2019-12-19T08:00:00.000Z",
+                                "og:site_name": "Meltwater",
+                                "og:description": "ラグビーワールドカップ日本大会では、ソーシャルメディア閲覧数が17億回にも上ったそうです。この数字は前回大会の約4倍！過去のラグビーワールドカップの中で最高だったとのこと。まさしくビッグデータじゃないでしょうか。",
+                                "twitter:image": "https://images.prismic.io/meltwater/afa501e7-07f4-4d41-9ab6-8a5e2ab5ac5f_Meta+Image+%281200x600%29.png?q=90&rect=0,0,1200,600&&w=1200&dpr=1",
+                                "article:publisher": "https://www.facebook.com/MeltwaterGroup/",
+                                "next-head-count": "48",
+                                "twitter:site": "@Meltwater",
+                                "article:modified_time": "2023-02-20T08:00:00.000Z",
+                                "msapplication-tilecolor": "#28bbbb",
+                                "image": "https://images.prismic.io/meltwater/afa501e7-07f4-4d41-9ab6-8a5e2ab5ac5f_Meta+Image+%281200x600%29.png?auto=compress,format&rect=0,0,1200,600&w=1200&h=600",
+                                "og:type": "article",
+                                "twitter:title": "ラグビーW杯のソーシャルメディア分析で見えた！企業アカウント成功の秘訣",
+                                "article:section": "PR & Communications",
+                                "og:title": "ラグビーW杯のソーシャルメディア分析で見えた！企業アカウント成功の秘訣",
+                                "google": "notranslate",
+                                "color-scheme": "only light",
+                                "og:updated_time": "2023-02-20T08:00:00.000Z",
+                                "article:author": "Meltwater Japan",
+                                "facebook-domain-verification": "2ckmkfmluqavcjmxm5yi5n8unj8byf",
+                                "apple-mobile-web-app-status-bar-style": "black",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "apple-mobile-web-app-capable": "yes",
+                                "twitter:description": "ラグビーワールドカップ日本大会では、ソーシャルメディア閲覧数が17億回にも上ったそうです。この数字は前回大会の約4倍！過去のラグビーワールドカップの中で最高だったとのこと。まさしくビッグデータじゃないでしょうか。",
+                                "og:locale": "ja_ks",
+                                "og:url": "https://www.meltwater.com/jp/blog/what_social_media_is_telling_you_for_rugby_world_cup"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Twitterの投稿時間はいつが最適なのか？アクティブ時間帯から逆算 ...",
+                    "htmlTitle": "Twitterの投稿時間はいつが最適なのか？アクティブ時間帯から逆算 ...",
+                    "link": "https://keywordmap.jp/academy/twitter-best-post-time/",
+                    "displayLink": "keywordmap.jp",
+                    "snippet": "2022/04/06 ... コンテンツが流れていくタイプのSNSであるTwitterは、ユーザーのタイム ... 「投稿管理」から「分析・解析」まで、まるっと請け負うKewordmap for SNS",
+                    "htmlSnippet": "2022/04/06 <b>...</b> コンテンツが流れていくタイプの<b>SNS</b>であるTwitterは、ユーザーのタイム ... 「投稿管理」から「<b>分析</b>・<b>解析</b>」まで、まるっと請け負うKewordmap for <b>SNS</b>",
+                    "cacheId": "o9-N2MzNDD4J",
+                    "formattedUrl": "https://keywordmap.jp/academy/twitter-best-post-time/",
+                    "htmlFormattedUrl": "https://keywordmap.jp/academy/twitter-best-post-time/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgyKpT_msCLfCWj1Raqsv-WxDdES0Gqfuls0B3Vg1BMttJG3CHeGeWCLo",
+                                "width": "305",
+                                "height": "165"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://keywordmap.jp/academy/wp-content/uploads/2022/04/tmb175-20220406194434.png",
+                                "og:type": "article",
+                                "og:image:width": "920",
+                                "article:published_time": "2022-04-06T11:42:32+00:00",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "Twitterの投稿時間はいつが最適なのか？アクティブ時間帯から逆算する拡散戦略",
+                                "og:site_name": "Keywordmap Academy｜Webマーケティングを１から学べるサイト",
+                                "twitter:domain": "keywordmap.jp",
+                                "og:title": "Twitterの投稿時間はいつが最適なのか？アクティブ時間帯から逆算する拡散戦略",
+                                "og:image:height": "500",
+                                "og:description": "コンテンツが流れていくタイプのSNSであるTwitterは、ユーザーのタイムライン上にツイートが表示されるのは一時のみなので、見逃されやすい傾向にあります。そこで今回は投稿に最適な時間や、エンゲージメントを獲得するテクニ…",
+                                "og:image:secure_url": "https://keywordmap.jp/academy/wp-content/uploads/2022/04/tmb175-20220406194434.png",
+                                "article:publisher": "https://www.facebook.com/keywordmap/",
+                                "twitter:image": "https://keywordmap.jp/academy/wp-content/uploads/2022/04/tmb175-20220406194434.png",
+                                "article:tag": "snsマーケティング",
+                                "twitter:site": "@keywordmap",
+                                "article:modified_time": "2023-05-23T04:19:14+00:00",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "twitter:description": "コンテンツが流れていくタイプのSNSであるTwitterは、ユーザーのタイムライン上にツイートが表示されるのは一時のみなので、見逃されやすい傾向にあります。そこで今回は投稿に最適な時間や、エンゲージメントを獲得するテクニ…",
+                                "og:locale": "ja_JP",
+                                "fb:admins": "2158781341017522",
+                                "og:url": "https://keywordmap.jp/academy/twitter-best-post-time/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://keywordmap.jp/academy/wp-content/uploads/2022/04/tmb175-20220406194434.png"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

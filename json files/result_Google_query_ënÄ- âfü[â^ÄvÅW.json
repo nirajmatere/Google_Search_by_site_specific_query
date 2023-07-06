@@ -1,0 +1,481 @@
+{
+    "query": "会社 データ収集",
+    "links": [
+        [
+            "https://ai-market.jp/services/data-collection_company/",
+            "https://www.keywalker.co.jp/",
+            "https://www.uluru-bpo.jp/work/data_collection",
+            "https://www.hitachi-systems.com/solution/s0311/iotservice/",
+            "https://azuremarketplace.microsoft.com/ar-sa/marketplace/consulting-services/1599701004146.simple_iot_gateway?country=JP&filters=automotive&page=2",
+            "https://www.kk-icon.co.jp/product/leader/leader.html",
+            "https://www.tatsuzin.info/products_dt/",
+            "https://www.niigataseiki.co.jp/products/jan4975846010369/",
+            "https://www.nidec.com/jp/nidec-advancetechnology/product/search/category/B104/M112/S100/NRCJ-DEWE2-A/",
+            "https://www.kri-inc.jp/tech/result/07-04.html"
+        ]
+    ],
+    "snapshot_ymd": "D2023-06-23",
+    "snapshot_timestamp": "D2023-06-23T01-29-06",
+    "responses": [
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "request": [
+                    {
+                        "title": "Google Custom Search - 会社 データ収集",
+                        "totalResults": "58400000",
+                        "searchTerms": "会社 データ収集",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 会社 データ収集",
+                        "totalResults": "58400000",
+                        "searchTerms": "会社 データ収集",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.483293,
+                "formattedSearchTime": "0.48",
+                "totalResults": "58400000",
+                "formattedTotalResults": "58,400,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "AI学習用のデータ収集代行会社プロ厳選おすすめ8社！【2023年最新 ...",
+                    "htmlTitle": "AI学習用の<b>データ収集</b>代行<b>会社</b>プロ厳選おすすめ8社！【2023年最新 ...",
+                    "link": "https://ai-market.jp/services/data-collection_company/",
+                    "displayLink": "ai-market.jp",
+                    "snippet": "2023/01/02 ... AI学習用のデータ収集代行会社プロ厳選おすすめ8社！【2023年最新版】 · 3.1 Datatang株式会社 · 3.2 株式会社コネクティル · 3.3 株式会社APTO · 3.4 株式 ...",
+                    "htmlSnippet": "2023/01/02 <b>...</b> AI学習用の<b>データ収集</b>代行<b>会社</b>プロ厳選おすすめ8社！【2023年最新版】 &middot; 3.1 Datatang株式<b>会社</b> &middot; 3.2 株式<b>会社</b>コネクティル &middot; 3.3 株式<b>会社</b>APTO &middot; 3.4 株式&nbsp;...",
+                    "cacheId": "PlBxG5cS3p0J",
+                    "formattedUrl": "https://ai-market.jp/services/data-collection_company/",
+                    "htmlFormattedUrl": "https://ai-market.jp/services/data-collection_company/",
+                    "pagemap": {
+                        "hcard": [
+                            {
+                                "fn": "AI Market 編集部"
+                            },
+                            {
+                                "fn": "AI Market 編集部",
+                                "photo": "https://ai-market.jp/wp-content/uploads/2021/02/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-2021-02-20-19.51.51-1.png",
+                                "url": "https://ai-market.jp/author/aimarket/"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD3FLr4qLjfeXmtH9-B3IYh4Gh7bkXrrTY2xp5grfDpJYsrRPDKiTW2iD5",
+                                "width": "364",
+                                "height": "138"
+                            }
+                        ],
+                        "person": [
+                            {
+                                "image": "https://ai-market.jp/wp-content/uploads/2021/02/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-2021-02-20-19.51.51-1.png",
+                                "name": "AI Market 編集部",
+                                "description": "AI Marketの編集部コンテンツです。AI Market編集部は、AI（人工知能）に関する技術や、製品・サービスなどの紹介記事を提供しています。ご興味をお...",
+                                "url": "AI Market 編集部"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://ai-market.jp/wp-content/uploads/2021/11/AI学習用データ収集会社.png",
+                                "og:type": "article",
+                                "article:published_time": "2021-11-30T03:46:31+00:00",
+                                "og:image:width": "1640",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "AI Market",
+                                "author": "AI Market 編集部",
+                                "og:title": "AI学習用のデータ収集代行会社プロ厳選おすすめ8社！【2023年最新版】 - AI Market",
+                                "og:image:height": "624",
+                                "twitter:label1": "執筆者",
+                                "twitter:label2": "推定読み取り時間",
+                                "og:image:type": "image/png",
+                                "msapplication-tileimage": "https://ai-market.jp/wp-content/uploads/2021/01/cropped-Group-246-270x270.png",
+                                "og:description": "AI学習用のデータ収集代行会社、プロ厳選おすすめ8社を紹介。画像認識や音声認識AIなどに必要な画像、動画、会話音声等のデータ収集。実績や提供サービスなどの観点からデータ収集代行企業を紹介しています。データ収集会社の見積り・外注/委託を検討されている際はぜひご参考ください。",
+                                "twitter:creator": "@AIMarket_jp",
+                                "article:publisher": "https://www.facebook.com/AIMarket.fb",
+                                "twitter:data1": "AI Market 編集部",
+                                "twitter:data2": "4分",
+                                "twitter:site": "@AIMarket_jp",
+                                "article:modified_time": "2023-01-02T05:46:55+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://ai-market.jp/services/data-collection_company/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://ai-market.jp/wp-content/uploads/2021/11/AI%E5%AD%A6%E7%BF%92%E7%94%A8%E3%83%86%E3%82%99%E3%83%BC%E3%82%BF%E5%8F%8E%E9%9B%86%E4%BC%9A%E7%A4%BE.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "ビッグデータ収集・分析の株式会社キーウォーカー",
+                    "htmlTitle": "ビッグ<b>データ収集</b>・分析の株式<b>会社</b>キーウォーカー",
+                    "link": "https://www.keywalker.co.jp/",
+                    "displayLink": "www.keywalker.co.jp",
+                    "snippet": "ビッグデータ収集・分析のプロフェッショナル集団です。ネット上の様々なデータを自動取得するWEBクローラーを開発してます。データクレンジング、グラフによる ...",
+                    "htmlSnippet": "ビッグ<b>データ収集</b>・分析のプロフェッショナル集団です。ネット上の様々なデータを自動取得するWEBクローラーを開発してます。データクレンジング、グラフによる&nbsp;...",
+                    "cacheId": "NEirK7ZfU1EJ",
+                    "formattedUrl": "https://www.keywalker.co.jp/",
+                    "htmlFormattedUrl": "https://www.keywalker.co.jp/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBx-GDYZ_EWKCycwqQ0kmbv9RzbWyWCOTCII84huKqM5pbGl9ktOT1fowS",
+                                "width": "318",
+                                "height": "159"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.keywalker.co.jp/wp-content/uploads/2017/05/big-data-image.jpg",
+                                "og:type": "website",
+                                "og:image:width": "1400",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "ビッグデータ収集・分析の株式会社キーウォーカー",
+                                "og:site_name": "ビッグデータ収集・分析の株式会社キーウォーカー",
+                                "og:title": "ビッグデータ収集・分析の株式会社キーウォーカー",
+                                "og:image:height": "700",
+                                "og:description": "ビッグデータ収集・分析のプロフェッショナル集団です。ネット上の様々なデータを自動取得するWEBクローラーを開発してます。データクレンジング、グラフによる可視化、価格調査、競合調査ツールをご提供しております。",
+                                "twitter:creator": "@keywalkerinc",
+                                "twitter:image": "https://www.keywalker.co.jp/wp-content/uploads/2017/05/big-data-image.jpg",
+                                "fb:app_id": "165000123634047",
+                                "twitter:site": "@keywalkerinc",
+                                "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+                                "twitter:description": "ビッグデータ収集・分析のプロフェッショナル集団です。ネット上の様々なデータを自動取得するWEBクローラーを開発してます。データクレンジング、グラフによる可視化、価格調査、競合調査ツールをご提供しております。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.keywalker.co.jp/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.keywalker.co.jp/wp-content/uploads/2017/05/big-data-image.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "データ収集 | 株式会社うるるBPO",
+                    "htmlTitle": "<b>データ収集</b> | 株式<b>会社</b>うるるBPO",
+                    "link": "https://www.uluru-bpo.jp/work/data_collection",
+                    "displayLink": "www.uluru-bpo.jp",
+                    "snippet": "データ収集とは？ インターネットに散在する情報を収集し、お客さまのニーズに合わせた形式に整理します。専任スタッフが目視確認、手動で収集するので、クローラーで ...",
+                    "htmlSnippet": "<b>データ収集</b>とは？ インターネットに散在する情報を収集し、お客さまのニーズに合わせた形式に整理します。専任スタッフが目視確認、手動で収集するので、クローラーで&nbsp;...",
+                    "cacheId": "O8Tn9dM1RXUJ",
+                    "formattedUrl": "https://www.uluru-bpo.jp/work/data_collection",
+                    "htmlFormattedUrl": "https://www.uluru-bpo.jp/work/data_collection",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQl82kMUBYNQXKMGCIVN5IpIAtFjRjNNAyUHz4WQB5jeLyQYdkoPA1rRGWK",
+                                "width": "365",
+                                "height": "138"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "ahrefs-site-verification": "41e34eb65e16d36d2e4ad13415b9b8d3bb5064e6ae4ee485c987db5cb4ca55f1",
+                                "viewport": "width=device-width"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.uluru-bpo.jp/wp-content/uploads/2015/08/img_datacollection.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "IoTデータ収集サービス：株式会社日立システムズ",
+                    "htmlTitle": "IoT<b>データ収集</b>サービス：株式<b>会社</b>日立システムズ",
+                    "link": "https://www.hitachi-systems.com/solution/s0311/iotservice/",
+                    "displayLink": "www.hitachi-systems.com",
+                    "snippet": "IoTデータ収集サービスは、お客さまの要件にあわせてパブリッククラウド／プライベートクラウドのどちらにも対応し、センサーやIoTデバイスからのデータ収集・蓄積・可視化 ...",
+                    "htmlSnippet": "IoT<b>データ収集</b>サービスは、お客さまの要件にあわせてパブリッククラウド／プライベートクラウドのどちらにも対応し、センサーやIoTデバイスからの<b>データ収集</b>・蓄積・可視化&nbsp;...",
+                    "cacheId": "lxsgP4c8aG0J",
+                    "formattedUrl": "https://www.hitachi-systems.com/solution/s0311/iotservice/",
+                    "htmlFormattedUrl": "https://www.hitachi-systems.com/solution/s0311/iotservice/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJ9cowWTtuXKeAcJT2tEBe73Y5-C4aOjp8ch6UIGdBvFdYr5KNoR3wVvs",
+                                "width": "243",
+                                "height": "207"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0, user-scalable=yes",
+                                "author": "Hitachi Systems, Ltd.",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.hitachi-systems.com/-/media/solution/s0311/iotservice/image/image_01.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "IoTデータ収集サービス：約2カ月の実装 – Microsoft Azure Marketplace",
+                    "htmlTitle": "IoT<b>データ収集</b>サービス：約2カ月の実装 – Microsoft Azure Marketplace",
+                    "link": "https://azuremarketplace.microsoft.com/ar-sa/marketplace/consulting-services/1599701004146.simple_iot_gateway?country=JP&filters=automotive&page=2",
+                    "displayLink": "azuremarketplace.microsoft.com",
+                    "snippet": "IoTデータ収集サービス：約2カ月の実装. 株式会社 日立システムズ. IoTを始めるにあたっての一連の機能（収集・蓄積・ ...",
+                    "htmlSnippet": "IoT<b>データ収集</b>サービス：約2カ月の実装. 株式<b>会社</b> 日立システムズ. IoTを始めるにあたっての一連の機能（収集・蓄積・&nbsp;...",
+                    "cacheId": "4UruAyLb-1MJ",
+                    "formattedUrl": "https://azuremarketplace.microsoft.com/.../1599701004146.simple_iot_ gateway?...",
+                    "htmlFormattedUrl": "https://azuremarketplace.microsoft.com/.../1599701004146.simple_iot_ gateway?...",
+                    "pagemap": {
+                        "offer": [
+                            {
+                                "pricecurrency": "JPY"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRsyPJBDCJM3Rb4A4oxR3zMCZXYI8RPAeO3uW8hVJXgmtRXtS2qyfXQHM",
+                                "width": "216",
+                                "height": "216"
+                            }
+                        ],
+                        "softwareapplication": [
+                            {
+                                "image": "https://store-images.s-microsoft.com/image/apps.7745.2ebad17b-7b17-4162-b2b8-71d470dd151a.804f7e8d-a8ce-4c3b-a4e6-e530ae91fac1.a57a9db8-c5a4-44bf-abc3-75fce5d2d9d1",
+                                "thumbnailurl": "https://store-images.s-microsoft.com/image/apps.50398.2ebad17b-7b17-4162-b2b8-71d470dd151a.bf32bef8-c0be-401e-8cfb-cdca290d34aa.7ce90831-8896-47a8-a850-84ef90734310"
+                            }
+                        ],
+                        "imageobject": [
+                            {
+                                "thumbnailurl": "https://store-images.s-microsoft.com/image/apps.50398.2ebad17b-7b17-4162-b2b8-71d470dd151a.bf32bef8-c0be-401e-8cfb-cdca290d34aa.7ce90831-8896-47a8-a850-84ef90734310"
+                            }
+                        ],
+                        "organization": [
+                            {
+                                "name": "株式会社 日立システムズ"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "awa-region": "centralus",
+                                "og:type": "Website",
+                                "awa-signedin": "false",
+                                "awa-version": "20230531.3.cbe0b8c",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "awa-locale": "ar-sa"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://store-images.s-microsoft.com/image/apps.7745.2ebad17b-7b17-4162-b2b8-71d470dd151a.804f7e8d-a8ce-4c3b-a4e6-e530ae91fac1.a57a9db8-c5a4-44bf-abc3-75fce5d2d9d1"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "株式会社アイコン｜生産管理表示器［工程データ収集ソフト-Leader ...",
+                    "htmlTitle": "株式<b>会社</b>アイコン｜生産管理表示器［工程<b>データ収集</b>ソフト-Leader ...",
+                    "link": "https://www.kk-icon.co.jp/product/leader/leader.html",
+                    "displayLink": "www.kk-icon.co.jp",
+                    "snippet": "生産工場の現場管理用表示器及び物流システム用LED表示器専門メーカー、株式会社アイコンのホームページです。工程データ収集ソフト -Leader（リーダー）について掲載 ...",
+                    "htmlSnippet": "生産工場の現場管理用表示器及び物流システム用LED表示器専門メーカー、株式<b>会社</b>アイコンのホームページです。工程<b>データ収集</b>ソフト -Leader（リーダー）について掲載&nbsp;...",
+                    "cacheId": "zIgiOecrYekJ",
+                    "formattedUrl": "https://www.kk-icon.co.jp/product/leader/leader.html",
+                    "htmlFormattedUrl": "https://www.kk-icon.co.jp/product/leader/leader.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUQLkSoS9HbjQEp17JzDG65Sb7alhXO1k1eQDnLSpyFPCP_ZQ8p-8U3oY",
+                                "width": "226",
+                                "height": "223"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.kk-icon.co.jp/product/leader/images/leader_main.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "データ収集・配信｜達人Cube | 税務申告ソフト「達人シリーズ ...",
+                    "htmlTitle": "<b>データ収集</b>・配信｜達人Cube | 税務申告ソフト「達人シリーズ ...",
+                    "link": "https://www.tatsuzin.info/products_dt/",
+                    "displayLink": "www.tatsuzin.info",
+                    "snippet": "データ収集・配信. 申告・会計業務に必要な顧問先の資料の収集・収集状況の管理 ... 株式会社NTTデータ. Copyright © NTT DATA Corporation ページ内に記載されている ...",
+                    "htmlSnippet": "<b>データ収集</b>・配信. 申告・会計業務に必要な顧問先の資料の収集・収集状況の管理 ... 株式<b>会社</b>NTTデータ. Copyright © NTT DATA Corporation ページ内に記載されている&nbsp;...",
+                    "cacheId": "ZCheOsMN-B8J",
+                    "formattedUrl": "https://www.tatsuzin.info/products_dt/",
+                    "htmlFormattedUrl": "https://www.tatsuzin.info/products_dt/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcpeE8qL9d-4_iIx9P95GYj__SDbCRIiS_Fj0CRKXXVTUg6wcAbHgBWV6j",
+                                "width": "282",
+                                "height": "179"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width",
+                                "author": "株式会社NTTデータ",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.tatsuzin.info/products_dt/images/img_dt.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "製品情報｜レベルニックデータ収集アダプタ｜新潟精機株式会社 ...",
+                    "htmlTitle": "製品情報｜レベルニック<b>データ収集</b>アダプタ｜新潟精機株式<b>会社</b> ...",
+                    "link": "https://www.niigataseiki.co.jp/products/jan4975846010369/",
+                    "displayLink": "www.niigataseiki.co.jp",
+                    "snippet": "新潟精機株式会社は、レベルニック（デジタル水準器）・ピンゲージ・リングゲージなどの測定工具、エアパーツなどのDIY製品の製造・販売メーカーです。",
+                    "htmlSnippet": "新潟精機株式<b>会社</b>は、レベルニック（デジタル水準器）・ピンゲージ・リングゲージなどの測定工具、エアパーツなどのDIY製品の製造・販売メーカーです。",
+                    "cacheId": "grBnUKyWQFcJ",
+                    "formattedUrl": "https://www.niigataseiki.co.jp/products/jan4975846010369/",
+                    "htmlFormattedUrl": "https://www.niigataseiki.co.jp/products/jan4975846010369/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzpc3Nv6U3pBXOq7vPtvmep8WFNJLz9fsWdzbqfxS8feuO04PLQQ24osw",
+                                "width": "200",
+                                "height": "200"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.niigataseiki.co.jp/wp2021/wp-content/uploads/default.png",
+                                "og:type": "article",
+                                "og:image:width": "200",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "新潟精機株式会社",
+                                "og:title": "レベルニックデータ収集アダプタ - 新潟精機株式会社",
+                                "og:image:height": "200",
+                                "og:image:type": "image/png",
+                                "msapplication-tileimage": "https://www.niigataseiki.co.jp/wp2021/wp-content/uploads/cropped-SK-logo512-270x270.png",
+                                "article:publisher": "https://www.facebook.com/niigataseiki",
+                                "twitter:site": "@niigataseiki",
+                                "article:modified_time": "2023-02-17T08:59:21+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.niigataseiki.co.jp/products/jan4975846010369/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.niigataseiki.co.jp/wp2021/wp-content/uploads/default.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "データ収集ハードウエアシリーズ | ニデックアドバンステクノロジー ...",
+                    "htmlTitle": "<b>データ収集</b>ハードウエアシリーズ | ニデックアドバンステクノロジー ...",
+                    "link": "https://www.nidec.com/jp/nidec-advancetechnology/product/search/category/B104/M112/S100/NRCJ-DEWE2-A/",
+                    "displayLink": "www.nidec.com",
+                    "snippet": "... データロガー. データ収集ハードウエアシリーズ. 取扱い会社名：ニデックアドバンステクノロジー株式会社. ＜ハードウエア＞ DEWETRON(デュートロン)社製のデータ収集 ...",
+                    "htmlSnippet": "... データロガー. <b>データ収集</b>ハードウエアシリーズ. 取扱い<b>会社</b>名：ニデックアドバンステクノロジー株式<b>会社</b>. ＜ハードウエア＞ DEWETRON(デュートロン)社製の<b>データ収集</b>&nbsp;...",
+                    "cacheId": "OoA3ka6KTJEJ",
+                    "formattedUrl": "https://www.nidec.com/jp/nidec-advancetechnology/.../NRCJ-DEWE2-A/",
+                    "htmlFormattedUrl": "https://www.nidec.com/jp/nidec-advancetechnology/.../NRCJ-DEWE2-A/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyN5cZMyXuyyWj_uo6TNes2I7mOvaC7tma3mvX_UThROmC9OYz5PcBhIc",
+                                "width": "330",
+                                "height": "47"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.nidec.com/-/media/www-nidec-com/cmn/img/c_logo_ci_new.png",
+                                "og:type": "article",
+                                "og:site_name": "ニデック株式会社 - NIDEC CORPORATION",
+                                "viewport": "width=990, user-scalable=yes",
+                                "og:locale": "ja_JP",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.nidec.com/-/media/www-nidec-com/cmn/img/c_logo_ci_new.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "フィールドデータ等の収集・解析をしたい | 株式会社 KRI",
+                    "htmlTitle": "フィールド<b>データ</b>等の<b>収集</b>・解析をしたい | 株式<b>会社</b> KRI",
+                    "link": "https://www.kri-inc.jp/tech/result/07-04.html",
+                    "displayLink": "www.kri-inc.jp",
+                    "snippet": "フィールドデータを取得・解析するためには、センシング、データ通信、データ収集・処理、およびデータ解析が必要です。KRIではすべてを一貫してお手伝いします。 具体的に ...",
+                    "htmlSnippet": "フィールドデータを取得・解析するためには、センシング、データ通信、<b>データ収集</b>・処理、およびデータ解析が必要です。KRIではすべてを一貫してお手伝いします。 具体的に&nbsp;...",
+                    "cacheId": "c0x-QfleVlcJ",
+                    "formattedUrl": "https://www.kri-inc.jp/tech/result/07-04.html",
+                    "htmlFormattedUrl": "https://www.kri-inc.jp/tech/result/07-04.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSi97iTlZi89XQjVpMI9bXdWuMKuOR0wSmjS99ObKaYAdwlXrViI5mvwhcl",
+                                "width": "308",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1.0, user-scalable=no",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.kri-inc.jp/assets/images/tech/07-04-01.png"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

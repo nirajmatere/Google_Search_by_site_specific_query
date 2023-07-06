@@ -1,0 +1,568 @@
+{
+    "query": "会社 スクレイピング",
+    "links": [
+        [
+            "https://www.biz.ne.jp/matome/2008039/",
+            "https://2075.jp/services/scrapying/",
+            "https://www.seedsolutions.co.jp/?page_id=1669",
+            "https://imitsu.jp/list/web-system/scraping-company/",
+            "https://pig-data.jp/blog_news/blog/scraping-crawling/scraping-service/",
+            "https://system-kanji.com/posts/scraping-agent",
+            "https://corp.freee.co.jp/fapiBank.pdf",
+            "https://rooter.jp/",
+            "https://www.c-r.com/book/detail/1105",
+            "https://forum.uipath.com/t/topic/405544"
+        ]
+    ],
+    "snapshot_ymd": "D2023-06-23",
+    "snapshot_timestamp": "D2023-06-23T01-29-00",
+    "responses": [
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "request": [
+                    {
+                        "title": "Google Custom Search - 会社 スクレイピング",
+                        "totalResults": "685000",
+                        "searchTerms": "会社 スクレイピング",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 会社 スクレイピング",
+                        "totalResults": "685000",
+                        "searchTerms": "会社 スクレイピング",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.326511,
+                "formattedSearchTime": "0.33",
+                "totalResults": "685000",
+                "formattedTotalResults": "685,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "スクレイピング代行でおすすめの会社14選 | システム開発会社を探す ...",
+                    "htmlTitle": "<b>スクレイピング</b>代行でおすすめの<b>会社</b>14選 | システム開発<b>会社</b>を探す ...",
+                    "link": "https://www.biz.ne.jp/matome/2008039/",
+                    "displayLink": "www.biz.ne.jp",
+                    "snippet": "2023/02/17 ... キーウォーカーは、クラウド型のWebクローリング＆Webスクレイピングサービス「keywalker WEBクローラー」を提供している会社です。約400万のWebサイト、 ...",
+                    "htmlSnippet": "2023/02/17 <b>...</b> キーウォーカーは、クラウド型のWebクローリング＆Web<b>スクレイピング</b>サービス「keywalker WEBクローラー」を提供している<b>会社</b>です。約400万のWebサイト、&nbsp;...",
+                    "cacheId": "C957PXbwm3EJ",
+                    "formattedUrl": "https://www.biz.ne.jp/matome/2008039/",
+                    "htmlFormattedUrl": "https://www.biz.ne.jp/matome/2008039/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvxVuhEI6dElODL71u_k0Ux42t0w-7idV92e9dgpx8WOrN1qPUn6wJvOmR",
+                                "width": "299",
+                                "height": "168"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://img.biz.ne.jp/info/2008039_if1.jpg",
+                                "fb:app_id": "1585119665035317",
+                                "og:type": "website",
+                                "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no",
+                                "og:title": "スクレイピング代行でおすすめの会社14選",
+                                "og:url": "https://www.biz.ne.jp/matome/2008039/",
+                                "og:description": "この記事ではスクレイピング代行でおすすめの会社をご紹介します。時代は大量のデータから必要なデータを抽出するという方向に進んでいます。これはAIなどの技術も同様でより多くのデータを集めた方が網羅性が高くなるとおもわれているためです。\n\nとは言え、そのデータをうまく活用できている企業は現状少数派を言えるのではないでしょうか。大量のデータの集め方やその中からポイントを絞って最善のデータを探すための手法はプロに任せた方が得策です。是非、参考にしてみてください。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://img.biz.ne.jp/info/2008039_if1.jpg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "HOME",
+                                "name": "HOME",
+                                "position": "1"
+                            },
+                            {
+                                "item": "比較ビズまとめ",
+                                "name": "比較ビズまとめ",
+                                "position": "2"
+                            },
+                            {
+                                "item": "システム開発会社の記事",
+                                "name": "システム開発会社の記事",
+                                "position": "3"
+                            },
+                            {
+                                "item": "スクレイピング代行でおすすめの会社14選",
+                                "name": "スクレイピング代行でおすすめの会社14選",
+                                "position": "4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "スクレイピング代行事業 - 株式会社2075",
+                    "htmlTitle": "<b>スクレイピング</b>代行事業 - 株式<b>会社</b>2075",
+                    "link": "https://2075.jp/services/scrapying/",
+                    "displayLink": "2075.jp",
+                    "snippet": "スクレイピングゴッドは弊社が提供しているスクレイピング代行サービスです。豊富なスクレイピング経験を持つ専門のスクレイピングエンジニアが最速で貴社欲しいデータ ...",
+                    "htmlSnippet": "<b>スクレイピング</b>ゴッドは弊社が提供している<b>スクレイピング</b>代行サービスです。豊富な<b>スクレイピング</b>経験を持つ専門の<b>スクレイピング</b>エンジニアが最速で貴社欲しいデータ&nbsp;...",
+                    "cacheId": "arjIgc_4jwkJ",
+                    "formattedUrl": "https://2075.jp/services/scrapying/",
+                    "htmlFormattedUrl": "https://2075.jp/services/scrapying/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJqko5vX7Pa7KGtXw3AvPwxObmMMmXzF1HjG5KA1ZkMOiiOLnJgPwxweI1",
+                                "width": "304",
+                                "height": "166"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://2075.jp/wp-content/uploads/2022/09/image_2022_9_21-1.png",
+                                "og:type": "article",
+                                "article:published_time": "2022-09-23T17:22:45+00:00",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "スクレイピング代行事業 - 株式会社2075",
+                                "og:site_name": "株式会社2075 - コーポレートサイト",
+                                "og:title": "スクレイピング代行事業 - 株式会社2075",
+                                "msapplication-tileimage": "https://2075.jp/wp-content/uploads/2022/09/cropped-29103b2e4781080b5a3616ceb6cf02a2-270x270.png",
+                                "og:description": "スクレイピングゴッド スクレイピングゴッドは弊社が提供しているスクレイピング代行サービスです。豊富なスクレイピ",
+                                "og:image:secure_url": "https://2075.jp/wp-content/uploads/2022/09/image_2022_9_21-1.png",
+                                "twitter:image": "https://2075.jp/wp-content/uploads/2022/09/image_2022_9_21-1.png",
+                                "article:modified_time": "2023-06-13T14:21:01+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "スクレイピングゴッド スクレイピングゴッドは弊社が提供しているスクレイピング代行サービスです。豊富なスクレイピ",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://2075.jp/services/scrapying/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://2075.jp/wp-content/uploads/2022/09/image_2022_9_21-1.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Webスクレイピングサービス - 株式会社シードソリューションズ",
+                    "htmlTitle": "Web<b>スクレイピング</b>サービス - 株式<b>会社</b>シードソリューションズ",
+                    "link": "https://www.seedsolutions.co.jp/?page_id=1669",
+                    "displayLink": "www.seedsolutions.co.jp",
+                    "snippet": "Webスクレイピングサービス. Webサイトよりデータを構造化し自動的に抽出を行います。特定のWebサイト内で複数のページから情報を手動でコピー＆ペーストなどされて ...",
+                    "htmlSnippet": "Web<b>スクレイピング</b>サービス. Webサイトよりデータを構造化し自動的に抽出を行います。特定のWebサイト内で複数のページから情報を手動でコピー＆ペーストなどされて&nbsp;...",
+                    "cacheId": "guBz6K7PM-kJ",
+                    "formattedUrl": "https://www.seedsolutions.co.jp/?page_id=1669",
+                    "htmlFormattedUrl": "https://www.seedsolutions.co.jp/?page_id=1669",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQj53N_uX3eZb79a9Me70XuBg-AdsKhi6EdqjEx7aqoUwaicQVSscBvz_MV",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.seedsolutions.co.jp/wp-content/uploads/2021/06/WebScraping.jpg",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "株式会社シードソリューションズ",
+                                "article:modified_time": "2021-06-18T15:56:04+00:00",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "og:title": "Webスクレイピングサービス - 株式会社シードソリューションズ",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.seedsolutions.co.jp/?page_id=1669",
+                                "msapplication-tileimage": "https://www.seedsolutions.co.jp/wp-content/uploads/2020/11/cropped-solutions_rogo_only-1-270x270.png",
+                                "og:description": "Webサイトよりデータを構造化し自動的に抽出を行います。特定のWebサイト内で複数のページから情報を手動でコピー＆ペーストなどされている場合に、業務負担の軽減を目的にお手伝いさせていただくサービスとなります。 ※ 抽出さ […]"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.seedsolutions.co.jp/wp-content/uploads/2021/06/WebScraping.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Webスクレイピングの代行・システム開発におすすめの会社7選 ...",
+                    "htmlTitle": "Web<b>スクレイピング</b>の代行・システム開発におすすめの<b>会社</b>7選 ...",
+                    "link": "https://imitsu.jp/list/web-system/scraping-company/",
+                    "displayLink": "imitsu.jp",
+                    "snippet": "2023/06/07 ... スクレイピング会社におすすめのシステム開発会社をご紹介！スクレイピング会社向けのシステム開発会社探しでお悩みの方はぜひ参考にしてください！",
+                    "htmlSnippet": "2023/06/07 <b>...</b> <b>スクレイピング会社</b>におすすめのシステム開発<b>会社</b>をご紹介！<b>スクレイピング会社</b>向けのシステム開発<b>会社</b>探しでお悩みの方はぜひ参考にしてください！",
+                    "cacheId": "D26AQH7ALisJ",
+                    "formattedUrl": "https://imitsu.jp/list/web-system/scraping-company/",
+                    "htmlFormattedUrl": "https://imitsu.jp/list/web-system/scraping-company/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWPL3QwfOuYh6vdllaxmXbmreILwA22L1TxoiAFJNWZES5AC7Qmwdh7jpn",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://imitsu.jp/img_p/lgc/category_suppliers_content_part/84/13/391384/CZczq2b3"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://imitsu.jp/img_p/lgc/category_suppliers_content_part/84/13/391384/CZczq2b3",
+                                "thumbnail": "https://imitsu.jp/img_p/lgc/category_suppliers_content_part/84/13/391384/CZczq2b3",
+                                "og:type": "website",
+                                "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                                "og:title": "Webスクレイピングの代行・システム開発におすすめの会社7選！費用や選び方も解説【2023年最新版】｜アイミツ",
+                                "og:url": "https://imitsu.jp/list/web-system/scraping-company/",
+                                "og:description": "スクレイピング会社におすすめのシステム開発会社をご紹介！スクレイピング会社向けのシステム開発会社探しでお悩みの方はぜひ参考にしてください！"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://imitsu.jp/img/site/partner.svg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Webスクレイピングサービス企業5選！面倒なデータ収集を自動化 ...",
+                    "htmlTitle": "Web<b>スクレイピング</b>サービス企業5選！面倒なデータ収集を自動化 ...",
+                    "link": "https://pig-data.jp/blog_news/blog/scraping-crawling/scraping-service/",
+                    "displayLink": "pig-data.jp",
+                    "snippet": "2022/05/10 ... 株式会社インディゴデータ～PigData（ピッグデータ）～ · Octopus Data Inc. · keywalker ～ShtockData（シュトックデータ）～ · エクスマート～EXMART Web ...",
+                    "htmlSnippet": "2022/05/10 <b>...</b> 株式<b>会社</b>インディゴデータ～PigData（ピッグデータ）～ &middot; Octopus Data Inc. &middot; keywalker ～ShtockData（シュトックデータ）～ &middot; エクスマート～EXMART Web&nbsp;...",
+                    "cacheId": "6id_98O1i54J",
+                    "formattedUrl": "https://pig-data.jp/blog_news/blog/scraping-crawling/scraping-service/",
+                    "htmlFormattedUrl": "https://pig-data.jp/blog_news/blog/scraping-crawling/scraping-service/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS41KMsGZ54zc_jPGYWB1NgC6OV4Nt1jC0LghPfrQm5qmvjHdoNzU9QvWch",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://pig-data.jp/wp-content/uploads/pd_thumbnail_img-230017-L.jpg",
+                                "og:type": "article",
+                                "og:image:width": "1920",
+                                "article:published_time": "2022-05-10T02:33:00+00:00",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "Webスクレイピングサービス企業5選！面倒なデータ収集を自動化 – PigData | ビッグデータ収集・分析・活用ソリューション",
+                                "og:site_name": "PigData | ビッグデータ収集・分析・活用ソリューション – PigDataは、お客様のデータ活用に対する課題を丁寧にヒアリングし、 最適なデータ活用ソリューションをご提供します。",
+                                "og:title": "Webスクレイピングサービス企業5選！面倒なデータ収集を自動化 – PigData | ビッグデータ収集・分析・活用ソリューション",
+                                "og:image:height": "1280",
+                                "msapplication-tileimage": "https://pig-data.jp/wp-content/uploads/cropped-favicon-1-270x270.png",
+                                "og:description": "スクレイピングの相談をする インターネット上の情報収集を自動化できるWebスクレイピングに興味を持っている方は",
+                                "og:image:secure_url": "https://pig-data.jp/wp-content/uploads/pd_thumbnail_img-230017-L.jpg",
+                                "twitter:image": "https://pig-data.jp/wp-content/uploads/pd_thumbnail_img-230017-L.jpg",
+                                "article:modified_time": "2023-06-12T09:16:34+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "スクレイピングの相談をする インターネット上の情報収集を自動化できるWebスクレイピングに興味を持っている方は",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://pig-data.jp/blog_news/blog/scraping-crawling/scraping-service/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://pig-data.jp/wp-content/uploads/pd_thumbnail_img-230017-L.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "スクレイピング代行におすすめなシステム開発会社9選！【2023年 ...",
+                    "htmlTitle": "<b>スクレイピング</b>代行におすすめなシステム開発<b>会社</b>9選！【2023年 ...",
+                    "link": "https://system-kanji.com/posts/scraping-agent",
+                    "displayLink": "system-kanji.com",
+                    "snippet": "2023/06/14 ... スクレイピング代行に強いシステム開発会社 · 株式会社キーウォーカー · 株式会社インディゴデータ · 株式会社GB · 株式会社シードソリューションズ · 株式会社 ...",
+                    "htmlSnippet": "2023/06/14 <b>...</b> <b>スクレイピング</b>代行に強いシステム開発<b>会社</b> &middot; 株式<b>会社</b>キーウォーカー &middot; 株式<b>会社</b>インディゴデータ &middot; 株式<b>会社</b>GB &middot; 株式<b>会社</b>シードソリューションズ &middot; 株式<b>会社</b>&nbsp;...",
+                    "cacheId": "P12yvAUZlhYJ",
+                    "formattedUrl": "https://system-kanji.com/posts/scraping-agent",
+                    "htmlFormattedUrl": "https://system-kanji.com/posts/scraping-agent",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT49nQ73U8Wh-8-Ykz-JZXNdwvtJkvKHkTRdX20N0xDS8871S1YUyKgjnU",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://cdn.system-kanji.com/files/media/1vE4gA2wGwTk9GqVeacnUygevIRer7Y0aAckdzIH.jpg",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "スクレイピング代行におすすめなシステム開発会社9選！【2023年最新版】 | システム幹事",
+                                "og:site_name": "システム幹事",
+                                "og:title": "スクレイピング代行におすすめなシステム開発会社9選！【2023年最新版】 | システム幹事",
+                                "og:description": "スクレイピング代行に強いシステム開発会社を紹介。システム開発会社のホームページを1社1社チェックし厳選しました。システム開発の発注目的や特徴で分類。見積もり依頼をするシステム開発会社探しにお役立てください。",
+                                "twitter:image": "https://cdn.system-kanji.com/files/media/1vE4gA2wGwTk9GqVeacnUygevIRer7Y0aAckdzIH.jpg",
+                                "facebook-domain-verification": "bzql2xs97zv1bhkt4s5dq7shdujfp4",
+                                "ahrefs-site-verification": "9b193012cfef86c33c9bdebd89d9aaefa53ab4d5f7d6be681b0e90caef52347b",
+                                "viewport": "width=device-width,initial-scale=1.0",
+                                "twitter:description": "スクレイピング代行に強いシステム開発会社を紹介。システム開発会社のホームページを1社1社チェックし厳選しました。システム開発の発注目的や特徴で分類。見積もり依頼をするシステム開発会社探しにお役立てください。",
+                                "og:url": "https://system-kanji.com/posts/scraping-agent"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://cdn.system-kanji.com/files/media/1vE4gA2wGwTk9GqVeacnUygevIRer7Y0aAckdzIH.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "freee株式会社とAPIまたはスクレイピング連携に関する契約を締結し ...",
+                    "htmlTitle": "freee株式<b>会社</b>とAPIまたは<b>スクレイピング</b>連携に関する契約を締結し ...",
+                    "link": "https://corp.freee.co.jp/fapiBank.pdf",
+                    "displayLink": "corp.freee.co.jp",
+                    "snippet": "freee株式会社とAPIまたはスクレイピング連携に関する契約を締結している⾦融機関⼀覧. 2023年4⽉1⽇時点. API契約＝〇、スクレイピング契約＝○.",
+                    "htmlSnippet": "freee株式<b>会社</b>とAPIまたは<b>スクレイピング</b>連携に関する契約を締結している⾦融機関⼀覧. 2023年4⽉1⽇時点. API契約＝〇、<b>スクレイピング</b>契約＝○.",
+                    "cacheId": "6ck1v3mb9qsJ",
+                    "formattedUrl": "https://corp.freee.co.jp/fapiBank.pdf",
+                    "htmlFormattedUrl": "https://corp.freee.co.jp/fapiBank.pdf",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "moddate": "D:20230428124804+09'00'",
+                                "creationdate": "D:20230217064647Z",
+                                "creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
+                                "producer": "Skia/PDF m110",
+                                "title": "契約締結済みの金融機関_銀行"
+                            }
+                        ]
+                    },
+                    "mime": "application/pdf",
+                    "fileFormat": "PDF/Adobe Acrobat"
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "株式会社ルーター – データクローリング・スクレイピングによる ...",
+                    "htmlTitle": "株式<b>会社</b>ルーター – データクローリング・<b>スクレイピング</b>による ...",
+                    "link": "https://rooter.jp/",
+                    "displayLink": "rooter.jp",
+                    "snippet": "データの海をわたろう！われわれは増え続けるデータと深く社会に浸透していくインターネットにおいて データを整理し、データを活用したあらゆる人的活動の自動化を ...",
+                    "htmlSnippet": "データの海をわたろう！われわれは増え続けるデータと深く社会に浸透していくインターネットにおいて データを整理し、データを活用したあらゆる人的活動の自動化を&nbsp;...",
+                    "cacheId": "r8WV5WylwqwJ",
+                    "formattedUrl": "https://rooter.jp/",
+                    "htmlFormattedUrl": "https://rooter.jp/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTx7bkz-UH0vEdlYS6hDQOckYY03mNOyzTMasTRLzR_tqMwLzohHBgi_GDO",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://rooter.jp/wp-content/themes/rooter-theme/images/ogp.png",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "株式会社ルーター",
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+                                "og:title": "株式会社ルーター",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://rooter.jp",
+                                "msapplication-tileimage": "https://rooter.jp/wp-content/uploads/2021/08/cropped-favicon-270x270.png",
+                                "og:description": "データクローリング・スクレイピングによるビッグデータ収集"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://rooter.jp/wp-content/themes/rooter-theme/images/ogp.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Rによるスクレイピング入門",
+                    "htmlTitle": "Rによる<b>スクレイピング</b>入門",
+                    "link": "https://www.c-r.com/book/detail/1105",
+                    "displayLink": "www.c-r.com",
+                    "snippet": "株式会社C&R研究所 良書の出版を通じて人が暮らす社会に貢献し. C&R研究所.",
+                    "htmlSnippet": "株式<b>会社</b>C&amp;R研究所 良書の出版を通じて人が暮らす社会に貢献し. C&amp;R研究所.",
+                    "cacheId": "QWaVi-DkVmUJ",
+                    "formattedUrl": "https://www.c-r.com/book/detail/1105",
+                    "htmlFormattedUrl": "https://www.c-r.com/book/detail/1105"
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "複数表のスクレイピング - フォーラム - UiPath Community Forum",
+                    "htmlTitle": "複数表の<b>スクレイピング</b> - フォーラム - UiPath Community Forum",
+                    "link": "https://forum.uipath.com/t/topic/405544",
+                    "displayLink": "forum.uipath.com",
+                    "snippet": "2022/03/09 ... 上記がスクレイピングしたいWebページのイメージとなるのですが 会社と表の組み合わせが対で表示される様になっており この組み合わせが1ページに ...",
+                    "htmlSnippet": "2022/03/09 <b>...</b> 上記が<b>スクレイピング</b>したいWebページのイメージとなるのですが <b>会社</b>と表の組み合わせが対で表示される様になっており この組み合わせが1ページに&nbsp;...",
+                    "cacheId": "a6tk0DeOc2YJ",
+                    "formattedUrl": "https://forum.uipath.com/t/topic/405544",
+                    "htmlFormattedUrl": "https://forum.uipath.com/t/topic/405544",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcIsRAyoNBWsBYEuQLXdTfFtTZybggIimZ8sxO3vZt4jJkmgYfU0fF88YQ",
+                                "width": "300",
+                                "height": "168"
+                            }
+                        ],
+                        "imageobject": [
+                            {
+                                "url": "https://global.discourse-cdn.com/uipath/original/3X/d/6/d6c862cebbdb9f139d9b3e0b4346f6d471039722.png"
+                            }
+                        ],
+                        "person": [
+                            {
+                                "name": "Explorer",
+                                "url": "Explorer"
+                            },
+                            {
+                                "name": "N2027",
+                                "url": "N2027"
+                            }
+                        ],
+                        "organization": [
+                            {
+                                "name": "UiPath"
+                            }
+                        ],
+                        "interactioncounter": [
+                            {
+                                "userinteractioncount": "0",
+                                "interactiontype": "http://schema.org/LikeAction"
+                            },
+                            {
+                                "userinteractioncount": "0",
+                                "interactiontype": "http://schema.org/CommentAction"
+                            },
+                            {
+                                "userinteractioncount": "0",
+                                "interactiontype": "http://schema.org/LikeAction"
+                            },
+                            {
+                                "userinteractioncount": "0",
+                                "interactiontype": "http://schema.org/CommentAction"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://global.discourse-cdn.com/uipath/original/4X/4/1/b/41b645eaa213c5dbd8cdc3c320ceecc41cb5b0fe.png",
+                                "theme-color": "#ffffff",
+                                "og:type": "website",
+                                "twitter:card": "summary",
+                                "twitter:title": "複数表のスクレイピング",
+                                "article:published_time": "2022-03-09T07:15:14+00:00",
+                                "og:site_name": "UiPath Community Forum",
+                                "twitter:url": "https://forum.uipath.com/t/topic/405544",
+                                "doc-type": "Forum",
+                                "og:title": "複数表のスクレイピング",
+                                "og:description": "上記がスクレイピングしたいWebページのイメージとなるのですが  会社と表の組み合わせが対で表示される様になっており  この組み合わせが1ページに複数、表示されるWebページとなります  （表示位置、件数は動的に変化します）  実現したい処理は  対象の会社を検索してその表をスクレイピング、次の会社を検索してその表をスクレイピング  といった処理を作成したいのですが  色々試してみたのですがうまくいかずでして  どのようにすべきかご助言頂けないでしょうか",
+                                "twitter:image": "https://global.discourse-cdn.com/uipath/original/4X/4/1/b/41b645eaa213c5dbd8cdc3c320ceecc41cb5b0fe.png",
+                                "og:article:tag": "studio",
+                                "og:ignore_canonical": "true",
+                                "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover",
+                                "twitter:description": "上記がスクレイピングしたいWebページのイメージとなるのですが  会社と表の組み合わせが対で表示される様になっており  この組み合わせが1ページに複数、表示されるWebページとなります  （表示位置、件数は動的に変化します）  実現したい処理は  対象の会社を検索してその表をスクレイピング、次の会社を検索してその表をスクレイピング  といった処理を作成したいのですが  色々試してみたのですがうまくいかずでして  どのようにすべきかご助言頂けないでしょうか",
+                                "og:article:section": "日本",
+                                "og:url": "https://forum.uipath.com/t/topic/405544",
+                                "og:article:section:color": "e3e002"
+                            }
+                        ],
+                        "discussionforumposting": [
+                            {
+                                "image": "https://global.discourse-cdn.com/uipath/original/4X/4/1/b/41b645eaa213c5dbd8cdc3c320ceecc41cb5b0fe.png",
+                                "articlebody": "上記がスクレイピングしたいWebページのイメージとなるのですが 会社と表の組み合わせが対で表示される様になっており この組み合わせが1ペー...",
+                                "keywords": "studio",
+                                "datemodified": "2022-03-09T07:15:14Z",
+                                "articlesection": "フォーラム",
+                                "position": "1",
+                                "headline": "複数表のスクレイピング",
+                                "datepublished": "2022-03-09T07:15:14Z",
+                                "mainentityofpage": "https://forum.uipath.com/t/topic/405544"
+                            }
+                        ],
+                        "comment": [
+                            {
+                                "datemodified": "2022-03-09T12:27:29Z",
+                                "position": "2",
+                                "text": "1番目の表のスクレイピングはできますか？ 2番目の表のスクレイピングはできますか？ すべての表のスクレイピングはできますか？ 何ができて、...",
+                                "datepublished": "2022-03-09T12:27:29Z",
+                                "mainentityofpage": "https://forum.uipath.com/t/topic/405544"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://global.discourse-cdn.com/uipath/original/4X/4/1/b/41b645eaa213c5dbd8cdc3c320ceecc41cb5b0fe.png"
+                            }
+                        ],
+                        "sitenavigationelement": [
+                            {
+                                "name": "Home",
+                                "url": "Home"
+                            },
+                            {
+                                "name": "Categories",
+                                "url": "Categories"
+                            },
+                            {
+                                "name": "FAQ/Guidelines",
+                                "url": "FAQ/Guidelines"
+                            },
+                            {
+                                "name": "Terms of Service",
+                                "url": "Terms of Service"
+                            },
+                            {
+                                "name": "Privacy Policy",
+                                "url": "Privacy Policy"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "日本",
+                                "name": "日本",
+                                "position": "1"
+                            },
+                            {
+                                "item": "フォーラム",
+                                "name": "フォーラム",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

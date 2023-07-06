@@ -1,0 +1,1534 @@
+{
+    "query": "業界 データ収集",
+    "links": [
+        [
+            "https://appen.co.jp/industries/technology/",
+            "https://www.bakerhughes.com/jp/bently-nevada/monitoring-systems/portable-vibration-testers-diagnostic-systems",
+            "https://www.dga.co.jp/column/20221121-04/",
+            "https://www.cloud-for-all.com/azure/blog/data-collection-on-the-shop-floor",
+            "https://aidiot.jp/media/data/bigdata_company/",
+            "https://www.ever-rise.co.jp/dx-blog/case-tokyogas-livsolutions/",
+            "https://prtimes.jp/main/html/rd/p/000000014.000055673.html",
+            "https://www.businesswire.com/news/home/20221027005036/ja/",
+            "https://www.ipros.jp/monosiri/term/%E3%83%87%E3%83%BC%E3%82%BF%E5%8F%8E%E9%9B%86%E3%83%9C%E3%83%BC%E3%83%89",
+            "https://pig-data.jp/blog_news/blog/scraping-crawling/retail/"
+        ],
+        [
+            "https://www.geekly.co.jp/column/cat-position/big-data/",
+            "https://receiptreward.jp/solution/column/casestudy-bigdata.html",
+            "https://business.ntt-east.co.jp/bizdrive/column/post_128.html",
+            "https://dts-digital.jp/servicenow/casestudy/97/",
+            "https://www.ibm.com/downloads/cas/9ZOBLQWE",
+            "https://www.keyence.co.jp/ss/general/iot-casestudy/installation-examples/automotive/precision.jsp",
+            "https://retailguide.tokubai.co.jp/data/34656/",
+            "https://pig-data.jp/blog_news/blog/scraping-crawling/buturyuu/",
+            "https://jp.ub-speeda.com/",
+            "https://www.jisf.or.jp/business/lca/data/index.html"
+        ],
+        [
+            "https://pr.fujitsu.com/jp/news/2012/10/22.html",
+            "https://www.meti.go.jp/meti_lib/report/2019FY/000312.pdf",
+            "https://fabeee.co.jp/column/dx/bigdata/",
+            "https://lca-forum.org/database/inventory/manual.pdf",
+            "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r02/pdf/n3200000.pdf",
+            "https://www.jwing.net/news/27997",
+            "https://webbu.jp/marketreserch-2021-6717",
+            "https://mub.co.jp/marketing/consultant-hypothesis/",
+            "https://www.service.andonuts.jp/posts/rpa-method-news",
+            "https://monoist.itmedia.co.jp/mn/articles/2103/10/news005.html"
+        ]
+    ],
+    "snapshot_ymd": "D2023-06-23",
+    "snapshot_timestamp": "D2023-06-23T01-27-22",
+    "responses": [
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "request": [
+                    {
+                        "title": "Google Custom Search - 業界 データ収集",
+                        "totalResults": "26500000",
+                        "searchTerms": "業界 データ収集",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 業界 データ収集",
+                        "totalResults": "26500000",
+                        "searchTerms": "業界 データ収集",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.377524,
+                "formattedSearchTime": "0.38",
+                "totalResults": "26500000",
+                "formattedTotalResults": "26,500,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "IT業界向けデータ収集・アノテーションサービス | Appen",
+                    "htmlTitle": "IT<b>業界</b>向け<b>データ収集</b>・アノテーションサービス | Appen",
+                    "link": "https://appen.co.jp/industries/technology/",
+                    "displayLink": "appen.co.jp",
+                    "snippet": "検索関連性、チャットボット、文字起こしなどIT業界のAI開発に必要な高品質な教師データの作成・アノテーションサービスをご紹介します。AI活用の事例もご覧いただけ ...",
+                    "htmlSnippet": "検索関連性、チャットボット、文字起こしなどIT<b>業界</b>のAI開発に必要な高品質な教師<b>データ</b>の作成・アノテーションサービスをご紹介します。AI活用の事例もご覧いただけ&nbsp;...",
+                    "cacheId": "1mhW1_cvZAsJ",
+                    "formattedUrl": "https://appen.co.jp/industries/technology/",
+                    "htmlFormattedUrl": "https://appen.co.jp/industries/technology/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSi6_CKQFiifnK4R6qGH47tPvHrFnomnGLYgubWxVxuuDelX-WyBGi-AEL5",
+                                "width": "318",
+                                "height": "159"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "msapplication-tilecolor": "#2F3BA2",
+                                "og:image": "https://japan.appen.com/wp-content/uploads/2020/03/discover-technology2.png",
+                                "msapplication-config": "/wp-content/themes/pro-child/static/dist/favicons/browserconfig.xml",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "IT業界向けデータ収集・アノテーションサービス | Appen",
+                                "og:site_name": "Appen",
+                                "og:title": "Artificial Intelligence in Technology | Appen",
+                                "msapplication-tileimage": "/wp-content/themes/pro-child/static/dist/favicons/ms-icon-70x70.png",
+                                "og:description": "検索関連性、チャットボット、文字起こしなどIT業界のAI開発に必要な高品質な教師データの作成・アノテーションサービスをご紹介します。AI活用の事例もご覧いただけます。",
+                                "og:image:secure_url": "https://japan.appen.com/wp-content/uploads/2020/03/discover-technology2.png",
+                                "twitter:image": "https://japan.appen.com/wp-content/uploads/2020/03/discover-technology2.png",
+                                "msapplication-tap-highlight": "no",
+                                "apple-mobile-web-app-status-bar-style": "black",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "twitter:description": "検索関連性、チャットボット、文字起こしなどIT業界のAI開発に必要な高品質な教師データの作成・アノテーションサービスをご紹介します。AI活用の事例もご覧いただけます。",
+                                "apple-mobile-web-app-capable": "yes",
+                                "og:locale": "ja_JP",
+                                "follow.it-verification-code-qxvjuljnmzfytzzus1aztec0aw5nthnatudozjqrdlgwzghsrhfvv2gwblkyt0nozgxhufjwotrmscs0b2fvmxfkt2lmy21qavc4smj0nu5fselimjlounbwyzirmuzcz2w4blrrztjsmhjxsnfkrmnys0xkzg51aw5huly4b1h8dhhamdl5ednzdhjmy2dnv2ppuvdlnxlqylcwzen4c2zltmv2rtl3dktfcz0=": "al69104ACu5hZAafceU3",
+                                "mobile-web-app-capable": "yes",
+                                "og:url": "https://appen.co.jp/industries/technology/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://japan.appen.com/wp-content/uploads/2020/03/discover-technology2.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "https://appen.co.jp/",
+                                "position": "1"
+                            },
+                            {
+                                "item": "業界別ソリューション",
+                                "name": "業界別ソリューション",
+                                "position": "2"
+                            },
+                            {
+                                "item": "テクノロジー",
+                                "name": "テクノロジー",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Portable Vibration Analyzers and Data Collectors | Bently Nevada",
+                    "htmlTitle": "Portable Vibration Analyzers and Data Collectors | Bently Nevada",
+                    "link": "https://www.bakerhughes.com/jp/bently-nevada/monitoring-systems/portable-vibration-testers-diagnostic-systems",
+                    "displayLink": "www.bakerhughes.com",
+                    "snippet": "ベントリー・ネバダのポータブルデータ収集器はすべて、業界をリードするSystem 1ソフトウェアにシームレスに接続できるように設計されています。",
+                    "htmlSnippet": "ベントリー・ネバダのポータブル<b>データ収集</b>器はすべて、<b>業界</b>をリードするSystem 1ソフトウェアにシームレスに接続できるように設計されています。",
+                    "cacheId": "UPLMJvWeCeUJ",
+                    "formattedUrl": "https://www.bakerhughes.com/.../portable-vibration-testers-diagnostic- systems",
+                    "htmlFormattedUrl": "https://www.bakerhughes.com/.../portable-vibration-testers-diagnostic- systems",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgquWCNd1NXTXxSVDZw-lgPzX6ADxWiqJh9aOC-yvkOkIE4RAXIxycQQFa",
+                                "width": "244",
+                                "height": "206"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "handheldfriendly": "true",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "mobileoptimized": "width",
+                                "abstract": "Our portable solutions bring powerful diagnostic tools virtually anywhere, supporting the walk-around component of today’s condition monitoring. Learn more."
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.bakerhughes.com/sites/bakerhughes/files/2021-11/portables_2.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【業界別】ビッグデータの活用事例！知っておくべきメリット ...",
+                    "htmlTitle": "【<b>業界</b>別】ビッグ<b>データ</b>の活用事例！知っておくべきメリット ...",
+                    "link": "https://www.dga.co.jp/column/20221121-04/",
+                    "displayLink": "www.dga.co.jp",
+                    "snippet": "2022/11/21 ... ビッグデータは、収集・蓄積・分析によって、あらゆるビジネスシーンで様々な成果を生み出すことが期待されています。",
+                    "htmlSnippet": "2022/11/21 <b>...</b> ビッグ<b>データ</b>は、<b>収集</b>・蓄積・分析によって、あらゆるビジネスシーンで様々な成果を生み出すことが期待されています。",
+                    "cacheId": "zOnwAR5l3s8J",
+                    "formattedUrl": "https://www.dga.co.jp/column/20221121-04/",
+                    "htmlFormattedUrl": "https://www.dga.co.jp/column/20221121-04/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8-gPQ2dM2vPTx8y9pX7-aTxaexGCnr91Gsvf-1A7QwDk2M7-9VPuN0TU",
+                                "width": "300",
+                                "height": "168"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.dga.co.jp/column/20221121-04/images/img1.png",
+                                "og:type": "article",
+                                "og:site_name": "株式会社ディジタルグロースアカデミア",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "og:title": "【業界別】ビッグデータの活用事例！知っておくべきメリット・デメリットも紹介 | コラム | 株式会社ディジタルグロースアカデミア",
+                                "og:url": "https://www.dga.co.jp/column/20221121-04/",
+                                "og:description": "ビッグデータは、幅広いビジネスシーンで利活用され、注目を集めています。ビッグデータを用いることで、過去の膨大な実績データから傾向の分析や高精度な予測が可能になります。また、商品の需要を予想し、製造量や在庫を過不足なく管理するなども可能になります。この記事では、ビッグデータの活用事例に加えて、メリット・デメリットを詳しく解説します。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.dga.co.jp/column/20221121-04/images/img1.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "製造現場（工場）におけるデータ収集・分析の必要性とは?",
+                    "htmlTitle": "製造現場（工場）における<b>データ収集</b>・分析の必要性とは?",
+                    "link": "https://www.cloud-for-all.com/azure/blog/data-collection-on-the-shop-floor",
+                    "displayLink": "www.cloud-for-all.com",
+                    "snippet": "2023/04/20 ... 【WellLine】製造業における生産性向上のためのアプリケーションの紹介. IoTとデータ分析を活用し、製造現場の生産性を向上させるためのソリューションが ...",
+                    "htmlSnippet": "2023/04/20 <b>...</b> 【WellLine】製造<b>業</b>における生産性向上のためのアプリケーションの紹介. IoTと<b>データ</b>分析を活用し、製造現場の生産性を向上させるためのソリューションが&nbsp;...",
+                    "cacheId": "M9NYq6e-DnUJ",
+                    "formattedUrl": "https://www.cloud-for-all.com/azure/.../data-collection-on-the-shop-floor",
+                    "htmlFormattedUrl": "https://www.cloud-for-all.com/azure/.../data-collection-on-the-shop-floor",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3-_WsSirSFJCs5JwuUbZiHONwf9t5-VqoeBtHCsP_JGwWFoPq_TkhMdE",
+                                "width": "303",
+                                "height": "166"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.cloud-for-all.com/hubfs/images/blog/data-collection-on-the-shop-floor.jpg#keepProtocol",
+                                "twitter:title": "製造現場（工場）におけるデータ収集・分析の必要性とは?",
+                                "og:image:width": "6728",
+                                "og:image:alt": "製造現場（工場）におけるデータ収集・分析の必要性とは?",
+                                "twitter:card": "summary_large_image",
+                                "og:type": "article",
+                                "twitter:domain": "www.cloud-for-all.com",
+                                "og:title": "製造現場（工場）におけるデータ収集・分析の必要性とは?",
+                                "og:image:height": "3693",
+                                "og:description": "スマートファクトリー構想などに示されるように、昨今の製造現場（工場）では生産性向上のために、データを収集・分析・可視化する必要性が高まっています。本記事では、製造現場の生産性向上のためにデータ収集・分析が必要な理由や、役立つITツールなどをご紹介します。",
+                                "twitter:image": "https://www.cloud-for-all.com/hubfs/images/blog/data-collection-on-the-shop-floor.jpg#keepProtocol",
+                                "facebook-domain-verification": "lq9mpg616uly6qkawbyy69xpq1k9ys",
+                                "twitter:image:alt": "製造現場（工場）におけるデータ収集・分析の必要性とは?",
+                                "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0",
+                                "twitter:description": "スマートファクトリー構想などに示されるように、昨今の製造現場（工場）では生産性向上のために、データを収集・分析・可視化する必要性が高まっています。本記事では、製造現場の生産性向上のためにデータ収集・分析が必要な理由や、役立つITツールなどをご紹介します。",
+                                "og:url": "https://www.cloud-for-all.com/azure/blog/data-collection-on-the-shop-floor"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.cloud-for-all.com/hubfs/images/blog/data-collection-on-the-shop-floor.jpg#keepProtocol"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "データ収集・分析・活用を行う会社とは？基礎知識・活用事例も ...",
+                    "htmlTitle": "<b>データ収集</b>・分析・活用を行う会社とは？基礎知識・活用事例も ...",
+                    "link": "https://aidiot.jp/media/data/bigdata_company/",
+                    "displayLink": "aidiot.jp",
+                    "snippet": "2022/07/20 ... オープンデータは自由に使うことができることから、業界ごとの分析やデータ収集などにも活用ができるので、企業活動で新しい活動を始める場合には ...",
+                    "htmlSnippet": "2022/07/20 <b>...</b> オープンデータは自由に使うことができることから、<b>業界</b>ごとの分析や<b>データ収集</b>などにも活用ができるので、企業活動で新しい活動を始める場合には&nbsp;...",
+                    "cacheId": "ERsFGWLN1GcJ",
+                    "formattedUrl": "https://aidiot.jp/media/data/bigdata_company/",
+                    "htmlFormattedUrl": "https://aidiot.jp/media/data/bigdata_company/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYUDSmdb6ShYuCNR2LsPSvl7Rx_AZqjVUDumW7-3ZSgFu8DSo5wK2z82Zc",
+                                "width": "281",
+                                "height": "180"
+                            }
+                        ],
+                        "breadcrumb": [
+                            {
+                                "title": "HOME",
+                                "url": "HOME"
+                            },
+                            {
+                                "title": "データ",
+                                "url": "データ"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://aidiot.jp/media/wp-content/uploads/2022/07/22486955_s-1-640x410.jpg",
+                                "og:type": "article",
+                                "article:published_time": "2022-07-20T06:01:48+00:00",
+                                "twitter:card": "summary",
+                                "twitter:title": "データ収集・分析・活用を行う会社とは？基礎知識・活用事例も紹介 - Aidiotプラス",
+                                "og:site_name": "Aidiotプラス - アイディオットプラスはデータ活用・新規事業開発者様に向けた日々の業務にプラスになるお役立ち情報をお届け。",
+                                "og:title": "データ収集・分析・活用を行う会社とは？基礎知識・活用事例も紹介 - Aidiotプラス",
+                                "og:description": "ビッグデータの種類 ビッグデータとはその名前の通り莫大な量のデータのことを指します。これからの企業経営において",
+                                "facebook-domain-verification": "7a8a3yxggmj1ujbky21etxouffzw2e",
+                                "article:modified_time": "2022-10-03T04:56:38+00:00",
+                                "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                                "twitter:description": "ビッグデータの種類 ビッグデータとはその名前の通り莫大な量のデータのことを指します。これからの企業経営において",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://aidiot.jp/media/data/bigdata_company/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://aidiot.jp/media/wp-content/uploads/2022/07/22486955_s-1-640x410.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "エネルギー・住宅設備業界｜データ収集工数を50％以上削減 ...",
+                    "htmlTitle": "エネルギー・住宅設備<b>業界</b>｜<b>データ収集</b>工数を50％以上削減 ...",
+                    "link": "https://www.ever-rise.co.jp/dx-blog/case-tokyogas-livsolutions/",
+                    "displayLink": "www.ever-rise.co.jp",
+                    "snippet": "2022/10/06 ... 東京ガスリブソリューションズさまでは、2つの事業の子会社を含めた、それぞれの事業を横断したデータの分析と活用のためのデータ統合基盤の整備が ...",
+                    "htmlSnippet": "2022/10/06 <b>...</b> 東京ガスリブソリューションズさまでは、2つの事業の子会社を含めた、それぞれの事業を横断した<b>データ</b>の分析と活用のための<b>データ</b>統合基盤の整備が&nbsp;...",
+                    "cacheId": "nNXbew4UT0gJ",
+                    "formattedUrl": "https://www.ever-rise.co.jp/dx-blog/case-tokyogas-livsolutions/",
+                    "htmlFormattedUrl": "https://www.ever-rise.co.jp/dx-blog/case-tokyogas-livsolutions/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmsdmr6dGV45AmJEuBs7jXRdFrKqZIHl0khofepRZ-o9mp0vAA8CAR8E_W",
+                                "width": "311",
+                                "height": "162"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.ever-rise.co.jp/dx-blog/static/f71cc8fcc292d0dc36a06b7b09eb713a/f3583/case-tokyogas-livsolutions-thumbnail.png",
+                                "theme-color": "#031E43",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "エネルギー・住宅設備業界｜データ収集工数を50％以上削減。スモールスタートで始めるデータ統合基盤構築",
+                                "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                                "twitter:description": "東京ガスリブソリューションズさまでは、2つの事業の子会社を含めた、それぞれの事業を横断したデータの分析と活用のためのデータ統合基盤の整備が求められていました。その中でEVERRISEは、実験的に現状のデータの収集と統合を行い、本格的なデータ統合基盤構築時に活かすための簡易的なデータ統合の仕組みを開発支援しました。",
+                                "og:title": "エネルギー・住宅設備業界｜データ収集工数を50％以上削減。スモールスタートで始めるデータ統合基盤構築",
+                                "og:description": "東京ガスリブソリューションズさまでは、2つの事業の子会社を含めた、それぞれの事業を横断したデータの分析と活用のためのデータ統合基盤の整備が求められていました。その中でEVERRISEは、実験的に現状のデータの収集と統合を行い、本格的なデータ統合基盤構築時に活かすための簡易的なデータ統合の仕組みを開発支援しました。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.ever-rise.co.jp/dx-blog/static/f71cc8fcc292d0dc36a06b7b09eb713a/f3583/case-tokyogas-livsolutions-thumbnail.png"
+                            }
+                        ],
+                        "article": [
+                            {
+                                "articlebody": "業種エネルギー・住宅設備業界導入サービスデータ統合基盤開発 東京ガス株式会社（以下東京ガス）の子会社である東京ガスリブソリューション...",
+                                "headline": "エネルギー・住宅設備業界｜データ収集工数を50％以上削減。スモールスタートで始めるデータ統合基盤構築"
+                            },
+                            {
+                                "headline": "教育業界｜ETL基盤開発によるPoC支援",
+                                "url": "https://www.ever-rise.co.jp/dx-blog/case-education1/"
+                            },
+                            {
+                                "headline": "【DXニュース】調査で判明「DX推進が停滞した企業」の特徴6つと解決策｜ITmedia など",
+                                "url": "https://www.ever-rise.co.jp/dx-blog/dx-news-20210201/"
+                            },
+                            {
+                                "headline": "【DXニュース】UXへの意識に大きな差、国内と世界のデジタルトランスフォーメーション動向を比較 など",
+                                "url": "https://www.ever-rise.co.jp/dx-blog/dx-news-20210118/"
+                            },
+                            {
+                                "headline": "【DXニュース】デジタルマーケティング、2021年の7つのトレンド予想 など",
+                                "url": "https://www.ever-rise.co.jp/dx-blog/dx-news-20210112/"
+                            },
+                            {
+                                "headline": "【DXニュース】DXの成功と失敗を決める「3つの分岐点」とは -アビームコンサルティング- など",
+                                "url": "https://www.ever-rise.co.jp/dx-blog/dx-news-20201221/"
+                            },
+                            {
+                                "headline": "【DXニュース】農林水産省「DX人材」を公募 ビズリーチで12月8日から2種職で募集 など",
+                                "url": "https://www.ever-rise.co.jp/dx-blog/dx-news-20201215/"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "「建設業界向け、立替・決済サービス」の株式会社ランドデータ ...",
+                    "htmlTitle": "「建設<b>業界</b>向け、立替・決済サービス」の株式会社ランド<b>データ</b> ...",
+                    "link": "https://prtimes.jp/main/html/rd/p/000000014.000055673.html",
+                    "displayLink": "prtimes.jp",
+                    "snippet": "2020/12/01 ... ... 立替・決済サービス」の株式会社ランドデータバンク、NEDO公募事業に採択決定 ―建設業界特化型の各種データ収集型連携基盤と独自与信システムの開発―",
+                    "htmlSnippet": "2020/12/01 <b>...</b> ... 立替・決済サービス」の株式会社ランドデータバンク、NEDO公募事業に採択決定 ―建設<b>業界</b>特化型の各種<b>データ収集</b>型連携基盤と独自与信システムの開発―",
+                    "cacheId": "5QBDfKC0pRgJ",
+                    "formattedUrl": "https://prtimes.jp/main/html/rd/p/000000014.000055673.html",
+                    "htmlFormattedUrl": "https://prtimes.jp/main/html/rd/p/000000014.000055673.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTauC_jJ4YhSmA_NI9qYSsrx67pTYarjF4w0P-ToVfnKQKTZgGMJKvBXvM",
+                                "width": "299",
+                                "height": "168"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://prtimes.jp/i/55673/14/resize/d55673-14-228690-0.png"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://prtimes.jp/i/55673/14/ogp/d55673-14-228690-0.png",
+                                "og:type": "article",
+                                "twitter:title": "「建設業界向け、立替・決済サービス」の株式会社ランドデータバンク、NEDO公募事業に採択決定　―建設業界特化型の各種データ収集型連携基盤と独自与信システムの開発―",
+                                "twitter:card": "summary_large_image",
+                                "thumbnail": "https://prtimes.jp/i/55673/14/resize/d55673-14-228690-0.png",
+                                "og:site_name": "プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES",
+                                "twitter:url": "https://prtimes.jp/main/html/rd/p/000000014.000055673.html",
+                                "og:title": "「建設業界向け、立替・決済サービス」の株式会社ランドデータバンク、NEDO公募事業に採択決定　―建設業界特化型の各種データ収集型連携基盤と独自与信システムの開発―",
+                                "twitter:image:height": "300",
+                                "release:company": "株式会社ランドデータバンク",
+                                "release:image": "https://prtimes.jp/i/55673/14/resize/d55673-14-228690-0.png",
+                                "release:date": "2020年12月1日 09時59分",
+                                "og:description": "株式会社ランドデータバンクのプレスリリース（2020年12月1日 09時59分）[建設業界向け、立替・決済サービス]の株式会社ランドデータバンク、NEDO公募事業に採択決定　―建設業界特化型の各種データ収集型連携基盤と独自与信システムの開発―",
+                                "twitter:creator": "@PRTIMES_JP",
+                                "twitter:image": "https://prtimes.jp/i/55673/14/ogp/d55673-14-228690-0.png",
+                                "fb:app_id": "1495958567142613",
+                                "twitter:site": "@PRTIMES_JP",
+                                "twitter:image:width": "300",
+                                "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                                "twitter:description": "株式会社ランドデータバンクのプレスリリース（2020年12月1日 09時59分）[建設業界向け、立替・決済サービス]の株式会社ランドデータバンク、NEDO公募事業に採択決定　―建設業界特化型の各種データ収集型連携基盤と独自与信システムの開発―",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://prtimes.jp/main/html/rd/p/000000014.000055673.html"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://prtimes.jp/i/55673/14/resize/d55673-14-228690-0.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "ベーリンガーインゲルハイムが臨床試験の電子データ収集で ...",
+                    "htmlTitle": "ベーリンガーインゲルハイムが臨床試験の電子<b>データ収集</b>で ...",
+                    "link": "https://www.businesswire.com/news/home/20221027005036/ja/",
+                    "displayLink": "www.businesswire.com",
+                    "snippet": "2022/10/31 ... メディデータの分散型臨床試験プログラムは、業界で唯一の拡張可能なエンドツーエンドのサービスであり、個人がデータを提供する方法、患者に医薬品を発送 ...",
+                    "htmlSnippet": "2022/10/31 <b>...</b> メディ<b>データ</b>の分散型臨床試験プログラムは、<b>業界</b>で唯一の拡張可能なエンドツーエンドのサービスであり、個人が<b>データ</b>を提供する方法、患者に医薬品を発送&nbsp;...",
+                    "cacheId": "GdP00ZmQf0oJ",
+                    "formattedUrl": "https://www.businesswire.com/news/home/20221027005036/ja/",
+                    "htmlFormattedUrl": "https://www.businesswire.com/news/home/20221027005036/ja/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSS8Ay_8R0aNVb7qaahy8TWf3pH_LdPyactnEgo8qT_cuHnXyD7uTh4qUU",
+                                "width": "311",
+                                "height": "162"
+                            }
+                        ],
+                        "organization": [
+                            {
+                                "name": "BUSINESS WIRE",
+                                "url": "BUSINESS WIRE"
+                            },
+                            {
+                                "name": "Medidata"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "p:domain_verify": "95725e0359a14c2e1ccbd936e10d20d6",
+                                "og:image": "https://mms.businesswire.com/media/20221027005036/ja/1613443/23/3DS_MEDIDATA_Logotype_RGB_PRIMARY.jpg",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "ベーリンガーインゲルハイムが臨床試験の電子データ収集でMedidata Raveの使用を拡大",
+                                "og:image:width": "1200",
+                                "og:type": "article",
+                                "twitter:widgets:csp": "on",
+                                "og:title": "ベーリンガーインゲルハイムが臨床試験の電子データ収集でMedidata Raveの使用を拡大",
+                                "og:image:height": "627",
+                                "og:image:type": "image/jpg",
+                                "shareaholic:site_id": "89dc665dcdfc14f93d0bc528f366fe24",
+                                "og:description": "ダッソー・システムズ傘下のメディデータとベーリンガーインゲルハイムは本日、電子データ収集のより広範な分野における両社の協業を5年更新したと発表しました。新しい契約は、世界各地でベーリンガーインゲルハイムが実施する臨床試験におけるRave EDCの使用を拡大し、メディデータの革新的な一連の患者対応技術",
+                                "fb:pages": "1157450754275955",
+                                "dc.date.issued": "2022-10-31",
+                                "twitter:image": "https://mms.businesswire.com/media/20221027005036/ja/1613443/22/3DS_MEDIDATA_Logotype_RGB_PRIMARY.jpg",
+                                "og:image:secure_url": "https://mms.businesswire.com/media/20221027005036/ja/1613443/23/3DS_MEDIDATA_Logotype_RGB_PRIMARY.jpg",
+                                "twitter:site": "@businesswire",
+                                "shareaholic:url": "https://www.businesswire.com/news/home/20221027005036/ja/",
+                                "viewport": "width=device-width,initial-scale=1",
+                                "twitter:description": "ダッソー・システムズ傘下のメディデータとベーリンガーインゲルハイムは本日、電子データ収集のより広範な分野における両社の協業を5年更新したと発表しました。新しい契約は、世界各地でベーリンガーインゲルハイムが実施する臨床試験におけるRave EDCの使用を拡大し、メディデータの革新的な一連の患者対応技術",
+                                "og:url": "https://www.businesswire.com/news/home/20221027005036/ja/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://mms.businesswire.com/media/20221027005036/ja/1613443/23/3DS_MEDIDATA_Logotype_RGB_PRIMARY.jpg"
+                            }
+                        ],
+                        "newsarticle": [
+                            {
+                                "articlebody": "ニューヨーク--(BUSINESS WIRE)--ダッソー・システムズ傘下のメディデータとベーリンガーインゲルハイムは本日、電子データ収集のより広範な分野に...",
+                                "datemodified": "2022-10-31T14:08:00Z",
+                                "headline": "ベーリンガーインゲルハイムが臨床試験の電子データ収集でMedidata Raveの使用を拡大",
+                                "url": "https://www.businesswire.com/news/home/20221027005036/ja/",
+                                "datepublished": "2022-10-31T14:08:00Z"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "データ収集ボードの解説 | イプロスモノシリ | モノシリ | 製造業技術 ...",
+                    "htmlTitle": "<b>データ収集</b>ボードの解説 | イプロスモノシリ | モノシリ | 製造<b>業</b>技術 ...",
+                    "link": "https://www.ipros.jp/monosiri/term/%E3%83%87%E3%83%BC%E3%82%BF%E5%8F%8E%E9%9B%86%E3%83%9C%E3%83%BC%E3%83%89",
+                    "displayLink": "www.ipros.jp",
+                    "snippet": "... はデータ収集ボードに携わるエンジニアの為に技術用語集を始めとしたものづくりデータベースを提供、専門分野のスキルアップや技術伝承を支援する、製造業の最先端 ...",
+                    "htmlSnippet": "... は<b>データ収集</b>ボードに携わるエンジニアの為に技術用語集を始めとしたものづくりデータベースを提供、専門分野のスキルアップや技術伝承を支援する、製造<b>業</b>の最先端&nbsp;...",
+                    "cacheId": "7wJEdjJiXwcJ",
+                    "formattedUrl": "https://www.ipros.jp/monosiri/term/データ収集ボード",
+                    "htmlFormattedUrl": "https://www.ipros.jp/monosiri/term/<b>データ収集</b>ボード",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTF4nA80OyGDlL41SGT7YdjCmG93Y6mN8HYtzJV5xGeojGM_hBRt8c8Zy71",
+                                "width": "267",
+                                "height": "189"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.ipros.jp/public/product/image/46e/2000687587/IPROS68071507157214614957.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【知らないと生き残れない？】小売業におけるデータの活用方法を ...",
+                    "htmlTitle": "【知らないと生き残れない？】小売<b>業</b>における<b>データ</b>の活用方法を ...",
+                    "link": "https://pig-data.jp/blog_news/blog/scraping-crawling/retail/",
+                    "displayLink": "pig-data.jp",
+                    "snippet": "2022/02/03 ... 顧客データのビジネス活用はあらゆる業界で行われており、小売業 ... 発展に伴って質のよいデータを効率よく収集して、分析できるようになりました。",
+                    "htmlSnippet": "2022/02/03 <b>...</b> 顧客<b>データ</b>のビジネス活用はあらゆる<b>業界</b>で行われており、小売<b>業</b> ... 発展に伴って質のよい<b>データ</b>を効率よく<b>収集</b>して、分析できるようになりました。",
+                    "cacheId": "nb0BZdpb-14J",
+                    "formattedUrl": "https://pig-data.jp/blog_news/blog/scraping-crawling/retail/",
+                    "htmlFormattedUrl": "https://pig-data.jp/blog_news/blog/scraping-crawling/retail/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCqybMQO2Kg035t3dkOLHIBKIjf0Gt0wxx6S2WADyMIK9BiT2_93EuifY",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://pig-data.jp/wp-content/uploads/pd_thumbnail_img-230037-L.jpg",
+                                "og:type": "article",
+                                "og:image:width": "1920",
+                                "article:published_time": "2022-02-03T08:42:23+00:00",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "【知らないと生き残れない？】小売業におけるデータの活用方法を徹底解説 – PigData | ビッグデータ収集・分析・活用ソリューション",
+                                "og:site_name": "PigData | ビッグデータ収集・分析・活用ソリューション – PigDataは、お客様のデータ活用に対する課題を丁寧にヒアリングし、 最適なデータ活用ソリューションをご提供します。",
+                                "og:title": "【知らないと生き残れない？】小売業におけるデータの活用方法を徹底解説 – PigData | ビッグデータ収集・分析・活用ソリューション",
+                                "og:image:height": "1280",
+                                "msapplication-tileimage": "https://pig-data.jp/wp-content/uploads/cropped-favicon-1-270x270.png",
+                                "og:description": "小売店でデータ活用をして、集客力や売上を上げたいと考えている方は多くいるのではないでしょうか？顧客データのビジ",
+                                "og:image:secure_url": "https://pig-data.jp/wp-content/uploads/pd_thumbnail_img-230037-L.jpg",
+                                "twitter:image": "https://pig-data.jp/wp-content/uploads/pd_thumbnail_img-230037-L.jpg",
+                                "article:modified_time": "2023-06-01T06:05:43+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "小売店でデータ活用をして、集客力や売上を上げたいと考えている方は多くいるのではないでしょうか？顧客データのビジ",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://pig-data.jp/blog_news/blog/scraping-crawling/retail/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://pig-data.jp/wp-content/uploads/pd_thumbnail_img-230037-L.jpg"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 業界 データ収集",
+                        "totalResults": "26500000",
+                        "searchTerms": "業界 データ収集",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 業界 データ収集",
+                        "totalResults": "26500000",
+                        "searchTerms": "業界 データ収集",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 業界 データ収集",
+                        "totalResults": "26500000",
+                        "searchTerms": "業界 データ収集",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.210973,
+                "formattedSearchTime": "0.21",
+                "totalResults": "26500000",
+                "formattedTotalResults": "26,500,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "ビッグデータの分析に取り組む有名企業を紹介！ビッグデータの ...",
+                    "htmlTitle": "ビッグ<b>データ</b>の分析に取り組む有名企業を紹介！ビッグ<b>データ</b>の ...",
+                    "link": "https://www.geekly.co.jp/column/cat-position/big-data/",
+                    "displayLink": "www.geekly.co.jp",
+                    "snippet": "2023/03/31 ... ギークリーはIT・Web・ゲーム業界に特化した転職エージェントです ... 収集したデータを加工し把握することで、企業はより課題解決の勝率を上げること ...",
+                    "htmlSnippet": "2023/03/31 <b>...</b> ギークリーはIT・Web・ゲーム<b>業界</b>に特化した転職エージェントです ... <b>収集</b>した<b>データ</b>を加工し把握することで、企業はより課題解決の勝率を上げること&nbsp;...",
+                    "cacheId": "6Xc8n3s_2D4J",
+                    "formattedUrl": "https://www.geekly.co.jp/column/cat-position/big-data/",
+                    "htmlFormattedUrl": "https://www.geekly.co.jp/column/cat-position/big-data/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6o9DodLZS8qMk9NNjjF4NrnErVf4luE77_p2kuNjmYBUXYlgI9vYK7ssk",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.geekly.co.jp/column/wp-content/uploads/2020/10/5ee9d0464c55b108f5d08460962933771d36dced4e507749742879d6944ac3_1280-e1602252810995-660x440.jpg",
+                                "og:type": "website",
+                                "og:site_name": "GeeklyMedia(ギークリーメディア)",
+                                "viewport": "width=device-width, initial-scale=1, maximum-scale=1.0",
+                                "og:title": "ビッグデータの分析に取り組む有名企業を紹介！ビッグデータの活用事例は？ビッグデータ分析企業に転職したい方必見 | GeeklyMedia(ギークリーメディア)",
+                                "og:url": "https://www.geekly.co.jp/column/cat-position/big-data/",
+                                "msapplication-tileimage": "https://www.geekly.co.jp/column/wp-content/uploads/2019/11/cropped-rogo-1-1-270x270.jpg",
+                                "og:description": "ビッグデータを利用して情報を分析する現代。データ分析からよりよい顧客サービスへつなげたり、売り上げアップを目指すなど、ビッグデータを活用する企業も増えています。今回はそんなビッグデータを扱う企業に転職したい方へ、ビッグデータの有名企業や転職に役立つ情報をご紹介します。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.geekly.co.jp/column/wp-content/uploads/2020/10/5ee9d0464c55b108f5d08460962933771d36dced4e507749742879d6944ac3_1280-e1602252810995-660x440.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "ビッグデータ活用事例集｜12業界の実例から知識を得よう",
+                    "htmlTitle": "ビッグ<b>データ</b>活用事例集｜12<b>業界</b>の実例から知識を得よう",
+                    "link": "https://receiptreward.jp/solution/column/casestudy-bigdata.html",
+                    "displayLink": "receiptreward.jp",
+                    "snippet": "ヤクルトは幅広い経路から収集したビッグデータのデータアナリティクス（データ分析）によって、15～20%の売上増を達成しました。消費者の購買データだけでなく、気象 ...",
+                    "htmlSnippet": "ヤクルトは幅広い経路から<b>収集</b>したビッグ<b>データ</b>の<b>データ</b>アナリティクス（<b>データ</b>分析）によって、15～20%の売上増を達成しました。消費者の購買<b>データ</b>だけでなく、気象&nbsp;...",
+                    "cacheId": "DaYITvN_dVcJ",
+                    "formattedUrl": "https://receiptreward.jp/solution/column/casestudy-bigdata.html",
+                    "htmlFormattedUrl": "https://receiptreward.jp/solution/column/casestudy-bigdata.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTu582o68Uhv9w-MwWRiouez6QSO3x389A3zyIUunlXJz9Xrb_qX0W0J-nm",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "twitter:card": "summary",
+                                "og:type": "website",
+                                "og:site_name": "フェリカネットワークス株式会社",
+                                "viewport": "width=device-width, viewport-fit=cover",
+                                "og:title": "マーケティングコラム | IDレシートBIツール | FeliCa Networks",
+                                "og:url": "https://receiptreward.jp/solution/",
+                                "og:description": "ビッグデータの活用により、従来のマーケティング手法では不可能だった課題解決や売上向上が実現しています。この記事では12業界のビッグデータの活用事例を紹介し、実施内容を詳しく紹介します。ビッグデータの将来性も解説するのでぜひ参考にしてください。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://receiptreward.jp/solution/column/img/%E3%83%92%E3%82%99%E3%83%83%E3%82%AF%E3%82%99%E3%83%86%E3%82%99%E3%83%BC%E3%82%BF%E6%B4%BB%E7%94%A8%E4%BA%8B%E4%BE%8B%E9%9B%86%EF%BD%9C12%E6%A5%AD%E7%95%8C%E3%81%AE%E5%AE%9F%E4%BE%8B%E3%81%8B%E3%82%89%E7%9F%A5%E8%AD%98%E3%82%92%E5%BE%97%E3%82%88%E3%81%86.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "小売業でデータ分析を活用するにはどうすれば良いのか？具体的な ...",
+                    "htmlTitle": "小売<b>業</b>で<b>データ</b>分析を活用するにはどうすれば良いのか？具体的な ...",
+                    "link": "https://business.ntt-east.co.jp/bizdrive/column/post_128.html",
+                    "displayLink": "business.ntt-east.co.jp",
+                    "snippet": "2023/03/13 ... 近年ではICT化が急激に進み、IoT、AI、ビッグデータなどが浸透しつつあります。ICT化により、店舗でもさまざまなデータが収集・管理するようになり ...",
+                    "htmlSnippet": "2023/03/13 <b>...</b> 近年ではICT化が急激に進み、IoT、AI、ビッグ<b>データ</b>などが浸透しつつあります。ICT化により、店舗でもさまざまな<b>データ</b>が<b>収集</b>・管理するようになり&nbsp;...",
+                    "cacheId": "w5zDpp-zALwJ",
+                    "formattedUrl": "https://business.ntt-east.co.jp/bizdrive/column/post_128.html",
+                    "htmlFormattedUrl": "https://business.ntt-east.co.jp/bizdrive/column/post_128.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwqP2071bZzFxfcZq_bYfAM48pln4-GJZ6fZ-vGyYKv4uELAD4AfVvEvbg",
+                                "width": "274",
+                                "height": "184"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://business.ntt-east.co.jp/bizdrive/images/retail%20analytics_660.jpg",
+                                "og:type": "website",
+                                "og:site_name": "NTT東日本 法人のお客さま",
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+                                "og:title": "小売業でデータ分析を活用するにはどうすれば良いのか？具体的な方法を解説 ｜法人のお客さま｜NTT東日本",
+                                "og:url": "https://business.ntt-east.co.jp/bizdrive/column/post_128.html",
+                                "og:description": "小売業では、購買率や来店客数、平均的な客単価などのデータを分析して、店舗の現状を把握することが可能です。しかし、どうやってデータを分析するのが良いのでしょうか？データ分析を活用する際の流れや、分析を行う際の視点を解説します。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://business.ntt-east.co.jp/bizdrive/images/retail%20analytics_660.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【不動産業界編】業務システムを集約・クラウド化し、データ収集 ...",
+                    "htmlTitle": "【不動産<b>業界</b>編】業務システムを集約・クラウド化し、<b>データ収集</b> ...",
+                    "link": "https://dts-digital.jp/servicenow/casestudy/97/",
+                    "displayLink": "dts-digital.jp",
+                    "snippet": "【不動産業界編】業務システムを集約・クラウド化し、データ収集・集計からレポート作成までを自動化. 業種. 不動産. 規模. 1,000名以上. Keyword.",
+                    "htmlSnippet": "【不動産<b>業界</b>編】業務システムを集約・クラウド化し、<b>データ収集</b>・集計からレポート作成までを自動化. 業種. 不動産. 規模. 1,000名以上. Keyword.",
+                    "cacheId": "2UAH6sxtSXEJ",
+                    "formattedUrl": "https://dts-digital.jp/servicenow/casestudy/97/",
+                    "htmlFormattedUrl": "https://dts-digital.jp/servicenow/casestudy/97/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVAgtRF3kJ2Jp0iPz6xZo7nsW2P42PzRZj6PZdyeTGdFoLPydM3d27TlI",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://dts-digital.jp/servicenow/lp/assets/img/ogp.png",
+                                "og:type": "website",
+                                "og:site_name": "ServiceNow🄬導入支援サービス | DTS 業務改革DXソリューション",
+                                "viewport": "width=device-width",
+                                "og:title": "ServiceNow🄬導入支援サービス | DTS 業務改革DXソリューション",
+                                "og:locale": "ja_JP",
+                                "position": "1",
+                                "og:url": "https://dts-digital.jp/servicenow/lp/",
+                                "og:description": "「ServiceNow」の導入支援を、DTSが支援いたします。1つのプラットフォームによる企業の業務生産性向上、従業員体験の高度化、顧客エンゲージメントの向上を実現します。",
+                                "url": "https://dts-digital.jp/servicenow/casestudy/97/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://dts-digital.jp/servicenow/lp/assets/img/ogp.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "アナリティクス：通信業界ビジネスにおける ビッグデータの活用",
+                    "htmlTitle": "アナリティクス：通信<b>業界</b>ビジネスにおける ビッグ<b>データ</b>の活用",
+                    "link": "https://www.ibm.com/downloads/cas/9ZOBLQWE",
+                    "displayLink": "www.ibm.com",
+                    "snippet": "CSPが従. 来、収集してきた音声データは、スマートフォン、タブレット、. PC、ネットワーク、センサー、RFIDタグ、ソーシャル・メディ. アなどがもたらす状況データに比べ ...",
+                    "htmlSnippet": "CSPが従. 来、<b>収集</b>してきた音声<b>データ</b>は、スマートフォン、タブレット、. PC、ネットワーク、センサー、RFIDタグ、ソーシャル・メディ. アなどがもたらす状況<b>データ</b>に比べ&nbsp;...",
+                    "cacheId": "up5Q6kXvJJ4J",
+                    "formattedUrl": "https://www.ibm.com/downloads/cas/9ZOBLQWE",
+                    "htmlFormattedUrl": "https://www.ibm.com/downloads/cas/9ZOBLQWE",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLL6YhUZTn0EARNv-E_KbQRHN46brXFOjWGDC3UUFTDTSb5SxHaXAceJ0",
+                                "width": "255",
+                                "height": "198"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "moddate": "D:20140512155142+05'30'",
+                                "creationdate": "D:20131219103414+09'00'",
+                                "creator": "Adobe InDesign CS2_J (4.0)",
+                                "producer": "Adobe PDF Library 7.0"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "x-raw-image:///2ac187dbff55eb10bf474ffc078620a963d10e95b0ae4569f1548e14d790ed1c"
+                            }
+                        ]
+                    },
+                    "mime": "application/pdf",
+                    "fileFormat": "PDF/Adobe Acrobat"
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "車体立てつけ精度データ収集 | 自動車・車体組立 | 業界別IoT活用事例 ...",
+                    "htmlTitle": "車体立てつけ精度<b>データ収集</b> | 自動車・車体組立 | <b>業界</b>別IoT活用事例 ...",
+                    "link": "https://www.keyence.co.jp/ss/general/iot-casestudy/installation-examples/automotive/precision.jsp",
+                    "displayLink": "www.keyence.co.jp",
+                    "snippet": "車全体のボディー段差や隙間をデータ化し、自動管理するIoT改善事例をご紹介します。キーエンスが運営する「業界別センサIoT活用事例サイト」では、IoTの基礎知識 ...",
+                    "htmlSnippet": "車全体のボディー段差や隙間を<b>データ</b>化し、自動管理するIoT改善事例をご紹介します。キーエンスが運営する「<b>業界</b>別センサIoT活用事例サイト」では、IoTの基礎知識&nbsp;...",
+                    "cacheId": "0ldCzRAfF8gJ",
+                    "formattedUrl": "https://www.keyence.co.jp/ss/general/iot-casestudy/.../precision.jsp",
+                    "htmlFormattedUrl": "https://www.keyence.co.jp/ss/general/iot-casestudy/.../precision.jsp",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQane4rocJML9tYUwwaJIhVLnJBRl02zUkU0miX_sbXSOftISB4vSTkRTFb",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,initial-scale=1"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.keyence.co.jp/Images/ss_iot-casestudy_i_a_precision_001_1761712.jpg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "HOME",
+                                "name": "HOME",
+                                "position": "1"
+                            },
+                            {
+                                "item": "業界別IoT活用事例",
+                                "name": "業界別IoT活用事例",
+                                "position": "2"
+                            },
+                            {
+                                "item": "自動車・車体組立",
+                                "name": "自動車・車体組立",
+                                "position": "3"
+                            },
+                            {
+                                "item": "車体立てつけ精度データ収集",
+                                "name": "車体立てつけ精度データ収集",
+                                "position": "4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "IoTで実現する、小売業におけるデータ収集と活用 成功の秘訣は ...",
+                    "htmlTitle": "IoTで実現する、小売<b>業</b>における<b>データ収集</b>と活用 成功の秘訣は ...",
+                    "link": "https://retailguide.tokubai.co.jp/data/34656/",
+                    "displayLink": "retailguide.tokubai.co.jp",
+                    "snippet": "2023/01/04 ... 小売業におけるデータ活用の重要性は一層高まっているが、経験のない企業がこれを素早く始めるには困難なケースもある。ソラコムの松下氏がデータ収集 ...",
+                    "htmlSnippet": "2023/01/04 <b>...</b> 小売<b>業</b>におけるデータ活用の重要性は一層高まっているが、経験のない企業がこれを素早く始めるには困難なケースもある。ソラコムの松下氏が<b>データ収集</b>&nbsp;...",
+                    "cacheId": "xqVJwySPgIEJ",
+                    "formattedUrl": "https://retailguide.tokubai.co.jp/data/34656/",
+                    "htmlFormattedUrl": "https://retailguide.tokubai.co.jp/data/34656/",
+                    "pagemap": {
+                        "BreadcrumbList": [
+                            {
+                                "position": "1"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:type": "article",
+                                "article:published_time": "2023-01-04T06:37:07+00:00",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "IoTで実現する、小売業におけるデータ収集と活用 成功の秘訣は”素早く始め、小さくとも結果を出して共有” | リテールガイド",
+                                "og:site_name": "リテールガイド | 小売流通業界のデジタル変革をガイドするニュースメディア  ",
+                                "og:title": "IoTで実現する、小売業におけるデータ収集と活用 成功の秘訣は”素早く始め、小さくとも結果を出して共有” | リテールガイド",
+                                "msapplication-tileimage": "https://retailguide.tokubai.co.jp/wp-content/uploads/2020/08/cropped-favicon-270x270.png",
+                                "og:description": "小売業におけるデータ活用の重要性は一層高まっているが、経験のない企業がこれを素早く始めるには困難なケースもある。ソラコムの松下氏がデータ収集の要となるIoTの課題を明らかにしつつ、データ活用を推進する上で重要な「作らずに、創る」というアプローチを紹介した。 [PR／ITmedia] 小売業におけるデータ活用の歴史は古く、POSデータによる販売分析や需要予測、自動発注など業務改革に向けて積極的にデータを利用してきた。コロナ禍を経て消費者の購買行動が変化したことで、この取り組みはより重要性を増している。 2022年11月2日に開催された「リテール未来会議2022 -Retail DX Conf…",
+                                "twitter:image": "https://retailguide.tokubai.co.jp/wp-content/uploads/2023/01/kt2487_figr01.jpg",
+                                "article:modified_time": "2023-01-04T06:37:11+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "小売業におけるデータ活用の重要性は一層高まっているが、経験のない企業がこれを素早く始めるには困難なケースもある。ソラコムの松下氏がデータ収集の要となるIoTの課題を明らかにしつつ、データ活用を推進する上で重要な「作らずに、創る」というアプローチを紹介した。 [PR／ITmedia] 小売業におけるデータ活用の歴史は古く、POSデータによる販売分析や需要予測、自動発注など業務改革に向けて積極的にデータを利用してきた。コロナ禍を経て消費者の購買行動が変化したことで、この取り組みはより重要性を増している。 2022年11月2日に開催された「リテール未来会議2022 -Retail DX Conf…",
+                                "og:locale": "ja_JP",
+                                "position": "1",
+                                "og:url": "https://retailguide.tokubai.co.jp/data/34656/",
+                                "format-detection": "telephone=no"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "物流におけるデータ活用方法とは？ポイントや活用例も合わせて ...",
+                    "htmlTitle": "物流における<b>データ</b>活用方法とは？ポイントや活用例も合わせて ...",
+                    "link": "https://pig-data.jp/blog_news/blog/scraping-crawling/buturyuu/",
+                    "displayLink": "pig-data.jp",
+                    "snippet": "2022/02/02 ... 物流業界でもデータを活用する動きが強まっていますが、実際どのようにデータ ... 過去から現在までのデータを収集して分析することで、 将来発生する ...",
+                    "htmlSnippet": "2022/02/02 <b>...</b> 物流<b>業界</b>でも<b>データ</b>を活用する動きが強まっていますが、実際どのように<b>データ</b> ... 過去から現在までの<b>データ</b>を<b>収集</b>して分析することで、 将来発生する&nbsp;...",
+                    "cacheId": "vo5WhC3xsQ4J",
+                    "formattedUrl": "https://pig-data.jp/blog_news/blog/scraping-crawling/buturyuu/",
+                    "htmlFormattedUrl": "https://pig-data.jp/blog_news/blog/scraping-crawling/buturyuu/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7AP99EsItDO5QMeW5Etj67-T1VNPX4oE91zPRyLUpYsWSne_jXzhRUX0",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://pig-data.jp/wp-content/uploads/pd_thumbnail_img-230033-L.jpg",
+                                "og:type": "article",
+                                "og:image:width": "1920",
+                                "article:published_time": "2022-02-02T04:39:35+00:00",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "物流におけるデータ活用方法とは？ポイントや活用例も合わせて解説 – PigData | ビッグデータ収集・分析・活用ソリューション",
+                                "og:site_name": "PigData | ビッグデータ収集・分析・活用ソリューション – PigDataは、お客様のデータ活用に対する課題を丁寧にヒアリングし、 最適なデータ活用ソリューションをご提供します。",
+                                "og:title": "物流におけるデータ活用方法とは？ポイントや活用例も合わせて解説 – PigData | ビッグデータ収集・分析・活用ソリューション",
+                                "og:image:height": "1280",
+                                "msapplication-tileimage": "https://pig-data.jp/wp-content/uploads/cropped-favicon-1-270x270.png",
+                                "og:description": "データを活用することで、物流における課題を解決したいと考えている方は多くいるのではないでしょうか？近年、ビッグ",
+                                "og:image:secure_url": "https://pig-data.jp/wp-content/uploads/pd_thumbnail_img-230033-L.jpg",
+                                "twitter:image": "https://pig-data.jp/wp-content/uploads/pd_thumbnail_img-230033-L.jpg",
+                                "article:modified_time": "2023-06-01T06:01:08+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "データを活用することで、物流における課題を解決したいと考えている方は多くいるのではないでしょうか？近年、ビッグ",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://pig-data.jp/blog_news/blog/scraping-crawling/buturyuu/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://pig-data.jp/wp-content/uploads/pd_thumbnail_img-230033-L.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "経済情報プラットフォームSPEEDA",
+                    "htmlTitle": "経済情報プラットフォームSPEEDA",
+                    "link": "https://jp.ub-speeda.com/",
+                    "displayLink": "jp.ub-speeda.com",
+                    "snippet": "SPEEDA(スピーダ)は、ビジネスパーソンの情報収集・分析における課題を解決する最先端のプラットフォームです。世界中の企業情報、業界レポート、市場データ、 ...",
+                    "htmlSnippet": "SPEEDA(スピーダ)は、ビジネスパーソンの情報<b>収集</b>・分析における課題を解決する最先端のプラットフォームです。世界中の企業情報、<b>業界</b>レポート、市場<b>データ</b>、&nbsp;...",
+                    "cacheId": "04dRkBfSZrgJ",
+                    "formattedUrl": "https://jp.ub-speeda.com/",
+                    "htmlFormattedUrl": "https://jp.ub-speeda.com/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzrOdWHS8vX_s0wu8hj7y8ybcHeVZgcjxcmEt3_pNFKMSmSLPyWwf0rS2t",
+                                "width": "318",
+                                "height": "159"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://jp.ub-speeda.com/img/common/sp_ogp.png",
+                                "og:type": "website",
+                                "og:image:width": "1200",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "経済情報プラットフォームSPEEDA",
+                                "og:site_name": "経済情報プラットフォームSPEEDA",
+                                "og:title": "経済情報プラットフォームSPEEDA",
+                                "og:image:height": "630",
+                                "og:description": "SPEEDA(スピーダ)は、ビジネスパーソンの情報収集・分析における課題を解決する最先端のプラットフォームです。世界中の企業情報、業界レポート、市場データ、ニュース、統計、M&Aなどあらゆる情報をカバーしています。7日間かかる分析を1時間に短縮。",
+                                "og:image:secure_url": "https://jp.ub-speeda.com/img/common/sp_ogp.png",
+                                "twitter:image": "https://jp.ub-speeda.com/img/common/sp_ogp.png",
+                                "fb:app_id": "265566566897126",
+                                "viewport": "width=375",
+                                "twitter:description": "SPEEDA(スピーダ)は、ビジネスパーソンの情報収集・分析における課題を解決する最先端のプラットフォームです。世界中の企業情報、業界レポート、市場データ、ニュース、統計、M&Aなどあらゆる情報をカバーしています。7日間かかる分析を1時間に短縮。",
+                                "fb:admins": "Di3pGQKex/E",
+                                "og:url": "https://jp.ub-speeda.com/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://jp.ub-speeda.com/img/common/sp_ogp.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "鉄鋼業界の取り組み: LCIデータコレクション",
+                    "htmlTitle": "鉄鋼<b>業界</b>の取り組み: LCI<b>データ</b>コレクション",
+                    "link": "https://www.jisf.or.jp/business/lca/data/index.html",
+                    "displayLink": "www.jisf.or.jp",
+                    "snippet": "ここに開示する鉄鋼製品のLCIデータ日本平均値はISO 20915規格、JIS Q 20915に基づき、世界の鉄鋼業の共通の基準・計算法にしたがってデータを収集しLCI計算を行った ...",
+                    "htmlSnippet": "ここに開示する鉄鋼製品のLCI<b>データ</b>日本平均値はISO 20915規格、JIS Q 20915に基づき、世界の鉄鋼<b>業</b>の共通の基準・計算法にしたがって<b>データ</b>を<b>収集</b>しLCI計算を行った&nbsp;...",
+                    "cacheId": "LhoWgmbfTvYJ",
+                    "formattedUrl": "https://www.jisf.or.jp/business/lca/data/index.html",
+                    "htmlFormattedUrl": "https://www.jisf.or.jp/business/lca/data/index.html"
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 業界 データ収集",
+                        "totalResults": "26500000",
+                        "searchTerms": "業界 データ収集",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 業界 データ収集",
+                        "totalResults": "26500000",
+                        "searchTerms": "業界 データ収集",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 業界 データ収集",
+                        "totalResults": "26500000",
+                        "searchTerms": "業界 データ収集",
+                        "count": 10,
+                        "startIndex": 31,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.275834,
+                "formattedSearchTime": "0.28",
+                "totalResults": "26500000",
+                "formattedTotalResults": "26,500,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "業界初！収集から利活用までセンサーデータのプライバシーを保護 ...",
+                    "htmlTitle": "<b>業界</b>初！<b>収集</b>から利活用までセンサー<b>データ</b>のプライバシーを保護 ...",
+                    "link": "https://pr.fujitsu.com/jp/news/2012/10/22.html",
+                    "displayLink": "pr.fujitsu.com",
+                    "snippet": "2012/10/22 ... 富士通研究所は、センサーデータの収集から分析結果の利活用まで、プライバシーを保護する技術を開発しました。",
+                    "htmlSnippet": "2012/10/22 <b>...</b> 富士通研究所は、センサー<b>データ</b>の<b>収集</b>から分析結果の利活用まで、プライバシーを保護する技術を開発しました。",
+                    "cacheId": "SpMHwd1di4EJ",
+                    "formattedUrl": "https://pr.fujitsu.com/jp/news/2012/10/22.html",
+                    "htmlFormattedUrl": "https://pr.fujitsu.com/jp/news/2012/10/22.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqa8Fh11GKSJLPD7PefNW12rREATqWiWDeZU_EA_X_PAJNqDdZBntpmt_0",
+                                "width": "180",
+                                "height": "180"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.fujitsu.com/imgv4/common/socialmedia/Fujitsu_Facebook_Icon.jpg",
+                                "og:type": "article",
+                                "og:site_name": "富士通",
+                                "og:title": "業界初！収集から利活用までセンサーデータのプライバシーを保護する技術を開発 : 富士通",
+                                "og:url": "http://pr.fujitsu.com/jp/news/2012/10/22.html",
+                                "og:description": "富士通研究所は、センサーデータの収集から分析結果の利活用まで、プライバシーを保護する技術を開発しました。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.fujitsu.com/imgv4/common/socialmedia/Fujitsu_Facebook_Icon.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "製造業DX取組事例集",
+                    "htmlTitle": "製造<b>業</b>DX取組事例集",
+                    "link": "https://www.meti.go.jp/meti_lib/report/2019FY/000312.pdf",
+                    "displayLink": "www.meti.go.jp",
+                    "snippet": "➢ 自社内のソフトエンジニア人材に対し、データ分析のトレーニングを実施し、事業の目的に対し適切な分析手法を考えられる. 人材へと育成した。現場でのデータ収集から ...",
+                    "htmlSnippet": "➢ 自社内のソフトエンジニア人材に対し、データ分析のトレーニングを実施し、事業の目的に対し適切な分析手法を考えられる. 人材へと育成した。現場での<b>データ収集</b>から&nbsp;...",
+                    "cacheId": "ACkhJtfwyU0J",
+                    "formattedUrl": "https://www.meti.go.jp/meti_lib/report/2019FY/000312.pdf",
+                    "htmlFormattedUrl": "https://www.meti.go.jp/meti_lib/report/2019FY/000312.pdf",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdM1m3V3oYQ8j5pdBJTeNCH9ljRUpxrNoOHKskB-NVndl0LK5j5LIgIDsn",
+                                "width": "272",
+                                "height": "186"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "x-raw-image:///49e3eb6ef245ed94c8cf7f38d4cdebca99e3280580dd58019a291315d7971721"
+                            }
+                        ]
+                    },
+                    "mime": "application/pdf",
+                    "fileFormat": "PDF/Adobe Acrobat"
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "2022年最新版【小売業】ビッグデータの活用事例26選！メリットや ...",
+                    "htmlTitle": "2022年最新版【小売<b>業</b>】ビッグ<b>データ</b>の活用事例26選！メリットや ...",
+                    "link": "https://fabeee.co.jp/column/dx/bigdata/",
+                    "displayLink": "fabeee.co.jp",
+                    "snippet": "2021/10/06 ... セブンセントラルとは、21,000店舗分のPOSデータを、リアルタイムで収集・分析できる能力を持つビッグデータ活用基盤のこと。汎用性・即効性のあるデータ ...",
+                    "htmlSnippet": "2021/10/06 <b>...</b> セブンセントラルとは、21,000店舗分のPOS<b>データ</b>を、リアルタイムで<b>収集</b>・分析できる能力を持つビッグ<b>データ</b>活用基盤のこと。汎用性・即効性のある<b>データ</b>&nbsp;...",
+                    "cacheId": "I3yVWbZO3LgJ",
+                    "formattedUrl": "https://fabeee.co.jp/column/dx/bigdata/",
+                    "htmlFormattedUrl": "https://fabeee.co.jp/column/dx/bigdata/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkjRJ3jBfLi7j_0tUOiVRfgqo9cqAK3mTS8EJWbdtRo0ChT_OsQ5ikmhM",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://fabeee.co.jp/column/wp-content/uploads/2021/10/AdobeStock_172761930_1000.jpg",
+                                "og:type": "article",
+                                "article:published_time": "2021-10-06T03:07:20+00:00",
+                                "og:image:width": "1000",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "Fabeee Blog",
+                                "og:title": "2022年最新版【小売業】ビッグデータの活用事例26選！メリットやその方法を解説 - Fabeee Blog",
+                                "og:image:height": "667",
+                                "twitter:label1": "執筆者",
+                                "twitter:label2": "推定読み取り時間",
+                                "msapplication-tileimage": "https://fabeee.co.jp/column/wp-content/uploads/2021/10/Fabeee_fabicon-1.png",
+                                "og:description": "デジタル化が進む昨今、企業ではビッグデータをいかに活用するかということがキーポイントとなっています。特に小売業ではEコマースやモバイルデバイスが普及しているため、ビッグデータの活用が欠かせない状況です。 そこで今回は、小...",
+                                "twitter:data1": "この記事の監修者：冨塚辰",
+                                "twitter:data2": "1分",
+                                "article:modified_time": "2022-07-08T10:18:04+00:00",
+                                "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://fabeee.co.jp/column/dx/bigdata/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://fabeee.co.jp/column/wp-content/uploads/2021/10/AdobeStock_172761930_1000.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "『LCI 用データ収集マニュアル』 目 次",
+                    "htmlTitle": "『LCI 用<b>データ収集</b>マニュアル』 目 次",
+                    "link": "https://lca-forum.org/database/inventory/manual.pdf",
+                    "displayLink": "lca-forum.org",
+                    "snippet": "鉄鋼業では、各単位プロセスの製品が出荷製品であり、かつその下工程の原料となります。 このような場合には、各製品に共通設備のインベントリを配分します。 ex. 熱 ...",
+                    "htmlSnippet": "鉄鋼<b>業</b>では、各単位プロセスの製品が出荷製品であり、かつその下工程の原料となります。 このような場合には、各製品に共通設備のインベントリを配分します。 ex. 熱&nbsp;...",
+                    "cacheId": "Iov3RbNP4zoJ",
+                    "formattedUrl": "https://lca-forum.org/database/inventory/manual.pdf",
+                    "htmlFormattedUrl": "https://lca-forum.org/database/inventory/manual.pdf",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "moddate": "D:20000929092346+09'00'",
+                                "creationdate": "D:20000929092346",
+                                "creator": "dvipsk 5.78 p1.4d Copyright 1996-2000 ASCII Corp.(www-ptex@ascii.co.jp)",
+                                "producer": "Acrobat Distiller 4.05 for Windows",
+                                "title": "manual-by-lci-tg.dvi"
+                            }
+                        ]
+                    },
+                    "mime": "application/pdf",
+                    "fileFormat": "PDF/Adobe Acrobat"
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "デジタルデータ活用の現状と課題",
+                    "htmlTitle": "デジタル<b>データ</b>活用の現状と課題",
+                    "link": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r02/pdf/n3200000.pdf",
+                    "displayLink": "www.soumu.go.jp",
+                    "snippet": "供を通じて収集したデジタルデータの活用がその競争力の源泉ともなっている。 ... 産業別では製造業が進んでおり、エネルギー・インフラ、. サービス業では6割程度に ...",
+                    "htmlSnippet": "供を通じて<b>収集</b>したデジタル<b>データ</b>の活用がその競争力の源泉ともなっている。 ... 産業別では製造<b>業</b>が進んでおり、エネルギー・インフラ、. サービス<b>業</b>では6割程度に&nbsp;...",
+                    "cacheId": "3vkOKwwGlWAJ",
+                    "formattedUrl": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r02/.../n3200000.pdf",
+                    "htmlFormattedUrl": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r02/.../n3200000.pdf",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-g4zJetyGHl7KvxQ0NFaY5JhMBCxJa7lSp7PIyi2j9dLAXA7KJ9T2hiE",
+                                "width": "267",
+                                "height": "189"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "moddate": "D:20201027182859+09'00'",
+                                "creationdate": "D:20201027182813+09'00'",
+                                "creator": "Adobe InDesign CC 2017 (Windows)",
+                                "producer": "Adobe PDF Library 15.0"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "x-raw-image:///c4f901a44edcb0abad0d20e1039f74469fabac72a96a751c6a2eb6b74c4657fe"
+                            }
+                        ]
+                    },
+                    "mime": "application/pdf",
+                    "fileFormat": "PDF/Adobe Acrobat"
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "ハリケーン・ハンターがハワイ沖ハリケーンのデータ収集 – 旅行 ...",
+                    "htmlTitle": "ハリケーン・ハンターがハワイ沖ハリケーンの<b>データ収集</b> – 旅行 ...",
+                    "link": "https://www.jwing.net/news/27997",
+                    "displayLink": "www.jwing.net",
+                    "snippet": "2020/07/29 ... ハリケーン・ハンターとは、気象観測データの収集を行う飛行機・部隊のこと。ハリケーンなどの熱帯低気圧の中に航空機で直接飛び込んでデータを集める。",
+                    "htmlSnippet": "2020/07/29 <b>...</b> ハリケーン・ハンターとは、気象観測<b>データ</b>の<b>収集</b>を行う飛行機・部隊のこと。ハリケーンなどの熱帯低気圧の中に航空機で直接飛び込んで<b>データ</b>を集める。",
+                    "cacheId": "ocoEUfGGbm8J",
+                    "formattedUrl": "https://www.jwing.net/news/27997",
+                    "htmlFormattedUrl": "https://www.jwing.net/news/27997",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRq3VyIuuUKdnjmmqvynlBfDPlAvQu_pixjVWZKedc0tf7Qs9WZumLtTIP_",
+                                "width": "273",
+                                "height": "185"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "msapplication-tilecolor": "#da532c",
+                                "theme-color": "#ffffff",
+                                "viewport": "width=device-width,initial-scale=1"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.jwing.net/wp/wp-content/uploads/2020/07/0729wc130j1-w.jpg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "HOME",
+                                "name": "HOME"
+                            },
+                            {
+                                "item": "おすすめ記事",
+                                "name": "おすすめ記事"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【2022年最新】市場調査に役立つ無料有料サイト19選！政府統計 ...",
+                    "htmlTitle": "【2022年最新】市場調査に役立つ無料有料サイト19選！政府統計 ...",
+                    "link": "https://webbu.jp/marketreserch-2021-6717",
+                    "displayLink": "webbu.jp",
+                    "snippet": "各企業とも自社の事業領域や特性を活かしたデータ収集を行っていますので、 ... データは「広告・メディア」「食品・飲料」などの業界・業種別にカテゴライズされてい ...",
+                    "htmlSnippet": "各企業とも自社の事業領域や特性を活かした<b>データ収集</b>を行っていますので、 ... データは「広告・メディア」「食品・飲料」などの<b>業界</b>・業種別にカテゴライズされてい&nbsp;...",
+                    "cacheId": "X6dYuGrwfjsJ",
+                    "formattedUrl": "https://webbu.jp/marketreserch-2021-6717",
+                    "htmlFormattedUrl": "https://webbu.jp/marketreserch-2021-6717",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqUUqDRbPB-uxPoBsyHZt03iABgEWMRncflxbbeyZQHUYHQmfeJUWNg6hm",
+                                "width": "376",
+                                "height": "134"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,minimum-scale=1,maximum-scale=1,user-scalable=no",
+                                "amp-google-client-id-api": "googleanalytics",
+                                "amp-to-amp-navigation": "AMP-Redirect-To; AMP.navigateTo"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://webbu.jp/wp-content/uploads/a37fe222074b131627030c836db11850.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【コンサル業界】コンサル活動でのデータ収集方法及びSTEPを徹底 ...",
+                    "htmlTitle": "【コンサル<b>業界</b>】コンサル活動での<b>データ収集</b>方法及びSTEPを徹底 ...",
+                    "link": "https://mub.co.jp/marketing/consultant-hypothesis/",
+                    "displayLink": "mub.co.jp",
+                    "snippet": "コンサルティングの基礎として、今回は「ファクトで仮説を検証する」というテーマを解説します。仮説の検証において必要な、データをどのように収集するか？",
+                    "htmlSnippet": "コンサルティングの基礎として、今回は「ファクトで仮説を検証する」というテーマを解説します。仮説の検証において必要な、<b>データ</b>をどのように<b>収集</b>するか？",
+                    "cacheId": "N9ZSGwn5n80J",
+                    "formattedUrl": "https://mub.co.jp/marketing/consultant-hypothesis/",
+                    "htmlFormattedUrl": "https://mub.co.jp/marketing/consultant-hypothesis/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGF3atod0hzTiVK1jagD8u0m1dwoKvSIeBhGvrrmW9v8nz6dLP1rTNCWmi",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://mub.co.jp/marketing/wp-content/uploads/2020/04/2869012-1024x682-1.jpg"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "p:domain_verify": "4e732dee4ad0fd0b39c557ebf5a3518d",
+                                "msapplication-tilecolor": "#0769bf",
+                                "og:image": "https://mub.co.jp/marketing/wp-content/uploads/2020/04/2869012-1024x682-1.jpg",
+                                "theme-color": "#0769bf",
+                                "og:type": "article",
+                                "article:published_time": "2020-10-20T00:43:29+00:00",
+                                "twitter:card": "summary",
+                                "twitter:title": "【コンサル業界】コンサル活動でのデータ収集方法及びSTEPを徹底解説！ | Webコンサルタントによるマーケティング初心者育成ブログ",
+                                "thumbnail": "https://mub.co.jp/marketing/wp-content/uploads/2020/04/2869012-1024x682-1.jpg",
+                                "og:site_name": "Webコンサルタントによるマーケティング初心者育成ブログ |",
+                                "handheldfriendly": "True",
+                                "og:title": "【コンサル業界】コンサル活動でのデータ収集方法及びSTEPを徹底解説！ | Webコンサルタントによるマーケティング初心者育成ブログ",
+                                "og:description": "コンサルティングの基礎として、今回は「ファクトで仮説を検証する」というテーマを解説します。仮説の検証において必要な、データをどのように収集するか？誰からどのようなデータを集めるのか？など、主にデータ収集の流れと方法について詳しく説明します。",
+                                "article:modified_time": "2022-06-27T07:44:05+00:00",
+                                "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                                "twitter:description": "コンサルティングの基礎として、今回は「ファクトで仮説を検証する」というテーマを解説します。仮説の検証において必要な、データをどのように収集するか？誰からどのようなデータを集めるのか？など、主にデータ収集の流れと方法について詳しく説明します。",
+                                "mobileoptimized": "320",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://mub.co.jp/marketing/consultant-hypothesis/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://mub.co.jp/marketing/wp-content/uploads/2020/04/2869012-1024x682-1.jpg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "item": "コンサルタント",
+                                "name": "コンサルタント",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "RSSより柔軟!? RPAで業界ニュースや最新情報を収集しよう ...",
+                    "htmlTitle": "RSSより柔軟!? RPAで<b>業界</b>ニュースや最新情報を<b>収集</b>しよう ...",
+                    "link": "https://www.service.andonuts.jp/posts/rpa-method-news",
+                    "displayLink": "www.service.andonuts.jp",
+                    "snippet": "2023/03/23 ... 次にRPAツール（UiPath）を使用して、サイトからスクレイピングを行います。 （スクレイピング・・・Webサイトの情報を自動収集し、特定のデータを抽出・ ...",
+                    "htmlSnippet": "2023/03/23 <b>...</b> 次にRPAツール（UiPath）を使用して、サイトからスクレイピングを行います。 （スクレイピング・・・Webサイトの情報を自動<b>収集</b>し、特定の<b>データ</b>を抽出・&nbsp;...",
+                    "cacheId": "wditbyvaFY8J",
+                    "formattedUrl": "https://www.service.andonuts.jp/posts/rpa-method-news",
+                    "htmlFormattedUrl": "https://www.service.andonuts.jp/posts/rpa-method-news",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDyjFH0WWSLSQ29XYZM14keqg_3Vybn79gZg1Cgn0HWWCPOMCIF2m-OIU",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://storage.googleapis.com/studio-cms-assets/projects/moWvR2d4W6/s-1200x630_v-fms_webp_55e69e57-d334-4524-b2ee-75e7a6ffef10.png",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": " &donutsのサービス | &donuts",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "RSSより柔軟!? RPAで業界ニュースや最新情報を収集しよう！｜&donutsプロジェクト 運用Tips",
+                                "apple-mobile-web-app-title": "RSSより柔軟!? RPAで業界ニュースや最新情報を収集しよう！｜&donutsプロジェクト 運用Tips",
+                                "og:url": "https://www.service.andonuts.jp/posts/rpa-method-news",
+                                "og:description": "業界に特化したニュースを収集することは、その業界の最新の動向やトレンド、また競合他社の動向や新しい技術、法律・規制の変更などについても情報収集できるため、業界専門メディアの運用担当者だけでなく、日頃か... ",
+                                "twitter:image": "https://storage.googleapis.com/studio-cms-assets/projects/moWvR2d4W6/s-1200x630_v-fms_webp_55e69e57-d334-4524-b2ee-75e7a6ffef10.png"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://storage.googleapis.com/studio-cms-assets/projects/moWvR2d4W6/s-1200x630_v-fms_webp_55e69e57-d334-4524-b2ee-75e7a6ffef10.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "自動車メーカーも悩む“製造現場データの収集”、解決するために必要 ...",
+                    "htmlTitle": "自動車メーカーも悩む“製造現場<b>データ</b>の<b>収集</b>”、解決するために必要 ...",
+                    "link": "https://monoist.itmedia.co.jp/mn/articles/2103/10/news005.html",
+                    "displayLink": "monoist.itmedia.co.jp",
+                    "snippet": "2021/03/10 ... コロナ禍の影響に加え、人手不足や製品の複雑化などから、製造業のスマート工場化への取り組みが加速している。IoT（モノのインターネット）などにより ...",
+                    "htmlSnippet": "2021/03/10 <b>...</b> コロナ禍の影響に加え、人手不足や製品の複雑化などから、製造<b>業</b>のスマート工場化への取り組みが加速している。IoT（モノのインターネット）などにより&nbsp;...",
+                    "cacheId": "FaOc0iEB65IJ",
+                    "formattedUrl": "https://monoist.itmedia.co.jp/mn/articles/2103/10/news005.html",
+                    "htmlFormattedUrl": "https://monoist.itmedia.co.jp/mn/articles/2103/10/news005.html",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "extraids": "at-special\tcp-pr\tkw-PR\tkw-tieup-service_introduction",
+                                "og:image": "https://image.itmedia.co.jp/mn/articles/2103/10/cover_news005.jpg",
+                                "cxenseparse:itm-meta-articleid": "2103/10/news005",
+                                "article:published_time": "2021-03-10T10:00:00",
+                                "twitter:card": "summary",
+                                "cxenseparse:itm-meta-extraid": "at-special",
+                                "og:site_name": "MONOist",
+                                "cxenseparse:itm-meta-sponsor": "富士通株式会社",
+                                "pcurl": "/mn/articles/2103/10/news005.html",
+                                "apple-mobile-web-app-title": "MONOist",
+                                "channel": "MONOist",
+                                "og:description": "スマート工場化を進める多くの製造現場の中で、最初の大きなハードルとなるのが「現場データの収集の負荷」である。データ収集に手間取り、これらを活用して知見を導き出すところまで進めない製造現場も数多く存在する。これらの課題を解決するためには何が求められているのだろうか。",
+                                "twitter:creator": "@MONOist_itmedia",
+                                "masterchannel": "mn",
+                                "cxenseparse:recs:expirationtime": "2021-04-09T10:00:00+09:00",
+                                "twitter:site": "@MONOist_itmedia",
+                                "ccid": "mo210304",
+                                "host": "https://monoist.itmedia.co.jp",
+                                "cxenseparse:recs:publishtime": "2021-3-10日00+09:00",
+                                "cxenseparse:itm-meta-articletitle": "自動車メーカーも悩む“製造現場データの収集”、解決するために必要なもの",
+                                "mastertype": "article",
+                                "cxenseparse:itm-meta-plandept": "アイティメディア営業企画",
+                                "og:type": "article",
+                                "cxenseparse:itm-meta-dept": "MONOist 編集部",
+                                "og:title": "自動車メーカーも悩む“製造現場データの収集”、解決するために必要なもの",
+                                "cxenseparse:itm-meta-rcid": "mo210304_01",
+                                "keywordids": ",PR,",
+                                "cxenseparse:itm-meta-keywords": "タイアップ_製品、サービス紹介",
+                                "referrer": "no-referrer-when-downgrade",
+                                "fb:app_id": "534261890081474",
+                                "adpath": "root/smartphone/mn/article",
+                                "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+                                "build": "2021年3月10日",
+                                "rcid_filename": "mo210304/01.html",
+                                "cxenseparse:itm-scid": "mo210304",
+                                "rcid": "mo210304_01",
+                                "cxenseparse:itm-meta-adpath": "root/smartphone/mn/article",
+                                "prflag": "PR",
+                                "spurl": "/mn/spv/2103/10/news005.html",
+                                "og:url": "https://monoist.itmedia.co.jp/mn/articles/2103/10/news005.html",
+                                "cxenseparse:itm-meta-writer": "PR／MONOist",
+                                "format-detection": "telephone=no"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

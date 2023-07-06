@@ -1,0 +1,1520 @@
+{
+    "query": "業界 資料ダウンロード",
+    "links": [
+        [
+            "https://www.infor.com/ja-jp/resources",
+            "https://service.shiftinc.jp/resources/7568/",
+            "https://www.libcon.co.jp/download/",
+            "https://kintone.cybozu.co.jp/material/",
+            "https://pages.worksmobile.com/kensetsu_casestudy_dl.html",
+            "https://www.suzuyo.co.jp/download/3pl/ec-trend.html",
+            "https://pages.worksmobile.com/kaigo-whitepaper-entry.html",
+            "https://www.enecho.meti.go.jp/category/saving_and_new/advanced_systems/vpp_dr/download-2.html",
+            "http://www.lanscope.jp/cat/request/",
+            "https://list.hrog.net/contact/document/"
+        ],
+        [
+            "https://ldp.media/document/",
+            "https://www.salesforce.com/jp/resources/manufacturing/",
+            "https://www.kensankyo.org/download/",
+            "https://biz.teachme.jp/download/",
+            "https://info.safie.jp/whitepaper/",
+            "https://peraichi.com/landing_pages/view/dl-page/",
+            "https://www.chart-s.com/download/",
+            "https://cs.cloudsign.jp/documents?cst=top_pc_7",
+            "https://bell-face.com/ebook/",
+            "https://ec-force.com/ebook"
+        ],
+        [
+            "https://vrain.co.jp/download-metal/",
+            "https://www.taiyo-brush.co.jp/download/",
+            "https://www.injection-molding.jp/blog/automotive-industry-and-injection-molding",
+            "https://www.hammock.jp/hpr/whitepaper/",
+            "https://jimcajp.or.jp/jp/documents.html",
+            "https://masouken.com/documents/8",
+            "https://www.mapbox.jp/download-form/industry-specific-case-studies-of-digital-map",
+            "https://www.dentsudigital.co.jp/downloads",
+            "https://traveltrade.newzealand.com/jp/tools-and-resources/downloadable-resources/",
+            "https://bdash-marketing.com/req_material/"
+        ]
+    ],
+    "snapshot_ymd": "D2023-06-23",
+    "snapshot_timestamp": "D2023-06-23T01-27-51",
+    "responses": [
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "request": [
+                    {
+                        "title": "Google Custom Search - 業界 資料ダウンロード",
+                        "totalResults": "43800000",
+                        "searchTerms": "業界 資料ダウンロード",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 業界 資料ダウンロード",
+                        "totalResults": "43800000",
+                        "searchTerms": "業界 資料ダウンロード",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.3105,
+                "formattedSearchTime": "0.31",
+                "totalResults": "43800000",
+                "formattedTotalResults": "43,800,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロード | ホワイトペーパー、カタログ、動画ダウンロード ...",
+                    "htmlTitle": "<b>資料ダウンロード</b> | ホワイトペーパー、カタログ、動画ダウンロード ...",
+                    "link": "https://www.infor.com/ja-jp/resources",
+                    "displayLink": "www.infor.com",
+                    "snippet": "最新の業界動向、事例、製品資料など情報満載. ベストプラクティスガイド. Best Practice Guide. 農場から食卓まで. 食品 ...",
+                    "htmlSnippet": "最新の<b>業界</b>動向、事例、製品<b>資料</b>など情報満載. ベストプラクティスガイド. Best Practice Guide. 農場から食卓まで. 食品&nbsp;...",
+                    "cacheId": "dHpLetwMP5EJ",
+                    "formattedUrl": "https://www.infor.com/ja-jp/resources",
+                    "htmlFormattedUrl": "https://www.infor.com/ja-jp/resources",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQh5KV25-REoFAZUGK82UHhTCxFe2ILuPpyEmiKBbElVeaw2bMYMJOsUvVS",
+                                "width": "272",
+                                "height": "186"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://webassets.infor.com/images/multi-page/infor-facebook-752x514.png",
+                                "twitter:card": "summary_large_image",
+                                "viewport": "width=device-width",
+                                "created": "06/22/2018",
+                                "updated": "08/29/2022",
+                                "twitter:image": "https://webassets.infor.com/images/multi-page/infor-twitter-752x440.png",
+                                "posted": "02/11/2020"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://webassets.infor.com/images/multi-page/infor-facebook-752x514.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロード 「教育業界におけるDXの実態調査」 ｜ 株式会社 ...",
+                    "htmlTitle": "<b>資料ダウンロード</b> 「教育<b>業界</b>におけるDXの実態調査」 ｜ 株式会社 ...",
+                    "link": "https://service.shiftinc.jp/resources/7568/",
+                    "displayLink": "service.shiftinc.jp",
+                    "snippet": "特典1 すべてのお役立ち資料がすぐにダウンロード可能; 特典2 学べる動画やプレミアムコラムが見放題; 特典3 セミナー・イベントの開催情報をお知らせ.",
+                    "htmlSnippet": "特典1 すべてのお役立ち<b>資料</b>がすぐに<b>ダウンロード</b>可能; 特典2 学べる動画やプレミアムコラムが見放題; 特典3 セミナー・イベントの開催情報をお知らせ.",
+                    "cacheId": "FDxBC5HhEGwJ",
+                    "formattedUrl": "https://service.shiftinc.jp/resources/7568/",
+                    "htmlFormattedUrl": "https://service.shiftinc.jp/resources/7568/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBtwk573T1a5MYCVtaEQ-r5lpiblL-HXusLQdI6FytrAAVBPTpvX029O0",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://service.shiftinc.jp/wp/wp-content/uploads/2022/09/63f35b22bbe25f3dbf54c7239643be2b.jpg",
+                                "og:type": "article",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "資料ダウンロード 「教育業界におけるDXの実態調査」 ｜ 株式会社SHIFT",
+                                "og:url": "https://service.shiftinc.jp/resources/7568/",
+                                "og:description": "こちらのページから 「教育業界におけるDXの実態調査」のダウンロードをお申込みいただけます。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://service.shiftinc.jp/wp/wp-content/uploads/2022/09/63f35b22bbe25f3dbf54c7239643be2b.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロード | 株式会社リブ・コンサルティング",
+                    "htmlTitle": "<b>資料ダウンロード</b> | 株式会社リブ・コンサルティング",
+                    "link": "https://www.libcon.co.jp/download/",
+                    "displayLink": "www.libcon.co.jp",
+                    "snippet": "＜建設・不動産業界向け＞メガトレンドを押さえた最新ビジネス事例. 本資料では、不動産会社、建設会社が今取り組むべき新ビジネスを取り上げます。 「DX」「カーボン ...",
+                    "htmlSnippet": "＜建設・不動産<b>業界</b>向け＞メガトレンドを押さえた最新ビジネス事例. 本<b>資料</b>では、不動産会社、建設会社が今取り組むべき新ビジネスを取り上げます。 「DX」「カーボン&nbsp;...",
+                    "cacheId": "l1MqHVxPqmoJ",
+                    "formattedUrl": "https://www.libcon.co.jp/download/",
+                    "htmlFormattedUrl": "https://www.libcon.co.jp/download/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPMq4agGImyVFkWPFncRYcIhFnVSPfOmMZW0tRa-4xqmQ5avTBsTILDzU",
+                                "width": "311",
+                                "height": "162"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.libcon.co.jp/images/uploads/fab388e3417f40d0ce6971df841606dc-2.jpg",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "リブ・コンサルティング コーポレートサイト",
+                                "og:title": "目標管理制度の改定・導入ポイント｜資料ダウンロード｜リブ・コンサルティング",
+                                "msapplication-tileimage": "https://www.libcon.co.jp/images/uploads/favicon.ico",
+                                "og:description": "目標管管理制度（MBO）を改定、新規導入する際の重要ポイントを紹介します。",
+                                "twitter:creator": "@libconofficial",
+                                "facebook-domain-verification": "375pou41e5g0uyybbc8d9yeqb8xdaf",
+                                "twitter:site": "@libconofficial",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:url": "https://www.libcon.co.jp/download/detail054/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.libcon.co.jp/images/uploads/fab388e3417f40d0ce6971df841606dc-2.jpg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "経営コンサルティング：HOME",
+                                "name": "経営コンサルティング：HOME",
+                                "position": "1"
+                            },
+                            {
+                                "name": "資料ダウンロード",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料・動画 - kintone（キントーン）",
+                    "htmlTitle": "資料・動画 - kintone（キントーン）",
+                    "link": "https://kintone.cybozu.co.jp/material/",
+                    "displayLink": "kintone.cybozu.co.jp",
+                    "snippet": "kintoneの 「資料ダウンロード」 をご紹介します。kintone（キントーン）は開発の知識がなく ... パワーポイントをダウンロード ... 社会福祉業向けkintoneご紹介資料.",
+                    "htmlSnippet": "kintoneの 「<b>資料ダウンロード</b>」 をご紹介します。kintone（キントーン）は開発の知識がなく ... パワーポイントをダウンロード ... 社会福祉<b>業</b>向けkintoneご紹介資料.",
+                    "cacheId": "puNQhrvxRd4J",
+                    "formattedUrl": "https://kintone.cybozu.co.jp/material/",
+                    "htmlFormattedUrl": "https://kintone.cybozu.co.jp/material/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfL8DUA1Wj_y2JmeGo-Q-gIM9mUZHqpTdsn0w1m1LP0KM_QxCJTYNCxxdc",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://kintone.cybozu.co.jp/assets/image/ogp.jpg",
+                                "twitter:card": "summary_large_image",
+                                "og:type": "website",
+                                "og:site_name": "業務効率化と生産性を上げるサイボウズのクラウド『kintone（キントーン）』",
+                                "viewport": "width=device-width, initial-scale=1.0,maximum-scale=1.0,user-scalable=no",
+                                "og:title": "kintone（キントーン）- 資料ダウンロード",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://kintone.cybozu.co.jp/material/",
+                                "og:description": "kintoneの 「資料ダウンロード」 をご紹介します。kintone（キントーン）は開発の知識がなくても自社の業務に合わせたシステムをかんたんに作成できる、サイボウズのクラウドサービスです。業務アプリを直感的に作成でき、チーム内で共有して使えます。社員間のつながりを活性化する社内SNSとしての機能も備えているため、スピーディーに情報共有ができます。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://kintone.cybozu.co.jp/assets/image/ogp.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "建設業界向け資料ダウンロード | LINE WORKS",
+                    "htmlTitle": "建設<b>業界</b>向け<b>資料ダウンロード</b> | LINE WORKS",
+                    "link": "https://pages.worksmobile.com/kensetsu_casestudy_dl.html",
+                    "displayLink": "pages.worksmobile.com",
+                    "snippet": "LINE WORKSの建設業界向け導入事例集および紹介資料ダウンロード申し込みフォームです。 本書の内容. □建設業における仕事の課題; □建設業における実態調査概要 ...",
+                    "htmlSnippet": "LINE WORKSの建設<b>業界</b>向け導入事例集および紹介<b>資料ダウンロード</b>申し込みフォームです。 本書の内容. □建設<b>業</b>における仕事の課題; □建設<b>業</b>における実態調査概要&nbsp;...",
+                    "cacheId": "gokaiOvCNoEJ",
+                    "formattedUrl": "https://pages.worksmobile.com/kensetsu_casestudy_dl.html",
+                    "htmlFormattedUrl": "https://pages.worksmobile.com/kensetsu_casestudy_dl.html",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "formprefill": "1",
+                                "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0",
+                                "author": "Works Mobile Japan"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "通販業界の市場動向と最新トレンド | 資料ダウンロード | 鈴与株式会社",
+                    "htmlTitle": "通販<b>業界</b>の市場動向と最新トレンド | <b>資料ダウンロード</b> | 鈴与株式会社",
+                    "link": "https://www.suzuyo.co.jp/download/3pl/ec-trend.html",
+                    "displayLink": "www.suzuyo.co.jp",
+                    "snippet": "資料内容 · EC・通販の市場規模の推移と今後の動向予測 · 最新トレンド-EC・通販とサステナビリティ · EC・通販におけるトラブル事例と対策 · 鈴与のEC・物流とは.",
+                    "htmlSnippet": "<b>資料</b>内容 &middot; EC・通販の市場規模の推移と今後の動向予測 &middot; 最新トレンド-EC・通販とサステナビリティ &middot; EC・通販におけるトラブル事例と対策 &middot; 鈴与のEC・物流とは.",
+                    "cacheId": "CV27zvgwbZ4J",
+                    "formattedUrl": "https://www.suzuyo.co.jp/download/3pl/ec-trend.html",
+                    "htmlFormattedUrl": "https://www.suzuyo.co.jp/download/3pl/ec-trend.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTa02uxtKuLy7w4i6CZxVN-cBmv2BWrr934RPefs8Y7CcfKw5evUNF4Fn8",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.suzuyo.co.jp/common/img/img_og.png",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "鈴与株式会社",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "通販業界の市場動向と最新トレンド | 資料ダウンロード | 鈴与株式会社",
+                                "og:url": "https://www.suzuyo.co.jp/download/3pl/ec-trend.html",
+                                "og:description": "鈴与の資料ダウンロード「通販業界の市場動向と最新トレンド」のページです。鈴与の資料ダウンロードページではDC倉庫やデータソリューションといった各種サービスに関連する資料をダウンロードできます。",
+                                "format-detection": "telephone=no, email=no, address=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.suzuyo.co.jp/common/img/img_og.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "HOME",
+                                "name": "HOME",
+                                "position": "1"
+                            },
+                            {
+                                "item": "資料ダウンロード",
+                                "name": "資料ダウンロード",
+                                "position": "2"
+                            },
+                            {
+                                "item": "通販業界の市場動向と最新トレンド",
+                                "name": "通販業界の市場動向と最新トレンド",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "介護業界向け資料ダウンロード | LINE WORKS",
+                    "htmlTitle": "介護<b>業界</b>向け<b>資料ダウンロード</b> | LINE WORKS",
+                    "link": "https://pages.worksmobile.com/kaigo-whitepaper-entry.html",
+                    "displayLink": "pages.worksmobile.com",
+                    "snippet": "LINE WORKSの介護業界向けICT活用および紹介資料ダウンロード申し込みフォームです。 本書の内容. □介護業界、報酬改定における今後のICT活⽤の必要性と取り組み⽅ ...",
+                    "htmlSnippet": "LINE WORKSの介護<b>業界</b>向けICT活用および紹介<b>資料ダウンロード</b>申し込みフォームです。 本書の内容. □介護<b>業界</b>、報酬改定における今後のICT活⽤の必要性と取り組み⽅&nbsp;...",
+                    "cacheId": "WczoJBGu8foJ",
+                    "formattedUrl": "https://pages.worksmobile.com/kaigo-whitepaper-entry.html",
+                    "htmlFormattedUrl": "https://pages.worksmobile.com/kaigo-whitepaper-entry.html",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "formprefill": "1",
+                                "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0",
+                                "author": "Works Mobile Japan"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロード｜資源エネルギー庁",
+                    "htmlTitle": "<b>資料ダウンロード</b>｜資源エネルギー庁",
+                    "link": "https://www.enecho.meti.go.jp/category/saving_and_new/advanced_systems/vpp_dr/download-2.html",
+                    "displayLink": "www.enecho.meti.go.jp",
+                    "snippet": "経済産業省・資源エネルギー庁のホームページです。バーチャルパワープラント・ディマンドリスポンスについて。資料ダウンロード。",
+                    "htmlSnippet": "経済産業省・資源エネルギー庁のホームページです。バーチャルパワープラント・ディマンドリスポンスについて。<b>資料ダウンロード</b>。",
+                    "cacheId": "L5LacevqBQsJ",
+                    "formattedUrl": "https://www.enecho.meti.go.jp/category/saving_and.../download-2.html",
+                    "htmlFormattedUrl": "https://www.enecho.meti.go.jp/category/saving_and.../download-2.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3m9qAGpun6_MV9M7HvFPHnGnFtMwmo4y6FqhiG_Aqe8HGFqz-KCxAolF1",
+                                "width": "189",
+                                "height": "267"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.enecho.meti.go.jp/category/saving_and_new/advanced_systems/vpp_dr/images/erab_tirashi.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "各種資料ダウンロード | LANSCOPE エンドポイントマネージャー ...",
+                    "htmlTitle": "各種<b>資料ダウンロード</b> | LANSCOPE エンドポイントマネージャー ...",
+                    "link": "http://www.lanscope.jp/cat/request/",
+                    "displayLink": "www.lanscope.jp",
+                    "snippet": "各種資料をダウンロード ; カタログ・導入事例 · LANSCOPEカタログ ; お役立ち資料 · 未知の脅威に対抗するエンドポイントセキュリティ対策 ; IT資産管理ツール 虎の巻 ; 業界別 ...",
+                    "htmlSnippet": "各種<b>資料</b>を<b>ダウンロード</b> ; カタログ・導入事例 &middot; LANSCOPEカタログ ; お役立ち<b>資料</b> &middot; 未知の脅威に対抗するエンドポイントセキュリティ対策 ; IT資産管理ツール 虎の巻 ; <b>業界</b>別&nbsp;...",
+                    "cacheId": "Z_DoBlp6ThMJ",
+                    "formattedUrl": "www.lanscope.jp/cat/request/",
+                    "htmlFormattedUrl": "www.lanscope.jp/cat/request/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVmXyl8FMtm8fogX_VlQZ830fpH63f_i3yzktdr22T3Wy2gwzeR_lnn6Us",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "http://www.lanscope.jp/cat/images/ogpimg.png",
+                                "og:type": "article",
+                                "og:site_name": "LANSCOPE エンドポイントマネージャー オンプレミス版",
+                                "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+                                "viewport": "width=1000",
+                                "og:title": "各種資料ダウンロード | LANSCOPE エンドポイントマネージャー オンプレミス版",
+                                "og:locale": "ja_JP",
+                                "og:url": "http://www.lanscope.jp/cat/",
+                                "og:description": "統合型エンドポイントマネジメントの LANSCOPE エンドポイントマネージャー オンプレミス版 では、IT資産管理～内部不正対策／外部脅威対策を１つのツールでシンプルに運用できます。コスト／時間／リソースを大幅削減し、セキュリティリスクを下げながら企業が本来なすべきことに集中できる環境をご提供します。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "http://www.lanscope.jp/cat/images/ogpimg.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "LANSCOPE エンドポイントマネージャー オンプレミス版 トップページ",
+                                "name": "LANSCOPE エンドポイントマネージャー オンプレミス版 トップページ",
+                                "position": "1"
+                            },
+                            {
+                                "item": "各種資料ダウンロード",
+                                "name": "各種資料ダウンロード",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロード｜HRogリスト (フロッグリスト) | 人材業界のため ...",
+                    "htmlTitle": "<b>資料ダウンロード</b>｜HRogリスト (フロッグリスト) | 人材<b>業界</b>のため ...",
+                    "link": "https://list.hrog.net/contact/document/",
+                    "displayLink": "list.hrog.net",
+                    "snippet": "求人ニーズのある企業をターゲットに、効率的な営業活動を実現するHRogリスト。下記に当てはまる方は、ぜひダウンロードください。メールにて資料URLを送付いたします。 ・ ...",
+                    "htmlSnippet": "求人ニーズのある企業をターゲットに、効率的な営業活動を実現するHRogリスト。下記に当てはまる方は、ぜひ<b>ダウンロード</b>ください。メールにて<b>資料</b>URLを送付いたします。 ・&nbsp;...",
+                    "cacheId": "e-KG8vnvUz4J",
+                    "formattedUrl": "https://list.hrog.net/contact/document/",
+                    "htmlFormattedUrl": "https://list.hrog.net/contact/document/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1cTYHhT7PMKnZu1cR2_M1az7hItns3m3ycyjdI_7bpEsDbVxBuieE7AxS",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://list.hrog.net/img/ogp-image.png",
+                                "og:type": "website",
+                                "og:site_name": "HRogリスト (フロッグリスト) | 人材業界のための\"求人\"企業リスト",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "資料ダウンロード｜HRogリスト (フロッグリスト) | 人材業界のための\"求人\"企業リスト",
+                                "og:url": "https://list.hrog.net/contact/document/",
+                                "og:description": "いま採用している会社が見つかる！HRogリスト（フロッグリスト）は、求人情報を元にした人材業界のための企業リストです。\nWeb上から最新の求人情報を収集し、求人ニーズのあるHOTなリストを提供します。鮮度と確度の高いリストで、効率的な営業活動をサポートします。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://list.hrog.net/img/ogp-image.png"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 業界 資料ダウンロード",
+                        "totalResults": "43800000",
+                        "searchTerms": "業界 資料ダウンロード",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 業界 資料ダウンロード",
+                        "totalResults": "43800000",
+                        "searchTerms": "業界 資料ダウンロード",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 業界 資料ダウンロード",
+                        "totalResults": "43800000",
+                        "searchTerms": "業界 資料ダウンロード",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.196281,
+                "formattedSearchTime": "0.20",
+                "totalResults": "43800000",
+                "formattedTotalResults": "43,800,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロード｜LDP - 住宅業界に新しい視点を生み出すWEB ...",
+                    "htmlTitle": "<b>資料ダウンロード</b>｜LDP - 住宅<b>業界</b>に新しい視点を生み出すWEB ...",
+                    "link": "https://ldp.media/document/",
+                    "displayLink": "ldp.media",
+                    "snippet": "DOWNLOAD 資料ダウンロード. LIFE LABEL＆Doliveを展開するうえで大事にしている視点や マーケティング戦略などを資料にまとめました。",
+                    "htmlSnippet": "DOWNLOAD <b>資料ダウンロード</b>. LIFE LABEL＆Doliveを展開するうえで大事にしている視点や マーケティング戦略などを資料にまとめました。",
+                    "cacheId": "88AqLeKUk1oJ",
+                    "formattedUrl": "https://ldp.media/document/",
+                    "htmlFormattedUrl": "https://ldp.media/document/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBTDyB47seJVi8hd1QD8jPEQfcynN88iZMWwtYTjUPdF4ALegdSORLK5Qj",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://ldp.media/cms/wp-content/themes/betsudaitokyo/images/ogp.jpg",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "資料ダウンロード｜LDP - 住宅業界に新しい視点を生み出すWEBメディア",
+                                "og:site_name": "LDP - 住宅業界に新しい視点を生み出すWEBメディア",
+                                "twitter:url": "https://ldp.media/",
+                                "og:title": "資料ダウンロード｜LDP - 住宅業界に新しい視点を生み出すWEBメディア",
+                                "og:description": "LDPが運営するLIFE LABEL,Doliveの概要をお伝えする資料から、マーケティングや戦略に役立つ資料をご用意しております。",
+                                "twitter:image": "https://ldp.media/cms/wp-content/themes/betsudaitokyo/images/ogp.jpg",
+                                "facebook-domain-verification": "3gpmme6974ny6dcl26zf1qr1ihqvcj",
+                                "viewport": "width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1",
+                                "twitter:description": "LDPが運営するLIFE LABEL,Doliveの概要をお伝えする資料から、マーケティングや戦略に役立つ資料をご用意しております。",
+                                "og:url": "https://ldp.media/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://ldp.media/cms/wp-content/themes/betsudaitokyo/images/ogp.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "製造業の資料やノウハウ無料ダウンロード | セールスフォース ...",
+                    "htmlTitle": "製造<b>業</b>の<b>資料</b>やノウハウ無料<b>ダウンロード</b> | セールスフォース ...",
+                    "link": "https://www.salesforce.com/jp/resources/manufacturing/",
+                    "displayLink": "www.salesforce.com",
+                    "snippet": "製造業に関するお役立ち資料 · 第4次産業革命で変わる製造業の未来 顧客中心の”つながる”モノづくり · 時代に対応できるデータ統合を · Salesforce 最新レポート 『製造業界の ...",
+                    "htmlSnippet": "製造<b>業</b>に関するお役立ち<b>資料</b> &middot; 第4次産業革命で変わる製造<b>業</b>の未来 顧客中心の”つながる”モノづくり &middot; 時代に対応できるデータ統合を &middot; Salesforce 最新レポート 『製造<b>業界</b>の&nbsp;...",
+                    "formattedUrl": "https://www.salesforce.com/jp/resources/manufacturing/",
+                    "htmlFormattedUrl": "https://www.salesforce.com/jp/resources/manufacturing/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSi9ej6fzk0z1l8bKcoVlDe-E2mCjyIojeh7lA-VFZwGo05NjYEju4JoIU1",
+                                "width": "310",
+                                "height": "162"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.salesforce.com/content/dam/web/en_us/www/images/industries/resource-pages/manufacturing/resource-center-manufacturing.jpg",
+                                "og:type": "website",
+                                "twitter:card": "summary",
+                                "og:site_name": "Salesforce",
+                                "twitter:domain": "www.salesforce.com",
+                                "twitter:url": "https://www.salesforce.com/jp/resources/manufacturing/",
+                                "og:title": "製造業の資料やノウハウ無料ダウンロード",
+                                "og:description": "製造業の最新トレンドやお役立ち資料など多彩なコンテンツをご用意しています。すべて無料でダウンロードできます。",
+                                "fb:app_id": "149533758430156",
+                                "twitter:site": "@salesforce",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "og:locale": "ja_jp",
+                                "og:url": "https://www.salesforce.com/jp/resources/manufacturing/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.salesforce.com/content/dam/web/en_us/www/images/industries/resource-pages/manufacturing/resource-center-manufacturing.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "（一社）日本建材・住宅設備産業協会 資料ダウンロードサイト",
+                    "htmlTitle": "（一社）日本建材・住宅設備産業協会 <b>資料ダウンロード</b>サイト",
+                    "link": "https://www.kensankyo.org/download/",
+                    "displayLink": "www.kensankyo.org",
+                    "snippet": "「ZEH のつくり方」・「製品リスト」資料データ（無料ダウンロード） · 個人 · 工務店 · 設計事務所 · メーカー · 建材メーカー · 設備メーカー · 電機メーカー · 太陽光発電 ...",
+                    "htmlSnippet": "「ZEH のつくり方」・「製品リスト」<b>資料</b>データ（無料<b>ダウンロード</b>） &middot; 個人 &middot; 工務店 &middot; 設計事務所 &middot; メーカー &middot; 建材メーカー &middot; 設備メーカー &middot; 電機メーカー &middot; 太陽光発電&nbsp;...",
+                    "cacheId": "r3ndJ6YyCJwJ",
+                    "formattedUrl": "https://www.kensankyo.org/download/",
+                    "htmlFormattedUrl": "https://www.kensankyo.org/download/"
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "ダウンロード資料一覧 – マニュアル作成・共有システム 「Teachme ...",
+                    "htmlTitle": "<b>ダウンロード資料</b>一覧 – マニュアル作成・共有システム 「Teachme ...",
+                    "link": "https://biz.teachme.jp/download/",
+                    "displayLink": "biz.teachme.jp",
+                    "snippet": "ダウンロード資料一覧. Teachme Biz資料、導入事例集、お役立ち資料を ダウンロードしていただくことができます。 Teachme Biz関連資料. 業界別導入事例集.",
+                    "htmlSnippet": "<b>ダウンロード資料</b>一覧. Teachme Biz<b>資料</b>、導入事例集、お役立ち<b>資料</b>を <b>ダウンロード</b>していただくことができます。 Teachme Biz関連<b>資料</b>. <b>業界</b>別導入事例集.",
+                    "cacheId": "A-Hw9c_loWAJ",
+                    "formattedUrl": "https://biz.teachme.jp/download/",
+                    "htmlFormattedUrl": "https://biz.teachme.jp/download/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIszXvETxlk9Vby4ZkIuIlL11wAmK_OcD1S6ugEC47I4yJePMZZM21zqae",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://biz.teachme.jp/wordpress/wp-content/themes/biz-teachme-jp-2021/img/img_top_ogp.png",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "「Teachme Biz」",
+                                "article:modified_time": "2022-08-30T07:16:51+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "ダウンロード資料一覧 – マニュアル作成・共有システム 「Teachme Biz」",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://biz.teachme.jp/download/",
+                                "og:description": "マニュアル作成・共有システム「Teachme Biz」のサービス概要資料や各業種の導入事例集、お役立ち資料など各種資料をダウンロードいただけます。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://biz.teachme.jp/wordpress/wp-content/themes/biz-teachme-jp-2021/img/img_top_ogp.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料一覧ページ | Safie（セーフィー）",
+                    "htmlTitle": "<b>資料</b>一覧ページ | Safie（セーフィー）",
+                    "link": "https://info.safie.jp/whitepaper/",
+                    "displayLink": "info.safie.jp",
+                    "snippet": "... の製品資料やクラウド防犯カメラ活用方法などの資料を掲載。小売や建設などあらゆる業界での業務改善についてご紹介しています。気になる資料を簡単にダウンロード ...",
+                    "htmlSnippet": "... の製品<b>資料</b>やクラウド防犯カメラ活用方法などの<b>資料</b>を掲載。小売や建設などあらゆる<b>業界</b>での業務改善についてご紹介しています。気になる<b>資料</b>を簡単に<b>ダウンロード</b>&nbsp;...",
+                    "cacheId": "dCeugthX-wYJ",
+                    "formattedUrl": "https://info.safie.jp/whitepaper/",
+                    "htmlFormattedUrl": "https://info.safie.jp/whitepaper/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "og:image": "https://info.safie.jp/l/636011/2023-04-16/4ctqj3/636011/1681651293s0bhjZGL/banner_01.png",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "クラウド録画サービス Safie（セーフィー）",
+                                "twitter:site": "@SafieInc",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "資料一覧ページ｜Safie（セーフィー）",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://info.safie.jp/whitepaper/",
+                                "og:description": "セーフィーの製品資料やクラウド防犯カメラ活用方法などの資料を掲載。小売や建設などあらゆる業界での業務改善についてご紹介しています。気になる資料を簡単にダウンロードできます。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://info.safie.jp/l/636011/2023-04-16/4ctqj3/636011/1681651293s0bhjZGL/banner_01.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "美容業界資料ダウンロードページ",
+                    "htmlTitle": "美容<b>業界資料ダウンロード</b>ページ",
+                    "link": "https://peraichi.com/landing_pages/view/dl-page/",
+                    "displayLink": "peraichi.com",
+                    "snippet": "リクエストQJナビが発行した、お役立ち資料を無料で配布しております。美容師採用に関して詳しい内容を知りたい方は、こちらから資料をダウンロードしてください。",
+                    "htmlSnippet": "リクエストQJナビが発行した、お役立ち<b>資料</b>を無料で配布しております。美容師採用に関して詳しい内容を知りたい方は、こちらから<b>資料</b>を<b>ダウンロード</b>してください。",
+                    "cacheId": "uQykveWU16IJ",
+                    "formattedUrl": "https://peraichi.com/landing_pages/view/dl-page/",
+                    "htmlFormattedUrl": "https://peraichi.com/landing_pages/view/dl-page/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLx_4sAJ1-e_tFpEh48yfG5IfYmEqL8KYjE7tb7cjMT5nanw6xFbqcVuY",
+                                "width": "281",
+                                "height": "179"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://cdn.peraichi.com/userData/5f0c08be-2d60-488e-9a93-09c90a0000ae/img/60ebc768f337b/original.jpg",
+                                "og:type": "article",
+                                "og:site_name": "美容業界資料ダウンロードページ",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "美容業界資料ダウンロードページ",
+                                "og:url": "https://peraichi.com/landing_pages/view/dl-page",
+                                "og:description": "リクエストQJナビが発行した、お役立ち資料を無料で配布しております。美容師採用に関して詳しい内容を知りたい方は、こちらから資料をダウンロードしてください。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://cdn.peraichi.com/userData/5f0c08be-2d60-488e-9a93-09c90a0000ae/img/60ebc768f337b/original.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロード | 【公式】CHART-Series（チャートシリーズ ...",
+                    "htmlTitle": "<b>資料ダウンロード</b> | 【公式】CHART-Series（チャートシリーズ ...",
+                    "link": "https://www.chart-s.com/download/",
+                    "displayLink": "www.chart-s.com",
+                    "snippet": "資料ダウンロードフォーム. CHART seriesをご覧いただき、誠に ... CHART seriesの適性検査は、業界最安値水準の700円（1人分 / 1枚）でご利用いただけます。",
+                    "htmlSnippet": "<b>資料ダウンロード</b>フォーム. CHART seriesをご覧いただき、誠に ... CHART seriesの適性検査は、<b>業界</b>最安値水準の700円（1人分 / 1枚）でご利用いただけます。",
+                    "cacheId": "SG2uV9P3_JMJ",
+                    "formattedUrl": "https://www.chart-s.com/download/",
+                    "htmlFormattedUrl": "https://www.chart-s.com/download/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSf7spJKV24ilCtA8wvd3e4H6GeHwWUc5p4H0fSWuKANj4EwJB8ZUWdAMia",
+                                "width": "304",
+                                "height": "166"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.chart-s.com/nzp/wp-content/uploads/2022/05/280041298_575900040623733_2435269271033347597_n.png",
+                                "og:type": "article",
+                                "og:image:width": "1019",
+                                "article:published_time": "2022-05-14T06:45:22+00:00",
+                                "twitter:card": "summary",
+                                "twitter:title": "資料ダウンロード | 【公式】CHART-Series（チャートシリーズ） | 業界最安値・大学教授/弁護士監修の妥当性の高い適性検査",
+                                "og:site_name": "【公式】CHART-Series（チャートシリーズ） | 業界最安値・大学教授/弁護士監修の妥当性の高い適性検査 | 職種別、不適正人材を見抜く適性検査VALUE CHRT(バリューチャート)｜入社後活躍を支援する適性検査i CHART(アイチャート)",
+                                "og:title": "資料ダウンロード | 【公式】CHART-Series（チャートシリーズ） | 業界最安値・大学教授/弁護士監修の妥当性の高い適性検査",
+                                "og:image:height": "555",
+                                "msapplication-tileimage": "https://www.chart-s.com/nzp/wp-content/uploads/2022/04/ファビコン1.png",
+                                "og:description": "資料ダウンロードフォーム CHART seriesをご覧いただき、誠にありがとうございます。フォームにご入力い",
+                                "og:image:secure_url": "https://www.chart-s.com/nzp/wp-content/uploads/2022/05/280041298_575900040623733_2435269271033347597_n.png",
+                                "twitter:image": "https://www.chart-s.com/nzp/wp-content/uploads/2022/05/280041298_575900040623733_2435269271033347597_n.png",
+                                "article:modified_time": "2022-05-14T07:03:29+00:00",
+                                "viewport": "width=device-width",
+                                "twitter:description": "資料ダウンロードフォーム CHART seriesをご覧いただき、誠にありがとうございます。フォームにご入力い",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.chart-s.com/download/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.chart-s.com/nzp/wp-content/uploads/2022/05/280041298_575900040623733_2435269271033347597_n.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料一覧｜クラウドサイン",
+                    "htmlTitle": "<b>資料</b>一覧｜クラウドサイン",
+                    "link": "https://cs.cloudsign.jp/documents?cst=top_pc_7",
+                    "displayLink": "cs.cloudsign.jp",
+                    "snippet": "SaaS 利用者/ 事業者が知っておくべきクラウドセキュリティの ポイント. 資料ダウンロード. 電子契約サービスを比較する際の3つのポイント ...",
+                    "htmlSnippet": "SaaS 利用者/ 事業者が知っておくべきクラウドセキュリティの ポイント. <b>資料ダウンロード</b>. 電子契約サービスを比較する際の3つのポイント&nbsp;...",
+                    "cacheId": "EvCVdFjzSJoJ",
+                    "formattedUrl": "https://cs.cloudsign.jp/documents?cst=top_pc_7",
+                    "htmlFormattedUrl": "https://cs.cloudsign.jp/documents?cst=top_pc_7",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "twitter:card": "summary_large_image",
+                                "twitter:site": "@cloudsign_jp",
+                                "og:site_name": "CloudSign（クラウドサイン）",
+                                "viewport": "width=device-width, initial-scale=1"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "業界別資料 | ベルフェイス (bellFace) - 金融シェアNo.1 電話面談 ...",
+                    "htmlTitle": "<b>業界</b>別<b>資料</b> | ベルフェイス (bellFace) - 金融シェアNo.1 電話面談 ...",
+                    "link": "https://bell-face.com/ebook/",
+                    "displayLink": "bell-face.com",
+                    "snippet": "ベルフェイスについてもっとくわしく！ よくわかる資料セット. 資料を無料ダウンロード. よくわかる！資料セット. 機能 ...",
+                    "htmlSnippet": "ベルフェイスについてもっとくわしく！ よくわかる<b>資料</b>セット. <b>資料</b>を無料<b>ダウンロード</b>. よくわかる！<b>資料</b>セット. 機能&nbsp;...",
+                    "cacheId": "N7u3BCyYwCoJ",
+                    "formattedUrl": "https://bell-face.com/ebook/",
+                    "htmlFormattedUrl": "https://bell-face.com/ebook/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVIJPBG9UzoKWKQthOA8E5O-ZtockTi2tpMW73Fq8NLwqwh2IIiP3h9AHF",
+                                "width": "300",
+                                "height": "168"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://bell-face.com/opengraph.png",
+                                "og:type": "website",
+                                "fb:app_id": "458739211316893",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "ベルフェイス (bellFace) - 金融シェアNo.1 電話面談システム",
+                                "twitter:site": "@bellface_jp",
+                                "viewport": "width=device-width,initial-scale=1",
+                                "og:title": "業界別資料 | ベルフェイス (bellFace) - 金融シェアNo.1 電話面談システム",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://bell-face.com/ebook/",
+                                "og:description": "金融シェアNo.1電話面談システム「ベルフェイス」の業界別資料ご紹介ページです。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://bell-face.com/opengraph.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロード|ECプラットフォーム ecforce",
+                    "htmlTitle": "<b>資料ダウンロード</b>|ECプラットフォーム ecforce",
+                    "link": "https://ec-force.com/ebook",
+                    "displayLink": "ec-force.com",
+                    "snippet": "ecforceや関連プロダクトの詳しい機能やプラン概要資料、お客様事例、EC・D2C成功の秘訣を凝縮したホワイトペーパーなどをダウンロードいただけます。",
+                    "htmlSnippet": "ecforceや関連プロダクトの詳しい機能やプラン概要<b>資料</b>、お客様事例、EC・D2C成功の秘訣を凝縮したホワイトペーパーなどを<b>ダウンロード</b>いただけます。",
+                    "cacheId": "MGrc2laLNIUJ",
+                    "formattedUrl": "https://ec-force.com/ebook",
+                    "htmlFormattedUrl": "https://ec-force.com/ebook",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwsv8WZW6socyTpUNY8bqRhWX53lBe_ur3QTFd04i_qAjOTkBu9Y3zUcWX",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://ec-force.com/assets/brand/ogp-e7e5d70dd7b91813cf789e009c3c9cf877129422459433cd97e2034857ccf8fd.png",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "資料ダウンロード|ECプラットフォーム ecforce",
+                                "og:site_name": "ecforce | 法人向けオールインワンECプラットフォーム",
+                                "twitter:url": "https://ec-force.com/ebook",
+                                "og:title": "資料ダウンロード|ECプラットフォーム ecforce",
+                                "csrf-param": "authenticity_token",
+                                "og:description": "ecforceや関連プロダクトの詳しい機能やプラン概要資料、お客様事例、EC・D2C成功の秘訣を凝縮したホワイトペーパーなどをダウンロードいただけます。ぜひ、お役立てください。",
+                                "twitter:image": "https://ec-force.com/assets/brand/ogp-e7e5d70dd7b91813cf789e009c3c9cf877129422459433cd97e2034857ccf8fd.png",
+                                "fb:app_id": "543891466033500",
+                                "twitter:site": "@ecforce1",
+                                "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                                "twitter:description": "ecforceや関連プロダクトの詳しい機能やプラン概要資料、お客様事例、EC・D2C成功の秘訣を凝縮したホワイトペーパーなどをダウンロードいただけます。ぜひ、お役立てください。",
+                                "csrf-token": "aZ3NuQgYS5b1SG/xHDnp8q64mmg4Dnixth931wFFho6ZiKC2VBj6AcDZCcdwGKijxutq1liitNjp3+utzdQTlA==",
+                                "og:url": "https://ec-force.com/ebook"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://ec-force.com/assets/brand/ogp-e7e5d70dd7b91813cf789e009c3c9cf877129422459433cd97e2034857ccf8fd.png"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 業界 資料ダウンロード",
+                        "totalResults": "40800000",
+                        "searchTerms": "業界 資料ダウンロード",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 業界 資料ダウンロード",
+                        "totalResults": "40800000",
+                        "searchTerms": "業界 資料ダウンロード",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 業界 資料ダウンロード",
+                        "totalResults": "40800000",
+                        "searchTerms": "業界 資料ダウンロード",
+                        "count": 10,
+                        "startIndex": 31,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.329802,
+                "formattedSearchTime": "0.33",
+                "totalResults": "40800000",
+                "formattedTotalResults": "40,800,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "金属業界導入実績 資料ダウンロードページ | 株式会社 VRAIN Solution",
+                    "htmlTitle": "金属<b>業界</b>導入実績 <b>資料ダウンロード</b>ページ | 株式会社 VRAIN Solution",
+                    "link": "https://vrain.co.jp/download-metal/",
+                    "displayLink": "vrain.co.jp",
+                    "snippet": "属業界向け. AIによる外観検査の事例. AI外観検査システム【Phoenix】による金属業界の活⽤例になります。 ... 資料ダウンロードの目的必須.",
+                    "htmlSnippet": "属<b>業界</b>向け. AIによる外観検査の事例. AI外観検査システム【Phoenix】による金属<b>業界</b>の活⽤例になります。 ... <b>資料ダウンロード</b>の目的必須.",
+                    "cacheId": "Xx3OUoMB4LcJ",
+                    "formattedUrl": "https://vrain.co.jp/download-metal/",
+                    "htmlFormattedUrl": "https://vrain.co.jp/download-metal/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXVJO5S2cGbzP4FAUeqgITuBr1FLu62Q5rdevJx1BpKMsTMtSbSHP9Snow",
+                                "width": "270",
+                                "height": "187"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://vrain.co.jp/hp/wp-content/uploads/2023/01/元画像.jpg",
+                                "og:type": "article",
+                                "og:image:width": "1500",
+                                "article:published_time": "2022-08-30T01:07:51+00:00",
+                                "twitter:card": "summary",
+                                "twitter:title": "金属業界導入実績 資料ダウンロードページ | 株式会社 VRAIN Solution",
+                                "og:site_name": "株式会社 VRAIN Solution | AI技術で検査の自動化を実現",
+                                "og:title": "金属業界導入実績 資料ダウンロードページ | 株式会社 VRAIN Solution",
+                                "og:image:height": "1076",
+                                "og:image:secure_url": "https://vrain.co.jp/hp/wp-content/uploads/2023/01/元画像.jpg",
+                                "article:publisher": "https://www.facebook.com/vrainsolutionofficial/",
+                                "twitter:image": "https://vrain.co.jp/hp/wp-content/uploads/2023/01/元画像.jpg",
+                                "article:modified_time": "2022-11-07T05:56:01+00:00",
+                                "viewport": "width=device-width",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://vrain.co.jp/download-metal/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://vrain.co.jp/hp/wp-content/uploads/2022/08/dl-metal.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "name": "金属業界導入実績 資料ダウンロードページ",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロード｜太陽刷子株式会社｜ブラシ業界No.1の技術力",
+                    "htmlTitle": "<b>資料ダウンロード</b>｜太陽刷子株式会社｜ブラシ<b>業界</b>No.1の技術力",
+                    "link": "https://www.taiyo-brush.co.jp/download/",
+                    "displayLink": "www.taiyo-brush.co.jp",
+                    "snippet": "資料ダウンロード Download. ただいま準備中のため、もうしばらくお待ちください。 Contact. 太陽刷子 ...",
+                    "htmlSnippet": "<b>資料ダウンロード</b> Download. ただいま準備中のため、もうしばらくお待ちください。 Contact. 太陽刷子&nbsp;...",
+                    "cacheId": "Ya2aXwe6bCsJ",
+                    "formattedUrl": "https://www.taiyo-brush.co.jp/download/",
+                    "htmlFormattedUrl": "https://www.taiyo-brush.co.jp/download/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQTHVck_6zT8Ot1SmfAdeVy-uFCTjEhf7FF-A0Y8ETNJZ0RWWhqZIuQieE",
+                                "width": "437",
+                                "height": "115"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:type": "article",
+                                "twitter:card": "summary",
+                                "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                                "og:title": "資料ダウンロード｜太陽刷子株式会社｜ブラシ業界No.1の技術力",
+                                "og:locale": "ja_JP",
+                                "og:description": "太陽刷子株式会社では100年以上にわたって積み重ねてきたノウハウに加え、新技術を応用し、新しいことにチャレンジをし続けています。材料の調査・選定～製品の設計～設備の開発など、お客様に良い製品をお届けできるよう研究を重ねています。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.taiyo-brush.co.jp/img/about/pagetitle.webp"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "自動車業界と射出成形のダウンロード資料",
+                    "htmlTitle": "自動車<b>業界</b>と射出成形の<b>ダウンロード資料</b>",
+                    "link": "https://www.injection-molding.jp/blog/automotive-industry-and-injection-molding",
+                    "displayLink": "www.injection-molding.jp",
+                    "snippet": "2022/04/13 ... 自動車に関連するダウンロード資料. 自動車業界における射出成形部品のさまざまな課題に、株式会社ハーモが貢献できるテーマを資料にまとめました。自動車 ...",
+                    "htmlSnippet": "2022/04/13 <b>...</b> 自動車に関連する<b>ダウンロード資料</b>. 自動車<b>業界</b>における射出成形部品のさまざまな課題に、株式会社ハーモが貢献できるテーマを<b>資料</b>にまとめました。自動車&nbsp;...",
+                    "cacheId": "L8tkfN6xVm8J",
+                    "formattedUrl": "https://www.injection-molding.jp/.../automotive-industry-and-injection- molding",
+                    "htmlFormattedUrl": "https://www.injection-molding.jp/.../automotive-industry-and-injection- molding",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWHeS81wrwFm-OqhJaDo0C-Gf9_KJgUJbsAfK3lCbPGUMdvUADSvqjZxTi",
+                                "width": "270",
+                                "height": "187"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.injection-molding.jp/hs-fs/hubfs/%E8%87%AA%E5%8B%95%E8%BB%8A%E6%A5%AD%E7%95%8C%E3%81%A8%E5%B0%84%E5%87%BA%E6%88%90%E5%BD%A2%EF%BD%9C%E3%82%BF%E3%82%99%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%88%E3%82%99%E8%B3%87%E6%96%99_%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%8F%E3%83%BC%E3%83%A2_%E8%A1%A8%E7%B4%99.jpg?width=500&name=%E8%87%AA%E5%8B%95%E8%BB%8A%E6%A5%AD%E7%95%8C%E3%81%A8%E5%B0%84%E5%87%BA%E6%88%90%E5%BD%A2%EF%BD%9C%E3%82%BF%E3%82%99%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%88%E3%82%99%E8%B3%87%E6%96%99_%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%8F%E3%83%BC%E3%83%A2_%E8%A1%A8%E7%B4%99.jpg#keepProtocol",
+                                "twitter:title": "自動車業界と射出成形のダウンロード資料",
+                                "og:image:width": "1000",
+                                "og:image:alt": "自動車業界と射出成形のダウンロード資料のイメージ画像｜株式会社ハーモ",
+                                "twitter:card": "summary_large_image",
+                                "og:type": "article",
+                                "twitter:domain": "www.injection-molding.jp",
+                                "og:title": "自動車業界と射出成形のダウンロード資料",
+                                "og:image:height": "692",
+                                "og:description": "内燃機関を駆動元としてきた自動車業界に今、130年ぶりのパラダイムシフトが起きています。自動車業界における射出成形部品のさまざまな課題に、株式会社ハーモが貢献できる資料をご用意しました。 ぜひみなさまの課題解決のためにお役立ていただけますと幸いです。",
+                                "twitter:image": "https://www.injection-molding.jp/hs-fs/hubfs/%E8%87%AA%E5%8B%95%E8%BB%8A%E6%A5%AD%E7%95%8C%E3%81%A8%E5%B0%84%E5%87%BA%E6%88%90%E5%BD%A2%EF%BD%9C%E3%82%BF%E3%82%99%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%88%E3%82%99%E8%B3%87%E6%96%99_%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%8F%E3%83%BC%E3%83%A2_%E8%A1%A8%E7%B4%99.jpg?width=500&name=%E8%87%AA%E5%8B%95%E8%BB%8A%E6%A5%AD%E7%95%8C%E3%81%A8%E5%B0%84%E5%87%BA%E6%88%90%E5%BD%A2%EF%BD%9C%E3%82%BF%E3%82%99%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%88%E3%82%99%E8%B3%87%E6%96%99_%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%8F%E3%83%BC%E3%83%A2_%E8%A1%A8%E7%B4%99.jpg#keepProtocol",
+                                "twitter:image:alt": "自動車業界と射出成形のダウンロード資料のイメージ画像｜株式会社ハーモ",
+                                "viewport": "width=device-width,initial-scale=1",
+                                "twitter:description": "内燃機関を駆動元としてきた自動車業界に今、130年ぶりのパラダイムシフトが起きています。自動車業界における射出成形部品のさまざまな課題に、株式会社ハーモが貢献できる資料をご用意しました。 ぜひみなさまの課題解決のためにお役立ていただけますと幸いです。",
+                                "og:url": "https://www.injection-molding.jp/blog/automotive-industry-and-injection-molding"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.injection-molding.jp/hs-fs/hubfs/%E8%87%AA%E5%8B%95%E8%BB%8A%E6%A5%AD%E7%95%8C%E3%81%A8%E5%B0%84%E5%87%BA%E6%88%90%E5%BD%A2%EF%BD%9C%E3%82%BF%E3%82%99%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%88%E3%82%99%E8%B3%87%E6%96%99_%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%8F%E3%83%BC%E3%83%A2_%E8%A1%A8%E7%B4%99.jpg?width=500&name=%E8%87%AA%E5%8B%95%E8%BB%8A%E6%A5%AD%E7%95%8C%E3%81%A8%E5%B0%84%E5%87%BA%E6%88%90%E5%BD%A2%EF%BD%9C%E3%82%BF%E3%82%99%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%88%E3%82%99%E8%B3%87%E6%96%99_%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%8F%E3%83%BC%E3%83%A2_%E8%A1%A8%E7%B4%99.jpg#keepProtocol"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料一覧｜クラウド型名刺管理・営業支援ツール『ホット ...",
+                    "htmlTitle": "<b>資料</b>一覧｜クラウド型名刺管理・営業支援ツール『ホット ...",
+                    "link": "https://www.hammock.jp/hpr/whitepaper/",
+                    "displayLink": "www.hammock.jp",
+                    "snippet": "資料一覧｜営業支援ツール『HotProfile』｜ホットプロファイル. ... 社内検討材料として、ぜひお気軽にダウンロードください。 サービス概要 ... 業界別導入事例集.",
+                    "htmlSnippet": "<b>資料</b>一覧｜営業支援ツール『HotProfile』｜ホットプロファイル. ... 社内検討材料として、ぜひお気軽に<b>ダウンロード</b>ください。 サービス概要 ... <b>業界</b>別導入事例集.",
+                    "cacheId": "qbQ5Ls-qT_AJ",
+                    "formattedUrl": "https://www.hammock.jp/hpr/whitepaper/",
+                    "htmlFormattedUrl": "https://www.hammock.jp/hpr/whitepaper/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "og:image": "/hpr/assets/images/ogp.png",
+                                "og:type": "website",
+                                "fb:app_id": "*****",
+                                "og:site_name": "株式会社ハンモック",
+                                "viewport": "width=device-width,initial-scale=1",
+                                "og:title": "資料一覧",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.hammock.jp/hpr/whitepaper/",
+                                "og:description": "資料一覧｜営業支援ツール『HotProfile』｜ホットプロファイル",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "/hpr/assets/images/ogp.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロード－JIMCAJP",
+                    "htmlTitle": "<b>資料ダウンロード</b>－JIMCAJP",
+                    "link": "https://jimcajp.or.jp/jp/documents.html",
+                    "displayLink": "jimcajp.or.jp",
+                    "snippet": "「日本への医療渡航に向けて」の資料. 更新日時：2023年02月17日. ダウンロード. 令和4年度第2回業界ガイドライン策定協議会資料. 令和4年度第2回協議会「国際 ...",
+                    "htmlSnippet": "「日本への医療渡航に向けて」の<b>資料</b>. 更新日時：2023年02月17日. <b>ダウンロード</b>. 令和4年度第2回<b>業界</b>ガイドライン策定協議会<b>資料</b>. 令和4年度第2回協議会「国際&nbsp;...",
+                    "cacheId": "He8qmaT5jLMJ",
+                    "formattedUrl": "https://jimcajp.or.jp/jp/documents.html",
+                    "htmlFormattedUrl": "https://jimcajp.or.jp/jp/documents.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm-9fkAJZ385JT4Ah89MhhsxGPTpnE_Yl4oKcVvvmhJo6QeSSaFJbFrnIB",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://jimcajp.or.jp/assets/img/close-icon.svg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "M&A・事業承継に関する資料 | M&A総合研究所",
+                    "htmlTitle": "M&amp;A・事業承継に関する<b>資料</b> | M&amp;A総合研究所",
+                    "link": "https://masouken.com/documents/8",
+                    "displayLink": "masouken.com",
+                    "snippet": "ダウンロード用URLを自動メールでお送りしますので、フォームよりご入力ください。 数字で見る業界の動向; 動向を踏まえた上での生き残り戦略; 最新M&A事例と専門 ...",
+                    "htmlSnippet": "<b>ダウンロード</b>用URLを自動メールでお送りしますので、フォームよりご入力ください。 数字で見る<b>業界</b>の動向; 動向を踏まえた上での生き残り戦略; 最新M&amp;A事例と専門&nbsp;...",
+                    "cacheId": "O4ilZhbUjXoJ",
+                    "formattedUrl": "https://masouken.com/documents/8",
+                    "htmlFormattedUrl": "https://masouken.com/documents/8",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRODC8a3M-3x7rUUwyraFKS6jXPQPSyfUN9b3FEbcEpppK3WtQ__4zYGjp",
+                                "width": "300",
+                                "height": "168"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://s3-ap-northeast-1.amazonaws.com/cdn.ma-site.com/statics/service/lp/og_dog.png",
+                                "og:type": "article",
+                                "theme-color": "#012543",
+                                "og:site_name": "M&A・事業承継ならM&A総合研究所",
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0",
+                                "og:title": "M&A・事業承継に関する資料",
+                                "csrf-token": "6IyQII8fOKopneVakSW-a75F8SCdegRxNZWG4tPAHzDw5CHD1HIuyF8uRl3692HXwog30qHFJk3KMyRcb9eS4w",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://masouken.com/documents/8",
+                                "csrf-param": "authenticity_token",
+                                "og:description": "M&A総合研究所の資料ダウンロードページです。M&A総研は４つの強みを武器にしています。①譲渡企業様完全成功報酬制の料金体系、②ご希望に沿ったM&A・事業承継、③成約までのスピード、④経験豊富なM&Aアドバイザーによるフルサポート体制となります。まずはお気軽にご相談ください。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://s3-ap-northeast-1.amazonaws.com/cdn.ma-site.com/statics/service/lp/og_dog.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "トップ",
+                                "name": "トップ",
+                                "position": "1"
+                            },
+                            {
+                                "item": "資料ダウンロード",
+                                "name": "資料ダウンロード",
+                                "position": "2"
+                            },
+                            {
+                                "item": "LPガス業界の方",
+                                "name": "LPガス業界の方",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "デジタルマップ活用の業界別事例｜資料ダウンロードフォーム ...",
+                    "htmlTitle": "デジタルマップ活用の<b>業界</b>別事例｜<b>資料ダウンロード</b>フォーム ...",
+                    "link": "https://www.mapbox.jp/download-form/industry-specific-case-studies-of-digital-map",
+                    "displayLink": "www.mapbox.jp",
+                    "snippet": "デジタルマップを導入していない、まだ活用できていない企業様が「デジタルマップを活用してどれくらい事業インパクトがあったのか」をまとめた資料となります。",
+                    "htmlSnippet": "デジタルマップを導入していない、まだ活用できていない企業様が「デジタルマップを活用してどれくらい事業インパクトがあったのか」をまとめた<b>資料</b>となります。",
+                    "cacheId": "3ildyHI53OQJ",
+                    "formattedUrl": "https://www.mapbox.jp/...form/industry-specific-case-studies-of-digital-map",
+                    "htmlFormattedUrl": "https://www.mapbox.jp/...form/industry-specific-case-studies-of-digital-map",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl0NgpC9dyuJpjRcHfhNljJ99scoG3ucYOx79_WOGqhp3Dmk4pv5c6hjM",
+                                "width": "300",
+                                "height": "168"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://assets-global.website-files.com/5f8ddf03fc2e2a37e95f7124/6197272bcf885c0310726931_%E4%BA%8B%E4%BE%8B%E9%9B%86-16-9.007.png",
+                                "twitter:title": "デジタルマップ活用の業界別事例｜資料ダウンロードフォーム｜Mapbox Japan",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "デジタルマップを導入していない、まだ活用できていない企業様が「デジタルマップを活用してどれくらい事業インパクトがあったのか」をまとめた資料となります。",
+                                "og:title": "デジタルマップ活用の業界別事例｜資料ダウンロードフォーム｜Mapbox Japan",
+                                "og:description": "デジタルマップを導入していない、まだ活用できていない企業様が「デジタルマップを活用してどれくらい事業インパクトがあったのか」をまとめた資料となります。",
+                                "twitter:image": "https://assets-global.website-files.com/5f8ddf03fc2e2a37e95f7124/6197272bcf885c0310726931_%E4%BA%8B%E4%BE%8B%E9%9B%86-16-9.007.png",
+                                "facebook-domain-verification": "hjfzcba0v838fotkgzbjgzs1lb8wdc"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://assets-global.website-files.com/5f8ddf03fc2e2a37e95f7124/6197272bcf885c0310726931_%E4%BA%8B%E4%BE%8B%E9%9B%86-16-9.007.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロード",
+                    "htmlTitle": "<b>資料ダウンロード</b>",
+                    "link": "https://www.dentsudigital.co.jp/downloads",
+                    "displayLink": "www.dentsudigital.co.jp",
+                    "snippet": "B2B企業におけるデジタル化の現在を、さまざまな国/業界/組織規模のビジネス戦略意思決定者から回答を得て調査。 B2B企業がDXに期待するもの; 計画や人材への現状認識; 各 ...",
+                    "htmlSnippet": "B2B企業におけるデジタル化の現在を、さまざまな国/<b>業界</b>/組織規模のビジネス戦略意思決定者から回答を得て調査。 B2B企業がDXに期待するもの; 計画や人材への現状認識; 各&nbsp;...",
+                    "cacheId": "9iV5hHBHW2MJ",
+                    "formattedUrl": "https://www.dentsudigital.co.jp/downloads",
+                    "htmlFormattedUrl": "https://www.dentsudigital.co.jp/downloads",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIrX80ItmLBMf32_-KBrmKYeLaxDjHrTZlzUTE-6EXp2nRe5kgX9teFLVh",
+                                "width": "229",
+                                "height": "220"
+                            }
+                        ],
+                        "imageobject": [
+                            {
+                                "contenturl": "https://www.dentsudigital.co.jp/jp/downloads/_jcr_content/root/container_736253861/container/teaser_copy_20993473_1498440088.coreimg.100.1024.jpeg/1678762709987/retail-dx-research-2022-1.jpeg"
+                            },
+                            {
+                                "contenturl": "https://www.dentsudigital.co.jp/jp/downloads/_jcr_content/root/container_736253861/container/teaser_copy_20993473.coreimg.100.1024.jpeg/1679027366526/d-compas-samnail.jpeg"
+                            },
+                            {
+                                "contenturl": "https://www.dentsudigital.co.jp/jp/downloads/_jcr_content/root/container_736253861/container/teaser_copy_20993473_700619828.coreimg.100.1024.jpeg/1678078854457/2022-0601-001.jpeg"
+                            },
+                            {
+                                "contenturl": "https://www.dentsudigital.co.jp/jp/downloads/_jcr_content/root/container_736253861/container/teaser_copy_copy_cop.coreimg.100.1024.png/1678078874008/2-l-b-r-1200-630.png"
+                            },
+                            {
+                                "contenturl": "https://www.dentsudigital.co.jp/jp/downloads/_jcr_content/root/container_736253861/container/teaser_copy_12967018_336500524.coreimg.100.1024.png/1678078898607/d-t-i-t-b-w-2021-1200-630.png"
+                            },
+                            {
+                                "contenturl": "https://www.dentsudigital.co.jp/jp/downloads/_jcr_content/root/container_736253861/container/teaser_copy_82784952_145377157.coreimg.100.1024.png/1678078924540/cx-survey-2020-index.png"
+                            },
+                            {
+                                "contenturl": "https://www.dentsudigital.co.jp/jp/downloads/_jcr_content/root/container_736253861/container/teaser_copy_14269605.coreimg.svg/1678079043764/16-9-gray.svg"
+                            },
+                            {
+                                "contenturl": "https://www.dentsudigital.co.jp/jp/downloads/_jcr_content/root/container_736253861/container/teaser_copy_14269605_34540707.coreimg.svg/1678079011662/16-9-gray.svg"
+                            },
+                            {
+                                "contenturl": "https://www.dentsudigital.co.jp/jp/downloads/_jcr_content/root/container_736253861/container/teaser_copy_14269605_1310017873.coreimg.svg/1678079030481/16-9-gray.svg"
+                            },
+                            {
+                                "contenturl": "https://www.dentsudigital.co.jp/jp/downloads/_jcr_content/root/container_736253861/container/teaser_copy_14269605_894605647.coreimg.svg/1678079061560/16-9-gray.svg"
+                            },
+                            {
+                                "contenturl": "https://www.dentsudigital.co.jp/jp/downloads/_jcr_content/root/container_736253861/container/teaser_copy_14269605_437801264.coreimg.svg/1678079965757/16-9-gray.svg"
+                            },
+                            {
+                                "contenturl": "https://www.dentsudigital.co.jp/jp/downloads/_jcr_content/root/container_736253861/container_962201166_/teaser_copy_20993473.coreimg.100.1024.jpeg/1678079099848/2022-0531-001.jpeg"
+                            },
+                            {
+                                "contenturl": "https://www.dentsudigital.co.jp/jp/downloads/_jcr_content/root/container_736253861/container_962201166_/teaser_copy_20993473_900772595.coreimg.100.1024.png/1678169790646/t-f-o-i-r-2021-1200-630.png"
+                            },
+                            {
+                                "contenturl": "https://www.dentsudigital.co.jp/jp/downloads/_jcr_content/root/container_736253861/container_962201166_/teaser_copy_82784952_229434453.coreimg.100.1024.png/1678079134861/t-n-f-o-r-1200-630.png"
+                            },
+                            {
+                                "contenturl": "https://www.dentsudigital.co.jp/jp/downloads/_jcr_content/root/container_736253861/container_962201166_/teaser_copy_972364258.coreimg.100.1024.png/1678079170187/t-n-r-o-a-r-main-0.png"
+                            },
+                            {
+                                "contenturl": "https://www.dentsudigital.co.jp/jp/downloads/_jcr_content/root/container_736253861/container_962201166_/teaser_copy_copy.coreimg.100.1024.png/1678079196940/b-n-n-c-t-2021-index.png"
+                            },
+                            {
+                                "contenturl": "https://www.dentsudigital.co.jp/jp/downloads/_jcr_content/root/container_736253861/container_962201166_/teaser_copy_14269605.coreimg.100.1024.png/1678079214548/capitalcommerce-main.png"
+                            },
+                            {
+                                "contenturl": "https://www.dentsudigital.co.jp/jp/downloads/_jcr_content/root/container_736253861/container_962201166_/teaser_copy_14269605_1872171736.coreimg.100.1024.jpeg/1678079256015/t-c-o-t-i-l-r-main.jpeg"
+                            },
+                            {
+                                "contenturl": "https://www.dentsudigital.co.jp/jp/downloads/_jcr_content/root/container_736253861/container_962201166_/teaser_copy_14269605_1619894679.coreimg.svg/1678170040300/16-9-gray.svg"
+                            },
+                            {
+                                "contenturl": "https://www.dentsudigital.co.jp/jp/downloads/_jcr_content/root/container_736253861/container_962201166_/teaser_copy_14269605_426329399.coreimg.100.1024.png/1678079291691/cx-around-world-banking.png"
+                            },
+                            {
+                                "contenturl": "https://www.dentsudigital.co.jp/jp/downloads/_jcr_content/root/container_736253861/container_962201166_/teaser_copy_14269605_895816488.coreimg.100.1024.png/1678079313136/cx-around-world-pharma.png"
+                            },
+                            {
+                                "contenturl": "https://www.dentsudigital.co.jp/jp/downloads/_jcr_content/root/container_736253861/container_962201166_/teaser_copy_14269605_2040547135.coreimg.svg/1678079334333/16-9-gray.svg"
+                            },
+                            {
+                                "contenturl": "https://www.dentsudigital.co.jp/jp/downloads/_jcr_content/root/container_736253861/container_962201166/teaser_copy_14269605_1726127855.coreimg.100.1024.png/1678080267733/c-c-a-s-w-i-c-1200-675.png"
+                            },
+                            {
+                                "contenturl": "https://www.dentsudigital.co.jp/jp/downloads/_jcr_content/root/container_736253861/container_962201166/teaser_copy_14269605_28398503.coreimg.svg/1678763202602/16-9-gray.svg"
+                            },
+                            {
+                                "contenturl": "https://www.dentsudigital.co.jp/jp/downloads/_jcr_content/root/container_736253861/container_962201166/teaser_copy_14269605.coreimg.svg/1678763085718/16-9-gray.svg"
+                            },
+                            {
+                                "contenturl": "https://www.dentsudigital.co.jp/jp/downloads/_jcr_content/root/container_736253861/container_962201166/teaser_copy_14269605_1199076890.coreimg.svg/1678763115549/16-9-gray.svg"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "template": "page-content",
+                                "og:image": "https://www.dentsudigital.co.jp/jp/downloads.thumb.800.480.png?ck=1682322735",
+                                "og:type": "website",
+                                "og:site_name": "DENTSU DIGITAL INC Program",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "資料ダウンロード",
+                                "og:url": "https://www.dentsudigital.co.jp/jp/downloads.html",
+                                "og:description": "顧客起点でのデジタルトランスフォーメーション（DX）やビジネストランスフォーメーション（BX）の在り方や実現方法などに関し、\r\n調査レポートや国内外のトレンドレポート、弊社サービス資料などをご用意しています。デジタルによる変革に取り組まれている貴社ビジネスに、ぜひお役立てください。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.dentsudigital.co.jp/jp/downloads.thumb.800.480.png?ck=1682322735"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "name": "資料ダウンロード",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "旅行業界用サイトからダウンロードできる資料 | Travel Trade",
+                    "htmlTitle": "旅行<b>業界</b>用サイトから<b>ダウンロード</b>できる<b>資料</b> | Travel Trade",
+                    "link": "https://traveltrade.newzealand.com/jp/tools-and-resources/downloadable-resources/",
+                    "displayLink": "traveltrade.newzealand.com",
+                    "snippet": "旅行関連のアプリケーションを補完する資料をダウンロードしてご利用ください。",
+                    "htmlSnippet": "旅行関連のアプリケーションを補完する<b>資料</b>を<b>ダウンロード</b>してご利用ください。",
+                    "cacheId": "vNqhbTYGgfcJ",
+                    "formattedUrl": "https://traveltrade.newzealand.com/jp/tools-and.../downloadable-resources/",
+                    "htmlFormattedUrl": "https://traveltrade.newzealand.com/jp/tools-and.../downloadable-resources/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSoONGVXtky_T7Q8506qjBrcK1tpKx4H_3mJu0Twpks_i4rFr5mvFUbOAc",
+                                "width": "204",
+                                "height": "204"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "resource-cache-param-key": "m",
+                                "og:type": "website",
+                                "og:image:width": "1200",
+                                "page-id": "28",
+                                "og:title": "旅行業界用サイトからダウンロードできる資料",
+                                "og:image:height": "630",
+                                "locale": "ja_JP",
+                                "title": "ダウンロードできる資料",
+                                "og:description": "旅行関連のアプリケーションを補完する資料をダウンロードしてご利用ください。",
+                                "url": "https://traveltrade.newzealand.com/jp/tools-and-resources/downloadable-resources/",
+                                "referrer": "always",
+                                "sys_id": "28",
+                                "resource-cache-param": "?m=9f64818db4abedeb71e8-m",
+                                "viewport": "width=device-width,initial-scale=1, minimum-scale=1.0, maximum-scale=1.0",
+                                "page-locale": "ja_JP",
+                                "published_at": "2023-05-25T14:35:58+12:00",
+                                "og:url": "https://traveltrade.newzealand.com/jp/tools-and-resources/downloadable-resources/",
+                                "info": "旅行関連のアプリケーションを補完する資料をダウンロードしてご利用ください。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://traveltrade.newzealand.com/assets/Uploads/Resources/01-General/Maps-Infographics/New-Zealand-Map-English__aWxvdmVrZWxseQo_FocalPointCropWzIwNCwyMDQsNTMsMjcsNzUsInBuZyIsNjUsMi41XQ.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "item": "ツールと資料",
+                                "name": "ツールと資料",
+                                "position": "2"
+                            },
+                            {
+                                "item": "ダウンロードできる資料",
+                                "name": "ダウンロードできる資料",
+                                "position": "3"
+                            },
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "item": "ツールと資料",
+                                "name": "ツールと資料",
+                                "position": "2"
+                            },
+                            {
+                                "item": "ダウンロードできる資料",
+                                "name": "ダウンロードできる資料",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロード | b→dash｜業界シェアNo.1 データ ...",
+                    "htmlTitle": "<b>資料ダウンロード</b> | b→dash｜<b>業界</b>シェアNo.1 データ ...",
+                    "link": "https://bdash-marketing.com/req_material/",
+                    "displayLink": "bdash-marketing.com",
+                    "snippet": "b→dashの機能一覧や特長をより詳しくまとめた資料（PDF）をメールにて送付させていただきます。",
+                    "htmlSnippet": "b→dashの機能一覧や特長をより詳しくまとめた<b>資料</b>（PDF）をメールにて送付させていただきます。",
+                    "cacheId": "Pdek7OOu078J",
+                    "formattedUrl": "https://bdash-marketing.com/req_material/",
+                    "htmlFormattedUrl": "https://bdash-marketing.com/req_material/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48KiO5AQe2iZAsssmTOHXRq07baZLqb4OZWjat6MaL6iHu6RphtRcdhNx",
+                                "width": "328",
+                                "height": "153"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:type": "article",
+                                "fb:app_id": "1851411835101623",
+                                "og:site_name": "b→dash｜業界シェアNo.1 データマーケティングツール",
+                                "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no",
+                                "og:title": "資料ダウンロード | b→dash｜業界シェアNo.1 データマーケティングツール",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://bdash-marketing.com/req_material/",
+                                "og:description": "b→dashに興味をお持ちいただき誠にありがとうございます！本フォームの記載内容を確認させて頂き、一定の基準に満たされた方のみ、メールにて資料をお送りさ..."
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://s3-ap-northeast-1.amazonaws.com/service-site-bdash2019/bdash/wp-content/uploads/2022/12/01140421/tobu.jpg"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

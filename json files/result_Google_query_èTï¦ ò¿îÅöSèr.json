@@ -1,0 +1,1614 @@
+{
+    "query": "企業 物件比較",
+    "links": [
+        [
+            "https://www.sompo-japan.co.jp/hinsurance/risk/property/order/",
+            "https://sumai-kyokasho.net/rental-site-recommended/",
+            "https://renoduce.com/media/renovation-company-comparison/renovation-ranking10/",
+            "https://www.businessinsider.jp/post-225466",
+            "https://www.kasai-hoken.info/c_jishin/",
+            "https://oheyago.jp/articles/fudosanya_osusume/",
+            "https://www.kasai-hoken.info/property/ippan/",
+            "https://www.es-life.jp/article/25284",
+            "https://autoro.io/mag/chintai-office-service/",
+            "https://work-and-wonder.com/column/archive/179/"
+        ],
+        [
+            "https://pitta-lab.com/posts/375971",
+            "https://owners.sumaity.com/cat_management/press_551/",
+            "https://www.ur-net.go.jp/chintai/college/202102/000624.html",
+            "https://ieagent.jp/blog/estate/fudousanya-hikaku-281535",
+            "https://www.lc-group.net/blog/open/lease-lease-difference.html",
+            "https://prtimes.jp/main/html/rd/p/000000008.000082819.html",
+            "https://ieul.jp/column/articles/15412/",
+            "https://www.kaonavi.jp/dictionary/syataku/",
+            "https://iejoho.com/archives/8580",
+            "https://pig-data.jp/service/mekiki/"
+        ],
+        [
+            "https://www.smfl.co.jp/lease/knowledge/knowledge01/",
+            "https://www.shoenekeisan-kankyoninsho.com/",
+            "https://www.bridge-salon.jp/toushi/realestate-ranking/",
+            "https://www.leasing.or.jp/information/finance.html",
+            "https://www.zeroin.co.jp/soumuservice/blog/210405/",
+            "https://syataku.lixil-realty.com/company/info/post-14.html",
+            "https://bizcube.co.jp/article/4595/",
+            "https://www.jecc.com/knowledge/compare/",
+            "https://www.cbre-propertysearch.jp/article/office_buy_or_rent-vol1/",
+            "https://www.smbc-card.com/hojin/magazine/bizi-dora/general-affairs/lease-or-rental.jsp"
+        ]
+    ],
+    "snapshot_ymd": "D2023-06-23",
+    "snapshot_timestamp": "D2023-06-23T01-26-13",
+    "responses": [
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "request": [
+                    {
+                        "title": "Google Custom Search - 企業 物件比較",
+                        "totalResults": "16800000",
+                        "searchTerms": "企業 物件比較",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 企業 物件比較",
+                        "totalResults": "16800000",
+                        "searchTerms": "企業 物件比較",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.470824,
+                "formattedSearchTime": "0.47",
+                "totalResults": "16800000",
+                "formattedTotalResults": "16,800,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "企業総合補償保険（オールリスク型保険） | 企業財産の保険 | 【公式 ...",
+                    "htmlTitle": "<b>企業</b>総合補償保険（オールリスク型保険） | <b>企業</b>財産の保険 | 【公式 ...",
+                    "link": "https://www.sompo-japan.co.jp/hinsurance/risk/property/order/",
+                    "displayLink": "www.sompo-japan.co.jp",
+                    "snippet": "所有する物件への損害だけでなく、事故により休業した場合の収益の減少や支出した費用への補償も可能です。 ... 今までの火災保険と企業総合補償保険の比較＞.",
+                    "htmlSnippet": "所有する<b>物件</b>への損害だけでなく、事故により休業した場合の収益の減少や支出した費用への補償も可能です。 ... 今までの火災保険と<b>企業</b>総合補償保険の<b>比較</b>＞.",
+                    "cacheId": "UPpGCJTPFNIJ",
+                    "formattedUrl": "https://www.sompo-japan.co.jp/hinsurance/risk/property/order/",
+                    "htmlFormattedUrl": "https://www.sompo-japan.co.jp/hinsurance/risk/property/order/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNRb280Cff1l5vcLjnIjObrVU218-BF9V8SwGkDRtelh1V4BLZUZpunlg",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.sompo-japan.co.jp/-/media/SJNK/images/top/new_top/ogp_logo_new.png?la=ja-JP&hash=E5CA30E054722B4704488AC5C4AD9906",
+                                "og:type": "website",
+                                "og:site_name": "【公式】損保ジャパン",
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=3.0",
+                                "og:title": "【公式】損保ジャパン",
+                                "og:url": "https://www.sompo-japan.co.jp/hinsurance/risk/property/order/",
+                                "og:description": "損保ジャパンの公式ウェブサイト。自動車保険、火災保険、地震保険、海外旅行保険など、様々な商品をお届けするとともに、お客さまの安心・安全・健康をサポートします。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.sompo-japan.co.jp/-/media/SJNK/images/top/new_top/ogp_logo_new.png?la=ja-JP&hash=E5CA30E054722B4704488AC5C4AD9906"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "37社の賃貸サイトを一覧で比較！あなたにオススメの選び方と使い方",
+                    "htmlTitle": "37社の賃貸サイトを一覧で<b>比較</b>！あなたにオススメの選び方と使い方",
+                    "link": "https://sumai-kyokasho.net/rental-site-recommended/",
+                    "displayLink": "sumai-kyokasho.net",
+                    "snippet": "2023/01/08 ... 以上のように、超大手の企業が運営していて、物件数も豊富なものが多いですが、基本的におすすめしません。 2次掲載サイトとは、SUUMOなどの他のサイト ...",
+                    "htmlSnippet": "2023/01/08 <b>...</b> 以上のように、超大手の<b>企業</b>が運営していて、<b>物件</b>数も豊富なものが多いですが、基本的におすすめしません。 2次掲載サイトとは、SUUMOなどの他のサイト&nbsp;...",
+                    "cacheId": "L_NTCWITXwUJ",
+                    "formattedUrl": "https://sumai-kyokasho.net/rental-site-recommended/",
+                    "htmlFormattedUrl": "https://sumai-kyokasho.net/rental-site-recommended/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEJ_qjbAhhXWwpxGQ7_bgoVYzLNJ5kS0ia70l7iWzyatPT2okDy9ujb1o",
+                                "width": "277",
+                                "height": "182"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://sumai-kyokasho.net/wp-content/uploads/2021/10/9b189240c1852ca152188aa21e01d7bd.png",
+                                "og:type": "article",
+                                "twitter:card": "summary",
+                                "og:site_name": "住まいの教科書",
+                                "twitter:site": "sumai_kyokasho",
+                                "viewport": "width=device-width,initial-scale=1.0",
+                                "og:title": "37社の賃貸サイトを一覧で比較！あなたにオススメの選び方と使い方",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://sumai-kyokasho.net/rental-site-recommended/",
+                                "og:description": "おすすめの賃貸サイトを紹介します。東京/名古屋/大阪など全国で使えるサイト・おしゃれ・デザイナーズ・タワーマンション・キャッシュバックなど何かに特化したポータルサイトが見つかります。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://sumai-kyokasho.net/wp-content/uploads/2021/10/9b189240c1852ca152188aa21e01d7bd.png"
+                            }
+                        ],
+                        "blogposting": [
+                            {
+                                "text": "賃貸 2023.01.08 37社の賃貸サイトを一覧で比較！あなたにオススメの選び方と使い方 B! 「いろいろな賃貸サイトがあってどれを使えばいいかわから...",
+                                "headline": "37社の賃貸サイトを一覧で比較！あなたにオススメの選び方と使い方",
+                                "datepublished": "2023.01.08"
+                            },
+                            {
+                                "headline": "要注意！不動産屋選びの7つの注意点と騙されないための選び方",
+                                "datepublished": "2023.01.08"
+                            },
+                            {
+                                "headline": "37社の部屋探しアプリを比較！共通する注意点とおすすめ7選",
+                                "datepublished": "2023.01.08"
+                            },
+                            {
+                                "headline": "引っ越しの見積もり完全マニュアル｜元業者が教える最大半額にするための全知識",
+                                "datepublished": "2023.02.16"
+                            },
+                            {
+                                "headline": "要注意！賃貸のキャンペーン6つの注意点と7社の比較でわかるおすすめ業者",
+                                "datepublished": "2023.06.01"
+                            },
+                            {
+                                "headline": "OYO LIFEってどんなサービス？今までの賃貸との違いや注意点を徹底解説！",
+                                "datepublished": "2023.05.02"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "item": "賃貸",
+                                "name": "賃貸",
+                                "position": "2"
+                            },
+                            {
+                                "name": "37社の賃貸サイトを一覧で比較！あなたにオススメの選び方と使い方",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【2023年最新】東京のリノベーション会社ランキング10選！大手 ...",
+                    "htmlTitle": "【2023年最新】東京のリノベーション会社ランキング10選！大手 ...",
+                    "link": "https://renoduce.com/media/renovation-company-comparison/renovation-ranking10/",
+                    "displayLink": "renoduce.com",
+                    "snippet": "大手企業から上場企業まで幅広く厳選し、各社の特徴を分かりやすくお伝えさせていただきます。 各社のホームページを見ているだけでは、違いが分かりにくいと感じられて ...",
+                    "htmlSnippet": "大手<b>企業</b>から上場<b>企業</b>まで幅広く厳選し、各社の特徴を分かりやすくお伝えさせていただきます。 各社のホームページを見ているだけでは、違いが分かりにくいと感じられて&nbsp;...",
+                    "cacheId": "D3loL8GvuPUJ",
+                    "formattedUrl": "https://renoduce.com/media/renovation.../renovation-ranking10/",
+                    "htmlFormattedUrl": "https://renoduce.com/media/renovation.../renovation-ranking10/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6rqmS0N_GF3lppjej3OKJY0pbNnhWYRP9vo4Vw5SeIxPMgRgPMzXG5IM",
+                                "width": "274",
+                                "height": "184"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://renoduce.com/media/wp-content/uploads/2023/06/renomedia-1-768x515.png",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "RENOメディア",
+                                "twitter:site": "@examples",
+                                "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                                "og:title": "【2023年最新】東京のリノベーション会社ランキング10選！大手から上場企業まで徹底比較",
+                                "og:url": "https://renoduce.com/media/renovation-company-comparison/renovation-ranking10/",
+                                "og:description": "リノベーションを検討しているが、どこの会社に依頼すれば良いのか判断できない。そうお思いの方に向けて、本記事では編集部がオススメするリノベーション会社をランキング形式で紹介致します。大手企業から上場企業まで幅広く厳選し、各社の特徴をとともに紹介します。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://renoduce.com/media/wp-content/uploads/2023/06/renomedia-1-768x515.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "｢桃鉄｣シリーズには、日本経済30年の歴史が詰まっている。7都市の ...",
+                    "htmlTitle": "｢桃鉄｣シリーズには、日本経済30年の歴史が詰まっている。7都市の ...",
+                    "link": "https://www.businessinsider.jp/post-225466",
+                    "displayLink": "www.businessinsider.jp",
+                    "snippet": "2020/12/08 ... 7都市の“物件”比較から見えること. ゲーム · ボードゲーム · スイッチ · Nintendo Switch · 桃太郎電鉄（桃鉄） · 歴史 · 都市 · 都市計画・開発.",
+                    "htmlSnippet": "2020/12/08 <b>...</b> 7都市の“<b>物件</b>”<b>比較</b>から見えること. ゲーム &middot; ボードゲーム &middot; スイッチ &middot; Nintendo Switch &middot; 桃太郎電鉄（桃鉄） &middot; 歴史 &middot; 都市 &middot; 都市計画・開発.",
+                    "cacheId": "drVnOZuz0A8J",
+                    "formattedUrl": "https://www.businessinsider.jp/post-225466",
+                    "htmlFormattedUrl": "https://www.businessinsider.jp/post-225466",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_dnCgs4me6nYzzjtCPBE7742su_OGr8JLwclNxGhXwPUt0iDb5mKZSvs",
+                                "width": "320",
+                                "height": "157"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://media.loom-app.com/bi/dist/images/2020/12/07/mmr2.jpg?w=1280&h=630&f=jpg",
+                                "twitter:card": "summary_large_image",
+                                "article:published_time": "2020-12-08T11:45:00.000+09:00",
+                                "og:site_name": "BUSINESS INSIDER JAPAN",
+                                "prime:articleid": "225466",
+                                "twitter:creator": "@BIJapan",
+                                "og:description": "最新作が売り上げ75万本を突破した｢桃太郎電鉄｣。歴代シリーズの7都市にある“物件”には、日本経済の歩みが学べるヒントが詰まっていた。 #桃鉄令和 #桃鉄",
+                                "article:publisher": "https://www.facebook.com/BusinessInsiderJapan/",
+                                "cxenseparse:mdg-marker-articletypeslug": "original",
+                                "twitter:site": "@BIJapan",
+                                "cxenseparse:author": "吉川慧",
+                                "article:modified_time": "2020-12-09T18:04:00.000+09:00",
+                                "cxenseparse:recs:publishtime": "2020-12-08T11:45:00.000+09:00",
+                                "cxenseparse:recs:articleid": "225466",
+                                "twitter:title": "｢桃鉄｣シリーズには、日本経済30年の歴史が詰まっている。7都市の“物件”比較から見えること",
+                                "og:type": "article",
+                                "cxenseparse:title": "｢桃鉄｣シリーズには、日本経済30年の歴史が詰まっている。7都市の“物件”比較から見えること",
+                                "cxenseparse:pageclass": "article",
+                                "author": "吉川慧",
+                                "og:title": "｢桃鉄｣シリーズには、日本経済30年の歴史が詰まっている。7都市の“物件”比較から見えること",
+                                "cxenseparse:mdg-marker-articletype": "オリジナル記事",
+                                "cxenseparse:mdg-marker-categoryslug": "business",
+                                "cxenseparse:mdg-marker-tagslug": "game",
+                                "twitter:image:src": "https://media.loom-app.com/bi/dist/images/2020/12/07/mmr2.jpg?w=1280&h=630&f=jpg",
+                                "cxenseparse:mdg-marker-series": "歴史で見抜くニュースの本質",
+                                "cxenseparse:mdg-marker-ad_tagslug": "travel",
+                                "viewport": "width=device-width,initial-scale=1",
+                                "cxenseparse:mdg-marker-seriesslug": "history-news",
+                                "twitter:description": "最新作が売り上げ75万本を突破した｢桃太郎電鉄｣。歴代シリーズの7都市にある“物件”には、日本経済の歩みが学べるヒントが詰まっていた。 #桃鉄令和 #桃鉄",
+                                "cxenseparse:mdg-marker-ad_tag": "旅行・宿泊・レジャー",
+                                "cxenseparse:mdg-marker-category": "Business",
+                                "cxenseparse:mdg-marker-tag": "ゲーム",
+                                "og:url": "https://www.businessinsider.jp/post-225466",
+                                "format-detection": "telephone=no,email=no,address=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://media.loom-app.com/bi/dist/images/2020/12/07/mmr2.jpg?w=1280&h=630&f=jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "企業・事業主向け地震に備える保険 | 火災保険の比較サイトならi保険",
+                    "htmlTitle": "<b>企業</b>・事業主向け地震に備える保険 | 火災保険の<b>比較</b>サイトならi保険",
+                    "link": "https://www.kasai-hoken.info/c_jishin/",
+                    "displayLink": "www.kasai-hoken.info",
+                    "snippet": "住居部の無い事務所や店舗、工場などの物件は、原則、地震保険に加入することができません。企業や事業主向けの地震損害を補償する保険を検討いただく必要があります。",
+                    "htmlSnippet": "住居部の無い事務所や店舗、工場などの<b>物件</b>は、原則、地震保険に加入することができません。<b>企業</b>や事業主向けの地震損害を補償する保険を検討いただく必要があります。",
+                    "cacheId": "iqrNbkeqMxcJ",
+                    "formattedUrl": "https://www.kasai-hoken.info/c_jishin/",
+                    "htmlFormattedUrl": "https://www.kasai-hoken.info/c_jishin/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3OA14I1ZGxuWPIcFm38bSzN-BJUQPslmyrtKID96koZDjs3NXhQR4D-E",
+                                "width": "208",
+                                "height": "242"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "copyright": "Copyright (C) I.F.CREATE Co.,Ltd",
+                                "viewport": "width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=yes",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.kasai-hoken.info/c_jishin/img/img_c_jishin05.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "不動産屋さんのオススメはどこ？迷ったときの選び方も紹介【比較 ...",
+                    "htmlTitle": "不動産屋さんのオススメはどこ？迷ったときの選び方も紹介【<b>比較</b> ...",
+                    "link": "https://oheyago.jp/articles/fudosanya_osusume/",
+                    "displayLink": "oheyago.jp",
+                    "snippet": "2021/02/18 ... スーモ・ホームズといった掲載物件数が東京だけでも30万をこえるような大規模な賃貸ポータルサイトは、不動産屋さんではなくIT企業が運営している ...",
+                    "htmlSnippet": "2021/02/18 <b>...</b> スーモ・ホームズといった掲載<b>物件</b>数が東京だけでも30万をこえるような大規模な賃貸ポータルサイトは、不動産屋さんではなくIT<b>企業</b>が運営している&nbsp;...",
+                    "cacheId": "yBdTxDSbJoEJ",
+                    "formattedUrl": "https://oheyago.jp/articles/fudosanya_osusume/",
+                    "htmlFormattedUrl": "https://oheyago.jp/articles/fudosanya_osusume/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIV7jL6yfsgilh2KvCqSR_ia5sJyWD7YhqXnIANmZTD665No-EXeoa16Ro",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://oheyago.jp/cms/images/2f6209f2-a9ba-4fd0-92c6-c92c976341cc.png",
+                                "apple-itunes-app": "app-id=1561076788",
+                                "next-head-count": "12",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "twitter:site": "@OHEYAGO",
+                                "og:site_name": "OHEYAGO",
+                                "viewport": "width=device-width",
+                                "og:title": "不動産屋さんのオススメはどこ？迷ったときの選び方も紹介【比較表】",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://oheyago.jp/articles/fudosanya_osusume/",
+                                "og:description": "不動産屋さんのオススメはどこか気になりますよね。 一口に「不動産屋さん」と言っても、不動産屋さんはかなり多くて選ぶのが難しいと考える人は少なくないはずです。そこで今回は、不動産屋さんのなかでも大手会社の比較を踏まえ、不動産屋さんの違いやオススメの選び方を紹介します。この記事を参考に、ご自身にあった不動産屋さんで納得の部屋探しを成功させてください。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://oheyago.jp/cms/images/2f6209f2-a9ba-4fd0-92c6-c92c976341cc.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "事務所・店舗・工場等（一般物件）向け火災保険 | 火災保険比較 ...",
+                    "htmlTitle": "事務所・店舗・工場等（一般<b>物件</b>）向け火災保険 | 火災保険<b>比較</b> ...",
+                    "link": "https://www.kasai-hoken.info/property/ippan/",
+                    "displayLink": "www.kasai-hoken.info",
+                    "snippet": "建物などの補償に加え、事故や災害による休業時の補償や思わぬ事故での賠償リスクを補償します。 AIG損保. 企業財産保険（プロパティーガード）. 事業者の皆様の財産 ...",
+                    "htmlSnippet": "建物などの補償に加え、事故や災害による休業時の補償や思わぬ事故での賠償リスクを補償します。 AIG損保. <b>企業</b>財産保険（プロパティーガード）. 事業者の皆様の財産&nbsp;...",
+                    "cacheId": "pnvCLeX74b8J",
+                    "formattedUrl": "https://www.kasai-hoken.info/property/ippan/",
+                    "htmlFormattedUrl": "https://www.kasai-hoken.info/property/ippan/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgcy3pS6w6XlDDNYjxHmE1Pju-Jv2yGa0b2mRstCt-Opx-0w9cYWhf6Rk",
+                                "width": "285",
+                                "height": "177"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "copyright": "Copyright (C) I.F.CREATE Co.,Ltd",
+                                "viewport": "width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=yes",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.kasai-hoken.info/property/ippan/img/top_main_image_sp.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "賃貸物件は、どこの不動産会社でも同じ？【選び方のコツや比較 ...",
+                    "htmlTitle": "賃貸<b>物件</b>は、どこの不動産会社でも同じ？【選び方のコツや<b>比較</b> ...",
+                    "link": "https://www.es-life.jp/article/25284",
+                    "displayLink": "www.es-life.jp",
+                    "snippet": "2019/12/15 ... 〇不動産会社によって仲介手数料や付帯商品で初期費用に差が出る事実。 〇不動産会社のサービスの特徴は企業のホームページで確認しよう。 〇不動産会社を ...",
+                    "htmlSnippet": "2019/12/15 <b>...</b> 〇不動産会社によって仲介手数料や付帯商品で初期費用に差が出る事実。 〇不動産会社のサービスの特徴は<b>企業</b>のホームページで確認しよう。 〇不動産会社を&nbsp;...",
+                    "cacheId": "0WlScligzM0J",
+                    "formattedUrl": "https://www.es-life.jp/article/25284",
+                    "htmlFormattedUrl": "https://www.es-life.jp/article/25284",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0",
+                                "format-detection": "telephone=no"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "賃貸オフィス探しのサービスを徹底比較！自社にあった物件を ...",
+                    "htmlTitle": "賃貸オフィス探しのサービスを徹底<b>比較</b>！自社にあった<b>物件</b>を ...",
+                    "link": "https://autoro.io/mag/chintai-office-service/",
+                    "displayLink": "autoro.io",
+                    "snippet": "2022/11/21 ... しかし、賃貸オフィスでは、レンタルオフィスよりもレイアウトやインテリアに関する制約が少ない傾向にあります。 そのため、自社の事業内容や企業 ...",
+                    "htmlSnippet": "2022/11/21 <b>...</b> しかし、賃貸オフィスでは、レンタルオフィスよりもレイアウトやインテリアに関する制約が少ない傾向にあります。 そのため、自社の事業内容や<b>企業</b>&nbsp;...",
+                    "cacheId": "XbMNt7bWyiIJ",
+                    "formattedUrl": "https://autoro.io/mag/chintai-office-service/",
+                    "htmlFormattedUrl": "https://autoro.io/mag/chintai-office-service/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyBxVFI-Vl34X-OhYI27wo6s0jP5wqL-cp2_V-7C69ZoHJBYD3Ctn3e34",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://autoro.io/mag/wp-content/uploads/2022/08/pexels-trang-doan-1024248-scaled-e1661825473395.jpg"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://autoro.io/mag/wp-content/uploads/2022/08/pexels-trang-doan-1024248-scaled-e1661825473395.jpg",
+                                "thumbnail": "https://autoro.io/mag/wp-content/uploads/2022/08/pexels-trang-doan-1024248-scaled-e1661825473395.jpg",
+                                "og:type": "article",
+                                "article:published_time": "2022-08-30T14:09:39+09:00",
+                                "og:site_name": "biznes | びずねす",
+                                "og:title": "賃貸オフィス探しのサービスを徹底比較！自社にあった物件を見つけるために",
+                                "msapplication-tileimage": "https://autoro.io/mag/wp-content/uploads/2023/02/cropped-sitelogo-270x270.jpg",
+                                "og:description": "営業所や事業所を新しく開くにあたって、賃貸オフィスの契約を検討する人は少なくありません。 条件の良い賃貸オフィスを契約することで、働きやすさや通勤のしやすさが上がり、従業員満足度もアップすると期待でき",
+                                "article:author": "wpuser",
+                                "referrer": "no-referrer-when-downgrade",
+                                "viewport": "width=device-width,initial-scale=1.0,user-scalable=no,viewport-fit=cover",
+                                "og:url": "https://autoro.io/mag/chintai-office-service/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://autoro.io/mag/wp-content/uploads/2022/08/pexels-trang-doan-1024248-scaled-e1661825473395.jpg"
+                            }
+                        ],
+                        "hatomfeed": [
+                            {}
+                        ],
+                        "listitem": [
+                            {
+                                "item": "HOME",
+                                "name": "HOME",
+                                "position": "1"
+                            },
+                            {
+                                "item": "総務",
+                                "name": "総務",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "セットアップオフィスとは？メリット・デメリットや向いている ...",
+                    "htmlTitle": "セットアップオフィスとは？メリット・デメリットや向いている ...",
+                    "link": "https://work-and-wonder.com/column/archive/179/",
+                    "displayLink": "work-and-wonder.com",
+                    "snippet": "2021/03/03 ... メリット・デメリットや向いている企業などを紹介 ... また、セットアップオフィスとよく比較される、居抜き物件との違いは何でしょうか。",
+                    "htmlSnippet": "2021/03/03 <b>...</b> メリット・デメリットや向いている<b>企業</b>などを紹介 ... また、セットアップオフィスとよく<b>比較</b>される、居抜き<b>物件</b>との違いは何でしょうか。",
+                    "cacheId": "neXRHHol2MMJ",
+                    "formattedUrl": "https://work-and-wonder.com/column/archive/179/",
+                    "htmlFormattedUrl": "https://work-and-wonder.com/column/archive/179/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpDjxzxaZQsZV6JSUFiKDlFciKGQjL6hyvrwguRp2i6sES_QUpRzO8wTs",
+                                "width": "266",
+                                "height": "190"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://work-and-wonder.com/column/wp-content/uploads/2021/03/2-4_37259356.jpg",
+                                "og:type": "website",
+                                "og:site_name": "WORK AND WONDER【WAW】｜東京・日本橋と赤坂と神田の会員制シェアオフィス",
+                                "viewport": "width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                                "og:title": "セットアップオフィスとは？メリット・デメリットや向いている企業などを紹介 | WORK AND WONDER【WAW】｜東京・日本橋と赤坂と神田の会員制シェアオフィス",
+                                "og:url": "https://work-and-wonder.com/column/archive/179/",
+                                "msapplication-tileimage": "/common/images/touch-icon-precomposed.png",
+                                "og:description": "コワーキングスペースやシェアオフィス等、あなたの働き方に応えた新たなビジネス拠点。\n東京・日本橋と赤坂と神田の会員制シェアオフィス WORK AND WONDER【WAW】",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://work-and-wonder.com/column/wp-content/uploads/2021/03/2-4_37259356.jpg"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 企業 物件比較",
+                        "totalResults": "16800000",
+                        "searchTerms": "企業 物件比較",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 企業 物件比較",
+                        "totalResults": "16800000",
+                        "searchTerms": "企業 物件比較",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 企業 物件比較",
+                        "totalResults": "16800000",
+                        "searchTerms": "企業 物件比較",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.357644,
+                "formattedSearchTime": "0.36",
+                "totalResults": "16800000",
+                "formattedTotalResults": "16,800,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "【2022年最新】オフィス物件を探すのにおすすめの企業30選 ...",
+                    "htmlTitle": "【2022年最新】オフィス<b>物件</b>を探すのにおすすめの<b>企業</b>30選 ...",
+                    "link": "https://pitta-lab.com/posts/375971",
+                    "displayLink": "pitta-lab.com",
+                    "snippet": "2022/02/08 ... 事業を行うにあたり、オフィス物件選びは重要です。ただ、居住用物件との違いや選び方がいまいち分からないと悩んでいる方も少なくないでしょう。",
+                    "htmlSnippet": "2022/02/08 <b>...</b> 事業を行うにあたり、オフィス<b>物件</b>選びは重要です。ただ、居住用<b>物件</b>との違いや選び方がいまいち分からないと悩んでいる方も少なくないでしょう。",
+                    "cacheId": "uHYayzNTZc4J",
+                    "formattedUrl": "https://pitta-lab.com/posts/375971",
+                    "htmlFormattedUrl": "https://pitta-lab.com/posts/375971",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "msapplication-tilecolor": "#E9C22B",
+                                "msapplication-config": "/favicon/browserconfig.xml",
+                                "og:image": "https://firebasestorage.googleapis.com/v0/b/pitta-lab-production.appspot.com/o/posts%2FJlM4ftgbk8d0Ra3ZFZVH%2Fthumbnail?alt=media&token=90fed132-d4e5-4035-b7fc-bf4531016d7f",
+                                "theme-color": "#E9C22B",
+                                "twitter:card": "summary_large_image",
+                                "og:type": "article",
+                                "og:site_name": "PITTALAB",
+                                "og:title": "【2022年最新】オフィス物件を探すのにおすすめの企業30選！選び方のポイントも解説",
+                                "og:description": "事業を行うにあたり、オフィス物件選びは重要です。ただ、居住用物件との違いや選び方がいまいち分からないと悩んでいる方も少なくないでしょう。今回は、対応地域や物件数など様々な比較項目をもとに厳選したオフィス物件おすすめ30選をご紹介いたします。ぜひ参考にしてみてください。",
+                                "next-head-count": "27",
+                                "fb:app_id": "1013472245755813",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://pitta-lab.composts/375971"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://firebasestorage.googleapis.com/v0/b/pitta-lab-production.appspot.com/o/posts%2FJlM4ftgbk8d0Ra3ZFZVH%2Fthumbnail?alt=media&token=90fed132-d4e5-4035-b7fc-bf4531016d7f"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "周辺物件との違いは何？競合調査から見えてくる所有物件に足り ...",
+                    "htmlTitle": "周辺<b>物件</b>との違いは何？競合調査から見えてくる所有<b>物件</b>に足り ...",
+                    "link": "https://owners.sumaity.com/cat_management/press_551/",
+                    "displayLink": "owners.sumaity.com",
+                    "snippet": "2020/06/08 ... 空室に悩まされているのは自分だけではないかと、不安を募らせている大家さんもいらっしゃるかもしれません。しかし、総務省の調べ（平成30年住宅・ ...",
+                    "htmlSnippet": "2020/06/08 <b>...</b> 空室に悩まされているのは自分だけではないかと、不安を募らせている大家さんもいらっしゃるかもしれません。しかし、総務省の調べ（平成30年住宅・&nbsp;...",
+                    "cacheId": "AP-to3tNl9wJ",
+                    "formattedUrl": "https://owners.sumaity.com/cat_management/press_551/",
+                    "htmlFormattedUrl": "https://owners.sumaity.com/cat_management/press_551/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZBI5uCpXQvj66TmaWmbCZZIEugaKp6qPqBV3JZUQnsfhJejM_vdZetLrI",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://owners.sumaity.com/press/system/press_image/2020/06/05/ALgn3M86AP2h0odxajuYM2bvTqOhMXhN1P42pywIyXo/extract/b61a393611fd2e9c90bdec80571b6517.jpg",
+                                "og:type": "article",
+                                "fb:app_id": "682855448441542",
+                                "og:site_name": "【スマイティ 賃貸経営】",
+                                "viewport": "width=device-width,user-scalable=no,initial-scale=1.0,maximum-scale=1.0",
+                                "og:title": "周辺物件との違いは何？競合調査から見えてくる所有物件に足りないもの【スマイティ】",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://owners.sumaity.com/cat_management/press_551/",
+                                "og:description": "近隣（競合）物件の基本的な調べ方、比較内容、所有物件の魅力アップにつなげていけばよいかについてご説明いたします。",
+                                "device": "sp",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://owners.sumaity.com/press/system/press_image/2020/06/05/ALgn3M86AP2h0odxajuYM2bvTqOhMXhN1P42pywIyXo/extract/b61a393611fd2e9c90bdec80571b6517.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "「借り上げ社宅」のメリット、「社有社宅」との違いを解説 ...",
+                    "htmlTitle": "「借り上げ社宅」のメリット、「社有社宅」との違いを解説 ...",
+                    "link": "https://www.ur-net.go.jp/chintai/college/202102/000624.html",
+                    "displayLink": "www.ur-net.go.jp",
+                    "snippet": "2021/02/15 ... 企業が、不動産業者から賃貸物件を借り入れて、社員に貸し出す制度です。家賃の一部を社宅使用料として企業が負担するので、社員は低価格で住居を確保 ...",
+                    "htmlSnippet": "2021/02/15 <b>...</b> <b>企業</b>が、不動産業者から賃貸<b>物件</b>を借り入れて、社員に貸し出す制度です。家賃の一部を社宅使用料として<b>企業</b>が負担するので、社員は低価格で住居を確保&nbsp;...",
+                    "cacheId": "TUVFOcuHxl8J",
+                    "formattedUrl": "https://www.ur-net.go.jp/chintai/college/202102/000624.html",
+                    "htmlFormattedUrl": "https://www.ur-net.go.jp/chintai/college/202102/000624.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwGMvx4R8wlj1cnwwz-lGWsdOvWBZ7Mxy-Q33PLJIIBRYt6-0h5SlmjwKY",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.ur-net.go.jp/chintai/college/img/im_ogp.jpg",
+                                "og:type": "article",
+                                "og:site_name": "UR都市機構",
+                                "viewport": "width=device-width",
+                                "author": "Urban Renaissance Agency",
+                                "og:title": "「借り上げ社宅」のメリット、「社有社宅」との違いを解説",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.ur-net.go.jp/chintai/sp/college/202102/000624.html",
+                                "og:description": "「住居についての福利厚生を導入したい」と検討したときに、よく出てくる「借り上げ社宅」。ほかにも、「社有社宅」や住宅手当など、住居にまつわる福利厚生はさまざまあります。しかし、社宅と言っても「借り上げ社宅」と「社有社宅」では、そのメリットやデメリット、税法上の取り扱いや社員の満足度が異なるといわれています。ここでは、「借り上げ社宅」とほかの制度との違いについて、詳しく解説していきます。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.ur-net.go.jp/chintai/college/img/im_ogp.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "不動産屋さんおすすめ比較10選！選び方を熟知したプロによる良い ...",
+                    "htmlTitle": "不動産屋さんおすすめ<b>比較</b>10選！選び方を熟知したプロによる良い ...",
+                    "link": "https://ieagent.jp/blog/estate/fudousanya-hikaku-281535",
+                    "displayLink": "ieagent.jp",
+                    "snippet": "2023/05/11 ... しかし、賃貸仲介業者ごとにサービスや紹介してくれる物件が違うため、何も知らないまま適当に選ぶとお部屋探しがうまくいきません…",
+                    "htmlSnippet": "2023/05/11 <b>...</b> しかし、賃貸仲介業者ごとにサービスや紹介してくれる<b>物件</b>が違うため、何も知らないまま適当に選ぶとお部屋探しがうまくいきません…",
+                    "formattedUrl": "https://ieagent.jp/blog/estate/fudousanya-hikaku-281535",
+                    "htmlFormattedUrl": "https://ieagent.jp/blog/estate/fudousanya-hikaku-281535",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_kRcu41I3zH6fmNFkkamQvValiJuZBVgMJHmPO3HM_-_IFO5D1XicIlE",
+                                "width": "318",
+                                "height": "159"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "numberofitems": "3",
+                                "og:image": "https://ieagent.jp/blog/wp-content/uploads/2019/10/baf9cbed6819f2003fbe944a8c223c40.png",
+                                "og:type": "article",
+                                "article:published_time": "2022-10-14T18:40:14Z",
+                                "twitter:card": "summary",
+                                "twitter:title": "不動産屋さんおすすめ比較10選！選び方を熟知したプロによる良い不動産屋ランキング",
+                                "og:site_name": "お部屋探し初心者向けのコツや知識まとめ｜イエプラコラム",
+                                "twitter:domain": "ieagentplus",
+                                "og:title": "不動産屋さんおすすめ比較10選！選び方を熟知したプロによる良い不動産屋ランキング",
+                                "og:description": "不動産会社のスタッフが厳選したおすすめの良い不動産屋ランキングTOP10を紹介します。それぞれの仲介手数料や営業時間などをまとめたので、不動産屋さんの選び方がわからない人はぜひ参考にしてください。",
+                                "twitter:creator": "@nlinks",
+                                "twitter:image": "https://ieagent.jp/blog/wp-content/uploads/2019/10/baf9cbed6819f2003fbe944a8c223c40.png",
+                                "twitter:site": "@ieagentplus",
+                                "article:modified_time": "2023-05-11T14:37:39Z",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "不動産会社のスタッフが厳選したおすすめの良い不動産屋ランキングTOP10を紹介します。それぞれの仲介手数料や営業時間などをまとめたので、不動産屋さんの選び方がわからない人はぜひ参考にしてください。",
+                                "itemlistorder": "Ascending",
+                                "og:url": "https://ieagent.jp/blog/estate/fudousanya-hikaku-281535"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://ieagent.jp/blog/wp-content/uploads/2019/10/baf9cbed6819f2003fbe944a8c223c40.png"
+                            }
+                        ],
+                        "article": [
+                            {
+                                "image": "https://ieagent.jp/blog/wp-content/uploads/2019/10/baf9cbed6819f2003fbe944a8c223c40.png",
+                                "item": "ホーム",
+                                "breadcrumb": "ホーム大手不動産屋の評判不動産屋さんおすすめ比較10選！選び方を熟知したプロによる良い不動産屋ランキング",
+                                "datemodified": "2023-05-11 14:37:39+09:00",
+                                "name": "ホーム",
+                                "position": "1",
+                                "itemlistelement": "ホーム"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "リース契約と賃貸借契約の違いは？どちらを選べば良いか｜LC ...",
+                    "htmlTitle": "リース契約と賃貸借契約の違いは？どちらを選べば良いか｜LC ...",
+                    "link": "https://www.lc-group.net/blog/open/lease-lease-difference.html",
+                    "displayLink": "www.lc-group.net",
+                    "snippet": "2018/10/11 ... 企業（借主） ○リース会社（貸主） ○販売店（メーカー、不動産会社など）. ①企業が希望の物件を決め、リース会社へリース契約を申し込む.",
+                    "htmlSnippet": "2018/10/11 <b>...</b> <b>企業</b>（借主） ○リース会社（貸主） ○販売店（メーカー、不動産会社など）. ①<b>企業</b>が希望の<b>物件</b>を決め、リース会社へリース契約を申し込む.",
+                    "cacheId": "977ZfmCc010J",
+                    "formattedUrl": "https://www.lc-group.net/blog/open/lease-lease-difference.html",
+                    "htmlFormattedUrl": "https://www.lc-group.net/blog/open/lease-lease-difference.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwVKvfMMy9jqlfPDtdilEbjQAYM_2KhsAtp32D8L50RluKHfDdXYDZRv_v",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.lc-group.net/sys/wp-content/themes/temp/images/ogp.png",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "リース契約と賃貸借契約の違いは？どちらを選べば良いか｜LCグループ",
+                                "og:site_name": "LCグループ",
+                                "twitter:site": "https://www.lc-group.net/blog/open/lease-lease-difference.html",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "author": "株式会社　リンクル",
+                                "og:title": "リース契約と賃貸借契約の違いは？どちらを選べば良いか｜LCグループ",
+                                "og:url": "https://www.lc-group.net/blog/open/lease-lease-difference.html",
+                                "twitter:image": "https://www.lc-group.net/sys/wp-content/themes/temp/images/ogp.png",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.lc-group.net/sys/wp-content/themes/temp/images/ogp.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "HOME",
+                                "name": "HOME",
+                                "position": "1"
+                            },
+                            {
+                                "item": "ブログ",
+                                "name": "ブログ",
+                                "position": "2"
+                            },
+                            {
+                                "name": "リース契約と賃貸借契約の違いは？どちらを選べば良いか",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "全ての皆さまがオンラインで物件の売買へ！不動産マッチング ...",
+                    "htmlTitle": "全ての皆さまがオンラインで<b>物件</b>の売買へ！不動産マッチング ...",
+                    "link": "https://prtimes.jp/main/html/rd/p/000000008.000082819.html",
+                    "displayLink": "prtimes.jp",
+                    "snippet": "2023/05/15 ... 不動産マッチングサービス『COCOURI（ココウリ）』が、住宅ローン比較 ... 業務提携や資本提携をご希望される企業様を随時募集しておりますので、ご ...",
+                    "htmlSnippet": "2023/05/15 <b>...</b> 不動産マッチングサービス『COCOURI（ココウリ）』が、住宅ローン<b>比較</b> ... 業務提携や資本提携をご希望される<b>企業</b>様を随時募集しておりますので、ご&nbsp;...",
+                    "cacheId": "GVupFnE4cnAJ",
+                    "formattedUrl": "https://prtimes.jp/main/html/rd/p/000000008.000082819.html",
+                    "htmlFormattedUrl": "https://prtimes.jp/main/html/rd/p/000000008.000082819.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0UiKcfFHnBcAtXCzktXnAlRibk9wTf8Rhf5xVzDFXLrt1b82yUYrFFQ4",
+                                "width": "385",
+                                "height": "131"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://prtimes.jp/i/82819/8/resize/d82819-8-8411d467c023761fb9ff-0.png"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://prtimes.jp/i/82819/8/ogp/d82819-8-8411d467c023761fb9ff-0.png",
+                                "og:type": "article",
+                                "twitter:title": "全ての皆さまがオンラインで物件の売買へ！不動産マッチングサービス『COCOURI（ココウリ）』が、住宅ローン比較サービス「モゲチェック」を運営する株式会社MFSと業務...",
+                                "twitter:card": "summary_large_image",
+                                "thumbnail": "https://prtimes.jp/i/82819/8/resize/d82819-8-8411d467c023761fb9ff-0.png",
+                                "og:site_name": "プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES",
+                                "twitter:url": "https://prtimes.jp/main/html/rd/p/000000008.000082819.html",
+                                "og:title": "全ての皆さまがオンラインで物件の売買へ！不動産マッチングサービス『COCOURI（ココウリ）』が、住宅ローン比較サービス「モゲチェック」を運営する株式会社MFSと業務...",
+                                "twitter:image:height": "300",
+                                "release:company": "株式会社ココウリ",
+                                "release:image": "https://prtimes.jp/i/82819/8/resize/d82819-8-8411d467c023761fb9ff-0.png",
+                                "release:date": "2023年5月15日 09時00分",
+                                "og:description": "株式会社ココウリのプレスリリース（2023年5月15日 09時00分）全ての皆さまがオンラインで物件の売買へ！不動産マッチングサービス『COCOURI（ココウリ）』が、住宅ローン比較サービス[モゲチェック]を運営する株式会社MFSと業務提携。",
+                                "twitter:creator": "@PRTIMES_JP",
+                                "twitter:image": "https://prtimes.jp/i/82819/8/ogp/d82819-8-8411d467c023761fb9ff-0.png",
+                                "fb:app_id": "1495958567142613",
+                                "twitter:site": "@PRTIMES_JP",
+                                "twitter:image:width": "300",
+                                "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                                "twitter:description": "株式会社ココウリのプレスリリース（2023年5月15日 09時00分）全ての皆さまがオンラインで物件の売買へ！不動産マッチングサービス『COCOURI（ココウリ）』が、住宅ローン比較サービス[モゲチェック]を運営する株式会社MFSと業務提携。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://prtimes.jp/main/html/rd/p/000000008.000082819.html"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://prcdn.freetls.fastly.net/release_image/82819/8/82819-8-dfe7fe60c41d394f6d7dee0b395990ca-812x276.png?format=jpeg&auto=webp&quality=85&width=1950&height=1350&fit=bounds"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "マンションデベロッパーの大手7社とは｜各社の違いや展開ブランド ...",
+                    "htmlTitle": "マンションデベロッパーの大手7社とは｜各社の違いや展開ブランド ...",
+                    "link": "https://ieul.jp/column/articles/15412/",
+                    "displayLink": "ieul.jp",
+                    "snippet": "日本最大級の土地活用プラン比較サイトイエウール土地活用では、土地所在地を入力する ... 老舗企業が多い財閥系のデベロッパーでは、信頼度の高い物件の開発に強みが ...",
+                    "htmlSnippet": "日本最大級の土地活用プラン<b>比較</b>サイトイエウール土地活用では、土地所在地を入力する ... 老舗<b>企業</b>が多い財閥系のデベロッパーでは、信頼度の高い<b>物件</b>の開発に強みが&nbsp;...",
+                    "cacheId": "QUqY0mtplUEJ",
+                    "formattedUrl": "https://ieul.jp/column/articles/15412/",
+                    "htmlFormattedUrl": "https://ieul.jp/column/articles/15412/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDVax3LWfHTMospKXw9T2C-aNMqci18DvUNdeD2bunhfrSkd8hweScVU_d",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://ieul.jp/column/wp-content/uploads/2020/11/i-856853988-3-768x512.jpg",
+                                "og:type": "article",
+                                "twitter:card": "summary",
+                                "og:site_name": "「イエウール（家を売る）」",
+                                "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                                "og:title": "マンションデベロッパーの大手7社とは｜各社の違いや展開ブランドを解説",
+                                "msapplication-tileimage": "https://ieul.jp/column/wp-content/uploads/2020/06/icon-32.png",
+                                "og:url": "https://ieul.jp/column/articles/15412/",
+                                "og:description": "マンションデベロッパーは、いくつもの会社があります。そのため、マンション購入を検討されている方はデベロッパーや展開するブランドなども含めて購入する物件を考えるという方も多いのではないでしょうか。そこで本記事では、マンションデベロッパー大手7社や、マンションを選ぶ際のポイントについて詳しく解説しています。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://ieul.jp/column/wp-content/uploads/2020/11/i-856853988-3-768x512.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "社宅とは？ メリット・デメリット、寮との違い、意味、家族 ...",
+                    "htmlTitle": "社宅とは？ メリット・デメリット、寮との違い、意味、家族 ...",
+                    "link": "https://www.kaonavi.jp/dictionary/syataku/",
+                    "displayLink": "www.kaonavi.jp",
+                    "snippet": "2021/12/03 ... 社宅とは、企業が従業員に対して比較的安価で貸与する住宅のこと。家族向けの物件を「社宅」、単身者向けの物件を「寮」と使い分けるケースもありますが、 ...",
+                    "htmlSnippet": "2021/12/03 <b>...</b> 社宅とは、<b>企業</b>が従業員に対して<b>比較</b>的安価で貸与する住宅のこと。家族向けの<b>物件</b>を「社宅」、単身者向けの<b>物件</b>を「寮」と使い分けるケースもありますが、&nbsp;...",
+                    "cacheId": "ML5rfNs0X50J",
+                    "formattedUrl": "https://www.kaonavi.jp/dictionary/syataku/",
+                    "htmlFormattedUrl": "https://www.kaonavi.jp/dictionary/syataku/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMse74W6QARGXtSm1REWmMoF5oSCvhT_L10QyfCfZVZuU36iLugdWoyxq2",
+                                "width": "318",
+                                "height": "159"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://www.kaonavi.jp/dictionary/wp-content/uploads/2020/05/syataku_eyecatch.jpg"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "msapplication-tilecolor": "#ee7100",
+                                "og:image": "https://www.kaonavi.jp/dictionary/wp-content/uploads/2020/05/syataku_eyecatch.jpg",
+                                "theme-color": "#ee7100",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "社宅とは？ メリット・デメリット、寮との違い、意味、家族 - カオナビ人事用語集",
+                                "og:type": "article",
+                                "thumbnail": "https://www.kaonavi.jp/dictionary/wp-content/uploads/2020/05/syataku_eyecatch.jpg",
+                                "og:site_name": "カオナビ人事用語集",
+                                "handheldfriendly": "True",
+                                "msvalidate.01": "2B87AF3E01FB5C68721BF3F6B8BAA014",
+                                "og:title": "社宅とは？ メリット・デメリット、寮との違い、意味、家族",
+                                "twitter:creator": "@https://twitter.com/kaonavi_jp",
+                                "og:description": "社宅とは企業が従業員の生活のために用意した住宅のこと。ここでは社宅の目的や寮との違い、メリットやデメリットなどについて説明していきましょう。 目次１．社宅とは？２．社宅の目的３．社宅と寮の違い４．社宅の特徴５．社宅のメリ ...",
+                                "twitter:image": "https://www.kaonavi.jp/dictionary/wp-content/uploads/2020/05/syataku_eyecatch.jpg",
+                                "viewport": "width=device-width, initial-scale=1 ,viewport-fit=cover",
+                                "twitter:description": "社宅とは企業が従業員の生活のために用意した住宅のこと。ここでは社宅の目的や寮との違い、メリットやデメリットなどについて説明していきましょう。 目次１．社宅とは？２．社宅の目的３．社宅と寮の違い４．社宅の特徴５．社宅のメリ ...",
+                                "mobileoptimized": "320",
+                                "og:url": "https://www.kaonavi.jp/dictionary/syataku/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.kaonavi.jp/dictionary/wp-content/uploads/2020/05/syataku_eyecatch.jpg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "タレントマネジメントのカオナビ",
+                                "name": "タレントマネジメントのカオナビ",
+                                "position": "1"
+                            },
+                            {
+                                "item": "カオナビ人事用語集",
+                                "name": "カオナビ人事用語集",
+                                "position": "1"
+                            },
+                            {
+                                "item": "人事労務",
+                                "name": "人事労務",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【2022年版】 大手賃貸アパート会社20社を徹底比較！ - ハウス ...",
+                    "htmlTitle": "【2022年版】 大手賃貸アパート会社20社を徹底<b>比較</b>！ - ハウス ...",
+                    "link": "https://iejoho.com/archives/8580",
+                    "displayLink": "iejoho.com",
+                    "snippet": "2022/08/17 ... 賃貸住宅管理個数20年連続1位を誇る、賃貸業界でのトップ企業。 独自の賃貸経営受託システムにより、安定したアパート経営を提供する。",
+                    "htmlSnippet": "2022/08/17 <b>...</b> 賃貸住宅管理個数20年連続1位を誇る、賃貸業界でのトップ<b>企業</b>。 独自の賃貸経営受託システムにより、安定したアパート経営を提供する。",
+                    "cacheId": "9t2Ifrdk1lQJ",
+                    "formattedUrl": "https://iejoho.com/archives/8580",
+                    "htmlFormattedUrl": "https://iejoho.com/archives/8580",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "og:type": "article",
+                                "article:published_time": "2022-08-17T04:46:02+00:00",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "【2022年版】 大手賃貸アパート会社２０社を徹底比較！ - ハウスメーカーと建材の特徴を比較",
+                                "og:site_name": "ハウスメーカーと建材の特徴を比較 - 一級建築士監修の家づくり情報サイト",
+                                "handheldfriendly": "True",
+                                "og:title": "【2022年版】 大手賃貸アパート会社２０社を徹底比較！ - ハウスメーカーと建材の特徴を比較",
+                                "og:description": "さて、ここまでこつこつ続けてきた「賃貸アパート比較シリーズ」ですが、どうにか２０社分の調査を終え",
+                                "article:modified_time": "2022-08-19T05:22:52+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "さて、ここまでこつこつ続けてきた「賃貸アパート比較シリーズ」ですが、どうにか２０社分の調査を終え",
+                                "mobileoptimized": "320",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://iejoho.com/archives/8580"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "HOME",
+                                "name": "HOME",
+                                "position": "1"
+                            },
+                            {
+                                "item": "土地活用",
+                                "name": "土地活用",
+                                "position": "2"
+                            },
+                            {
+                                "item": "アパート",
+                                "name": "アパート",
+                                "position": "3"
+                            },
+                            {
+                                "name": "【2022年版】 大手賃貸アパート会社２０社を徹底比較！",
+                                "position": "4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "物件比較ツール「Mekiki」 – PigData | ビッグデータ収集・分析 ...",
+                    "htmlTitle": "<b>物件比較</b>ツール「Mekiki」 – PigData | ビッグデータ収集・分析 ...",
+                    "link": "https://pig-data.jp/service/mekiki/",
+                    "displayLink": "pig-data.jp",
+                    "snippet": "無料でできる物件比較ツール「Mekiki」 無料ではじめる PigData > サービス一覧 > ... 【リスト作成】アンケートのための企業リストを複数サイトから収集.",
+                    "htmlSnippet": "無料でできる<b>物件比較</b>ツール「Mekiki」 無料ではじめる PigData &gt; サービス一覧 &gt; ... 【リスト作成】アンケートのための<b>企業</b>リストを複数サイトから収集.",
+                    "cacheId": "YJt88Vaj3nkJ",
+                    "formattedUrl": "https://pig-data.jp/service/mekiki/",
+                    "htmlFormattedUrl": "https://pig-data.jp/service/mekiki/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "og:type": "article",
+                                "article:published_time": "2022-11-09T02:00:28+00:00",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "物件比較ツール「Mekiki」 – PigData | ビッグデータ収集・分析・活用ソリューション",
+                                "og:site_name": "PigData | ビッグデータ収集・分析・活用ソリューション – PigDataは、お客様のデータ活用に対する課題を丁寧にヒアリングし、 最適なデータ活用ソリューションをご提供します。",
+                                "og:title": "物件比較ツール「Mekiki」 – PigData | ビッグデータ収集・分析・活用ソリューション",
+                                "msapplication-tileimage": "https://pig-data.jp/wp-content/uploads/cropped-favicon-1-270x270.png",
+                                "og:description": "無料でできる物件比較ツール「Mekiki」 無料ではじめる PigData > サービス一覧 >",
+                                "article:modified_time": "2022-11-14T06:41:42+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "無料でできる物件比較ツール「Mekiki」 無料ではじめる PigData > サービス一覧 >",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://pig-data.jp/service/mekiki/"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 企業 物件比較",
+                        "totalResults": "16800000",
+                        "searchTerms": "企業 物件比較",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 企業 物件比較",
+                        "totalResults": "16800000",
+                        "searchTerms": "企業 物件比較",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 企業 物件比較",
+                        "totalResults": "16800000",
+                        "searchTerms": "企業 物件比較",
+                        "count": 10,
+                        "startIndex": 31,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.392445,
+                "formattedSearchTime": "0.39",
+                "totalResults": "16800000",
+                "formattedTotalResults": "16,800,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "リースの仕組み | リースの基礎知識 | 三井住友ファイナンス＆リース ...",
+                    "htmlTitle": "リースの仕組み | リースの基礎知識 | 三井住友ファイナンス＆リース ...",
+                    "link": "https://www.smfl.co.jp/lease/knowledge/knowledge01/",
+                    "displayLink": "www.smfl.co.jp",
+                    "snippet": "機械や設備などをリースで借りたい場合、企業はまず対象物件を選定し、リース会社にリース申し込みをします。 リース会社と契約をしたあと、メーカー・販売会社から ...",
+                    "htmlSnippet": "機械や設備などをリースで借りたい場合、<b>企業</b>はまず対象<b>物件</b>を選定し、リース会社にリース申し込みをします。 リース会社と契約をしたあと、メーカー・販売会社から&nbsp;...",
+                    "cacheId": "r3ZSUt6jvc4J",
+                    "formattedUrl": "https://www.smfl.co.jp/lease/knowledge/knowledge01/",
+                    "htmlFormattedUrl": "https://www.smfl.co.jp/lease/knowledge/knowledge01/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQu_6EnMns0uXyqbbLUJiZjIXEF0VtocCsi8x9V4CUza_-1vzoCfE6RP_8",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "corporation": [
+                            {
+                                "logo": "https://www.smfl.co.jp/assets/images/common/logo_main.svg",
+                                "url": "https://www.smfl.co.jp/"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.smfl.co.jp/assets/images/common/ogp.png",
+                                "og:type": "article",
+                                "twitter:title": "リースの仕組み | リースの基礎知識 | 三井住友ファイナンス＆リース株式会社",
+                                "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1, viewport-fit=cover",
+                                "twitter:description": "リース契約の基本的な仕組み、リースの種類、リースのメリットについてご紹介します。",
+                                "og:title": "リースの仕組み | リースの基礎知識 | 三井住友ファイナンス＆リース株式会社",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.smfl.co.jp/lease/knowledge/knowledge01/",
+                                "og:description": "リース契約の基本的な仕組み、リースの種類、リースのメリットについてご紹介します。",
+                                "twitter:image": "https://www.smfl.co.jp/assets/images/common/ogp.png",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.smfl.co.jp/assets/images/common/ogp.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "おすすめの省エネ計算サポート会社がすぐわかる！業界最多49社 ...",
+                    "htmlTitle": "おすすめの省エネ計算サポート会社がすぐわかる！業界最多49社 ...",
+                    "link": "https://www.shoenekeisan-kankyoninsho.com/",
+                    "displayLink": "www.shoenekeisan-kankyoninsho.com",
+                    "snippet": "上場企業、大手設計事務所から個人設計事務所までサポートし、全国の個人住宅、小規模事務所から大型工場・商業施設まで幅広い物件用途に対応可能。 省エネ計算だけでなく ...",
+                    "htmlSnippet": "上場<b>企業</b>、大手設計事務所から個人設計事務所までサポートし、全国の個人住宅、小規模事務所から大型工場・商業施設まで幅広い<b>物件</b>用途に対応可能。 省エネ計算だけでなく&nbsp;...",
+                    "cacheId": "-dNYgl_PWgcJ",
+                    "formattedUrl": "https://www.shoenekeisan-kankyoninsho.com/",
+                    "htmlFormattedUrl": "https://www.shoenekeisan-kankyoninsho.com/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGPlEd7NbmksibOXwAHSB_VvXuTAvR8HVhreFxi1YZvNxkbhnUc1-Qph8",
+                                "width": "186",
+                                "height": "271"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://assets.website-files.com/61f0d5acf909acab683a6aed/62cc04306cdaeb2552c9aca3_%E6%96%B0%E7%AF%89_%E9%9D%92.webp"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【2023年】おすすめの不動産投資会社ランキング12選！大手の特徴 ...",
+                    "htmlTitle": "【2023年】おすすめの不動産投資会社ランキング12選！大手の特徴 ...",
+                    "link": "https://www.bridge-salon.jp/toushi/realestate-ranking/",
+                    "displayLink": "www.bridge-salon.jp",
+                    "snippet": "2023/06/01 ... それぞれの入居率や特徴を比較することで、選び方の参考にすることができ ... *2021年 6月時点, ー, ・創業41年の東証一部上場企業・98.5％の物件が駅 ...",
+                    "htmlSnippet": "2023/06/01 <b>...</b> それぞれの入居率や特徴を<b>比較</b>することで、選び方の参考にすることができ ... *2021年 6月時点, ー, ・創業41年の東証一部上場<b>企業</b>・98.5％の<b>物件</b>が駅&nbsp;...",
+                    "cacheId": "XVs4gxcAXeYJ",
+                    "formattedUrl": "https://www.bridge-salon.jp/toushi/realestate-ranking/",
+                    "htmlFormattedUrl": "https://www.bridge-salon.jp/toushi/realestate-ranking/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCZpSe_jR5uEXsO9oU4HqBB8vsq9YTDknc73fURD92yayeUJrou2lLVQ",
+                                "width": "281",
+                                "height": "179"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.bridge-salon.jp/toushi/wp-content/uploads/2022/06/realestate-rank-1024x652.jpg",
+                                "og:type": "article",
+                                "og:image:width": "1024",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "【2023年】おすすめの不動産投資会社ランキング12選！大手の特徴や入居率を徹底比較 | いろはに投資",
+                                "og:site_name": "いろはに投資",
+                                "twitter:domain": "www.bridge-salon.jp",
+                                "twitter:url": "https://www.bridge-salon.jp/toushi/realestate-ranking/",
+                                "og:title": "【2023年】おすすめの不動産投資会社ランキング12選！大手の特徴や入居率を徹底比較 | いろはに投資",
+                                "og:image:height": "652",
+                                "msapplication-tileimage": "https://www.bridge-salon.jp/toushi/wp-content/uploads/2020/10/cropped-irohani_logo-270x270.png",
+                                "og:description": "おすすめの不動産投資会社ランキングをご紹介。それぞれの入居率や特徴を比較することで、選び方の参考にすることができます。",
+                                "twitter:image": "https://www.bridge-salon.jp/toushi/wp-content/uploads/2022/06/realestate-rank-1024x652.jpg",
+                                "referrer": "no-referrer-when-downgrade",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "おすすめの不動産投資会社ランキングをご紹介。それぞれの入居率や特徴を比較することで、選び方の参考にすることができます。",
+                                "og:url": "https://www.bridge-salon.jp/toushi/realestate-ranking/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.bridge-salon.jp/toushi/wp-content/uploads/2022/06/realestate-rank-1024x652.jpg"
+                            }
+                        ],
+                        "hatomfeed": [
+                            {}
+                        ],
+                        "breadcrumblist": [
+                            {
+                                "position": "3"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "HOME",
+                                "name": "HOME",
+                                "position": "1"
+                            },
+                            {
+                                "item": "トレンド",
+                                "name": "トレンド",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "リース契約の特徴 - 公益社団法人リース事業協会",
+                    "htmlTitle": "リース契約の特徴 - 公益社団法人リース事業協会",
+                    "link": "https://www.leasing.or.jp/information/finance.html",
+                    "displayLink": "www.leasing.or.jp",
+                    "snippet": "ファイナンス・リースの特徴と賃貸借契約（レンタル契約）との違い. リース物件の選定 不動産賃貸借やレンタルは、賃貸人がもともと保有している土地や建物、あるいは特定 ...",
+                    "htmlSnippet": "ファイナンス・リースの特徴と賃貸借契約（レンタル契約）との違い. リース<b>物件</b>の選定 不動産賃貸借やレンタルは、賃貸人がもともと保有している土地や建物、あるいは特定&nbsp;...",
+                    "cacheId": "rUc8QdGvgbUJ",
+                    "formattedUrl": "https://www.leasing.or.jp/information/finance.html",
+                    "htmlFormattedUrl": "https://www.leasing.or.jp/information/finance.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEstjau4dHEHyocPike19mtKA_2YEXxLYifefw4GE4EdL17JtAYPxT3yya",
+                                "width": "294",
+                                "height": "172"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1, maximum-scale=2"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.leasing.or.jp/information/img/kihon.gif"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "オフィスの物件探しで注意したい9つの条件｜ゼロイン",
+                    "htmlTitle": "オフィスの<b>物件</b>探しで注意したい9つの条件｜ゼロイン",
+                    "link": "https://www.zeroin.co.jp/soumuservice/blog/210405/",
+                    "displayLink": "www.zeroin.co.jp",
+                    "snippet": "企業がオフィス移転を検討する際、初期段階で行われるオフィス物件探し。 ... 複数の物件をピックアップして、さまざまな角度から比較検討されると思います。",
+                    "htmlSnippet": "<b>企業</b>がオフィス移転を検討する際、初期段階で行われるオフィス<b>物件</b>探し。 ... 複数の<b>物件</b>をピックアップして、さまざまな角度から<b>比較</b>検討されると思います。",
+                    "cacheId": "6l18N8Qo7vMJ",
+                    "formattedUrl": "https://www.zeroin.co.jp/soumuservice/blog/210405/",
+                    "htmlFormattedUrl": "https://www.zeroin.co.jp/soumuservice/blog/210405/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0tuuyycInTpe7P1WJ1L6b3xJCqttB298_3bhc1Z1q_poKPM2RAntLylA",
+                                "width": "294",
+                                "height": "171"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.zeroin.co.jp/soumuservice/wp-content/uploads/2021/04/officebukken.jpg",
+                                "twitter:card": "summary_large_image",
+                                "og:type": "article",
+                                "og:site_name": "バックオフィスの業務・体制を支援するコンサルティング・アウトソーシング｜ゼロイン",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "オフィスの物件探しで注意したい9つの条件｜ゼロイン",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.zeroin.co.jp/soumuservice/blog/210405/",
+                                "og:description": "企業がオフィス移転を検討する際、初期段階で行われるオフィス物件探し。多くの場合、自社が求める条件に当てはまる複数の物件をピックアップして、さまざまな角度から比較検討されると思います。本記事では、オフィス移転の専門家であるゼロインが、移転先の物件を決定する際に重視するべき条件と、そのポイントをご紹介します。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.zeroin.co.jp/soumuservice/wp-content/uploads/2021/04/officebukken.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "お悩み解決！社宅の「代行」と「転貸」の違いを徹底解説｜お ...",
+                    "htmlTitle": "お悩み解決！社宅の「代行」と「転貸」の違いを徹底解説｜お ...",
+                    "link": "https://syataku.lixil-realty.com/company/info/post-14.html",
+                    "displayLink": "syataku.lixil-realty.com",
+                    "snippet": "代行とは、社宅代行会社が借主である社宅を提供する企業に代わり、契約・更新・解約などの手続き、賃料の支払い代行などの物件の情報提供から入居者対応まで幅広く対応 ...",
+                    "htmlSnippet": "代行とは、社宅代行会社が借主である社宅を提供する<b>企業</b>に代わり、契約・更新・解約などの手続き、賃料の支払い代行などの<b>物件</b>の情報提供から入居者対応まで幅広く対応&nbsp;...",
+                    "cacheId": "pRyYiYoCBhAJ",
+                    "formattedUrl": "https://syataku.lixil-realty.com/company/info/post-14.html",
+                    "htmlFormattedUrl": "https://syataku.lixil-realty.com/company/info/post-14.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGxfqK8i9Rzxqak0yltmBg5bDPxaYjQcdUfnFN08GDDpmYzk-pYQgxeiNF",
+                                "width": "306",
+                                "height": "165"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://syataku.lixil-realty.com/images/post-14_01.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "物件タイプ比較 「ビルイン」「ロードサイド」「路面店」の特徴 ...",
+                    "htmlTitle": "<b>物件</b>タイプ<b>比較</b>  「ビルイン」「ロードサイド」「路面店」の特徴 ...",
+                    "link": "https://bizcube.co.jp/article/4595/",
+                    "displayLink": "bizcube.co.jp",
+                    "snippet": "2022/09/13 ... ビズキューブ・コンサルティング株式会社は、「店舗経営をビッグデータで支援」を事業ドメインに掲げ、企業さまの店舗運営における各種業務をワンストップ ...",
+                    "htmlSnippet": "2022/09/13 <b>...</b> ビズキューブ・コンサルティング株式会社は、「店舗経営をビッグデータで支援」を事業ドメインに掲げ、<b>企業</b>さまの店舗運営における各種業務をワンストップ&nbsp;...",
+                    "cacheId": "H3qrGCiyUMIJ",
+                    "formattedUrl": "https://bizcube.co.jp/article/4595/",
+                    "htmlFormattedUrl": "https://bizcube.co.jp/article/4595/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwxJgn3oy5y3xucsLiuegNVTOHpKbhHwkec7fBsD8JOddyh3YcUq44h78",
+                                "width": "284",
+                                "height": "178"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:type": "article",
+                                "article:published_time": "2022-09-13T04:29:15+00:00",
+                                "twitter:card": "summary",
+                                "twitter:title": "物件タイプ比較│「ビルイン」「ロードサイド」「路面店」の特徴・メリットなど解説 | 店舗運営・家賃削減・物件関連の経営課題解決ならビズキューブ・コンサルティング株式会社",
+                                "og:site_name": "店舗運営・家賃削減・物件関連の経営課題解決ならビズキューブ・コンサルティング株式会社 | ビズキューブ・コンサルティング株式会社は、企業価値向上を実現するコンサルティングファームとして、物件・コスト全般に関わるコンサルティングでクライアントの経営課題の解決をサポートいたします。",
+                                "og:title": "物件タイプ比較│「ビルイン」「ロードサイド」「路面店」の特徴・メリットなど解説 | 店舗運営・家賃削減・物件関連の経営課題解決ならビズキューブ・コンサルティング株式会社",
+                                "msapplication-tileimage": "https://bizcube.co.jp/cms/wp-content/uploads/2022/04/cropped-biz-cube-270x270.png",
+                                "og:description": "店舗事務所用の物件にはいくつかタイプがあります。それぞれに特徴があり、ご自身の店舗物件にはどちらの条件がマッチ",
+                                "article:modified_time": "2022-09-13T07:55:55+00:00",
+                                "viewport": "width=360,initial-scale=1",
+                                "twitter:description": "店舗事務所用の物件にはいくつかタイプがあります。それぞれに特徴があり、ご自身の店舗物件にはどちらの条件がマッチ",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://bizcube.co.jp/article/4595/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://bizcube.co.jp/cms/wp-content/uploads/2022/09/e4f0ceb2082a465bd2653ddeceb6415c-5-1024x641.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "リースとレンタルの対比 | 株式会社 JECC",
+                    "htmlTitle": "リースとレンタルの対比 | 株式会社 JECC",
+                    "link": "https://www.jecc.com/knowledge/compare/",
+                    "displayLink": "www.jecc.com",
+                    "snippet": "リース、レンタルともに「物件の賃貸借」であり、物件の所有権はそれぞれリース会社、レンタル会社にありますが、それぞれが持つ特徴や性質に違いがあります。",
+                    "htmlSnippet": "リース、レンタルともに「<b>物件</b>の賃貸借」であり、<b>物件</b>の所有権はそれぞれリース会社、レンタル会社にありますが、それぞれが持つ特徴や性質に違いがあります。",
+                    "cacheId": "Oib81TH5GhEJ",
+                    "formattedUrl": "https://www.jecc.com/knowledge/compare/",
+                    "htmlFormattedUrl": "https://www.jecc.com/knowledge/compare/",
+                    "pagemap": {
+                        "thumbnail": [
+                            {
+                                "src": "https://www.jecc.com/app-files/img/symbol/thumbnail.png"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.jecc.com/app-files/img/symbol/ogp.png",
+                                "og:type": "article",
+                                "thumbnail": "https://www.jecc.com/app-files/img/symbol/thumbnail.png",
+                                "og:site_name": "株式会社 JECC",
+                                "viewport": "width=device-width, initial-scale=1, minimum-scale=1.0, user-scalable=yes, shrink-to-fit=no",
+                                "og:title": "リースとレンタルの対比 | 株式会社 JECC",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.jecc.com/knowledge/compare/",
+                                "og:description": "JECCの「リースとレンタルの対比」についてご紹介しています。JECCは、ファイナンスリースやオペレーティングリースなどの豊富なリース・レンタルサービスの提供を通して、お客様のビジネスをサポートします。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.jecc.com/app-files/img/symbol/ogp.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "トップページ",
+                                "name": "トップページ",
+                                "position": "1"
+                            },
+                            {
+                                "item": "リース・レンタルの基礎知識",
+                                "name": "リース・レンタルの基礎知識",
+                                "position": "2"
+                            },
+                            {
+                                "name": "リースとレンタルの対比",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "本社が自社ビルか賃貸ビルかの比較 |【CBRE】",
+                    "htmlTitle": "本社が自社ビルか賃貸ビルかの<b>比較</b> |【CBRE】",
+                    "link": "https://www.cbre-propertysearch.jp/article/office_buy_or_rent-vol1/",
+                    "displayLink": "www.cbre-propertysearch.jp",
+                    "snippet": "事業用不動産の分野において、世界有数の企業であるCBRE。日本国内におけるその強み、拠点、会社概要をご紹介します。 ... 物件検索の使い方や、会員サービス、よくあるご ...",
+                    "htmlSnippet": "事業用不動産の分野において、世界有数の<b>企業</b>であるCBRE。日本国内におけるその強み、拠点、会社概要をご紹介します。 ... <b>物件</b>検索の使い方や、会員サービス、よくあるご&nbsp;...",
+                    "cacheId": "rCMGy0HZcPoJ",
+                    "formattedUrl": "https://www.cbre-propertysearch.jp/article/office_buy_or_rent-vol1/",
+                    "htmlFormattedUrl": "https://www.cbre-propertysearch.jp/article/office_buy_or_rent-vol1/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJuXcSVUI0TIUCa77F35LEelVWT9ukkTMZfbgIt8b7kniiJtj-1XUTcSnR",
+                                "width": "276",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://image.cbre-propertysearch.jp/img/page/0087/000000005287_file.jpg",
+                                "og:type": "article",
+                                "og:site_name": "CBRE│世界最大手*の事業用不動産サービス│賃貸オフィス・貸し倉庫・貸店舗",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "og:title": "本社が自社ビルか賃貸ビルかの比較",
+                                "csrf-token": "lE3n1rR5QkKL/FlZm3KBr8omA33DjBRDTYKPdXg21f0U5Zqd13yhkLZJAzCSdlZw5iK+vWFg8fAbtgFqC3wr4g==",
+                                "og:url": "https://www.cbre-propertysearch.jp/article/office_buy_or_rent-vol1/",
+                                "csrf-param": "authenticity_token",
+                                "og:description": "東京23区内の上場企業1720社を徹底調査。自社ビル・賃貸ビルの割合と、その業種や所在地、設立年度の傾向を分析する。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://image.cbre-propertysearch.jp/img/page/0087/000000005287_file.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "リースとは？レンタルとの違いやメリット・デメリットを解説 ...",
+                    "htmlTitle": "リースとは？レンタルとの違いやメリット・デメリットを解説 ...",
+                    "link": "https://www.smbc-card.com/hojin/magazine/bizi-dora/general-affairs/lease-or-rental.jsp",
+                    "displayLink": "www.smbc-card.com",
+                    "snippet": "2022/11/17 ... リースでは、半年から10年程度といった中長期で物件を借りることができます。 ... スタートアップ企業が、オフィスで使用するさまざまな設備をすべて ...",
+                    "htmlSnippet": "2022/11/17 <b>...</b> リースでは、半年から10年程度といった中長期で<b>物件</b>を借りることができます。 ... スタートアップ<b>企業</b>が、オフィスで使用するさまざまな設備をすべて&nbsp;...",
+                    "cacheId": "7L6n-4t1_l0J",
+                    "formattedUrl": "https://www.smbc-card.com/hojin/magazine/bizi-dora/.../lease-or-rental.jsp",
+                    "htmlFormattedUrl": "https://www.smbc-card.com/hojin/magazine/bizi-dora/.../lease-or-rental.jsp",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnqJNIJPAIzK8cWWTpjxbdHG1yELIjtIdnrVN8Gajsi_alnBes8yYLlhg",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.smbc-card.com/hojin/magazine/bizi-dora/general-affairs/img/lease-or-rental.jpg",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "リースとは？レンタルとの違いやメリット・デメリットを解説 | ビジドラ～起業家の経営をサポート～",
+                                "og:site_name": "クレジットカードの三井住友VISAカード",
+                                "viewport": "width=device-width,user-scalable=no",
+                                "twitter:description": "【税理士監修】オフィスのOA機器や事務用品は、リースやレンタルサービスを活用でコスト削減！リースとは、リースとレンタルの違い、契約期間やメリット・デメリット、割賦販売との比較まで徹底解説します。",
+                                "og:title": "リースとは？レンタルとの違いやメリット・デメリットを解説 | ビジドラ～起業家の経営をサポート～",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.smbc-card.com/hojin/magazine/bizi-dora/general-affairs/lease-or-rental.jsp?dk=sn_fcb_065_20120",
+                                "og:description": "【税理士監修】オフィスのOA機器や事務用品は、リースやレンタルサービスを活用でコスト削減！リースとは、リースとレンタルの違い、契約期間やメリット・デメリット、割賦販売との比較まで徹底解説します。",
+                                "twitter:image": "https://www.smbc-card.com/hojin/magazine/bizi-dora/general-affairs/img/lease-or-rental.jpg"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.smbc-card.com/hojin/magazine/bizi-dora/general-affairs/img/lease-or-rental.jpg"
+                            }
+                        ],
+                        "thing": [
+                            {
+                                "name": "法人カードをつくる トップ"
+                            },
+                            {
+                                "name": "法人カード活用ガイド"
+                            },
+                            {
+                                "name": "ビジドラ～起業家の経営をサポート～"
+                            },
+                            {
+                                "name": "総務"
+                            },
+                            {
+                                "name": "リースとは？レンタルとの違いやメリット・デメリットを解説"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "position": "1"
+                            },
+                            {
+                                "position": "2"
+                            },
+                            {
+                                "position": "3"
+                            },
+                            {
+                                "position": "4"
+                            },
+                            {
+                                "position": "5"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1543 @@
+{
+    "query": "業界 導入事例",
+    "links": [
+        [
+            "https://www.trans-cosmos.co.jp/customercase/",
+            "https://www.infomart.co.jp/case/index.asp?channel",
+            "https://aws.amazon.com/jp/retail/case-studies/",
+            "https://www.salesforce.com/jp/solutions/industries/financial-services/customer-stories/",
+            "https://thelosttikilounge.com/cocktails/zombie-guide17881788591788-18286729-297/pickup/E623562",
+            "https://www.amazon.co.jp/%E6%A5%AD%E7%95%8C%E5%88%A5-AI%E6%B4%BB%E7%94%A8%E5%9C%B0%E5%9B%B3-8%E6%A5%AD%E7%95%8C36%E6%A5%AD%E7%A8%AE%E3%81%AE%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B%E3%81%8C%E4%B8%80%E7%9B%AE%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B-AI-TECHNOLOGY/dp/4798157791",
+            "https://www.johnsoncontrols.com/ja_jp/solutions-by-industry",
+            "https://kawasakirobotics.com/jp/case-studies/",
+            "https://resources.boomi.com/ja-resource-center/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%83%BC/boomi-ipaas-usecase-cooke-aquaculture",
+            "https://www.ammic.co.jp/product/casework/"
+        ],
+        [
+            "https://www.tsubakimoto.jp/materials-handling/distribution/application/",
+            "https://www.nec-nexs.com/solution/case/",
+            "https://www.cloudsign.jp/case/",
+            "https://www.ebase.co.jp/case/index.html",
+            "https://www.ntt.com/business/case-studies.html",
+            "https://www.otsuka-shokai.co.jp/erpnavi/casestudies/category/",
+            "https://tebiki.jp/case/index.html",
+            "https://syscomgs.com/ja/client-story-finance-edr-mdr/",
+            "https://www.calsoft.com/ja/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/",
+            "https://pc.logitec.co.jp/cases.html"
+        ],
+        [
+            "https://www2.fujitsu.com/jp/customer-stories-index/",
+            "https://www.scandit.com/jp/resources/case-studies/instacart/",
+            "https://www.scada-magazine.com/case/",
+            "https://moconavi.jp/casestudy/",
+            "https://line.worksmobile.com/jp/blog/use-cases/food_industry/",
+            "https://ai-market.jp/industry/logistics_ai/",
+            "https://www.talent-palette.com/case/",
+            "https://www.epson.jp/products/robots/example/",
+            "https://www.shoeisha.co.jp/book/detail/9784798157795",
+            "https://rpa-technologies.com/insights/rpacases_2019/"
+        ]
+    ],
+    "snapshot_ymd": "D2023-06-23",
+    "snapshot_timestamp": "D2023-06-23T01-27-46",
+    "responses": [
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "request": [
+                    {
+                        "title": "Google Custom Search - 業界 導入事例",
+                        "totalResults": "52100000",
+                        "searchTerms": "業界 導入事例",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 業界 導入事例",
+                        "totalResults": "52100000",
+                        "searchTerms": "業界 導入事例",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.465212,
+                "formattedSearchTime": "0.47",
+                "totalResults": "52100000",
+                "formattedTotalResults": "52,100,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "業界別事例 ｜ トランスコスモス",
+                    "htmlTitle": "<b>業界</b>別<b>事例</b> ｜ トランスコスモス",
+                    "link": "https://www.trans-cosmos.co.jp/customercase/",
+                    "displayLink": "www.trans-cosmos.co.jp",
+                    "snippet": "トランスコスモスの業界別事例のご紹介です。 ... 宮崎県LINE公式アカウントにおけるチャットbot導入を支援. 2023.04.05 · DX. ニッセンホールディングス 様.",
+                    "htmlSnippet": "トランスコスモスの<b>業界</b>別<b>事例</b>のご紹介です。 ... 宮崎県LINE公式アカウントにおけるチャットbot<b>導入</b>を支援. 2023.04.05 &middot; DX. ニッセンホールディングス 様.",
+                    "cacheId": "I2PDzK4JooAJ",
+                    "formattedUrl": "https://www.trans-cosmos.co.jp/customercase/",
+                    "htmlFormattedUrl": "https://www.trans-cosmos.co.jp/customercase/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiDVdiOBssE5CygRhBHdM5q0XfmHwjglcRA_SRIQ2XEh49RcLZvAmdACtm",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.trans-cosmos.co.jp/images/shared/service_sns.png",
+                                "viewport": "width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.trans-cosmos.co.jp/images/shared/service_sns.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "name": "業界別事例",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例｜BtoBプラットフォーム業界チャネルのインフォマート",
+                    "htmlTitle": "<b>導入事例</b>｜BtoBプラットフォーム<b>業界</b>チャネルのインフォマート",
+                    "link": "https://www.infomart.co.jp/case/index.asp?channel",
+                    "displayLink": "www.infomart.co.jp",
+                    "snippet": "『BtoBプラットフォーム』を活用して業務効率化・コスト削減に取り組む企業様の事例をご紹介します。導入前のお悩み・課題から導入後の効果、さらには便利な使い方 ...",
+                    "htmlSnippet": "『BtoBプラットフォーム』を活用して業務効率化・コスト削減に取り組む企業様の<b>事例</b>をご紹介します。<b>導入</b>前のお悩み・課題から<b>導入</b>後の効果、さらには便利な使い方&nbsp;...",
+                    "cacheId": "49iYHl6kJc8J",
+                    "formattedUrl": "https://www.infomart.co.jp/case/index.asp?channel",
+                    "htmlFormattedUrl": "https://www.infomart.co.jp/case/index.asp?channel",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzmFk79aMOJRycgveVSB4TnbkdAcCv7OEdMk4LuZDLQ_WWMbIDeTrDGc7d",
+                                "width": "284",
+                                "height": "177"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.infomart.co.jp/web/jp/case/images/0240_main.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "小売業向け AWS | お客様導入事例 | AWS",
+                    "htmlTitle": "小売<b>業</b>向け AWS | お客様<b>導入事例</b> | AWS",
+                    "link": "https://aws.amazon.com/jp/retail/case-studies/",
+                    "displayLink": "aws.amazon.com",
+                    "snippet": "カスタマーエクスペリエンスを豊かにするためのソリューションやその他の知識資産を活用している小売業の組織の AWS お客様導入事例をご紹介します。",
+                    "htmlSnippet": "カスタマーエクスペリエンスを豊かにするためのソリューションやその他の知識資産を活用している小売<b>業</b>の組織の AWS お客様<b>導入事例</b>をご紹介します。",
+                    "cacheId": "ghIyatLyc5MJ",
+                    "formattedUrl": "https://aws.amazon.com/jp/retail/case-studies/",
+                    "htmlFormattedUrl": "https://aws.amazon.com/jp/retail/case-studies/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSp5HPWn8V5ECfH7SCra5frHu0UHU6E_WROkaw5fS7SUfstMRB1oAIiSew",
+                                "width": "150",
+                                "height": "79"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png",
+                                "twitter:title": "小売業向け AWS | お客様導入事例 | AWS",
+                                "twitter:card": "summary",
+                                "og:type": "company",
+                                "og:site_name": "Amazon Web Services, Inc.",
+                                "msvalidate.01": "6F92E52A288E266E30C2797ECB5FCCF3",
+                                "og:title": "小売業向け AWS | お客様導入事例 | AWS",
+                                "shenma-site-verification": "79b94bb338f010af876605819a332e19_1617844070",
+                                "fb:pages": "153063591397681",
+                                "twitter:image": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_179x109.png",
+                                "360-site-verification": "cbe5c6f0249e273e71fffd6d6580ce09",
+                                "baidu-site-verification": "pjxJUyWxae",
+                                "twitter:site": "@awscloud",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "sogou_site_verification": "Ow8cCy3Hgq",
+                                "twitter:description": "カスタマーエクスペリエンスを豊かにするためのソリューションやその他の知識資産を活用している小売業の組織の AWS お客様導入事例をご紹介します。",
+                                "og:url": "https://aws.amazon.com/jp/retail/case-studies/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "金融サービス業界の導入事例と推薦文 | セールスフォース・ジャパン",
+                    "htmlTitle": "金融サービス<b>業界</b>の<b>導入事例</b>と推薦文 | セールスフォース・ジャパン",
+                    "link": "https://www.salesforce.com/jp/solutions/industries/financial-services/customer-stories/",
+                    "displayLink": "www.salesforce.com",
+                    "snippet": "Learn how Salesforce's financial services customers use social media, mobile, and interconnected apps to break down walls between bankers, ...",
+                    "htmlSnippet": "Learn how Salesforce&#39;s financial services customers use social media, mobile, and interconnected apps to break down walls between bankers,&nbsp;...",
+                    "formattedUrl": "https://www.salesforce.com/jp/solutions/industries/.../customer-stories/",
+                    "htmlFormattedUrl": "https://www.salesforce.com/jp/solutions/industries/.../customer-stories/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWQLPWG6bRDX4tmjZyOLGilc-38y8MJaX1qN-1ssS6NcJCmiMDiCQp8Zk",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.salesforce.com/etc/designs/blogsRedesign/images/default.jpg",
+                                "og:type": "website",
+                                "twitter:card": "summary",
+                                "og:site_name": "Salesforce",
+                                "twitter:domain": "www.salesforce.com",
+                                "twitter:url": "https://www.salesforce.com/jp/solutions/industries/financial-services/customer-stories/",
+                                "og:title": "導入事例",
+                                "og:description": "Learn how Salesforce's financial services customers use social media, mobile, and interconnected apps to break down walls between bankers, financial advisors and clients.",
+                                "fb:app_id": "149533758430156",
+                                "twitter:site": "@salesforce",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "og:locale": "ja_jp",
+                                "og:url": "https://www.salesforce.com/jp/solutions/industries/financial-services/customer-stories/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.salesforce.com/etc/designs/blogsRedesign/images/default.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "業界別!AI活用地図 8業界36業種の導入事例が一目でわかる ビジネス ...",
+                    "htmlTitle": "<b>業界</b>別!AI活用地図 8<b>業界</b>36業種の<b>導入事例</b>が一目でわかる ビジネス ...",
+                    "link": "https://thelosttikilounge.com/cocktails/zombie-guide17881788591788-18286729-297/pickup/E623562",
+                    "displayLink": "thelosttikilounge.com",
+                    "snippet": "業界別!AI活用地図 8業界36業種の導入事例が一目でわかる 本・音楽・ゲーム 本 ビジネス | thelosttikilounge.com.",
+                    "htmlSnippet": "<b>業界</b>別!AI活用地図 8<b>業界</b>36業種の<b>導入事例</b>が一目でわかる 本・音楽・ゲーム 本 ビジネス | thelosttikilounge.com.",
+                    "cacheId": "yin3wwvOuGcJ",
+                    "formattedUrl": "https://thelosttikilounge.com/cocktails/zombie...18286729-297/.../E623562",
+                    "htmlFormattedUrl": "https://thelosttikilounge.com/cocktails/zombie...18286729-297/.../E623562",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREWD7jnWZoKVOciglhF7L2SxdiT5RmJsse-OJtUafT0XorTuBDa46gtRI",
+                                "width": "194",
+                                "height": "259"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:type": "website",
+                                "twitter:title": "業界別!AI活用地図 8業界36業種の導入事例が一目でわかる | thelosttikilounge.com",
+                                "og:title": "業界別!AI活用地図 8業界36業種の導入事例が一目でわかる | thelosttikilounge.com",
+                                "product:price:amount": "840",
+                                "og:description": "業界別!AI活用地図 8業界36業種の導入事例が一目でわかる 本・音楽・ゲーム 本 ビジネス | thelosttikilounge.com",
+                                "apple-mobile-web-app-status-bar-style": "black",
+                                "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                                "apple-mobile-web-app-capable": "yes",
+                                "twitter:description": "業界別!AI活用地図 8業界36業種の導入事例が一目でわかる 本・音楽・ゲーム 本 ビジネス | thelosttikilounge.com",
+                                "product:price:currency": "JPY",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://thelosttikilounge.com/cocktails/zombie-guide17881788591788-18286729-297/pickup/E623562",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://static.mercdn.net/item/detail/orig/photos/m63995313267_1.jpg?1679487895"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "業界別! AI活用地図 8業界36業種の導入事例が一目でわかる ...",
+                    "htmlTitle": "<b>業界</b>別! AI活用地図 8<b>業界</b>36業種の<b>導入事例</b>が一目でわかる ...",
+                    "link": "https://www.amazon.co.jp/%E6%A5%AD%E7%95%8C%E5%88%A5-AI%E6%B4%BB%E7%94%A8%E5%9C%B0%E5%9B%B3-8%E6%A5%AD%E7%95%8C36%E6%A5%AD%E7%A8%AE%E3%81%AE%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B%E3%81%8C%E4%B8%80%E7%9B%AE%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B-AI-TECHNOLOGY/dp/4798157791",
+                    "displayLink": "www.amazon.co.jp",
+                    "snippet": "Amazonで本橋 洋介の業界別! AI活用地図 8業界36業種の導入事例が一目でわかる (AI&TECHNOLOGY)。アマゾンならポイント還元本が多数。本橋 洋介作品ほか、お急ぎ便対象 ...",
+                    "htmlSnippet": "Amazonで本橋 洋介の<b>業界</b>別! AI活用地図 8<b>業界</b>36業種の<b>導入事例</b>が一目でわかる (AI&amp;TECHNOLOGY)。アマゾンならポイント還元本が多数。本橋 洋介作品ほか、お急ぎ便対象&nbsp;...",
+                    "cacheId": "YUdED0eOMUoJ",
+                    "formattedUrl": "https://www.amazon.co.jp/業界別...8業界36業種の導入事例が一目でわかる .../4798157791",
+                    "htmlFormattedUrl": "https://www.amazon.co.jp/<b>業界</b>別...8<b>業界</b>36業種の<b>導入事例</b>が一目でわかる .../4798157791",
+                    "pagemap": {
+                        "scraped": [
+                            {
+                                "image_link": "https://m.media-amazon.com/images/I/71ro0In5nwL.jpg"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIx8iseFqDGUk92tzrApkAqW2q33dQssF-6OaatrTDdFY79U9I0KcgK29u",
+                                "width": "274",
+                                "height": "184"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://m.media-amazon.com/images/I/51On0M0IEFL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingTHREEANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA57%2c445%2c290%2c400%2c400%2cAmazonEmberBold%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_FMpng_BG255%2c255%2c255.jpg",
+                                "theme-color": "#131921",
+                                "viewport": "width=device-width, maximum-scale=1, minimum-scale=1, initial-scale=1, user-scalable=no, shrink-to-fit=no",
+                                "og:title": "業界別! AI活用地図 8業界36業種の導入事例が一目でわかる (AI&TECHNOLOGY)",
+                                "og:url": "https://www.amazon.co.jp/dp/4798157791/ref=tsm_1_fb_lk",
+                                "title": "業界別! AI活用地図 8業界36業種の導入事例が一目でわかる (AI&TECHNOLOGY) | 本橋 洋介 |本 | 通販 | Amazon",
+                                "og:description": "Amazonで本橋 洋介の業界別! AI活用地図 8業界36業種の導入事例が一目でわかる (AI&TECHNOLOGY)。アマゾンならポイント還元本が多数。本橋 洋介作品ほか、お急ぎ便対象商品は当日お届けも可能。また業界別! AI活用地図 8業界36業種の導入事例が一目でわかる (AI&TECHNOLOGY)もアマゾン配送商品なら通常配送無料。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://m.media-amazon.com/images/I/81ZaARKferL._AC_UF1000,1000_QL80_.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "業界別導入例 | Johnson Controls",
+                    "htmlTitle": "<b>業界</b>別<b>導入</b>例 | Johnson Controls",
+                    "link": "https://www.johnsoncontrols.com/ja_jp/solutions-by-industry",
+                    "displayLink": "www.johnsoncontrols.com",
+                    "snippet": "業界別導入例. 実績は、信頼の証。 日本を代表するさまざまな 建物施設を支えています。",
+                    "htmlSnippet": "<b>業界</b>別<b>導入</b>例. 実績は、信頼の証。 日本を代表するさまざまな 建物施設を支えています。",
+                    "cacheId": "-aYfzelFBiYJ",
+                    "formattedUrl": "https://www.johnsoncontrols.com/ja_jp/solutions-by-industry",
+                    "htmlFormattedUrl": "https://www.johnsoncontrols.com/ja_jp/solutions-by-industry",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfrIwKYk9xBKqVuhDXHf_cp1EvG9oeIxtqpSOayvt-NnDsBpfTOj-qE58",
+                                "width": "399",
+                                "height": "126"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.johnsoncontrols.com:443/ja_jp/-/media/jci/be/japan/solutions-by-industry/be_masthead_solutions_by_industry.jpg",
+                                "og:site_name": "業界別導入例 | Johnson Controls",
+                                "viewport": "width=device-width, initial-scale=1.0, user-scalable=no",
+                                "og:title": "業界別導入例",
+                                "og:url": "https://www.johnsoncontrols.com:443/ja_jp/solutions-by-industry",
+                                "og:description": "膨大な時間とコストを費やしてつくられ、人を集め、癒し、時には命を救う。そんな幾多の建物施設を、見えないところで支えています。今この瞬間も。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.johnsoncontrols.com/ja_jp/-/media/jci/be/japan/solutions-by-industry/office-and-government/be_cs_office_and_government_banner.jpg?h=888&w=2800&la=ja&hash=E3EAE526F7B07D3F6E1F5668B342F10F554BDD10"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例 | 川崎重工の産業用ロボット",
+                    "htmlTitle": "<b>導入事例</b> | 川崎重工の産業用ロボット",
+                    "link": "https://kawasakirobotics.com/jp/case-studies/",
+                    "displayLink": "kawasakirobotics.com",
+                    "snippet": "導入事例. 半世紀を超える川崎重工の産業用ロボットの歴史の中で、広範な業界向けに様々な適用を開発して提供してまいりました。 ここではそのロボット適用事例の ...",
+                    "htmlSnippet": "<b>導入事例</b>. 半世紀を超える川崎重工の産業用ロボットの歴史の中で、広範な<b>業界</b>向けに様々な適用を開発して提供してまいりました。 ここではそのロボット適用事例の&nbsp;...",
+                    "cacheId": "LcgDR8nJ_lYJ",
+                    "formattedUrl": "https://kawasakirobotics.com/jp/case-studies/",
+                    "htmlFormattedUrl": "https://kawasakirobotics.com/jp/case-studies/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjFJ_G76LAH_LgY-RDnJSfHirc1djbyGHG1hGa4MvTcT7mpR8TeUW5T20H",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://kawasakirobotics.com/tachyon/sites/2/2022/02/ogp.jpg?fit=1200%2C630",
+                                "og:type": "article",
+                                "og:image:width": "1200",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "川崎重工業ロボットディビジョン",
+                                "og:title": "導入事例 | 川崎重工の産業用ロボット",
+                                "og:image:height": "630",
+                                "og:image:type": "image/jpeg",
+                                "msapplication-tileimage": "https://kawasakirobotics.com/tachyon/sites/3/2022/02/cropped-site-icon.png?fit=270%2C270",
+                                "og:description": "川崎重工の 導入事例",
+                                "article:modified_time": "2022-10-21T02:06:55+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://kawasakirobotics.com/jp/case-studies/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://kawasakirobotics.com/tachyon/sites/2/2022/02/ogp.jpg?fit=1200%2C630"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Boomi導入事例 - Cooke Aquaculture - 製造業 | boomi.com",
+                    "htmlTitle": "Boomi<b>導入事例</b> - Cooke Aquaculture - 製造<b>業</b> | boomi.com",
+                    "link": "https://resources.boomi.com/ja-resource-center/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%83%BC/boomi-ipaas-usecase-cooke-aquaculture",
+                    "displayLink": "resources.boomi.com",
+                    "snippet": "Boomi導入事例 - Cooke Aquaculture - 製造業. The content is currently being processed... Loading... お問い合わせ. Boomi Japan リソースライブラリー.",
+                    "htmlSnippet": "Boomi<b>導入事例</b> - Cooke Aquaculture - 製造<b>業</b>. The content is currently being processed... Loading... お問い合わせ. Boomi Japan リソースライブラリー.",
+                    "cacheId": "h_-1l6iZTZYJ",
+                    "formattedUrl": "https://resources.boomi.com/ja.../boomi-ipaas-usecase-cooke-aquaculture",
+                    "htmlFormattedUrl": "https://resources.boomi.com/ja.../boomi-ipaas-usecase-cooke-aquaculture",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoKzYFikk5fHuZ20qkTfdDtDi0vYV2oWPcxegXuJMoejZ8LUhGscCEe64",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://images.folloze.com/image/upload/v1686792365/kpzhagkpklakvrktbnoq.jpg",
+                                "twitter:card": "summary",
+                                "twitter:title": "Boomi導入事例 - Cooke Aquaculture - 製造業",
+                                "og:type": "website",
+                                "msvalidate.01": "05C0200D175FBBC2CF6B0CE82E3322FB",
+                                "og:title": "Boomi導入事例 - Cooke Aquaculture - 製造業",
+                                "csrf-param": "authenticity_token",
+                                "og:description": "Cooke Acuaculture社はBoomiのiPaaSとマスターデータ管理製品を利用して、Snowflakeへデータを投入、自社の物流の効率化などを行いました。",
+                                "twitter:image": "https://images.folloze.com/image/upload/v1686792365/kpzhagkpklakvrktbnoq.jpg",
+                                "viewport": "initial-scale=1, width=device-width",
+                                "twitter:description": "Cooke Acuaculture社はBoomiのiPaaSとマスターデータ管理製品を利用して、Snowflakeへデータを投入、自社の物流の効率化などを行いました。",
+                                "csrf-token": "XDuaGdsnUAFrRO73UhghCSkyIk/i/Oeir27DaqASNjWeN9uDVbwp4hRzQlzf/a+YKYKiHkvGRRaFgAdCBVXO+A==",
+                                "og:url": "https://resources.boomi.com/ja-resource-center/導入事例/boomi-ipaas-usecase-cooke-aquaculture"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://images.folloze.com/image/upload/v1686792365/kpzhagkpklakvrktbnoq.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "業界別導入事例｜生産管理・原価管理システムのアミック",
+                    "htmlTitle": "<b>業界</b>別<b>導入事例</b>｜生産管理・原価管理システムのアミック",
+                    "link": "https://www.ammic.co.jp/product/casework/",
+                    "displayLink": "www.ammic.co.jp",
+                    "snippet": "数々の導入実績の中から、業界別に代表的な事例をご紹介いたします。 バッチプロセス系 事例紹介. 医薬品、化粧品、化学薬品、加工食品製造業など.",
+                    "htmlSnippet": "数々の<b>導入</b>実績の中から、<b>業界</b>別に代表的な<b>事例</b>をご紹介いたします。 バッチプロセス系 <b>事例</b>紹介. 医薬品、化粧品、化学薬品、加工食品製造<b>業</b>など.",
+                    "cacheId": "fvuJaEHv4RUJ",
+                    "formattedUrl": "https://www.ammic.co.jp/product/casework/",
+                    "htmlFormattedUrl": "https://www.ammic.co.jp/product/casework/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSHTeEgdU6T64k0IJUaorb4uxz4Fg9sABv2iuekhOgz-s7snBXw_TV6A",
+                                "width": "230",
+                                "height": "98"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, user-scalable=no",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.ammic.co.jp/product/casework/file/27/ca_p02.jpg"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 業界 導入事例",
+                        "totalResults": "52100000",
+                        "searchTerms": "業界 導入事例",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 業界 導入事例",
+                        "totalResults": "52100000",
+                        "searchTerms": "業界 導入事例",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 業界 導入事例",
+                        "totalResults": "52100000",
+                        "searchTerms": "業界 導入事例",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.199877,
+                "formattedSearchTime": "0.20",
+                "totalResults": "52100000",
+                "formattedTotalResults": "52,100,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例 | 物流業界向けマテハンサイト | 搬送システム | つばき ...",
+                    "htmlTitle": "<b>導入事例</b> | 物流<b>業界</b>向けマテハンサイト | 搬送システム | つばき ...",
+                    "link": "https://www.tsubakimoto.jp/materials-handling/distribution/application/",
+                    "displayLink": "www.tsubakimoto.jp",
+                    "snippet": "124の仕分間口を持つソータの導入で、作業時間の短縮、ミスの大幅改善に繋がりました。更に59間口を増設し、出荷物量・店舗増に対応しました。 増設工事動画 事例詳細 ...",
+                    "htmlSnippet": "124の仕分間口を持つソータの<b>導入</b>で、作業時間の短縮、ミスの大幅改善に繋がりました。更に59間口を増設し、出荷物量・店舗増に対応しました。 増設工事動画 <b>事例</b>詳細&nbsp;...",
+                    "cacheId": "a4EEPxZof6wJ",
+                    "formattedUrl": "https://www.tsubakimoto.jp/materials-handling/distribution/application/",
+                    "htmlFormattedUrl": "https://www.tsubakimoto.jp/materials-handling/distribution/application/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrtxp7-p0Ln2D4RvxmYqVPSBT_tG7xfWz8b18gR-S0ByGz8nxbwYo_pkyF",
+                                "width": "281",
+                                "height": "179"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "twitter:card": "summary",
+                                "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.tsubakimoto.jp/fileadmin/matehan_application_ja/images/hamakyorex-fukui/case-hamakyo-fukui-top.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例 | NECネクサソリューションズ",
+                    "htmlTitle": "<b>導入事例</b> | NECネクサソリューションズ",
+                    "link": "https://www.nec-nexs.com/solution/case/",
+                    "displayLink": "www.nec-nexs.com",
+                    "snippet": "ピックアップ導入事例. NECは、AI、5G、生体認証などの最先端ICTにより、社会や産業のDXを推進します。",
+                    "htmlSnippet": "ピックアップ<b>導入事例</b>. NECは、AI、5G、生体認証などの最先端ICTにより、社会や産業のDXを推進します。",
+                    "cacheId": "74-BxEJ7vJkJ",
+                    "formattedUrl": "https://www.nec-nexs.com/solution/case/",
+                    "htmlFormattedUrl": "https://www.nec-nexs.com/solution/case/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSaDV32-eFYiivW7cqWkWhtVEzsaWAr_3RYZ7BP4XiWlQhkcQVyAIL9YfY",
+                                "width": "367",
+                                "height": "137"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.nec-nexs.com/loacl/img/ogp_img.jpg",
+                                "og:type": "website",
+                                "og:site_name": "NECネクサソリューションズ",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "導入事例 | NECネクサソリューションズ",
+                                "og:url": "https://www.nec-nexs.com/solution/case/",
+                                "og:description": "NECネクサソリューションズは、お客様の変革を具現化させ、共に未来を創るサービスインテグレーターです。コンサルティングから運用に至る様々なサービスをワンストップで提供しています。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.nec-nexs.com/solution/case/img/index-mainvisual_sp.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例 | クラウドサイン",
+                    "htmlTitle": "<b>導入事例</b> | クラウドサイン",
+                    "link": "https://www.cloudsign.jp/case/",
+                    "displayLink": "www.cloudsign.jp",
+                    "snippet": "契約書から人事関連書類まで、押印が必要な書類の6割を電子化。更にグループ10社に導入拡大へ。 · 秘密保持契約書 · 雇用契約書 · 基本契約書 · 誓約書 · 1000名以上 · 卸売業・ ...",
+                    "htmlSnippet": "契約書から人事関連書類まで、押印が必要な書類の6割を電子化。更にグループ10社に<b>導入</b>拡大へ。 &middot; 秘密保持契約書 &middot; 雇用契約書 &middot; 基本契約書 &middot; 誓約書 &middot; 1000名以上 &middot; 卸売<b>業</b>・&nbsp;...",
+                    "cacheId": "OhwLHjmhq1QJ",
+                    "formattedUrl": "https://www.cloudsign.jp/case/",
+                    "htmlFormattedUrl": "https://www.cloudsign.jp/case/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqdHXNxQqCVT70OUs_f7JhTzKRvK8AEm2fHejvX7zAoGE8X9QJc0tc7ps",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "BreadcrumbList": [
+                            {}
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.cloudsign.jp/wp-content/uploads/2023/06/ogp.webp",
+                                "og:type": "website",
+                                "og:image:width": "1200",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "導入事例 | クラウドサイン",
+                                "og:site_name": "クラウドサイン | 国内シェアNo.1の電子契約サービス",
+                                "og:title": "導入事例 | クラウドサイン",
+                                "og:image:height": "630",
+                                "og:image:secure_url": "https://www.cloudsign.jp/wp-content/uploads/2023/06/ogp.webp",
+                                "twitter:image": "https://www.cloudsign.jp/wp-content/uploads/2023/06/ogp.webp",
+                                "url": "https://www.cloudsign.jp/case/",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:locale": "ja_JP",
+                                "position": "1",
+                                "og:url": "https://www.cloudsign.jp/case/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.cloudsign.jp/wp-content/uploads/2023/06/ogp.webp"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "食品業界 - 導入事例 - eBASE株式会社",
+                    "htmlTitle": "食品<b>業界</b> - <b>導入事例</b> - eBASE株式会社",
+                    "link": "https://www.ebase.co.jp/case/index.html",
+                    "displayLink": "www.ebase.co.jp",
+                    "snippet": "赤城乳業様 導入事例のご紹介. eBASEjr.DriveからFOODSeBASECloudへ移行。商品規格書データをクラウド環境で一元管理し、運用負荷の軽減や操作性の改善を実現。",
+                    "htmlSnippet": "赤城乳業様 <b>導入事例</b>のご紹介. eBASEjr.DriveからFOODSeBASECloudへ移行。商品規格書データをクラウド環境で一元管理し、運用負荷の軽減や操作性の改善を実現。",
+                    "cacheId": "6J3_pfWY1E4J",
+                    "formattedUrl": "https://www.ebase.co.jp/case/index.html",
+                    "htmlFormattedUrl": "https://www.ebase.co.jp/case/index.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZSPxOdR9p6qS5Pt5IWaT2oFCR9PHnNhRwYm-b-x3Q_zxh6pyGCAmLZY4H",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.ebase.co.jp/images/ogp/ogp_basic_001.png",
+                                "copyright": "Copyright(C) eBASE CO.,LTD. All Rights Reserved",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "eBASE株式会社 - 食品・日雑・グリーン調達など業界向けデータベース",
+                                "og:site_name": "eBASE株式会社",
+                                "twitter:site": "@ebase_official",
+                                "author": "eBASE株式会社",
+                                "twitter:description": "データベースソフトウェア「eBASE」を食品・日用雑貨をはじめ様々な業界に特化したソリューションとしてご提供しております。DX,CMS,MDM,PIM,PDM,DAMに関する製品開発や食材えびす,日雑えびす等の情報交換サービス,e食なび,e食ちらし,e食カタログ,e住なび,も運営しています。",
+                                "og:title": "eBASE株式会社 - 食品・日雑・グリーン調達など業界向けデータベース",
+                                "og:description": "データベースソフトウェア「eBASE」を食品・日用雑貨をはじめ様々な業界に特化したソリューションとしてご提供しております。DX,CMS,MDM,PIM,PDM,DAMに関する製品開発や食材えびす,日雑えびす等の情報交換サービス,e食なび,e食ちらし,e食カタログ,e住なび,も運営しています。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.ebase.co.jp/images/ogp/ogp_basic_001.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例 | NTTコミュニケーションズ 法人のお客さま",
+                    "htmlTitle": "<b>導入事例</b> | NTTコミュニケーションズ 法人のお客さま",
+                    "link": "https://www.ntt.com/business/case-studies.html",
+                    "displayLink": "www.ntt.com",
+                    "snippet": "キーワード · 5G · AI · IoT · VPN・閉域網 · Wi-Fi · オフィスリンク · セキュリティ・ MDM · 一次産業",
+                    "htmlSnippet": "キーワード &middot; 5G &middot; AI &middot; IoT &middot; VPN・閉域網 &middot; Wi-Fi &middot; オフィスリンク &middot; セキュリティ・ MDM &middot; 一次産業",
+                    "cacheId": "oPgZthVufQ8J",
+                    "formattedUrl": "https://www.ntt.com/business/case-studies.html",
+                    "htmlFormattedUrl": "https://www.ntt.com/business/case-studies.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZ-iT6dc3cIeffO56hehasoQBsvYlu-T_tUGFyznZWha-GIH90gkBRaVE",
+                                "width": "369",
+                                "height": "137"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+                                "title": "導入事例 | NTTコミュニケーションズ 法人のお客さま"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.ntt.com/content/dam/nttcom/hq/jp/business/case-studies/img/slider/img_casestudy_main_sojitz.jpg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "name": "導入事例",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "業種・業界で基幹業務システム導入事例を探す | 大塚商会のERPナビ",
+                    "htmlTitle": "業種・<b>業界</b>で基幹業務システム<b>導入事例</b>を探す | 大塚商会のERPナビ",
+                    "link": "https://www.otsuka-shokai.co.jp/erpnavi/casestudies/category/",
+                    "displayLink": "www.otsuka-shokai.co.jp",
+                    "snippet": "基幹業務システム導入事例＜業種・業界で探す＞. お客様が実際にITを導入して活用されている成功導入事例を、業種・業界別にご紹介します。",
+                    "htmlSnippet": "基幹業務システム<b>導入事例</b>＜業種・<b>業界</b>で探す＞. お客様が実際にITを導入して活用されている成功<b>導入事例</b>を、業種・<b>業界</b>別にご紹介します。",
+                    "cacheId": "gFxDxrOrRLYJ",
+                    "formattedUrl": "https://www.otsuka-shokai.co.jp/erpnavi/casestudies/category/",
+                    "htmlFormattedUrl": "https://www.otsuka-shokai.co.jp/erpnavi/casestudies/category/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3BrxsIssHXdkbl5BlhFMru6aAeUwYRUqRcVu_hJUNiQ8cZv23PvkWDw",
+                                "width": "130",
+                                "height": "100"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,viewport-fit=cover",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://sp.otsuka-shokai.co.jp/erpnavi/common/img/header-button-menu.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ERPナビ トップ",
+                                "name": "ERPナビ トップ",
+                                "position": "1"
+                            },
+                            {
+                                "item": "成功導入事例",
+                                "name": "成功導入事例",
+                                "position": "2"
+                            },
+                            {
+                                "item": "業種・業界で探す",
+                                "name": "業種・業界で探す",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "動画マニュアルの導入事例集 | 動画を使った新人教育研修の進め方や ...",
+                    "htmlTitle": "動画マニュアルの<b>導入事例</b>集 | 動画を使った新人教育研修の進め方や ...",
+                    "link": "https://tebiki.jp/case/index.html",
+                    "displayLink": "tebiki.jp",
+                    "snippet": "様々な業界／業種の導入事例です。 導入前の課題から導入後の効果まで、tebikiの具体的な活用方法をご紹介します。 トーヨーケム株式会社 ...",
+                    "htmlSnippet": "様々な<b>業界</b>／業種の<b>導入事例</b>です。 導入前の課題から導入後の効果まで、tebikiの具体的な活用方法をご紹介します。 トーヨーケム株式会社&nbsp;...",
+                    "cacheId": "mR2WYOvFWI0J",
+                    "formattedUrl": "https://tebiki.jp/case/index.html",
+                    "htmlFormattedUrl": "https://tebiki.jp/case/index.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-KmiqpS85b0UKfKvKqvbfogaeecVMc7nXJqNqHxVUolQThj2LwfA4X2sD",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://tebiki.jp/images/ogp.png",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "tebiki | 業務トレーニングが劇的に短くなる、かんたん動画マニュアル作成共有ツール",
+                                "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                                "og:title": "動画マニュアルの導入事例集 | 動画を使った新人教育研修の進め方や実際のメリット、各社の動画の作り方をご紹介。",
+                                "og:url": "https://tebiki.jp/case/index.html",
+                                "og:description": "動画マニュアルソフトtebikiを実際に導入したお客様の声をご紹介。日常業務や社内研修、新人教育で動画を活用したときのメリットや工夫した動画の作成方法など。小売／サービス／製造／物流／営業／コールセンター／食品など、幅広い業界でのツール活用事例集。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://tebiki.jp/images/ogp.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "金融業（資産管理）：セキュリティEDR・MDRソリューション導入 ...",
+                    "htmlTitle": "金融<b>業</b>（資産管理）：セキュリティEDR・MDRソリューション<b>導入</b> ...",
+                    "link": "https://syscomgs.com/ja/client-story-finance-edr-mdr/",
+                    "displayLink": "syscomgs.com",
+                    "snippet": "2021/08/06 ... 従来型のアンチウイルスは導入していたが、サイバー攻撃を受けてウイルス感染 ... 金融業（資産管理）：セキュリティEDR・MDRソリューション導入事例.",
+                    "htmlSnippet": "2021/08/06 <b>...</b> 従来型のアンチウイルスは導入していたが、サイバー攻撃を受けてウイルス感染 ... 金融<b>業</b>（資産管理）：セキュリティEDR・MDRソリューション<b>導入事例</b>.",
+                    "cacheId": "AGgz7Q3YjF8J",
+                    "formattedUrl": "https://syscomgs.com/ja/client-story-finance-edr-mdr/",
+                    "htmlFormattedUrl": "https://syscomgs.com/ja/client-story-finance-edr-mdr/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQydFiWTZgpbJA5iece64ekIbfV-CqaSEomqo1BLg_PQHnm9D_fl7ehmV4V",
+                                "width": "300",
+                                "height": "168"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://syscomgs.com/wp-content/uploads/2021/07/SYSCOM_finance_casestudy.png",
+                                "og:type": "article",
+                                "article:published_time": "2021-08-06T09:30:44+00:00",
+                                "og:image:width": "1920",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "SYSCOM GLOBAL SOLUTIONS",
+                                "author": "Syscom Editor",
+                                "og:title": "金融業（資産管理）：セキュリティEDR・MDRソリューション導入事例 - SYSCOM GLOBAL SOLUTIONS アメリカ　北米　グローバル",
+                                "og:image:height": "1080",
+                                "twitter:label1": "執筆者",
+                                "twitter:label2": "推定読み取り時間",
+                                "og:image:type": "image/png",
+                                "og:description": "従来型のアンチウイルスは導入していたが、サイバー攻撃を受けてウイルス感染してしまった場合の内部対策は既存環境においては実施しておらず、EDRは同社のグローバルセキュリティポリシーの高優先度の事項の一つとして位置付けられていたこともあり、EDRソリューションの導入が必須となった。",
+                                "twitter:data1": "Syscom Editor",
+                                "twitter:data2": "1分",
+                                "fb:app_id": "1621007798158687",
+                                "article:modified_time": "2021-11-03T19:30:47+00:00",
+                                "viewport": "initial-scale=1, width=device-width",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://syscomgs.com/ja/client-story-finance-edr-mdr/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://syscomgs.com/wp-content/uploads/2021/07/SYSCOM_finance_casestudy.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例 - Calsoft Systems | ERP, Network, IT Services",
+                    "htmlTitle": "<b>導入事例</b> - Calsoft Systems | ERP, Network, IT Services",
+                    "link": "https://www.calsoft.com/ja/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/",
+                    "displayLink": "www.calsoft.com",
+                    "snippet": "業界：プロセス製造業. ラムコERPからMicrosoft Dynamics 365 Finance & SCMへのシステムアップグレードでは、カルソフトシステムズとMOCが業務効率をいかに高めたか ...",
+                    "htmlSnippet": "<b>業界</b>：プロセス製造<b>業</b>. ラムコERPからMicrosoft Dynamics 365 Finance &amp; SCMへのシステムアップグレードでは、カルソフトシステムズとMOCが業務効率をいかに高めたか&nbsp;...",
+                    "cacheId": "GSNXs8GPhSIJ",
+                    "formattedUrl": "https://www.calsoft.com/ja/導入事例/",
+                    "htmlFormattedUrl": "https://www.calsoft.com/ja/<b>導入事例</b>/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStQYmmyBcwH3b6fWAq9K3PvltW9yxNrdJu8U25sJtLmv-cSro6cnAysdI",
+                                "width": "259",
+                                "height": "195"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "Calsoft Systems | ERP, Network, IT Services",
+                                "og:title": "導入事例",
+                                "twitter:label1": "Est. reading time",
+                                "msapplication-tileimage": "https://www.calsoft.com/wp-content/uploads/2019/04/icon-transparent-background.png",
+                                "article:publisher": "https://www.facebook.com/Calsoft-Systems-164978823615515/",
+                                "twitter:data1": "5 minutes",
+                                "twitter:site": "@CalsoftSystems",
+                                "article:modified_time": "2022-09-29T01:35:26+00:00",
+                                "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.calsoft.com/ja/導入事例/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.calsoft.com/wp-content/uploads/2020/09/calsoft-sanrio-case-study-1024x772.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例 | 産業用PC・工業用PCなら【ロジテック カスタム ...",
+                    "htmlTitle": "<b>導入事例</b> | 産業用PC・工業用PCなら【ロジテック カスタム ...",
+                    "link": "https://pc.logitec.co.jp/cases.html",
+                    "displayLink": "pc.logitec.co.jp",
+                    "snippet": "ロジテックの産業用PCであるカスタムコントローラの導入事例をご紹介。産業用・業務用PCの問題を解決。",
+                    "htmlSnippet": "ロジテックの産業用PCであるカスタムコントローラの<b>導入事例</b>をご紹介。産業用・業務用PCの問題を解決。",
+                    "cacheId": "s0mxYJB4920J",
+                    "formattedUrl": "https://pc.logitec.co.jp/cases.html",
+                    "htmlFormattedUrl": "https://pc.logitec.co.jp/cases.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSa1f5AuNPCoVvnRJwvwhnoanZS4U3JHSwbjUteX1BtwpdyNWLK97rfxl4",
+                                "width": "200",
+                                "height": "184"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "copyright": "Logitec INA Solutions Co,Ltd. All rights reserved.",
+                                "viewport": "width=1250",
+                                "author": "ロジテック　カスタムコントローラ",
+                                "title": "産業用、業務用PCの製造/システム導入支援｜ロジテック　カスタムコントローラ",
+                                "classification": "産業用、業務用PCの製造",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://pc.logitec.co.jp/img/top_case_14.png"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 業界 導入事例",
+                        "totalResults": "52100000",
+                        "searchTerms": "業界 導入事例",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 業界 導入事例",
+                        "totalResults": "52100000",
+                        "searchTerms": "業界 導入事例",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 業界 導入事例",
+                        "totalResults": "52100000",
+                        "searchTerms": "業界 導入事例",
+                        "count": 10,
+                        "startIndex": 31,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.163706,
+                "formattedSearchTime": "0.16",
+                "totalResults": "52100000",
+                "formattedTotalResults": "52,100,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "お客様事例 : Fujitsu Japan",
+                    "htmlTitle": "お客様<b>事例</b> : Fujitsu Japan",
+                    "link": "https://www2.fujitsu.com/jp/customer-stories-index/",
+                    "displayLink": "www2.fujitsu.com",
+                    "snippet": "富士通がお客様のビジネス全体にどう貢献したかの事例をご覧いただけます。 ... 優れた信頼性と拡張性がDXを加速 インフラとサポートの透明性も導入の決め手に.",
+                    "htmlSnippet": "富士通がお客様のビジネス全体にどう貢献したかの<b>事例</b>をご覧いただけます。 ... 優れた信頼性と拡張性がDXを加速 インフラとサポートの透明性も<b>導入</b>の決め手に.",
+                    "cacheId": "cGVLBtWlOywJ",
+                    "formattedUrl": "https://www2.fujitsu.com/jp/customer-stories-index/",
+                    "htmlFormattedUrl": "https://www2.fujitsu.com/jp/customer-stories-index/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9yJYH0hQj0YfTCRyNeXQD8T2_GEeFgoK5lNk0gu8nj-6jumW-t8eMUc4i",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "twitter:title": "Customer stories",
+                                "twitter:card": "summary_large_image",
+                                "twitter:site": "https://www2.fujitsu.com/global/customer-stories-index/",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "At Fujitsu we create strong partnerships with our customers, enabling us to work together to find innovative IT services & solutions. Our case studies reveal how we help your businesses sector wide.",
+                                "og:title": "お客様事例",
+                                "og:url": "https://www2.fujitsu.com/jp/customer-stories-index/",
+                                "og:description": "富士通は、お客様と強力なパートナーシップを築き、協力しながら革新的なITサービスとソリューションを実装することを得意としています。富士通がお客様のビジネス全体にどう貢献したかの事例をご覧いただけます。",
+                                "twitter:image": "https://www2.fujitsu.com/-/media/Project/Fujitsu/Fujitsu-Portal/customer-stories-index/customer-stories-index.jpg?rev=bcc67d9997324c62add2a2eb34a2d29e"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www2.fujitsu.com/-/media/Project/Fujitsu/Fujitsu-Portal/customer-stories/img-cs-jp/cs-daiken-20230425-685x458.png?rev=71b1390fb29b4e1d8207349ea9ba28a2&hash=6A9EE34A6434E8834B97D5040F1ED38D"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "お客様事例",
+                                "name": "お客様事例",
+                                "position": "1"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例（小売業）| Instacart | Scandit",
+                    "htmlTitle": "<b>導入事例</b>（小売<b>業</b>）| Instacart | Scandit",
+                    "link": "https://www.scandit.com/jp/resources/case-studies/instacart/",
+                    "displayLink": "www.scandit.com",
+                    "snippet": "アメリカとカナダの4000以上の都市に所在する15000軒にて、1000種類を超えるスマートフォンにScandit搭載アプリを用いてセルフレジを実現したInstacart社の導入事例を ...",
+                    "htmlSnippet": "アメリカとカナダの4000以上の都市に所在する15000軒にて、1000種類を超えるスマートフォンにScandit搭載アプリを用いてセルフレジを実現したInstacart社の<b>導入事例</b>を&nbsp;...",
+                    "cacheId": "mkpl3W_D3r4J",
+                    "formattedUrl": "https://www.scandit.com/jp/resources/case-studies/instacart/",
+                    "htmlFormattedUrl": "https://www.scandit.com/jp/resources/case-studies/instacart/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQq-oQ_wMAkJsak6uHH21N0BpjTbS0qVNRJS7kbNSzGk5vAzbGOjnIuoCoJ",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.scandit.com/wp-content/uploads/2018/10/Instacart-Page-2-Header-compressor.jpg",
+                                "og:type": "article",
+                                "og:image:width": "1440",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "スキャンディット",
+                                "og:title": "導入事例（小売業）| Instacart | Scandit",
+                                "og:image:height": "960",
+                                "og:image:type": "image/jpeg",
+                                "og:description": "アメリカとカナダの4,000以上の都市に所在する15,000軒にて、1,000種類を超えるスマートフォンにScandit搭載アプリを用いてセルフレジを実現したInstacart社の導入事例をご紹介します。",
+                                "article:publisher": "https://www.facebook.com/Scandit-127334280653842/",
+                                "twitter:site": "@Scandit",
+                                "og:locale:alternate": "en_US",
+                                "article:modified_time": "2023-04-24T23:04:47+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.scandit.com/jp/resources/case-studies/instacart/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.scandit.com/wp-content/uploads/2018/10/Instacart-Page-2-Header-compressor.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【業界別】IIot新時代におけるSCADA活用方法と導入事例",
+                    "htmlTitle": "【<b>業界</b>別】IIot新時代におけるSCADA活用方法と<b>導入事例</b>",
+                    "link": "https://www.scada-magazine.com/case/",
+                    "displayLink": "www.scada-magazine.com",
+                    "snippet": "2019/12/19 ... 【業界別】SCADAの活用方法と導入事例. SCADA（Supervisory Control and Data Acquisition・監視制御システム）は、Iot技術を使って見えないところで ...",
+                    "htmlSnippet": "2019/12/19 <b>...</b> 【<b>業界</b>別】SCADAの活用方法と<b>導入事例</b>. SCADA（Supervisory Control and Data Acquisition・監視制御システム）は、Iot技術を使って見えないところで&nbsp;...",
+                    "cacheId": "xjQTIZHOuTcJ",
+                    "formattedUrl": "https://www.scada-magazine.com/case/",
+                    "htmlFormattedUrl": "https://www.scada-magazine.com/case/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQds6JK9aiz2FaoJZU2BKmQFYtTslvwSSyfAo4baeTfNPe_Eam0woKl35uu",
+                                "width": "267",
+                                "height": "189"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:type": "article",
+                                "og:site_name": "SCADA MAGAZINE",
+                                "viewport": "width=device-width",
+                                "og:title": "【業界別】IIot新時代におけるSCADA活用方法と導入事例",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.scada-magazine.com/case/",
+                                "og:description": "産業用IoT（IIoT）の活用が広がりを見せている中、IIoTソフトウェアプラットフォームの役割を果たす監視制御システム（SCADA・スキャダ）を解説。産業・製造業・食品などの工場やビル管理での活用、インフラ・交通系や電力・エネルギーなど多岐にわたるSCADA活用方法と導入事例を業界別に紹介します。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "webpage": [
+                            {
+                                "datemodified": "2021年5月24日",
+                                "datepublished": "2019年12月19日"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.scada-magazine.com/wp/wp-content/themes/SE016/img/bnr_on.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "SCADA MAGAZINE",
+                                "name": "SCADA MAGAZINE",
+                                "position": "1"
+                            },
+                            {
+                                "name": "【業界別】SCADAの活用方法と導入事例",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例｜クラウドMAM市場シェアNo.1 - moconavi（モコナビ）",
+                    "htmlTitle": "<b>導入事例</b>｜クラウドMAM市場シェアNo.1 - moconavi（モコナビ）",
+                    "link": "https://moconavi.jp/casestudy/",
+                    "displayLink": "moconavi.jp",
+                    "snippet": "moconavi（モコナビ）の導入事例を紹介します。moconavi（モコナビ）は業界・規模を問わず、1000社・30万ID以上の方々にご利用いただいています。",
+                    "htmlSnippet": "moconavi（モコナビ）の<b>導入事例</b>を紹介します。moconavi（モコナビ）は<b>業界</b>・規模を問わず、1000社・30万ID以上の方々にご利用いただいています。",
+                    "cacheId": "DozisTQZtsQJ",
+                    "formattedUrl": "https://moconavi.jp/casestudy/",
+                    "htmlFormattedUrl": "https://moconavi.jp/casestudy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLcLV2AkdIK_vMvgmocTNy4778kpffEXjekp5lmHT076icDpcukn3xsDI",
+                                "width": "272",
+                                "height": "185"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://moconavi.jp/wp-content/themes/rcm-w/assets/images/casestudy/img_top.svg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【食品業界の方必見！】資料・導入事例まとめ - LINE WORKS",
+                    "htmlTitle": "【食品<b>業界</b>の方必見！】資料・<b>導入事例</b>まとめ - LINE WORKS",
+                    "link": "https://line.worksmobile.com/jp/blog/use-cases/food_industry/",
+                    "displayLink": "line.worksmobile.com",
+                    "snippet": "LINE WORKSを導入しようか検討されている方、他社での事例を知りたい方はぜひご活用ください。 資料ダウンロード（無料）. □食品製造業界向け事例集. 和菓子、 ...",
+                    "htmlSnippet": "LINE WORKSを<b>導入</b>しようか検討されている方、他社での<b>事例</b>を知りたい方はぜひご活用ください。 資料ダウンロード（無料）. □食品製造<b>業界</b>向け<b>事例</b>集. 和菓子、&nbsp;...",
+                    "cacheId": "WBRfRyZvjAcJ",
+                    "formattedUrl": "https://line.worksmobile.com/jp/blog/use-cases/food_industry/",
+                    "htmlFormattedUrl": "https://line.worksmobile.com/jp/blog/use-cases/food_industry/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAZ_hPzIDOaSW2rahN16fcalQjjHBWkM6kAjTb-bABzGAVAKOXeHzo6E49",
+                                "width": "292",
+                                "height": "173"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://line.worksmobile.com/jp/wp-content/uploads/2023/03/AdobeStock_446267883.jpeg",
+                                "og:type": "article",
+                                "og:image:width": "5028",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "LINE WORKS",
+                                "og:title": "【食品業界の方必見！】資料・導入事例まとめ - LINE WORKS",
+                                "og:image:height": "2984",
+                                "twitter:label1": "Est. reading time",
+                                "og:image:type": "image/jpeg",
+                                "msapplication-tileimage": "https://line.worksmobile.com/jp/wp-content/uploads/2019/11/cropped-login_512x512-1-270x270.png",
+                                "og:description": "  食品業界向けにLINE WORKSに関する様々な資料・導入事例などをピックアップ！ LINE",
+                                "twitter:data1": "3分",
+                                "article:modified_time": "2023-06-13T18:39:40+00:00",
+                                "viewport": "user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://line.worksmobile.com/jp/blog/use-cases/food_industry/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://line.worksmobile.com/jp/wp-content/uploads/2023/03/AdobeStock_446267883.jpeg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "物流業界向けAI導入・活用事例17選！倉庫・配送・検品管理向け ...",
+                    "htmlTitle": "物流<b>業界</b>向けAI<b>導入</b>・活用<b>事例</b>17選！倉庫・配送・検品管理向け ...",
+                    "link": "https://ai-market.jp/industry/logistics_ai/",
+                    "displayLink": "ai-market.jp",
+                    "snippet": "2023/01/02 ... ... 最適化、需要予測に応じた人員配置などで課題解決や効率化を図ろうという動きが始まっています。物流業界でのAIシステム導入事例について紹介します。",
+                    "htmlSnippet": "2023/01/02 <b>...</b> ... 最適化、需要予測に応じた人員配置などで課題解決や効率化を図ろうという動きが始まっています。物流<b>業界</b>でのAIシステム<b>導入事例</b>について紹介します。",
+                    "cacheId": "gUXCVAVm1YcJ",
+                    "formattedUrl": "https://ai-market.jp/industry/logistics_ai/",
+                    "htmlFormattedUrl": "https://ai-market.jp/industry/logistics_ai/",
+                    "pagemap": {
+                        "hcard": [
+                            {
+                                "fn": "AI Market 編集部"
+                            },
+                            {
+                                "fn": "AI Market 編集部",
+                                "photo": "https://ai-market.jp/wp-content/uploads/2021/02/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-2021-02-20-19.51.51-1.png",
+                                "url": "https://ai-market.jp/author/aimarket/"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ86WY6AVqCJzmdid6BEm9oT9G7CzBpMPJgBU6bw-TDn8OffG5sIfDrha3C",
+                                "width": "304",
+                                "height": "166"
+                            }
+                        ],
+                        "person": [
+                            {
+                                "image": "https://ai-market.jp/wp-content/uploads/2021/02/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-2021-02-20-19.51.51-1.png",
+                                "name": "AI Market 編集部",
+                                "description": "AI Marketの編集部コンテンツです。AI Market編集部は、AI（人工知能）に関する技術や、製品・サービスなどの紹介記事を提供しています。ご興味をお...",
+                                "url": "AI Market 編集部"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://ai-market.jp/wp-content/uploads/2021/03/pixta_55297259_M.jpg",
+                                "og:type": "article",
+                                "article:published_time": "2021-03-24T07:41:07+00:00",
+                                "og:image:width": "2000",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "AI Market",
+                                "author": "AI Market 編集部",
+                                "og:title": "物流業界向けAI導入・活用事例17選！倉庫・配送・検品管理向けサービス紹介【2023年最新版】 - AI Market",
+                                "og:image:height": "1090",
+                                "twitter:label1": "執筆者",
+                                "twitter:label2": "推定読み取り時間",
+                                "og:image:type": "image/jpeg",
+                                "msapplication-tileimage": "https://ai-market.jp/wp-content/uploads/2021/01/cropped-Group-246-270x270.png",
+                                "og:description": "2020年初頭から全世界に波及した感染症の拡大は物流業界にも大きな影響を与えました。宅配市場は急激に成長を続けています。物流業界でさまざまな問題が起きていますが、AI（人工知能）をはじめとしたテクノロジーを活用して、倉庫業務の省力化、配送ルートの最適化、需要予測に応じた人員配置などで課題解決や効率化を図ろうという動きが始まっています。物流業界でのAIシステム導入事例について紹介します。",
+                                "twitter:creator": "@AIMarket_jp",
+                                "article:publisher": "https://www.facebook.com/AIMarket.fb",
+                                "twitter:data1": "AI Market 編集部",
+                                "twitter:data2": "7分",
+                                "twitter:site": "@AIMarket_jp",
+                                "article:modified_time": "2023-01-02T04:57:02+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://ai-market.jp/industry/logistics_ai/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://ai-market.jp/wp-content/uploads/2021/03/pixta_55297259_M.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例 | タレントマネジメントシステムならタレントパレット",
+                    "htmlTitle": "<b>導入事例</b> | タレントマネジメントシステムならタレントパレット",
+                    "link": "https://www.talent-palette.com/case/",
+                    "displayLink": "www.talent-palette.com",
+                    "snippet": "本ページでは、タレントパレットの導入企業様のインタビューをご紹介いたします。 ... 事例記事一覧; 導入企業イベントレポート; 業界/用途別の活用方法 ...",
+                    "htmlSnippet": "本ページでは、タレントパレットの<b>導入</b>企業様のインタビューをご紹介いたします。 ... <b>事例</b>記事一覧; <b>導入</b>企業イベントレポート; <b>業界</b>/用途別の活用方法&nbsp;...",
+                    "cacheId": "-DdfsAbEjQcJ",
+                    "formattedUrl": "https://www.talent-palette.com/case/",
+                    "htmlFormattedUrl": "https://www.talent-palette.com/case/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvQQk_TS_QB26m2oPgF9U8uczWqrmr4PWRMcoVRotoXBENDB1jjxfoWQ4R",
+                                "width": "311",
+                                "height": "162"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://tp-img.imgix.net/s/og/img_og.jpg",
+                                "og:type": "website",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "導入事例  | タレントマネジメントシステムならタレントパレット",
+                                "og:url": "https://www.Talent-Palette.com/case/",
+                                "og:description": "「タレントパレット」は経営・人事部門・現場マネージャー層への人材データの活用を支援し、科学的人事を実現するタレントマネジメントシステムです。本ページでは、タレントパレットの導入企業様のインタビューをご紹介いたします。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://tp-img.imgix.net/s/og/img_og.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "活用・導入事例｜産業用ロボット｜製品情報｜エプソン",
+                    "htmlTitle": "活用・<b>導入事例</b>｜産業用ロボット｜製品情報｜エプソン",
+                    "link": "https://www.epson.jp/products/robots/example/",
+                    "displayLink": "www.epson.jp",
+                    "snippet": "導入事例. 産業用ロボットを使いこなす、さまざまな事例をご紹介します。 お申込み完了後、導入事例ダウンロードのURLをご案内いたします。",
+                    "htmlSnippet": "<b>導入事例</b>. 産業用ロボットを使いこなす、さまざまな事例をご紹介します。 お申込み完了後、<b>導入事例</b>ダウンロードのURLをご案内いたします。",
+                    "cacheId": "wi74J4MjzGIJ",
+                    "formattedUrl": "https://www.epson.jp/products/robots/example/",
+                    "htmlFormattedUrl": "https://www.epson.jp/products/robots/example/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ8l0V_YlxbJ68Pkhf2oS99g9Pzwx69TQgKhmzOrXd7ymu2HprXieHj7c",
+                                "width": "200",
+                                "height": "200"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.epson.jp/products/robots/assets/images/ogp_img.jpg",
+                                "og:type": "article",
+                                "twitter:card": "summary",
+                                "og:site_name": "エプソン",
+                                "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=2,user-scalable=yes",
+                                "og:title": "活用・導入事例｜産業用ロボット｜製品情報｜エプソン",
+                                "og:url": "https://www.epson.jp/products/robots/example/",
+                                "og:description": "エプソンロボットラインアップ。スカラロボット、6軸ロボット、画像処理、力覚センサーなど。日本国内のEPSON（エプソン）製品に関する公式サイト。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.epson.jp/products/robots/assets/images/ogp_img.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "業界別！AI活用地図 8業界36業種の導入事例が一目でわかる（本橋 ...",
+                    "htmlTitle": "<b>業界</b>別！AI活用地図 8<b>業界</b>36業種の<b>導入事例</b>が一目でわかる（本橋 ...",
+                    "link": "https://www.shoeisha.co.jp/book/detail/9784798157795",
+                    "displayLink": "www.shoeisha.co.jp",
+                    "snippet": "AIの導入事例が一目でわかる！ 金融、流通、製造、インフラなど全8業界36業種のAIの導入について、どのような分野で活用されているのか、 どのような事項との親和性が ...",
+                    "htmlSnippet": "AIの<b>導入事例</b>が一目でわかる！ 金融、流通、製造、インフラなど全8<b>業界</b>36業種のAIの導入について、どのような分野で活用されているのか、 どのような事項との親和性が&nbsp;...",
+                    "cacheId": "t-Z9eVG2PaYJ",
+                    "formattedUrl": "https://www.shoeisha.co.jp/book/detail/9784798157795",
+                    "htmlFormattedUrl": "https://www.shoeisha.co.jp/book/detail/9784798157795",
+                    "pagemap": {
+                        "offer": [
+                            {
+                                "pricecurrency": "YEN",
+                                "price": "2,640"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-m_P7CkeB_UV4Kr8LQus0Ge-e_lHOgpN2Pjx3rF0EWftAwjPoURyxkyo",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "book": [
+                            {
+                                "author": "本橋 洋介",
+                                "bookformat": "http://schema.org/Paperback",
+                                "isbn": "9784798157795",
+                                "name": "業界別！AI活用地図 8業界36業種の導入事例が一目でわかる",
+                                "datepublished": "2019-11-06",
+                                "numberofpages": "216"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.shoeisha.co.jp/static/splus/1859/meta/9784798157795.jpg",
+                                "cxenseparse:sho-large-category": "ビジネス･一般書",
+                                "cxenseparse:sho-author": "本橋洋介",
+                                "twitter:card": "summary",
+                                "og:site_name": "Shoeisha",
+                                "cxenseparse:sho-publish-m": "201911",
+                                "twitter:creator": "@shoeisha",
+                                "og:description": "AIの導入事例が一目でわかる！\r\n\r\n金融、流通、製造、インフラなど全8業界36業種のAIの導入について、どのような分野で活用されているのか、\r\nどのような事項との親和性が高いかといったことについて鳥瞰図で解説。豊富な実例も掲載しており、ビジネスのアイデア創出にも応用できます。\r\nまた、「こんな応用可能性があります」にとどめず、実際に実装したりトライアルをするときのノウハウも掲載しています。\r\n本書掲載の鳥瞰図はご購入者特典としてDLして活用できます。\r\n\r\n【本書に掲載されている業種】\r\n〈流通〉\r\nコンビニ・スーパーマーケット\r\n百貨店業\r\n郵便・運送業\r\n\r\n〈製造〉\r\n自動車製造業\r\n食品・飲料製造業\r\n化粧品・日用品製造業\r\n金属製造業・化学工業\r\n重工業\r\n建設業\r\n繊維工業（アパレル）\r\n電機製造業\r\n\r\n〈金融〉\r\n銀行業\r\n保険業\r\n証",
+                                "twitter:site": "@shoeisha",
+                                "cxenseparse:sho-release-y": "2019",
+                                "fb:admins": "100002509171990",
+                                "cxenseparse:recs:publishtime": "2019-11-06T00:00:00+09:00",
+                                "cxenseparse:sho-isbn": "9784798157795",
+                                "cxenseparse:sho-publish-y": "2019",
+                                "cxenseparse:sho-keyword": "本橋 洋介",
+                                "og:type": "book",
+                                "cxenseparse:sho-release-m": "201911",
+                                "cxenseparse:pageclass": "article",
+                                "og:title": "業界別！AI活用地図  8業界36業種の導入事例が一目でわかる | 翔泳社",
+                                "cxenseparse:sho-articlepath": "book/detail/9784798157795",
+                                "cxenseparse:sho-release-timestamp": "1572966000",
+                                "cxenseparse:sho-release-d": "20191106",
+                                "cxenseparse:sho-publish-d": "20191106",
+                                "cxenseparse:recs:image": "https://www.seshop.com/static/images/product/22966/L.png",
+                                "cxenseparse:sho-title": "業界別！AI活用地図  8業界36業種の導入事例が一目でわかる",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "cxenseparse:sho-category": "経営・マーケティング",
+                                "cxenseparse:sho-price": "2400",
+                                "cxenseparse:sho-genre": "ビジネス_専門",
+                                "og:url": "https://www.shoeisha.co.jp/book/detail/9784798157795",
+                                "cxenseparse:sho-author-id-name": "16299:本橋 洋介",
+                                "format-detection": "telephone=no",
+                                "cxenseparse:sho-book-format": "paper"
+                            }
+                        ],
+                        "imagegallery": [
+                            {
+                                "image": "https://www.seshop.com/static/images/product/22966/L.png",
+                                "contenturl": "https://www.shoeisha.co.jp/static/splus/1859/book/image/md_9784798157795.in03.jpg"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.shoeisha.co.jp/static/splus/1859/meta/9784798157795.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【2021年版】BizRobo! RPA導入事例と効果・効能 | RPA ...",
+                    "htmlTitle": "【2021年版】BizRobo! RPA<b>導入事例</b>と効果・効能 | RPA ...",
+                    "link": "https://rpa-technologies.com/insights/rpacases_2019/",
+                    "displayLink": "rpa-technologies.com",
+                    "snippet": "2020/04/01 ... RPAツール「BizRobo!」導入による活用効果と効能について事例を交えながらみていきましょう。 生命保険業界―年間約5万時間の余力を創出 ...",
+                    "htmlSnippet": "2020/04/01 <b>...</b> RPAツール「BizRobo!」<b>導入</b>による活用効果と効能について<b>事例</b>を交えながらみていきましょう。 生命保険<b>業界</b>―年間約5万時間の余力を創出&nbsp;...",
+                    "cacheId": "j9O_AIWNCvYJ",
+                    "formattedUrl": "https://rpa-technologies.com/insights/rpacases_2019/",
+                    "htmlFormattedUrl": "https://rpa-technologies.com/insights/rpacases_2019/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZHM_oyl0A8OBpCqC91DCGQhbixjI9bz5u-gMW-A4IPmdkRVC86nN5dg9s",
+                                "width": "276",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://rpa-technologies.com/wp-content/uploads/2020/04/KeyVisual_210113.png",
+                                "og:type": "article",
+                                "article:published_time": "2020-04-01T21:20:54Z",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "【2021年版】BizRobo! RPA導入事例と効果・効能 | RPA テクノロジーズ株式会社「BizRobo!（ビズロボ）」",
+                                "og:site_name": "RPA テクノロジーズ株式会社",
+                                "twitter:domain": "rpa_tech",
+                                "og:title": "【2021年版】BizRobo! RPA導入事例と効果・効能 | RPA テクノロジーズ株式会社「BizRobo!（ビズロボ）」",
+                                "og:description": "「RPA」とは、ロボットによる業務自動化の取り組みを表す言葉で「デジタルレイバー（Digital Labor）」や「仮想知的労働者」とも呼ばれています。現在RPAはさまざまな分野で活用され始めており、金融はじめ商社、サービス、流通、小売、製造、不動産、自治体など多方面でその効果・効能が発揮されホワイトカラーの業務自動化を拡大し注目を集めています。",
+                                "twitter:image": "https://rpa-technologies.com/wp-content/uploads/2020/04/KeyVisual_210113.png",
+                                "twitter:site": "@RPA_Tech",
+                                "article:modified_time": "2023-02-20T18:41:53Z",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "twitter:description": "「RPA」とは、ロボットによる業務自動化の取り組みを表す言葉で「デジタルレイバー（Digital Labor）」や「仮想知的労働者」とも呼ばれています。現在RPAはさまざまな分野で活用され始めており、金融はじめ商社、サービス、流通、小売、製造、不動産、自治体など多方面でその効果・効能が発揮されホワイトカラーの業務自動化を拡大し注目を集めています。",
+                                "og:url": "https://rpa-technologies.com/insights/rpacases_2019/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://rpa-technologies.com/wp-content/uploads/2020/04/KeyVisual_210113.png"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

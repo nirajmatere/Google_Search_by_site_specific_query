@@ -1,0 +1,11 @@
+[[['会社 データ収集'],'https://ai-market.jp/services/data-collection_company/','2023/01/02 ... AI学習用のデータ収集代行会社プロ厳選おすすめ8社！【2023年最新版】 · 3.1 Datatang株式会社 · 3.2 株式会社コネクティル · 3.3 株式会社APTO · 3.4 株式 ...'],
+[['会社 データ収集'],'https://www.keywalker.co.jp/','ビッグデータ収集・分析のプロフェッショナル集団です。ネット上の様々なデータを自動取得するWEBクローラーを開発してます。データクレンジング、グラフによる ...'],
+[['会社 データ収集'],'https://www.uluru-bpo.jp/work/data_collection','データ収集とは？ インターネットに散在する情報を収集し、お客さまのニーズに合わせた形式に整理します。専任スタッフが目視確認、手動で収集するので、クローラーで ...'],
+[['会社 データ収集'],'https://www.hitachi-systems.com/solution/s0311/iotservice/','IoTデータ収集サービスは、お客さまの要件にあわせてパブリッククラウド／プライベートクラウドのどちらにも対応し、センサーやIoTデバイスからのデータ収集・蓄積・可視化 ...'],
+[['会社 データ収集'],'https://azuremarketplace.microsoft.com/ar-sa/marketplace/consulting-services/1599701004146.simple_iot_gateway?country=JP&filters=automotive&page=2','IoTデータ収集サービス：約2カ月の実装. 株式会社 日立システムズ. IoTを始めるにあたっての一連の機能（収集・蓄積・ ...'],
+[['会社 データ収集'],'https://www.kk-icon.co.jp/product/leader/leader.html','生産工場の現場管理用表示器及び物流システム用LED表示器専門メーカー、株式会社アイコンのホームページです。工程データ収集ソフト -Leader（リーダー）について掲載 ...'],
+[['会社 データ収集'],'https://www.tatsuzin.info/products_dt/','データ収集・配信. 申告・会計業務に必要な顧問先の資料の収集・収集状況の管理 ... 株式会社NTTデータ. Copyright © NTT DATA Corporation ページ内に記載されている ...'],
+[['会社 データ収集'],'https://www.niigataseiki.co.jp/products/jan4975846010369/','新潟精機株式会社は、レベルニック（デジタル水準器）・ピンゲージ・リングゲージなどの測定工具、エアパーツなどのDIY製品の製造・販売メーカーです。'],
+[['会社 データ収集'],'https://www.nidec.com/jp/nidec-advancetechnology/product/search/category/B104/M112/S100/NRCJ-DEWE2-A/','... データロガー. データ収集ハードウエアシリーズ. 取扱い会社名：ニデックアドバンステクノロジー株式会社. ＜ハードウエア＞ DEWETRON(デュートロン)社製のデータ収集 ...'],
+[['会社 データ収集'],'https://www.kri-inc.jp/tech/result/07-04.html','フィールドデータを取得・解析するためには、センシング、データ通信、データ収集・処理、およびデータ解析が必要です。KRIではすべてを一貫してお手伝いします。 具体的に ...'],
+]

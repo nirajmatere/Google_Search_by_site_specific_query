@@ -1,0 +1,1617 @@
+{
+    "query": "業界 営業リスト作成",
+    "links": [
+        [
+            "https://www.aspicjapan.org/asu/article/17599",
+            "https://keywordmap.jp/academy/sales-list/",
+            "https://usonar.co.jp/blog/5920.html",
+            "https://boxil.jp/mag/a7879/",
+            "https://product-senses.mazrica.com/senseslab/business-efficiency/how-to-make-sales-lead-list",
+            "https://prtimes.jp/main/html/rd/p/000000005.000085091.html",
+            "https://hrog.net/knowhow/development/91967/",
+            "https://meibo-engine.com/column/how-to-make-sales-lists.html",
+            "https://imitsu.jp/list/sales-agent/sales-list/",
+            "https://meibo-engine.com/column/tool-6.html"
+        ],
+        [
+            "https://izanami.link/lowplice",
+            "https://lister.jp/chaos_map/",
+            "https://izanami.link/",
+            "https://dream-up.co.jp/sakusaku/media/sales-list-creation-tool/",
+            "https://www.forcas.com/",
+            "https://www.creditsafe.com/jp/ja/blog/business/saleslist.html",
+            "https://www.innovation.co.jp/urumo/telemarketing20140606/",
+            "https://kobot.jp/kobot_lab/temporary-staffing/list-creation/",
+            "https://skj.bizocean.jp/",
+            "https://musubu.in/"
+        ],
+        [
+            "https://list.hrog.net/",
+            "https://www.sunbridge.com/blog/column/how_to_create_sales_list/",
+            "https://www.tdb.co.jp/lineup/listup/index.html",
+            "https://eigyou-dx.jp/dx-column/eigyo-list",
+            "https://www.lancers.jp/work/search/business/list",
+            "https://www.tsr-net.co.jp/service/listup/index.html",
+            "http://sales-list.info/",
+            "https://media.salesnow.jp/2023-how-to-create-sales-list-the-free-ossme-tool-that-can-create-a-business-list/",
+            "https://www.aidma-hd.jp/dxmedia/matching_dx/3787/",
+            "https://kakutoku.jp/lp/client/column/sales-efficiency/978/"
+        ]
+    ],
+    "snapshot_ymd": "D2023-06-23",
+    "snapshot_timestamp": "D2023-06-23T01-27-27",
+    "responses": [
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "request": [
+                    {
+                        "title": "Google Custom Search - 業界 営業リスト作成",
+                        "totalResults": "9870000",
+                        "searchTerms": "業界 営業リスト作成",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 業界 営業リスト作成",
+                        "totalResults": "9870000",
+                        "searchTerms": "業界 営業リスト作成",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.407603,
+                "formattedSearchTime": "0.41",
+                "totalResults": "9870000",
+                "formattedTotalResults": "9,870,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "営業リスト作成ツール14選。5つの目的別に選び方を紹介｜アスピック",
+                    "htmlTitle": "<b>営業リスト作成</b>ツール14選。5つの目的別に選び方を紹介｜アスピック",
+                    "link": "https://www.aspicjapan.org/asu/article/17599",
+                    "displayLink": "www.aspicjapan.org",
+                    "snippet": "2023/02/24 ... 10,000を超える事業内容キーワードや「売上高増加率」、「工場数」など、ほかのツールにはない絞り込みができます。 2.特定の業界や用途に絞ってリスト ...",
+                    "htmlSnippet": "2023/02/24 <b>...</b> 10,000を超える事業内容キーワードや「売上高増加率」、「工場数」など、ほかのツールにはない絞り込みができます。 2.特定の<b>業界</b>や用途に絞って<b>リスト</b>&nbsp;...",
+                    "cacheId": "OfNR8mt4WHkJ",
+                    "formattedUrl": "https://www.aspicjapan.org/asu/article/17599",
+                    "htmlFormattedUrl": "https://www.aspicjapan.org/asu/article/17599",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwkIwgXfv1vv95B_olHMTm6pg1Na66tFE7yjebi3SxGspD3ADNvPjkoiI",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.aspicjapan.org/asu/cms/wp-content/uploads/2022/10/elt001.jpg",
+                                "og:type": "article",
+                                "og:image:width": "1400",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "アスピック｜SaaS比較・活用サイト",
+                                "og:title": "営業リスト作成ツール14選。5つの目的別に選び方を紹介 | アスピック｜SaaS比較・活用サイト",
+                                "og:image:height": "933",
+                                "twitter:label1": "推定読み取り時間",
+                                "og:image:type": "image/jpeg",
+                                "og:description": "アポ獲得数を伸ばすために、営業リストの数を増やしたい方へ。成約やアポにつながりやすい効果的な営業リストを自動作成してくれる営業リスト作成ツールのタイプや選び方、タイプ別のおすすめをご紹介します。",
+                                "twitter:data1": "25分",
+                                "article:modified_time": "2023-05-26T02:27:32+00:00",
+                                "viewport": "width=device-width,initial-scale=1.0,user-scalable=no",
+                                "twitter:description": "アポ獲得数を伸ばすために、営業リストの数を増やしたい方へ。成約やアポにつながりやすい効果的な営業リストを自動作成してくれる営業リスト作成ツールのタイプや選び方、タイプ別のおすすめをご紹介します。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.aspicjapan.org/asu/article/17599",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.aspicjapan.org/asu/cms/wp-content/uploads/2022/10/elt001.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "営業リストを徹底解剖！作成方法からおすすめツール5選、事例まで ...",
+                    "htmlTitle": "<b>営業リスト</b>を徹底解剖！<b>作成</b>方法からおすすめツール5選、事例まで ...",
+                    "link": "https://keywordmap.jp/academy/sales-list/",
+                    "displayLink": "keywordmap.jp",
+                    "snippet": "2020/07/17 ... 簡潔に以下4点にまとめております。 最新情報が記載されている; データの精度が高い; ターゲット業界・企業がリストに多く含まれている ...",
+                    "htmlSnippet": "2020/07/17 <b>...</b> 簡潔に以下4点にまとめております。 最新情報が記載されている; データの精度が高い; ターゲット<b>業界</b>・企業が<b>リスト</b>に多く含まれている&nbsp;...",
+                    "cacheId": "YTJr0HCl2RAJ",
+                    "formattedUrl": "https://keywordmap.jp/academy/sales-list/",
+                    "htmlFormattedUrl": "https://keywordmap.jp/academy/sales-list/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEj8LLAzlHTnplTGG_u30VVQr3VWakbjhuE07MtUoc9qsyaW14UuohJEc",
+                                "width": "305",
+                                "height": "165"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://keywordmap.jp/academy/wp-content/uploads/2020/07/tmb43-20200717091542.png",
+                                "og:type": "article",
+                                "og:image:width": "920",
+                                "article:published_time": "2020-07-17T06:59:10+00:00",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "営業リストを徹底解剖！作成方法からおすすめツール5選、事例まで公開",
+                                "og:site_name": "Keywordmap Academy｜Webマーケティングを１から学べるサイト",
+                                "twitter:domain": "keywordmap.jp",
+                                "og:title": "営業リストを徹底解剖！作成方法からおすすめツール5選、事例まで公開",
+                                "og:image:height": "500",
+                                "og:description": "営業リストとは読んで字のごとく、テレアポを行ったり、新規営業開拓のために必要な「営業をするためのリスト」です。営業リストとして必要な情報としては以下などが挙げられます。企業名・代表者名・電話番号・担当部署・担当者名・メールアドレスetc…",
+                                "og:image:secure_url": "https://keywordmap.jp/academy/wp-content/uploads/2020/07/tmb43-20200717091542.png",
+                                "article:publisher": "https://www.facebook.com/keywordmap/",
+                                "twitter:image": "https://keywordmap.jp/academy/wp-content/uploads/2020/07/tmb43-20200717091542.png",
+                                "article:tag": "btobマーケティング",
+                                "twitter:site": "@keywordmap",
+                                "article:modified_time": "2023-01-06T11:54:06+00:00",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "twitter:description": "営業リストとは読んで字のごとく、テレアポを行ったり、新規営業開拓のために必要な「営業をするためのリスト」です。営業リストとして必要な情報としては以下などが挙げられます。企業名・代表者名・電話番号・担当部署・担当者名・メールアドレスetc…",
+                                "og:locale": "ja_JP",
+                                "fb:admins": "2158781341017522",
+                                "og:url": "https://keywordmap.jp/academy/sales-list/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://keywordmap.jp/academy/wp-content/uploads/2020/07/tmb43-20200717091542.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【5分でわかる】営業リストの作り方とは？ 事前準備からターゲット ...",
+                    "htmlTitle": "【5分でわかる】<b>営業リスト</b>の作り方とは？ 事前準備からターゲット ...",
+                    "link": "https://usonar.co.jp/blog/5920.html",
+                    "displayLink": "usonar.co.jp",
+                    "snippet": "業界や売上額、資本金の額や従業員数など、どのような企業が営業先になるかが明らかになっていないと、リスト作成時に不要な顧客が混ざったり、必要な顧客を取りこぼし ...",
+                    "htmlSnippet": "<b>業界</b>や売上額、資本金の額や従業員数など、どのような企業が<b>営業</b>先になるかが明らかになっていないと、<b>リスト作成</b>時に不要な顧客が混ざったり、必要な顧客を取りこぼし&nbsp;...",
+                    "cacheId": "wXMoHfgiYyIJ",
+                    "formattedUrl": "https://usonar.co.jp/blog/5920.html",
+                    "htmlFormattedUrl": "https://usonar.co.jp/blog/5920.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ288Fo1NILGF_viq5fBD552BRgNEZvivzCX23L2XNAduRqueqhO5bDESw",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://usonar.co.jp/blog/assets_c/2022/12/53747_001_iStock-1428421517-thumb-500x333-10567.jpg",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "【5分でわかる】営業リストの作り方とは？ 事前準備からターゲットリスト作成の注意点を解説 | ブログ | ユーソナー",
+                                "og:type": "article",
+                                "og:site_name": "【ユーソナー】データベースマーケティング、名寄せ・データクレンジング",
+                                "og:title": "【5分でわかる】営業リストの作り方とは？ 事前準備からターゲットリスト作成の注意点を解説 | ブログ | ユーソナー",
+                                "og:description": "営業リストはターゲットの企業情報リストであり、効率的な営業活動を行うために重要です。本記事では、営業リスト作成において課題を感じている企業担当者の方に向けて、営業活動を成功に導くために必要となる営業リストの効率的な作り方や、作成の注意点などを解説しています。",
+                                "twitter:image": "https://usonar.co.jp/blog/assets_c/2022/12/53747_001_iStock-1428421517-thumb-500x333-10567.jpg",
+                                "twitter:site": "@Landscape_IR",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "twitter:description": "営業リストはターゲットの企業情報リストであり、効率的な営業活動を行うために重要です。本記事では、営業リスト作成において課題を感じている企業担当者の方に向けて、営業活動を成功に導くために必要となる営業リストの効率的な作り方や、作成の注意点などを解説しています。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://usonar.co.jp/blog/5920.html",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://usonar.co.jp/blog/assets_c/2022/12/53747_001_iStock-1428421517-thumb-500x333-10567.jpg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "トップ",
+                                "name": "トップ",
+                                "position": "1"
+                            },
+                            {
+                                "item": "ブログ",
+                                "name": "ブログ",
+                                "position": "2"
+                            },
+                            {
+                                "name": "【5分でわかる】営業リストの作り方とは？ 事前準備からターゲットリスト作成の注意点を解説",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "営業リスト作成ツールおすすめ比較20選！選び方を目的別に紹介 ...",
+                    "htmlTitle": "<b>営業リスト作成</b>ツールおすすめ比較20選！選び方を目的別に紹介 ...",
+                    "link": "https://boxil.jp/mag/a7879/",
+                    "displayLink": "boxil.jp",
+                    "snippet": "2022/12/09 ... 営業主体で売上を作っている場合、営業先リストがないと営業案件が枯渇します。また、ホームページを調べたり、紙の業界紙から転記したりして営業リストを ...",
+                    "htmlSnippet": "2022/12/09 <b>...</b> <b>営業</b>主体で売上を作っている場合、<b>営業</b>先<b>リスト</b>がないと<b>営業</b>案件が枯渇します。また、ホームページを調べたり、紙の<b>業界</b>紙から転記したりして<b>営業リスト</b>を&nbsp;...",
+                    "cacheId": "UmoSASabq94J",
+                    "formattedUrl": "https://boxil.jp/mag/a7879/",
+                    "htmlFormattedUrl": "https://boxil.jp/mag/a7879/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRXiPG8ZfTTgX7hafCgskZ1Wa_xbmS_eaheyM5JNepUYwKWUKKsf3Sbyc7",
+                                "width": "310",
+                                "height": "162"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "msapplication-tilecolor": "#fff",
+                                "og:image": "https://store.boxil.jp/media/images/uploads/media_image/media_image/52037/large.jpg",
+                                "theme-color": "#ffffff",
+                                "twitter:title": "営業リスト作成ツールおすすめ比較20選！選び方を目的別に紹介 | BOXIL Magazine",
+                                "og:type": "article",
+                                "article:section": "営業リスト作成ツール",
+                                "article:published_time": "2023-06-08T11:17:55+09:00",
+                                "msapplication-square70x70logo": "/mag/site-tile-70x70.png",
+                                "og:site_name": "【ボクシル】法人向けITサービスの比較・検索・資料請求サイト",
+                                "og:title": "営業リスト作成ツールおすすめ比較20選！選び方を目的別に紹介 | BOXIL Magazine",
+                                "msapplication-wide310x150logo": "/mag/site-tile-310x150.png",
+                                "csrf-param": "authenticity_token",
+                                "msapplication-square150x150logo": "/mag/site-tile-150x150.png",
+                                "twitter:image": "https://store.boxil.jp/media/images/uploads/media_image/media_image/52037/large.jpg",
+                                "viewport": "width=device-width, user-scalable=no",
+                                "msapplication-square310x310logo": "/mag/site-tile-310x310.png",
+                                "csrf-token": "gzAVl3f9lRqA+hoPjKxzTwftjkM/2RriITli8flRebORxun1TFPqrNFZSYC8Ehwdl3GlGulYsOPN8VnAYtirkA==",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://boxil.jp/mag/a7879/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://store.boxil.jp/media/images/uploads/media_image/media_image/52037/large.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "営業リスト作成ツール8選！優れた営業リストに共通する3つの条件 ...",
+                    "htmlTitle": "<b>営業リスト作成</b>ツール8選！優れた営業リストに共通する3つの条件 ...",
+                    "link": "https://product-senses.mazrica.com/senseslab/business-efficiency/how-to-make-sales-lead-list",
+                    "displayLink": "product-senses.mazrica.com",
+                    "snippet": "2023/06/04 ... 業界最多の130媒体を収録している上に、各媒体より毎週リスト収集を行っているため、リストが枯渇する心配もありません。 また、企業データをたくさん収集 ...",
+                    "htmlSnippet": "2023/06/04 <b>...</b> <b>業界</b>最多の130媒体を収録している上に、各媒体より毎週<b>リスト</b>収集を行っているため、<b>リスト</b>が枯渇する心配もありません。 また、企業データをたくさん収集&nbsp;...",
+                    "cacheId": "PoXJIMlKZR8J",
+                    "formattedUrl": "https://product-senses.mazrica.com/senseslab/.../how-to-make-sales-lead-list",
+                    "htmlFormattedUrl": "https://product-senses.mazrica.com/senseslab/.../how-to-make-sales-lead-list",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRM1MwyJbww10_hC5lG5iOauAw-vfUFBoEkg8yAhIf2f2xTpPL4pfJDHU15",
+                                "width": "255",
+                                "height": "198"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://product-senses.mazrica.com/wp-content/uploads/2019/07/95347f4980669e98437b19ef8f1c41e5-e1579239800830.png",
+                                "og:type": "article",
+                                "og:image:width": "1500",
+                                "article:published_time": "2020-07-30T10:53:12+00:00",
+                                "twitter:card": "summary",
+                                "twitter:title": "営業リスト作成ツール8選！優れた営業リストに共通する3つの条件と活用方法解説",
+                                "og:site_name": "Senses | 成果を自動的に最大化するSFA",
+                                "og:title": "営業リスト作成ツール8選！優れた営業リストに共通する3つの条件と活用方法解説",
+                                "og:image:height": "1163",
+                                "msapplication-tileimage": "https://product-senses.mazrica.com/wp-content/uploads/2018/05/cropped-mstile-144x144-270x270.png",
+                                "og:description": "営業パーソンに必需品の営業リスト。 単純な業務の効率化だけではなく、売り上げ倍増を実現させる営業リストの作り方についてご紹介していきたいと思います。質の高い営業リストで、効率的な営業活動を行いましょう！",
+                                "twitter:creator": "@senses_mazrica",
+                                "og:image:secure_url": "https://product-senses.mazrica.com/wp-content/uploads/2019/07/95347f4980669e98437b19ef8f1c41e5-e1579239800830.png",
+                                "twitter:image": "https://product-senses.mazrica.com/wp-content/uploads/2019/07/95347f4980669e98437b19ef8f1c41e5-e1579239800830.png",
+                                "twitter:site": "@senses_mazrica",
+                                "article:modified_time": "2023-06-04T09:02:40+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "営業パーソンに必需品の営業リスト。 単純な業務の効率化だけではなく、売り上げ倍増を実現させる営業リストの作り方についてご紹介していきたいと思います。質の高い営業リストで、効率的な営業活動を行いましょう！",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://product-senses.mazrica.com/senseslab/business-efficiency/how-to-make-sales-lead-list"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://product-senses.mazrica.com/wp-content/uploads/2019/07/95347f4980669e98437b19ef8f1c41e5-e1579239800830.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "営業リストのListersが「営業リスト業界カオスマップ」を公開 ...",
+                    "htmlTitle": "<b>営業リスト</b>のListersが「<b>営業リスト業界</b>カオスマップ」を公開 ...",
+                    "link": "https://prtimes.jp/main/html/rd/p/000000005.000085091.html",
+                    "displayLink": "prtimes.jp",
+                    "snippet": "2022/02/02 ... そこで今回、カオスマップを作成・公開いたしました。 □カテゴリー分類【マーケットプレイス】 営業リストを売買できるマーケットプレイス型のサイト。",
+                    "htmlSnippet": "2022/02/02 <b>...</b> そこで今回、カオスマップを<b>作成</b>・公開いたしました。 □カテゴリー分類【マーケットプレイス】 <b>営業リスト</b>を売買できるマーケットプレイス型のサイト。",
+                    "cacheId": "z6CQK19Q5I8J",
+                    "formattedUrl": "https://prtimes.jp/main/html/rd/p/000000005.000085091.html",
+                    "htmlFormattedUrl": "https://prtimes.jp/main/html/rd/p/000000005.000085091.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUQnKq1_Axg2coWy0Y_XaR_dJjCC7WsYuGUwF26CL3Sw7oXgxxl5TNm30",
+                                "width": "300",
+                                "height": "168"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://prtimes.jp/i/85091/5/resize/d85091-5-29c867dbbbf5fa030f34-0.png"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://prtimes.jp/i/85091/5/ogp/d85091-5-29c867dbbbf5fa030f34-0.png",
+                                "og:type": "article",
+                                "twitter:title": "営業リストのListersが「営業リスト業界カオスマップ」を公開",
+                                "twitter:card": "summary_large_image",
+                                "thumbnail": "https://prtimes.jp/i/85091/5/resize/d85091-5-29c867dbbbf5fa030f34-0.png",
+                                "og:site_name": "プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES",
+                                "twitter:url": "https://prtimes.jp/main/html/rd/p/000000005.000085091.html",
+                                "og:title": "営業リストのListersが「営業リスト業界カオスマップ」を公開",
+                                "twitter:image:height": "300",
+                                "release:company": "株式会社Lister",
+                                "release:image": "https://prtimes.jp/i/85091/5/resize/d85091-5-29c867dbbbf5fa030f34-0.png",
+                                "release:date": "2022年2月2日 10時00分",
+                                "og:description": "株式会社Listerのプレスリリース（2022年2月2日 10時00分）営業リストのListersが[営業リスト業界カオスマップ]を公開",
+                                "twitter:creator": "@PRTIMES_JP",
+                                "twitter:image": "https://prtimes.jp/i/85091/5/ogp/d85091-5-29c867dbbbf5fa030f34-0.png",
+                                "fb:app_id": "1495958567142613",
+                                "twitter:site": "@PRTIMES_JP",
+                                "twitter:image:width": "300",
+                                "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                                "twitter:description": "株式会社Listerのプレスリリース（2022年2月2日 10時00分）営業リストのListersが[営業リスト業界カオスマップ]を公開",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://prtimes.jp/main/html/rd/p/000000005.000085091.html"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://prcdn.freetls.fastly.net/release_image/85091/5/85091-5-0295a378cbb4785f4089a3074a563f95-1612x905.png?format=jpeg&auto=webp&quality=85%2C65&width=1950&height=1350&fit=bounds"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "営業リスト作成のおすすめツール9選。無料での作り方や管理項目 ...",
+                    "htmlTitle": "<b>営業リスト作成</b>のおすすめツール9選。無料での作り方や管理項目 ...",
+                    "link": "https://hrog.net/knowhow/development/91967/",
+                    "displayLink": "hrog.net",
+                    "snippet": "2020/01/21 ... 営業リストを購入・作成。おすすめ有料ツール9選. HRog（フロッグ）リスト：人材業界シェアNo.1の”求人”企業リストサービス. 特徴＜1＞確度の高い企業 ...",
+                    "htmlSnippet": "2020/01/21 <b>...</b> <b>営業リスト</b>を購入・<b>作成</b>。おすすめ有料ツール9選. HRog（フロッグ）<b>リスト</b>：人材<b>業界</b>シェアNo.1の”求人”企業<b>リスト</b>サービス. 特徴＜1＞確度の高い企業&nbsp;...",
+                    "cacheId": "d9TdX4ViH1YJ",
+                    "formattedUrl": "https://hrog.net/knowhow/development/91967/",
+                    "htmlFormattedUrl": "https://hrog.net/knowhow/development/91967/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYIUFJR5kakC8WixBRn6lS3NMT9ohodIwqGcxOS-yXfZKGaivBzu-0bSjs",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://hrog.net/wp-content/uploads/2023/01/image10-1024x538.png"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://hrog.net/wp-content/uploads/2023/01/image10.png",
+                                "theme-color": "#2aae9d",
+                                "og:image:width": "1200",
+                                "article:published_time": "2020-01-20T19:00:24+00:00",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "HRog | 人材業界の一歩先を照らすメディア",
+                                "msapplication-tileimage": "https://hrog.net/wp-content/uploads/2019/08/cropped-favicon-270x270.png",
+                                "og:description": "「営業リストの作成方法を知りたい」という営業担当者もいるのではないでしょうか。営業リストの作り方には、無料ツールを使う方法と、有料の営業リストを購入する方法があります。今回は、テンプレートなどを使った営業リストの作り方やおすすめの営業リスト作成ツール、営業成果を上げるリストの活用方法などをご紹介します。",
+                                "twitter:creator": "@HRognet",
+                                "og:image:secure_url": "https://hrog.net/wp-content/uploads/2023/01/image10.png",
+                                "twitter:image": "https://hrog.net/wp-content/uploads/2023/01/image10.png",
+                                "twitter:site": "@HRognet",
+                                "article:modified_time": "2023-01-11T19:21:38+00:00",
+                                "msapplication-tilecolor": "#2aae9d",
+                                "og:type": "article",
+                                "twitter:title": "営業リスト作成のおすすめツール9選。無料での作り方や管理項目についても紹介 | HRog | 人材業界の一歩先を照らすメディア",
+                                "thumbnail": "https://hrog.net/wp-content/uploads/2023/01/image10-1024x538.png",
+                                "handheldfriendly": "True",
+                                "og:title": "営業リスト作成のおすすめツール9選。無料での作り方や管理項目についても紹介 | HRog | 人材業界の一歩先を照らすメディア",
+                                "og:image:height": "630",
+                                "fb:app_id": "109485039543953",
+                                "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                                "twitter:description": "「営業リストの作成方法を知りたい」という営業担当者もいるのではないでしょうか。営業リストの作り方には、無料ツールを使う方法と、有料の営業リストを購入する方法があります。今回は、テンプレートなどを使った営業リストの作り方やおすすめの営業リスト作成ツール、営業成果を上げるリストの活用方法などをご紹介します。",
+                                "mobileoptimized": "320",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://hrog.net/knowhow/development/91967/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://hrog.net/wp-content/uploads/2023/01/image10-1024x538.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "item": "営業ノウハウ",
+                                "name": "営業ノウハウ",
+                                "position": "2"
+                            },
+                            {
+                                "item": "見込み顧客開拓",
+                                "name": "見込み顧客開拓",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "営業リストを作成する5つのコツ！優れた営業リストに共通すること ...",
+                    "htmlTitle": "<b>営業リスト</b>を<b>作成</b>する5つのコツ！優れた<b>営業リスト</b>に共通すること ...",
+                    "link": "https://meibo-engine.com/column/how-to-make-sales-lists.html",
+                    "displayLink": "meibo-engine.com",
+                    "snippet": "2022/02/27 ... 法人名簿エンジンの主な特徴は以下の通りです。 業界別・目的別の法人名簿・法人リスト; 0.1円/件から購入が可能; 最短1営業日でデータを ...",
+                    "htmlSnippet": "2022/02/27 <b>...</b> 法人名簿エンジンの主な特徴は以下の通りです。 <b>業界</b>別・目的別の法人名簿・法人<b>リスト</b>; 0.1円/件から購入が可能; 最短1<b>営業</b>日でデータを&nbsp;...",
+                    "cacheId": "TF1dmy-KT7EJ",
+                    "formattedUrl": "https://meibo-engine.com/column/how-to-make-sales-lists.html",
+                    "htmlFormattedUrl": "https://meibo-engine.com/column/how-to-make-sales-lists.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTai92yMh59CNRZdI3s1xO_v5yrocdajJ07gc4D3Q-_JZ1rkV-8z0hWGrA",
+                                "width": "262",
+                                "height": "192"
+                            }
+                        ],
+                        "BreadcrumbList": [
+                            {}
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width",
+                                "position": "1",
+                                "msapplication-tileimage": "https://meibo-engine.com/wp-content/uploads/2021/12/cropped-meibo-engine-icon4-1-270x270.png"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://meibo-engine.com/wp-content/uploads/2022/02/how-to-make-sales-lists_eyecatch-660x485.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "営業リスト作成でおすすめの営業代行会社7選【2023年最新版 ...",
+                    "htmlTitle": "<b>営業リスト作成</b>でおすすめの営業代行会社7選【2023年最新版 ...",
+                    "link": "https://imitsu.jp/list/sales-agent/sales-list/",
+                    "displayLink": "imitsu.jp",
+                    "snippet": "リスト作成代行業者に依頼する. 1つ目の方法は「営業代行会社に仕事を依頼し、営業リストを提供してもらう」という方法です。 一般的に営業代行会社は営業活動の代行業 ...",
+                    "htmlSnippet": "<b>リスト作成</b>代行業者に依頼する. 1つ目の方法は「<b>営業</b>代行会社に仕事を依頼し、<b>営業リスト</b>を提供してもらう」という方法です。 一般的に<b>営業</b>代行会社は<b>営業</b>活動の代行<b>業</b>&nbsp;...",
+                    "cacheId": "qjuPF0vSMXYJ",
+                    "formattedUrl": "https://imitsu.jp/list/sales-agent/sales-list/",
+                    "htmlFormattedUrl": "https://imitsu.jp/list/sales-agent/sales-list/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCfGMhYI-hbJ6P0vey1D2w1GffLcYBuHub6Xbma4e_dgkg5PPmH8W8XLXI",
+                                "width": "253",
+                                "height": "199"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://imitsu.jp/img_p/lgc/category_suppliers_content_part/44/22/462244/CZhVmj2O"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://imitsu.jp/img_p/lgc/category_suppliers_content_part/44/22/462244/CZhVmj2O",
+                                "thumbnail": "https://imitsu.jp/img_p/lgc/category_suppliers_content_part/44/22/462244/CZhVmj2O",
+                                "og:type": "website",
+                                "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                                "og:title": "営業リスト作成でおすすめの営業代行会社7選【2023年最新版】｜アイミツ",
+                                "og:url": "https://imitsu.jp/list/sales-agent/sales-list/",
+                                "og:description": "営業リスト作成でおすすめの営業代行会社をご紹介！営業リスト作成に強い営業代行会社探しでお悩みの方はぜひ参考にしてください！"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://cdn-au.onetrust.com/logos/b9ac2f8e-029a-4c2e-8566-c0e6d7d7b8bb/861ad83e-c329-4f3c-a145-e68e01a1379f/7ff2ee09-af71-407e-8c31-c9ed463ed395/%E3%83%AD%E3%82%B4%E7%A9%BA%E7%99%BD.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "営業リスト作成ツール6選！結果につながる営業リストの作成方法を ...",
+                    "htmlTitle": "<b>営業リスト作成</b>ツール6選！結果につながる営業リストの作成方法を ...",
+                    "link": "https://meibo-engine.com/column/tool-6.html",
+                    "displayLink": "meibo-engine.com",
+                    "snippet": "2023/03/22 ... 3.1 常に企業情報が最新である; 3.2 企業の経営状況がわかる; 3.3 自社のターゲットとする企業・業界のリストが入っている. 4 営業リストの作成方法.",
+                    "htmlSnippet": "2023/03/22 <b>...</b> 3.1 常に企業情報が最新である; 3.2 企業の経営状況がわかる; 3.3 自社のターゲットとする企業・<b>業界</b>の<b>リスト</b>が入っている. 4 <b>営業リスト</b>の<b>作成</b>方法.",
+                    "cacheId": "OulHmIgcXvUJ",
+                    "formattedUrl": "https://meibo-engine.com/column/tool-6.html",
+                    "htmlFormattedUrl": "https://meibo-engine.com/column/tool-6.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSTcYAAkNBM3mHRyil3G2HRYxswsorzcYf-BWLssmstvNuvq8ScvnJUWk",
+                                "width": "204",
+                                "height": "247"
+                            }
+                        ],
+                        "BreadcrumbList": [
+                            {}
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width",
+                                "position": "1",
+                                "msapplication-tileimage": "https://meibo-engine.com/wp-content/uploads/2021/12/cropped-meibo-engine-icon4-1-270x270.png"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://meibo-engine.com/wp-content/uploads/2020/08/cytonn-photography-n95VMLxqM2I-unsplash-660x801.jpg"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 業界 営業リスト作成",
+                        "totalResults": "9870000",
+                        "searchTerms": "業界 営業リスト作成",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 業界 営業リスト作成",
+                        "totalResults": "9870000",
+                        "searchTerms": "業界 営業リスト作成",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 業界 営業リスト作成",
+                        "totalResults": "9870000",
+                        "searchTerms": "業界 営業リスト作成",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.19649,
+                "formattedSearchTime": "0.20",
+                "totalResults": "9870000",
+                "formattedTotalResults": "9,870,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "業界最安の営業リスト収集ツール - 営業リスト作成ツール IZANAMI",
+                    "htmlTitle": "<b>業界</b>最安の営業リスト収集ツール - <b>営業リスト作成</b>ツール IZANAMI",
+                    "link": "https://izanami.link/lowplice",
+                    "displayLink": "izanami.link",
+                    "snippet": "営業リスト生成ツールでは業界最安 · 他社リスト作成ツールとの比較 · まずは無料版をお試しください。",
+                    "htmlSnippet": "<b>営業リスト</b>生成ツールでは<b>業界</b>最安 &middot; 他社<b>リスト作成</b>ツールとの比較 &middot; まずは無料版をお試しください。",
+                    "cacheId": "FTexIHOkIn4J",
+                    "formattedUrl": "https://izanami.link/lowplice",
+                    "htmlFormattedUrl": "https://izanami.link/lowplice",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTk-LbfOlDm0FSsGUA6jBujxG4Iy9ja1uITaJleTTh3kSdQswj7BqM_mrO9",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "営業リスト作成ツール　IZANAMI",
+                                "article:modified_time": "2022-06-19T06:19:03+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "業界最安の営業リスト収集ツール",
+                                "og:locale": "ja_JP",
+                                "twitter:label1": "推定読み取り時間",
+                                "og:url": "https://izanami.link/lowplice",
+                                "msapplication-tileimage": "https://izanami.link/wp-content/uploads/2021/10/cropped-favicon-270x270.png",
+                                "twitter:data1": "3分"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://izanami.link/wp-content/uploads/2021/12/free-300x300.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "営業リスト業界カオスマップ | 営業リストを購入・販売できる ...",
+                    "htmlTitle": "<b>営業リスト業界</b>カオスマップ | <b>営業リスト</b>を購入・販売できる ...",
+                    "link": "https://lister.jp/chaos_map/",
+                    "displayLink": "lister.jp",
+                    "snippet": "営業リストのマーケットプレイス「Listers」を運営する株式会社Listerは、「営業リスト業界カオスマップ」を公開しました。 PDFダウンロード. カオスマップ作成の背景.",
+                    "htmlSnippet": "<b>営業リスト</b>のマーケットプレイス「Listers」を運営する株式会社Listerは、「<b>営業リスト業界</b>カオスマップ」を公開しました。 PDFダウンロード. カオスマップ<b>作成</b>の背景.",
+                    "cacheId": "fNTjIEAjz1IJ",
+                    "formattedUrl": "https://lister.jp/chaos_map/",
+                    "htmlFormattedUrl": "https://lister.jp/chaos_map/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStpFLfovh1Ucca2SiMCjk5VOJcdkyTmXUO4LklzoSCcDalyg1_37WZW6Q",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://lister.jp/static/main/ogp.min.9d029dc11c36.png",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "営業リストを購入・販売できるマーケットプレイス Listers",
+                                "og:site_name": "営業リストを購入・販売できるマーケットプレイス Listers",
+                                "viewport": "width=device-width,initial-scale=1.0",
+                                "twitter:description": "Listersは、営業リストを購入・販売できるマーケットプレイスです。他社にはない営業リストがここでなら手に入ります。",
+                                "og:title": "営業リストを購入・販売できるマーケットプレイス Listers",
+                                "og:local": "ja_JP",
+                                "og:url": "https://lister.jp/chaos_map/",
+                                "og:description": "Listersは、営業リストを購入・販売できるマーケットプレイスです。他社にはない営業リストがここでなら手に入ります。",
+                                "twitter:image": "https://lister.jp/static/main/ogp.min.9d029dc11c36.png"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://lister.jp/static/main/ogp.min.9d029dc11c36.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "IZANAMI リスト収集,無制限の営業リスト作成ツール",
+                    "htmlTitle": "IZANAMI リスト収集,無制限の<b>営業リスト作成</b>ツール",
+                    "link": "https://izanami.link/",
+                    "displayLink": "izanami.link",
+                    "snippet": "業界最安でwebに掲載されている膨大なデータを無制限に収集する営業リスト生成ツールです。新規営業で手間やお金をかけてリストを作る時代はおしまい。",
+                    "htmlSnippet": "<b>業界</b>最安でwebに掲載されている膨大なデータを無制限に収集する<b>営業リスト</b>生成ツールです。新規<b>営業</b>で手間やお金をかけて<b>リスト</b>を作る時代はおしまい。",
+                    "cacheId": "zwvDEgZvTfMJ",
+                    "formattedUrl": "https://izanami.link/",
+                    "htmlFormattedUrl": "https://izanami.link/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI3hj8fj_pIT1oAqSj4C1dgT8v0J4lWgFvC7GuAdJkjyfcpUfAN9CIavc",
+                                "width": "229",
+                                "height": "220"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "http://izanami.link/wp-content/uploads/2021/11/home-elements-awesome-v22-1.jpg",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "営業リスト作成ツール　IZANAMI",
+                                "og:title": "営業リスト生成ツール IZANAMI",
+                                "twitter:label1": "推定読み取り時間",
+                                "msapplication-tileimage": "https://izanami.link/wp-content/uploads/2021/10/cropped-favicon-270x270.png",
+                                "og:description": "営業リスト・企業リスト・テレアポリストを無制限に収集して営業を強化しませんか。今なら２日間無料お試し。",
+                                "twitter:data1": "61分",
+                                "article:modified_time": "2023-01-15T11:56:48+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://izanami.link/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "http://izanami.link/wp-content/uploads/2021/11/home-elements-awesome-v22-1.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【無料版あり】営業リスト作成ツールおすすめ13選！選び方の ...",
+                    "htmlTitle": "【無料版あり】<b>営業リスト作成</b>ツールおすすめ13選！選び方の ...",
+                    "link": "https://dream-up.co.jp/sakusaku/media/sales-list-creation-tool/",
+                    "displayLink": "dream-up.co.jp",
+                    "snippet": "2022/07/31 ... 業界最多の7ジャンル・50サイト、総計700万件以上のデータから、独自の顧客リストを作成することが可能です。 情報収集においては24時間・365日体制で動い ...",
+                    "htmlSnippet": "2022/07/31 <b>...</b> <b>業界</b>最多の7ジャンル・50サイト、総計700万件以上のデータから、独自の顧客<b>リスト</b>を<b>作成</b>することが可能です。 情報収集においては24時間・365日体制で動い&nbsp;...",
+                    "cacheId": "OtqRpiXjD8wJ",
+                    "formattedUrl": "https://dream-up.co.jp/sakusaku/media/sales-list-creation-tool/",
+                    "htmlFormattedUrl": "https://dream-up.co.jp/sakusaku/media/sales-list-creation-tool/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQg7Uosg62PHsgnKlbWCu1Pf1blUNWaI4Yr_PQZgwiYSLgwnjzjVAlr7LQ",
+                                "width": "288",
+                                "height": "175"
+                            }
+                        ],
+                        "BreadcrumbList": [
+                            {}
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://dream-up.co.jp/sakusaku/wp-content/themes/sakusaku/img/common/ogp.png",
+                                "og:type": "website",
+                                "twitter:card": "summary",
+                                "twitter:title": "【無料版あり】営業リスト作成ツールおすすめ13選！選び方のポイントも紹介！ - 問い合わせフォーム営業代行はSakuSaku問い合わせフォーム営業代行はSakuSaku",
+                                "article:published_time": "2022-07-31T13:49:05+00:00",
+                                "og:site_name": "問い合わせフォーム営業代行はSakuSaku",
+                                "twitter:domain": "dream-up.co.jp",
+                                "og:title": "【無料版あり】営業リスト作成ツールおすすめ13選！選び方のポイントも紹介！ - 問い合わせフォーム営業代行はSakuSaku問い合わせフォーム営業代行はSakuSaku",
+                                "og:description": "営業リストは、新規の顧客を開拓したり既存の顧客の需要を把握するために作成・運用する「顧客リスト」のことです。営業リストを上手に整理・活用することにより、営業活動を、よりスムーズに進めることができます。 各企業の特徴が分か […]よく整備された営業リストは、企業の営業効率を何倍にも高める可能性を秘めています。営業リストの作成・管理には専用のツールが便利です。本記事には、それぞれの企業のニーズに合わせた営業リスト作成ツールを探すお手伝いとなる情報を掲載しています。",
+                                "twitter:image": "https://dream-up.co.jp/sakusaku/wp-content/themes/sakusaku/img/common/ogp.png",
+                                "article:modified_time": "2023-05-01T15:04:32+00:00",
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0",
+                                "twitter:description": "営業リストは、新規の顧客を開拓したり既存の顧客の需要を把握するために作成・運用する「顧客リスト」のことです。営業リストを上手に整理・活用することにより、営業活動を、よりスムーズに進めることができます。\r\r各企業の特徴が分からなかったり、使い…",
+                                "og:locale": "ja_JP",
+                                "position": "1",
+                                "og:url": "https://dream-up.co.jp/sakusaku/media/sales-list-creation-tool/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://dream-up.co.jp/sakusaku/wp-content/themes/sakusaku/img/common/ogp.png"
+                            }
+                        ],
+                        "sitenavigationelement": [
+                            {
+                                "name": "特徴"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "FORCAS（フォーカス）｜営業DXソリューション｜企業 ...",
+                    "htmlTitle": "FORCAS（フォーカス）｜<b>営業</b>DXソリューション｜企業 ...",
+                    "link": "https://www.forcas.com/",
+                    "displayLink": "www.forcas.com",
+                    "snippet": "企業リストを作成。 業界や企業規模はもちろん、「増収増益」や「採用傾向」など、さまざまな条件で企業を絞り込み、 ...",
+                    "htmlSnippet": "企業<b>リスト</b>を<b>作成</b>。 <b>業界</b>や企業規模はもちろん、「増収増益」や「採用傾向」など、さまざまな条件で企業を絞り込み、&nbsp;...",
+                    "cacheId": "QZYaWk0VsVYJ",
+                    "formattedUrl": "https://www.forcas.com/",
+                    "htmlFormattedUrl": "https://www.forcas.com/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmtMnhgR6Lu-rzwDDqXHc8ylEwkIa-bR7u8som7JAOF2iecKbcggEKgGBK",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.forcas.com/images/forcas-ogp-2023.jpg",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "FORCAS（フォーカス）｜営業DXソリューション｜企業データベースと顧客分析",
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=6.0",
+                                "og:title": "FORCAS（フォーカス）｜営業DXソリューション｜企業データベースと顧客分析",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.forcas.com/",
+                                "og:description": "FORCAS（フォーカス）は、受注しやすい顧客を可視化し、効率的に売上を最大化する、営業DXソリューションです。150万社の高品質な企業データベースと、簡単な分析テクノロジー、Salesforce連携で、B2Bビジネスの成長を支えます。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.forcas.com/images/forcas-ogp-2023.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "営業リストを無料で収集できるおすすめツール3選",
+                    "htmlTitle": "<b>営業リスト</b>を無料で収集できるおすすめツール3選",
+                    "link": "https://www.creditsafe.com/jp/ja/blog/business/saleslist.html",
+                    "displayLink": "www.creditsafe.com",
+                    "snippet": "営業に携わる方であれば、営業を効率よく進めるためのリスト作成をしたことがあるはずです。 検索エンジンを駆使する、展示会情報の出展社名をリスト化する、業界団体 ...",
+                    "htmlSnippet": "<b>営業</b>に携わる方であれば、<b>営業</b>を効率よく進めるための<b>リスト作成</b>をしたことがあるはずです。 検索エンジンを駆使する、展示会情報の出展社名を<b>リスト</b>化する、<b>業界</b>団体&nbsp;...",
+                    "cacheId": "rgH3LXZmhEsJ",
+                    "formattedUrl": "https://www.creditsafe.com/jp/ja/blog/business/saleslist.html",
+                    "htmlFormattedUrl": "https://www.creditsafe.com/jp/ja/blog/business/saleslist.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTn_7jVzJsJFUqMsktzljpGWWASjc1v463iZw6P-_LwYkhcBfvqQxkqHhw",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "msapplication-tilecolor": "#2d89ef",
+                                "template": "blog-page",
+                                "msapplication-config": "/etc.clientlibs/creditsafe/clientlibs/clientlib-base/resources/icons/browserconfig.xml",
+                                "og:image": "https://www.creditsafe.com/content/dam/local/group/og_cslogo.jpg",
+                                "theme-color": "#ffffff",
+                                "twitter:card": "https://www.creditsafe.com/content/dam/local/group/og_cslogo.jpg",
+                                "twitter:title": "営業リストを無料で収集できるおすすめツール3選",
+                                "twitter:domain": "https://www.creditsafe.com/jp/ja/blog/business/saleslist.html",
+                                "og:title": "営業リストを無料で収集できるおすすめツール3選",
+                                "og:description": "効率的な営業リスト作成ツール3選を紹介。Musubuでは無料会員登録後、1か月間30件の情報取得可能。BIZMAPSでは無料会員登録で毎月100件の営業リストをダウンロード。FUMAは全国160万社の企業概要データベースを無料で閲覧可能。さらにクレディセイフは全国460万社のデータベースから条件に合った営業リストを最短即日〜3営業日で提供。これらのツールを活用すれば、営業リスト作成にかかる時間とコストを削減できます。",
+                                "fb:app_id": "302430267136178",
+                                "twitter:site": "@CreditsafeJP",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "効率的な営業リスト作成ツール3選を紹介。Musubuでは無料会員登録後、1か月間30件の情報取得可能。BIZMAPSでは無料会員登録で毎月100件の営業リストをダウンロード。FUMAは全国160万社の企業概要データベースを無料で閲覧可能。さらにクレディセイフは全国460万社のデータベースから条件に合った営業リストを最短即日〜3営業日で提供。これらのツールを活用すれば、営業リスト作成にかかる時間とコストを削減できます。",
+                                "og:author": "Kojiro Masui",
+                                "og:url": "https://www.creditsafe.com/jp/ja/blog/business/saleslist.html"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.creditsafe.com/content/dam/local/group/og_cslogo.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "テレアポの成功はリストアップで決まる！成果を高める営業リスト ...",
+                    "htmlTitle": "テレアポの成功は<b>リスト</b>アップで決まる！成果を高める<b>営業リスト</b> ...",
+                    "link": "https://www.innovation.co.jp/urumo/telemarketing20140606/",
+                    "displayLink": "www.innovation.co.jp",
+                    "snippet": "2022/11/18 ... テレアポを行う際に実施することのひとつが、電話をかける先のリストアップになります。営業リストの作り方が、アポ率・成約率の9割を占めると言って ...",
+                    "htmlSnippet": "2022/11/18 <b>...</b> テレアポを行う際に実施することのひとつが、電話をかける先の<b>リスト</b>アップになります。<b>営業リスト</b>の作り方が、アポ率・成約率の9割を占めると言って&nbsp;...",
+                    "cacheId": "PdAYLy8LvUcJ",
+                    "formattedUrl": "https://www.innovation.co.jp/urumo/telemarketing20140606/",
+                    "htmlFormattedUrl": "https://www.innovation.co.jp/urumo/telemarketing20140606/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSoeYUbeiwFE4T8DHW2LdMtoQgoeNaSfLSaWMjjqsFXbtFlWoO_GXnYwAY",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.innovation.co.jp/urumo/images/2018/04/telemarketing20140606-top.png",
+                                "theme-color": "#0cb7a5",
+                                "og:type": "article",
+                                "twitter:card": "summary",
+                                "twitter:title": "テレアポの成功はリストアップで決まる！成果を高める営業リストの作り方",
+                                "og:site_name": "Urumo!",
+                                "author": "Innovation Inc.",
+                                "og:title": "テレアポの成功はリストアップで決まる！成果を高める営業リストの作り方",
+                                "og:description": "テレアポを行う際に実施することのひとつが、電話をかける先のリストアップになります。営業リストの作り方が、アポ率・成約率の9割を占めると言っても過言ではありません。弊社営業が行っている7つのノウハウをご紹介します。",
+                                "twitter:image": "https://www.innovation.co.jp/urumo/images/2018/04/telemarketing20140606-top.png",
+                                "ranklet:published": "2014.06.06",
+                                "fb:app_id": "594680237533479",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "twitter:description": "テレアポを行う際に実施することのひとつが、電話をかける先のリストアップになります。営業リストの作り方が、アポ率・成約率の9割を占めると言っても過言ではありません。弊社営業が行っている7つのノウハウをご紹介します。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.innovation.co.jp/urumo/telemarketing20140606/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.innovation.co.jp/urumo/images/2018/04/telemarketing20140606-top.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【2023】リスト作成のコツは？活用したいおすすすめ営業ツール ...",
+                    "htmlTitle": "【2023】<b>リスト作成</b>のコツは？活用したいおすすすめ<b>営業</b>ツール ...",
+                    "link": "https://kobot.jp/kobot_lab/temporary-staffing/list-creation/",
+                    "displayLink": "kobot.jp",
+                    "snippet": "2021/10/22 ... HRogリスト（フロッグリスト）は、株式会社フロッグが提供する人材業界に特化した求人企業リスト作成ツールです。100以上の求人サイトに対応しており、「 ...",
+                    "htmlSnippet": "2021/10/22 <b>...</b> HRog<b>リスト</b>（フロッグ<b>リスト</b>）は、株式会社フロッグが提供する人材<b>業界</b>に特化した求人企業<b>リスト作成</b>ツールです。100以上の求人サイトに対応しており、「&nbsp;...",
+                    "cacheId": "sNeikIDDFHUJ",
+                    "formattedUrl": "https://kobot.jp/kobot_lab/temporary-staffing/list-creation/",
+                    "htmlFormattedUrl": "https://kobot.jp/kobot_lab/temporary-staffing/list-creation/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ10X1XN5Ii_KEqC5onao-DKNuxb86bcptAKJHsFYb3OWyRw26GSt3HpVw4",
+                                "width": "295",
+                                "height": "171"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://kobot.jp/kobot_lab/wp-content/uploads/2021/10/list-creation-768x446.png",
+                                "og:type": "article",
+                                "twitter:card": "summary",
+                                "og:site_name": "コボットLAB",
+                                "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                                "og:title": "【2023】リスト作成のコツは？活用したいおすすすめ営業ツール",
+                                "msapplication-tileimage": "https://kobot.jp/kobot_lab/wp-content/uploads/2022/09/cropped-favicon-270x270.png",
+                                "og:url": "https://kobot.jp/kobot_lab/temporary-staffing/list-creation/",
+                                "og:description": "営業リスト作成に活用したいおすすめのツールを12種類わかりやすく解説します。ツールを選ぶ際のポイントも紹介します。無料のものと有料のものがあるので、自社の必要性に応じて選ぶと良いでしょう。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://kobot.jp/kobot_lab/wp-content/uploads/2021/10/list-creation-768x446.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "業務の効率向上に企業・法人リスト作成ツール【ソーシャル企業 ...",
+                    "htmlTitle": "業務の効率向上に企業・法人<b>リスト作成</b>ツール【ソーシャル企業 ...",
+                    "link": "https://skj.bizocean.jp/",
+                    "displayLink": "skj.bizocean.jp",
+                    "snippet": "圧倒的な反響率の企業リストをいつでも簡単に作成できます。企業・顧客リストを常に最新の状態に保ち、質の高いリストをご提供できますので、従来の営業リスト作成に ...",
+                    "htmlSnippet": "圧倒的な反響率の企業リストをいつでも簡単に作成できます。企業・顧客リストを常に最新の状態に保ち、質の高いリストをご提供できますので、従来の<b>営業リスト作成</b>に&nbsp;...",
+                    "cacheId": "8CQhMo3JPNUJ",
+                    "formattedUrl": "https://skj.bizocean.jp/",
+                    "htmlFormattedUrl": "https://skj.bizocean.jp/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4nB6C9kX-9WpNzB-FNxtTtXudD7Dw3Gq92XHTsJ7hrvR8JK7YWtOE6oQ",
+                                "width": "350",
+                                "height": "50"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "application-name": "ソーシャル企業情報",
+                                "msapplication-config": "/browserconfig.xml",
+                                "og:image": "https://skj.bizocean.jp/assets/img/common/header/logo.png",
+                                "og:type": "website",
+                                "og:image:width": "350",
+                                "og:site_name": "ソーシャル企業情報",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "業務の効率向上に企業・法人リスト作成ツール【ソーシャル企業情報】",
+                                "og:image:height": "50",
+                                "og:url": "https://skj.bizocean.jp/",
+                                "og:description": "圧倒的な反響率の企業リストをいつでも簡単に作成できます。企業・顧客リストを常に最新の状態に保ち、質の高いリストをご提供できますので、従来の営業リスト作成にかかるコストや時間を大幅に削減できます。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://skj.bizocean.jp/assets/img/common/header/logo.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Musubu (ムスブ) - 法人営業の新規開拓を支援するクラウド型企業 ...",
+                    "htmlTitle": "Musubu (ムスブ) - 法人<b>営業</b>の新規開拓を支援するクラウド型企業 ...",
+                    "link": "https://musubu.in/",
+                    "displayLink": "musubu.in",
+                    "snippet": "Musubu（ムスブ）は営業リスト作成からメール配信、案件管理・顧客管理まで、これ1つでできる法人営業ツール。100万社＋40万事業所の企業データベースを搭載し、 ...",
+                    "htmlSnippet": "Musubu（ムスブ）は<b>営業リスト作成</b>からメール配信、案件管理・顧客管理まで、これ1つでできる法人営業ツール。100万社＋40万事業所の企業データベースを搭載し、&nbsp;...",
+                    "cacheId": "83F1VSCFCFUJ",
+                    "formattedUrl": "https://musubu.in/",
+                    "htmlFormattedUrl": "https://musubu.in/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnkMqrtWaoV6BmhWFXqX7cPXvHtNGzzTUrD1iKBtFssUPC6j0hNTaaHGTd",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://musubu.in/wp-content/uploads/2022/10/ogp.jpg",
+                                "theme-color": "#249674",
+                                "og:type": "website",
+                                "twitter:card": "summary",
+                                "twitter:title": "Musubu (ムスブ) - 法人営業の新規開拓を支援するクラウド型企業情報データベース",
+                                "og:site_name": "Musubu (ムスブ) - 法人営業の新規開拓を支援するクラウド型企業情報データベース",
+                                "og:title": "Musubu (ムスブ) - 法人営業の新規開拓を支援するクラウド型企業情報データベース",
+                                "og:description": "Musubu（ムスブ）は営業リスト作成からメール配信、案件管理・顧客管理まで、これ１つでできる法人営業ツール。100万社＋40万事業所の企業データベースを搭載し、見込み客選定や企業データ入力が簡単に。貴社の生産性向上につなげます。",
+                                "og:image:secure_url": "https://musubu.in/wp-content/uploads/2022/10/ogp.jpg",
+                                "twitter:image": "https://musubu.in/wp-content/uploads/2022/10/ogp.jpg",
+                                "twitter:site": "@Musubu_Sales",
+                                "viewport": "width=device-width,initial-scale=1.0",
+                                "twitter:description": "Musubu（ムスブ）は営業リスト作成からメール配信、案件管理・顧客管理まで、これ１つでできる法人営業ツール。100万社＋40万事業所の企業データベースを搭載し、見込み客選定や企業データ入力が簡単に。貴社の生産性向上につなげます。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://musubu.in/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://musubu.in/wp-content/uploads/2022/10/ogp.jpg"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 業界 営業リスト作成",
+                        "totalResults": "9870000",
+                        "searchTerms": "業界 営業リスト作成",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 業界 営業リスト作成",
+                        "totalResults": "9870000",
+                        "searchTerms": "業界 営業リスト作成",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 業界 営業リスト作成",
+                        "totalResults": "9870000",
+                        "searchTerms": "業界 営業リスト作成",
+                        "count": 10,
+                        "startIndex": 31,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.223283,
+                "formattedSearchTime": "0.22",
+                "totalResults": "9870000",
+                "formattedTotalResults": "9,870,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "HRogリスト (フロッグリスト) | 人材業界のための\"求人\"企業リスト",
+                    "htmlTitle": "HRog<b>リスト</b> (フロッグ<b>リスト</b>) | 人材<b>業界</b>のための&quot;求人&quot;企業<b>リスト</b>",
+                    "link": "https://list.hrog.net/",
+                    "displayLink": "list.hrog.net",
+                    "snippet": "求人広告代理店（営業30名）. 新着求人を定期購入して、リスト作成工数が0になりました。また、自社の顧客データにHRogリストを ...",
+                    "htmlSnippet": "求人広告代理店（<b>営業</b>30名）. 新着求人を定期購入して、<b>リスト作成</b>工数が0になりました。また、自社の顧客データにHRog<b>リスト</b>を&nbsp;...",
+                    "cacheId": "p_CJyPjvqgYJ",
+                    "formattedUrl": "https://list.hrog.net/",
+                    "htmlFormattedUrl": "https://list.hrog.net/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1cTYHhT7PMKnZu1cR2_M1az7hItns3m3ycyjdI_7bpEsDbVxBuieE7AxS",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://list.hrog.net/img/ogp-image.png",
+                                "og:type": "website",
+                                "og:site_name": "HRogリスト (フロッグリスト) | 人材業界のための\"求人\"企業リスト",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "HRogリスト (フロッグリスト) | 人材業界のための\"求人\"企業リスト",
+                                "og:url": "https://list.hrog.net/",
+                                "og:description": "いま採用している会社が見つかる！HRogリスト（フロッグリスト）は、求人情報を元にした人材業界のための企業リストです。\nWeb上から最新の求人情報を収集し、求人ニーズのあるHOTなリストを提供します。鮮度と確度の高いリストで、効率的な営業活動をサポートします。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://list.hrog.net/img/ogp-image.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "営業リストとは？必要性やメリット、効果的な作成方法を紹介 | 株式 ...",
+                    "htmlTitle": "<b>営業リスト</b>とは？必要性やメリット、効果的な<b>作成</b>方法を紹介 | 株式 ...",
+                    "link": "https://www.sunbridge.com/blog/column/how_to_create_sales_list/",
+                    "displayLink": "www.sunbridge.com",
+                    "snippet": "2021/01/12 ... 営業担当者は、案件の進捗や受注確度を確認することで、適切なアプローチの方法を選択できるので、受注につながりやすくなります。 顧客企業が属する業界 ...",
+                    "htmlSnippet": "2021/01/12 <b>...</b> <b>営業</b>担当者は、案件の進捗や受注確度を確認することで、適切なアプローチの方法を選択できるので、受注につながりやすくなります。 顧客企業が属する<b>業界</b>&nbsp;...",
+                    "cacheId": "wW09BHY9bRUJ",
+                    "formattedUrl": "https://www.sunbridge.com/blog/column/how_to_create_sales_list/",
+                    "htmlFormattedUrl": "https://www.sunbridge.com/blog/column/how_to_create_sales_list/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyCmf495qws4UoopBcRnrSo9o1aix8Vlij2XWhovNeocLkV0ikTxoZOKE",
+                                "width": "309",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.sunbridge.com/wp-content/uploads/056f2ab658f0d94c67c5dc33258598f5.jpg",
+                                "og:type": "article",
+                                "article:published_time": "2021-01-12T12:33:33Z",
+                                "twitter:card": "summary",
+                                "twitter:title": "営業リストとは？必要性やメリット、効果的な作成方法を紹介 | 株式会社サンブリッジ",
+                                "og:site_name": "株式会社サンブリッジ（SunBridge Inc.）",
+                                "og:title": "営業リストとは？必要性やメリット、効果的な作成方法を紹介 | 株式会社サンブリッジ",
+                                "og:description": "営業リストとは、顧客の名前や連絡先といった営業活動に必要な情報を記載したリストのこと。営業リストを活用すれば営業活動を効率化することが可能です。営業リストを作成するメリットや、効果的な営業リストの作成方法を紹介します。",
+                                "og:image:secure_url": "https://www.sunbridge.com/wp-content/uploads/056f2ab658f0d94c67c5dc33258598f5.jpg",
+                                "twitter:image": "https://www.sunbridge.com/wp-content/uploads/056f2ab658f0d94c67c5dc33258598f5.jpg",
+                                "article:modified_time": "2021-01-12T12:33:33Z",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "twitter:description": "営業リストとは、顧客の名前や連絡先といった営業活動に必要な情報を記載したリストのこと。営業リストを活用すれば営業活動を効率化することが可能です。営業リストを作成するメリットや、効果的な営業リストの作成方法を紹介します。",
+                                "og:url": "https://www.sunbridge.com/blog/column/how_to_create_sales_list/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.sunbridge.com/wp-content/uploads/056f2ab658f0d94c67c5dc33258598f5.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "営業ターゲットリスト| 商品・サービス| 株式会社 帝国データバンク ...",
+                    "htmlTitle": "<b>営業</b>ターゲット<b>リスト</b>| 商品・サービス| 株式会社 帝国データバンク ...",
+                    "link": "https://www.tdb.co.jp/lineup/listup/index.html",
+                    "displayLink": "www.tdb.co.jp",
+                    "snippet": "→ 「企業概要データ COSMOS2からのリストアップ」を使い、ターゲット産業の会社をピックアップ。地域や事業規模などでさらにふるいにかけ、その業界でも成長株の企業と ...",
+                    "htmlSnippet": "→ 「企業概要データ COSMOS2からの<b>リスト</b>アップ」を使い、ターゲット産業の会社をピックアップ。地域や事業規模などでさらにふるいにかけ、その<b>業界</b>でも成長株の企業と&nbsp;...",
+                    "cacheId": "OHIlIw5ShN8J",
+                    "formattedUrl": "https://www.tdb.co.jp/lineup/listup/index.html",
+                    "htmlFormattedUrl": "https://www.tdb.co.jp/lineup/listup/index.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxJofWPnXzQEbhKHlyGiardJRBkMQg6eDisTtaE5Tq1sP-I1yD5_khrWE",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.tdb.co.jp/resource/img/tdb_ogp.png",
+                                "og:type": "website",
+                                "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=yes",
+                                "og:title": "株式会社 帝国データバンク[TDB] | TEIKOKU DATABANK, LTD.",
+                                "og:url": "https://www.tdb.co.jp/index.html",
+                                "og:description": "国内最大級の企業情報データベースを保有する帝国データバンクが、あなたのビジネスを強力にサポート。企業信用調査、マーケティング、取引先状況の把握や与信管理の業務効率化をご提案します。倒産情報や独自調査レポート、分析データも公開。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.tdb.co.jp/resource/img/tdb_ogp.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "優れた営業リストとは？作成方法や効果的なツールを紹介 | 営業DX.jp",
+                    "htmlTitle": "優れた<b>営業リスト</b>とは？<b>作成</b>方法や効果的なツールを紹介 | <b>営業</b>DX.jp",
+                    "link": "https://eigyou-dx.jp/dx-column/eigyo-list",
+                    "displayLink": "eigyou-dx.jp",
+                    "snippet": "2021/04/30 ... マーケティングやインサイドセールス、製造など業界は問わずご支援させていただいているので、まずはぜひお問い合わせください。 「営業DX.jp」は、3万円 ...",
+                    "htmlSnippet": "2021/04/30 <b>...</b> マーケティングやインサイドセールス、製造など<b>業界</b>は問わずご支援させていただいているので、まずはぜひお問い合わせください。 「<b>営業</b>DX.jp」は、3万円&nbsp;...",
+                    "cacheId": "wg3teBFqiMwJ",
+                    "formattedUrl": "https://eigyou-dx.jp/dx-column/eigyo-list",
+                    "htmlFormattedUrl": "https://eigyou-dx.jp/dx-column/eigyo-list",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ96vDrrxZ2RMB5himV6OP2CWn4EdUVKL533_nkRVaEIHr4lplN9Rhrts5r",
+                                "width": "300",
+                                "height": "168"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://eigyou-dx.jp/wp-dx2021/wp-content/uploads/2021/04/xps-yNvVnPcurD8-unsplash-scaled.jpg",
+                                "og:type": "article",
+                                "og:image:width": "2560",
+                                "article:published_time": "2021-04-30T02:57:15+00:00",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "優れた営業リストとは？作成方法や効果的なツールを紹介",
+                                "og:site_name": "3万円ポッキリで営業DXのプロに相談できるオンラインサービス | 営業DX.jp",
+                                "og:title": "優れた営業リストとは？作成方法や効果的なツールを紹介",
+                                "og:image:height": "1440",
+                                "msapplication-tileimage": "https://eigyou-dx.jp/wp-dx2021/wp-content/uploads/2021/10/cropped-faviconwhite-270x270.png",
+                                "og:description": "効率的に営業活動を行うためには、営業リストの作成が不可欠です。ターゲットとなる企業の基本情報だけでなく、経営情報など付加価値の高いリストを手に入れることで、成約率が高まります。本稿では、優れた営業リストの作成方法やおすすめのツールを紹介します。",
+                                "og:image:secure_url": "https://eigyou-dx.jp/wp-dx2021/wp-content/uploads/2021/04/xps-yNvVnPcurD8-unsplash-scaled.jpg",
+                                "twitter:image": "https://eigyou-dx.jp/wp-dx2021/wp-content/uploads/2021/04/xps-yNvVnPcurD8-unsplash-scaled.jpg",
+                                "article:modified_time": "2023-06-08T00:35:19+00:00",
+                                "viewport": "width=device-width,initial-scale=1",
+                                "twitter:description": "効率的に営業活動を行うためには、営業リストの作成が不可欠です。ターゲットとなる企業の基本情報だけでなく、経営情報など付加価値の高いリストを手に入れることで、成約率が高まります。本稿では、優れた営業リストの作成方法やおすすめのツールを紹介します。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://eigyou-dx.jp/dx-column/eigyo-list"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://eigyou-dx.jp/wp-dx2021/wp-content/uploads/2021/04/xps-yNvVnPcurD8-unsplash-scaled.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "企業リスト・営業リスト作成の仕事依頼・外注/副業を探すなら ...",
+                    "htmlTitle": "企業リスト・<b>営業リスト作成</b>の仕事依頼・外注/副業を探すなら ...",
+                    "link": "https://www.lancers.jp/work/search/business/list",
+                    "displayLink": "www.lancers.jp",
+                    "snippet": "企業リスト・営業リスト作成の仕事依頼の案件一覧ページです。クラウドソーシング・アウトソーシングに強いランサーズでは最適な外注/発注先を探すことができます。",
+                    "htmlSnippet": "企業リスト・<b>営業リスト作成</b>の仕事依頼の案件一覧ページです。クラウドソーシング・アウトソーシングに強いランサーズでは最適な外注/発注先を探すことができます。",
+                    "cacheId": "Omx2ZyhjWQUJ",
+                    "formattedUrl": "https://www.lancers.jp/work/search/business/list",
+                    "htmlFormattedUrl": "https://www.lancers.jp/work/search/business/list",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWAj7_AuseSS8S0kuD-78KJOaFojzS55npxFShTLloCpP-7rsUdAa8HnY",
+                                "width": "200",
+                                "height": "200"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "application-name": "ランサーズ",
+                                "msapplication-tilecolor": "#13366a",
+                                "og:image": "https://static.lancers.jp/img/icon/lancers_logo200_200.png?v=2.0",
+                                "og:type": "website",
+                                "twitter:card": "summary",
+                                "twitter:title": "ランサーズ [Lancers] - 仕事をフリーランスに発注できるクラウドソーシング",
+                                "msapplication-square70x70logo": "//static.lancers.jp/smalltile.png",
+                                "og:site_name": "lancers",
+                                "og:title": "ランサーズ [Lancers] - 仕事をフリーランスに発注できるクラウドソーシング",
+                                "msapplication-wide310x150logo": "//static.lancers.jp/widetile.png",
+                                "og:description": "クラウドソーシング「ランサーズ」は、実績とスキルのあるフリーランスに仕事を発注できる仕事依頼サイトです。ロゴ作成、会社のネーミング、システム開発、ホームページ制作、タスク・作業など、全148種類の仕事ができます。 専門業者と比較するとクラウドソーシングは個人とのやりとりのため、ローコストかつハイスピードで仕事ができます。 登録・依頼・見積もりすべてが無料ですので、この機会にぜひ、日本最大級の...",
+                                "msapplication-square150x150logo": "//static.lancers.jp/mediumtile.png",
+                                "twitter:image:src": "https://static.lancers.jp/img/icon/lancers_logo200_200.png?v=2.0",
+                                "facebook-domain-verification": "xztog6r16r7yqpbcieivlh4vwpssja",
+                                "fb:app_id": "614134448610575",
+                                "twitter:site": "@lancersjp",
+                                "viewport": "width=device-width,initial-scale=1",
+                                "msapplication-square310x310logo": "//static.lancers.jp/largetile.png",
+                                "twitter:description": "クラウドソーシング「ランサーズ」は、実績とスキルのあるフリーランスに仕事を発注できる仕事依頼サイトです。ロゴ作成、会社のネーミング、システム開発、ホームページ制作、タスク・作業など、全148種類の仕事ができます。 専門業者と比較するとクラウドソーシングは個人とのやりとりのため、ローコストかつハイスピードで仕事ができます。 登録・依頼・見積もりすべてが無料ですので、この機会にぜひ、日本最大級の...",
+                                "og:url": "https://www.lancers.jp/work/search/business/list",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://static.lancers.jp/img/icon/lancers_logo200_200.png?v=2.0"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "クラウドソーシング ランサーズ",
+                                "name": "クラウドソーシング ランサーズ",
+                                "position": "1"
+                            },
+                            {
+                                "item": "仕事を探す",
+                                "name": "仕事を探す",
+                                "position": "2"
+                            },
+                            {
+                                "item": "事務・コンサル・専門職・その他の仕事",
+                                "name": "事務・コンサル・専門職・その他の仕事",
+                                "position": "3"
+                            },
+                            {
+                                "item": "セールス・ビジネスサポートの仕事",
+                                "name": "セールス・ビジネスサポートの仕事",
+                                "position": "4"
+                            },
+                            {
+                                "item": "企業リスト・営業リスト作成の仕事",
+                                "name": "企業リスト・営業リスト作成の仕事",
+                                "position": "5"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "オンライン営業リスト作成ツール「リストアップ」 ： 東京商工 ...",
+                    "htmlTitle": "オンライン<b>営業リスト作成</b>ツール「リストアップ」 ： 東京商工 ...",
+                    "link": "https://www.tsr-net.co.jp/service/listup/index.html",
+                    "displayLink": "www.tsr-net.co.jp",
+                    "snippet": "リストアップの抽出対象となるTSRの企業データベースは、全国の調査員が収集した正確性の高い情報を元にしています。また、対象企業数は業界最大級となる約620万件。高品質 ...",
+                    "htmlSnippet": "<b>リスト</b>アップの抽出対象となるTSRの企業データベースは、全国の調査員が収集した正確性の高い情報を元にしています。また、対象企業数は<b>業界</b>最大級となる約620万件。高品質&nbsp;...",
+                    "cacheId": "zpVvBCF8un4J",
+                    "formattedUrl": "https://www.tsr-net.co.jp/service/listup/index.html",
+                    "htmlFormattedUrl": "https://www.tsr-net.co.jp/service/listup/index.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyQcJPQVoza9jfSPxTarqJp2dmoZZ-1ymM505F5Sxl-plKQvZfm44nHCuE",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.tsr-net.co.jp/service/img/tsr_logo.jpg",
+                                "og:type": "product",
+                                "og:site_name": "株式会社東京商工リサーチ",
+                                "viewport": "width=device-width,initial-scale=1",
+                                "og:title": "オンライン営業リスト作成ツール「リストアップ」",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.tsr-net.co.jp/service/listup/index.html",
+                                "og:description": "620万件超のデータから、40の条件を自由に組み合わせ営業リストを作成。オンラインで簡単・スピーディーに見込み客を抽出することができます。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.tsr-net.co.jp/service/img/tsr_logo.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【簡単激安】営業用企業リスト・法人名簿作成ならセールスリスト",
+                    "htmlTitle": "【簡単激安】<b>営業</b>用企業<b>リスト</b>・法人名簿<b>作成</b>ならセールス<b>リスト</b>",
+                    "link": "http://sales-list.info/",
+                    "displayLink": "sales-list.info",
+                    "snippet": "営業用企業リスト・法人名簿の作成・購入ならセールスリスト！ 業界最安水準・どれだけ使っても月額6,800円！インターネット上に存在する企業情報をリアルタイムで取得 ...",
+                    "htmlSnippet": "<b>営業</b>用企業<b>リスト</b>・法人名簿の<b>作成</b>・購入ならセールス<b>リスト</b>！ <b>業界</b>最安水準・どれだけ使っても月額6,800円！インターネット上に存在する企業情報をリアルタイムで取得&nbsp;...",
+                    "cacheId": "C2FS_LhzyRQJ",
+                    "formattedUrl": "sales-list.info/",
+                    "htmlFormattedUrl": "sales-list.info/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTB_TFqibt8RV_Ri48KP8d0bQ59rjcI9Bwv85yDIXcFW7PRi3BCqfIF_A",
+                                "width": "402",
+                                "height": "125"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,initial-scale=1.0"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "http://sales-list.info/wp-content/uploads/2017/06/sec01_img1.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【2023厳選】営業リストの作り方-営業リスト作成できるオススメ ...",
+                    "htmlTitle": "【2023厳選】営業リストの作り方-<b>営業リスト作成</b>できるオススメ ...",
+                    "link": "https://media.salesnow.jp/2023-how-to-create-sales-list-the-free-ossme-tool-that-can-create-a-business-list/",
+                    "displayLink": "media.salesnow.jp",
+                    "snippet": "2022/05/24 ... 営業先のリストアップだけではなく、業界の最新動向などのレポート機能もあるため、将来的に成長が期待できるターゲットに営業することも可能です。 < ...",
+                    "htmlSnippet": "2022/05/24 <b>...</b> <b>営業</b>先の<b>リスト</b>アップだけではなく、<b>業界</b>の最新動向などのレポート機能もあるため、将来的に成長が期待できるターゲットに<b>営業</b>することも可能です。 &lt;&nbsp;...",
+                    "cacheId": "SWOvQFKS3JEJ",
+                    "formattedUrl": "https://media.salesnow.jp/2023-how-to-create-sales-list-the-free-ossme-tool- that-can-create-a-business-list/",
+                    "htmlFormattedUrl": "https://media.salesnow.jp/2023-how-to-create-sales-list-the-free-ossme-tool- that-can-create-a-business-list/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9ccOVeTck-sSWwgWHdeoSdVhC55ouG-ilQQ3o2HbODn_eVKw3tle5ugI",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://media.salesnow.jp/wp-content/uploads/2022/05/glenn-carstens-peters-RLw-UC03Gwc-unsplash-768x511.jpg",
+                                "og:type": "article",
+                                "twitter:card": "summary",
+                                "og:site_name": "SalesNowDBメディア",
+                                "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                                "og:title": "【2023厳選】営業リストの作り方-営業リスト作成できるオススメ無料ツールを解説",
+                                "msapplication-tileimage": "https://media.salesnow.jp/wp-content/uploads/2023/03/cropped-Image-2-270x270.png",
+                                "og:url": "https://media.salesnow.jp/2023-how-to-create-sales-list-the-free-ossme-tool-that-can-create-a-business-list/",
+                                "og:description": "より高い営業効率を目指すなら、ターゲット層に近い営業リストが非常に重要になります。営業リストは自社でも作成できますが、より質の高い営業リストを作りたいなら、専門ツールの導入をオススメします。本記事では、有料/無料で利用できる営業リストツールをご紹介します。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://media.salesnow.jp/wp-content/uploads/2022/05/glenn-carstens-peters-RLw-UC03Gwc-unsplash-768x511.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "営業リストの作成方法とは？作り方のポイントを解説 | DX支援 ...",
+                    "htmlTitle": "<b>営業リスト</b>の<b>作成</b>方法とは？作り方のポイントを解説 | DX支援 ...",
+                    "link": "https://www.aidma-hd.jp/dxmedia/matching_dx/3787/",
+                    "displayLink": "www.aidma-hd.jp",
+                    "snippet": "2021/12/20 ... しかしいざ営業リストを作成しようとしても、どのように作成していけば良いか ... 目的の業界に関連する企業を効率よくリスト化できるでしょう。",
+                    "htmlSnippet": "2021/12/20 <b>...</b> しかしいざ<b>営業リスト</b>を<b>作成</b>しようとしても、どのように<b>作成</b>していけば良いか ... 目的の<b>業界</b>に関連する企業を効率よく<b>リスト</b>化できるでしょう。",
+                    "cacheId": "Zd3nsLsIZJsJ",
+                    "formattedUrl": "https://www.aidma-hd.jp/dxmedia/matching_dx/3787/",
+                    "htmlFormattedUrl": "https://www.aidma-hd.jp/dxmedia/matching_dx/3787/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRg3mjIE6aQLSj70-jiN1LOTC0PEhOt8ZhXBbPWCtnG4_e4A-1mZhL769s",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.aidma-hd.jp/wp/wp-content/uploads/2021/12/4860500_s-1.jpg",
+                                "og:type": "article",
+                                "og:image:width": "640",
+                                "twitter:card": "summary_large_image",
+                                "redi-version": "1.1.5",
+                                "og:site_name": "株式会社アイドマ・ホールディングス ｜Aidma Holdings,Inc.",
+                                "og:title": "営業リストの作成方法とは？作り方のポイントを解説 | DX支援メディア",
+                                "og:image:height": "427",
+                                "twitter:label1": "推定読み取り時間",
+                                "og:image:type": "image/jpeg",
+                                "og:description": "継続的に新規顧客を開拓するには営業リストが不可欠 企業が利益を継続的に出し続けるためには、常に顧客を開拓し続ける必要があります。しかし、がむしゃらに相手にアピールしても成果は出ません。そこで役に立つのが営業リストです。質 […]",
+                                "twitter:data1": "19分",
+                                "article:modified_time": "2023-06-12T20:51:33+00:00",
+                                "viewport": "width=375",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.aidma-hd.jp/dxmedia/matching_dx/3787/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.aidma-hd.jp/wp/wp-content/uploads/2021/12/4860500_s-1.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "営業リスト作成ツールのおすすめ4選 作り方や選び方を解説 SALES ...",
+                    "htmlTitle": "<b>営業リスト作成</b>ツールのおすすめ4選 作り方や選び方を解説  SALES ...",
+                    "link": "https://kakutoku.jp/lp/client/column/sales-efficiency/978/",
+                    "displayLink": "kakutoku.jp",
+                    "snippet": "2021/05/06 ... 営業ターゲット; 6.3. 項目のルール化. 7. 営業リスト作成ツールを選ぶ際に見るべきポイント. 7.1. ターゲット業界がリストに多く含まれているか ...",
+                    "htmlSnippet": "2021/05/06 <b>...</b> 営業ターゲット; 6.3. 項目のルール化. 7. <b>営業リスト作成</b>ツールを選ぶ際に見るべきポイント. 7.1. ターゲット<b>業界</b>がリストに多く含まれているか&nbsp;...",
+                    "cacheId": "bNnFvtDrZI0J",
+                    "formattedUrl": "https://kakutoku.jp/lp/client/column/sales-efficiency/978/",
+                    "htmlFormattedUrl": "https://kakutoku.jp/lp/client/column/sales-efficiency/978/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR45PdkhueZV-2Xwth0qw94D26Iy6TubXNTxewO4V8mTMDLjimm3PyGYSU",
+                                "width": "300",
+                                "height": "168"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://salesbrain.kakutoku.jp/wp-content/uploads/2021/05/SALESBRAIN_10_20221111-730x410.jpg",
+                                "og:type": "article",
+                                "twitter:card": "summary",
+                                "og:site_name": "SALES BRAIN",
+                                "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                                "og:title": "営業リスト作成ツールのおすすめ4選　作り方や選び方を解説",
+                                "msapplication-tileimage": "https://salesbrain.kakutoku.jp/wp-content/uploads/2020/03/favicon.ico",
+                                "og:url": "https://salesbrain.kakutoku.jp/sales-efficiency/978/",
+                                "og:description": "営業の新規獲得に欠かせない「営業リスト」。テレアポや商談で忙しい中、時間を見つけては営業リスト作りに勤しんだ経験のある方も少なくないでしょう。 かつては電話帳サ […]"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://salesbrain.kakutoku.jp/wp-content/uploads/2021/05/SALESBRAIN_10_20221111-730x410.jpg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "title": "営業代行TOP",
+                                "url": "営業代行TOP"
+                            },
+                            {
+                                "title": "メディアTOP",
+                                "url": "メディアTOP"
+                            },
+                            {
+                                "title": "営業効率化の記事一覧",
+                                "url": "営業効率化の記事一覧"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

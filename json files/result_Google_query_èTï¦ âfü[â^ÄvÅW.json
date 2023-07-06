@@ -1,0 +1,1743 @@
+{
+    "query": "企業 データ収集",
+    "links": [
+        [
+            "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r02/html/nd132210.html",
+            "https://exceljoshi.cocoo.co.jp/media/work-efficiency-date-leverage",
+            "https://ai-market.jp/services/data-collection_company/",
+            "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r02/html/nd131300.html",
+            "https://www.ever-rise.co.jp/dx-blog/data-collection/",
+            "https://www.se.com/jp/ja/work/services/sustainability-business/energy-and-sustainability-software/data-collection.jsp",
+            "https://www.meti.go.jp/shingikai/economy/hizaimu_joho/data_wg/pdf/003_05_00.pdf",
+            "https://www.dsk-cloud.com/blog/data-aggregation-for-companies",
+            "https://www.tryeting.jp/column/4034/",
+            "https://www.meti.go.jp/press/2022/12/20221212001/20221212001.html"
+        ],
+        [
+            "https://www.geekly.co.jp/column/cat-position/big-data/",
+            "https://learn.microsoft.com/ja-jp/mem/intune/protect/privacy-data-collect",
+            "https://www.nikkei.com/article/DGXZQOUC194IA0Z10C21A4000000/",
+            "https://enterprisezine.jp/news/detail/14828",
+            "https://aidiot.jp/media/data/task_company/",
+            "https://book.st-hakky.com/docs/checkpoint-when-outsourcing-annotation/",
+            "https://www.gizmodo.jp/2020/11/can-i-stop-big-data-companies-from-getting-my-personal.html",
+            "https://www.brainpad.co.jp/rtoaster/blog/customer_data/",
+            "https://www.it-comm.co.jp/media/10-cases-use-data-for-business-to-succeed",
+            "https://portl.social/column/line-crm-overview/"
+        ],
+        [
+            "https://www.ujp.com/%E3%83%9A%E3%83%BC%E3%82%B8%E3%83%88%E3%83%83%E3%83%97/%E4%BC%81%E6%A5%AD%E6%A6%82%E6%B3%81%E3%83%87%E3%83%BC%E3%82%BF%E3%83%90%E3%83%B3%E3%82%AF%E7%99%BB%E9%8C%B2/",
+            "https://tealium.com/ja/products-real-time-data-collection-quality/",
+            "https://www.nri.com/jp/knowledge/glossary/lst/ta/data_governance",
+            "https://jpn.nec.com/solution/smart_connectivity/column/store_001/index.html",
+            "https://www.ipros.jp/cg2/%E3%83%87%E3%83%BC%E3%82%BF%E5%8F%8E%E9%9B%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+            "https://www3.nhk.or.jp/news/html/20230401/k10014026391000.html",
+            "https://www.hrpro.co.jp/research_detail.php?r_no=306",
+            "https://jp.reuters.com/article/china-ai-data-idJPKCN1TW1EN",
+            "https://www.ntt.com/business/sdpf/knowledge/archive_36.html",
+            "http://www.tsr-net.co.jp/service/detail/file-corporate.html"
+        ]
+    ],
+    "snapshot_ymd": "D2023-06-23",
+    "snapshot_timestamp": "D2023-06-23T01-26-24",
+    "responses": [
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "request": [
+                    {
+                        "title": "Google Custom Search - 企業 データ収集",
+                        "totalResults": "59200000",
+                        "searchTerms": "企業 データ収集",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 企業 データ収集",
+                        "totalResults": "59200000",
+                        "searchTerms": "企業 データ収集",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.70201,
+                "formattedSearchTime": "0.70",
+                "totalResults": "59200000",
+                "formattedTotalResults": "59,200,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "総務省｜令和2年版 情報通信白書｜企業のデータ収集及び活用の状況",
+                    "htmlTitle": "総務省｜令和2年版 情報通信白書｜<b>企業</b>の<b>データ収集</b>及び活用の状況",
+                    "link": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r02/html/nd132210.html",
+                    "displayLink": "www.soumu.go.jp",
+                    "snippet": "このようにデジタルデータの活用は国内においても進んでいるが、海外の企業に ... まず、各国の企業におけるデータ収集、データ蓄積、データ処理（AIの適用を含む。",
+                    "htmlSnippet": "このようにデジタルデータの活用は国内においても進んでいるが、海外の<b>企業</b>に ... まず、各国の<b>企業</b>における<b>データ収集</b>、データ蓄積、データ処理（AIの適用を含む。",
+                    "cacheId": "WiseNfGN1WYJ",
+                    "formattedUrl": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/.../nd132210.html",
+                    "htmlFormattedUrl": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/.../nd132210.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqX_4__EyeOT4EA2235Cqp50jXVEcR5HSqWTsyrb7d8ZkEdWWeCrtnwjI",
+                                "width": "366",
+                                "height": "137"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r02/image/n3202010.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "データ活用とは？企業におけるデータの重要性や職種別の活用例を ...",
+                    "htmlTitle": "<b>データ</b>活用とは？<b>企業</b>における<b>データ</b>の重要性や職種別の活用例を ...",
+                    "link": "https://exceljoshi.cocoo.co.jp/media/work-efficiency-date-leverage",
+                    "displayLink": "exceljoshi.cocoo.co.jp",
+                    "snippet": "2022/08/04 ... IoTやAIなどの登場によって大企業でなくても多くのデータ収集ができ、さらにはビッグデータを組み合わせながら分析を行い、業務のなかで活用できる ...",
+                    "htmlSnippet": "2022/08/04 <b>...</b> IoTやAIなどの登場によって大<b>企業</b>でなくても多くの<b>データ収集</b>ができ、さらにはビッグデータを組み合わせながら分析を行い、業務のなかで活用できる&nbsp;...",
+                    "cacheId": "J0s7TDvqCvQJ",
+                    "formattedUrl": "https://exceljoshi.cocoo.co.jp/media/work-efficiency-date-leverage",
+                    "htmlFormattedUrl": "https://exceljoshi.cocoo.co.jp/media/work-efficiency-date-leverage",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7tStmPZF6LSA5Myo8WfUHbmTjIYhpx5XoCPg_LwflXnnZqMSCHF1t-LU",
+                                "width": "299",
+                                "height": "168"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://exceljoshi.cocoo.co.jp/hubfs/excel_joshi/images/work-efficiency-date-leverage/work-efficiency-date-leverage_main.jpeg#keepProtocol",
+                                "twitter:title": "データ活用とは？企業におけるデータの重要性や職種別の活用例をご紹介",
+                                "og:image:width": "760",
+                                "og:image:alt": "データ活用とは？企業におけるデータの重要性や職種別の活用例を紹介",
+                                "twitter:card": "summary_large_image",
+                                "og:type": "article",
+                                "twitter:domain": "exceljoshi.cocoo.co.jp",
+                                "og:title": "データ活用とは？企業におけるデータの重要性や職種別の活用例をご紹介",
+                                "og:image:height": "428",
+                                "og:description": "データ活用を行うことによって企業の営業活動やマーケティング、人事、製造、出店計画などを効果的かつ戦略的に進めていくことができます。この記事では、現在のビジネスの状況を把握して業務改善に活かしたい方、将来を予測しながら戦略的に営業活動を行いたい方などのために、企業のデータ活用について解説します。",
+                                "twitter:image": "https://exceljoshi.cocoo.co.jp/hubfs/excel_joshi/images/work-efficiency-date-leverage/work-efficiency-date-leverage_main.jpeg#keepProtocol",
+                                "twitter:image:alt": "データ活用とは？企業におけるデータの重要性や職種別の活用例を紹介",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "データ活用を行うことによって企業の営業活動やマーケティング、人事、製造、出店計画などを効果的かつ戦略的に進めていくことができます。この記事では、現在のビジネスの状況を把握して業務改善に活かしたい方、将来を予測しながら戦略的に営業活動を行いたい方などのために、企業のデータ活用について解説します。",
+                                "og:url": "https://exceljoshi.cocoo.co.jp/media/work-efficiency-date-leverage"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://exceljoshi.cocoo.co.jp/hubfs/excel_joshi/images/work-efficiency-date-leverage/work-efficiency-date-leverage_main.jpeg#keepProtocol"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "AI学習用のデータ収集代行会社プロ厳選おすすめ8社！【2023年最新 ...",
+                    "htmlTitle": "AI学習用の<b>データ収集</b>代行会社プロ厳選おすすめ8社！【2023年最新 ...",
+                    "link": "https://ai-market.jp/services/data-collection_company/",
+                    "displayLink": "ai-market.jp",
+                    "snippet": "2023/01/02 ... AI学習用のデータ収集代行会社プロ厳選おすすめ8社！【2023年最新版】 · 3.1 Datatang株式会社 · 3.2 株式会社コネクティル · 3.3 株式会社APTO · 3.4 株式 ...",
+                    "htmlSnippet": "2023/01/02 <b>...</b> AI学習用の<b>データ収集</b>代行会社プロ厳選おすすめ8社！【2023年最新版】 &middot; 3.1 Datatang株式会社 &middot; 3.2 株式会社コネクティル &middot; 3.3 株式会社APTO &middot; 3.4 株式&nbsp;...",
+                    "cacheId": "PlBxG5cS3p0J",
+                    "formattedUrl": "https://ai-market.jp/services/data-collection_company/",
+                    "htmlFormattedUrl": "https://ai-market.jp/services/data-collection_company/",
+                    "pagemap": {
+                        "hcard": [
+                            {
+                                "fn": "AI Market 編集部"
+                            },
+                            {
+                                "fn": "AI Market 編集部",
+                                "photo": "https://ai-market.jp/wp-content/uploads/2021/02/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-2021-02-20-19.51.51-1.png",
+                                "url": "https://ai-market.jp/author/aimarket/"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD3FLr4qLjfeXmtH9-B3IYh4Gh7bkXrrTY2xp5grfDpJYsrRPDKiTW2iD5",
+                                "width": "364",
+                                "height": "138"
+                            }
+                        ],
+                        "person": [
+                            {
+                                "image": "https://ai-market.jp/wp-content/uploads/2021/02/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-2021-02-20-19.51.51-1.png",
+                                "name": "AI Market 編集部",
+                                "description": "AI Marketの編集部コンテンツです。AI Market編集部は、AI（人工知能）に関する技術や、製品・サービスなどの紹介記事を提供しています。ご興味をお...",
+                                "url": "AI Market 編集部"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://ai-market.jp/wp-content/uploads/2021/11/AI学習用データ収集会社.png",
+                                "og:type": "article",
+                                "article:published_time": "2021-11-30T03:46:31+00:00",
+                                "og:image:width": "1640",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "AI Market",
+                                "author": "AI Market 編集部",
+                                "og:title": "AI学習用のデータ収集代行会社プロ厳選おすすめ8社！【2023年最新版】 - AI Market",
+                                "og:image:height": "624",
+                                "twitter:label1": "執筆者",
+                                "twitter:label2": "推定読み取り時間",
+                                "og:image:type": "image/png",
+                                "msapplication-tileimage": "https://ai-market.jp/wp-content/uploads/2021/01/cropped-Group-246-270x270.png",
+                                "og:description": "AI学習用のデータ収集代行会社、プロ厳選おすすめ8社を紹介。画像認識や音声認識AIなどに必要な画像、動画、会話音声等のデータ収集。実績や提供サービスなどの観点からデータ収集代行企業を紹介しています。データ収集会社の見積り・外注/委託を検討されている際はぜひご参考ください。",
+                                "twitter:creator": "@AIMarket_jp",
+                                "article:publisher": "https://www.facebook.com/AIMarket.fb",
+                                "twitter:data1": "AI Market 編集部",
+                                "twitter:data2": "4分",
+                                "twitter:site": "@AIMarket_jp",
+                                "article:modified_time": "2023-01-02T05:46:55+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://ai-market.jp/services/data-collection_company/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://ai-market.jp/wp-content/uploads/2021/11/AI%E5%AD%A6%E7%BF%92%E7%94%A8%E3%83%86%E3%82%99%E3%83%BC%E3%82%BF%E5%8F%8E%E9%9B%86%E4%BC%9A%E7%A4%BE.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "総務省｜令和2年版 情報通信白書｜企業によるパーソナルデータ収集 ...",
+                    "htmlTitle": "総務省｜令和2年版 情報通信白書｜<b>企業</b>によるパーソナル<b>データ収集</b> ...",
+                    "link": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r02/html/nd131300.html",
+                    "displayLink": "www.soumu.go.jp",
+                    "snippet": "3 企業によるパーソナルデータ収集の現状 ... 例えば、あらゆる家電がインターネットにつながることで、提供企業が利用者の生活様式に関するデータを集めることも可能 ...",
+                    "htmlSnippet": "3 <b>企業</b>によるパーソナル<b>データ収集</b>の現状 ... 例えば、あらゆる家電がインターネットにつながることで、提供<b>企業</b>が利用者の生活様式に関するデータを集めることも可能&nbsp;...",
+                    "cacheId": "2Zj8IBySC5cJ",
+                    "formattedUrl": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/.../nd131300.html",
+                    "htmlFormattedUrl": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/.../nd131300.html"
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "顧客データ収集の方法と有効なツール。収集すべき2種類の顧客 ...",
+                    "htmlTitle": "顧客<b>データ収集</b>の方法と有効なツール。収集すべき2種類の顧客 ...",
+                    "link": "https://www.ever-rise.co.jp/dx-blog/data-collection/",
+                    "displayLink": "www.ever-rise.co.jp",
+                    "snippet": "2023/03/16 ... 近年、デジタルの発展によりオンライン・オフラインを問わず、さまざまなデータを大量に取得できるようになり、多くの企業が顧客データ活用の取り組み ...",
+                    "htmlSnippet": "2023/03/16 <b>...</b> 近年、デジタルの発展によりオンライン・オフラインを問わず、さまざまな<b>データ</b>を大量に取得できるようになり、多くの<b>企業</b>が顧客<b>データ</b>活用の取り組み&nbsp;...",
+                    "cacheId": "7R2mZ9mOb6QJ",
+                    "formattedUrl": "https://www.ever-rise.co.jp/dx-blog/data-collection/",
+                    "htmlFormattedUrl": "https://www.ever-rise.co.jp/dx-blog/data-collection/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQEPfIU-SvU6H54KcJ2JKqGKf5Hrjcnx95GWKQUdIZLrzUqAhAk57T2B8Y",
+                                "width": "310",
+                                "height": "162"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.ever-rise.co.jp/dx-blog/static/68c8208e88e356adff4217635fee2599/f3583/data-collection-thumbnail.png",
+                                "theme-color": "#031E43",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "顧客データ収集の方法と有効なツール。収集すべき2種類の顧客データ",
+                                "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                                "twitter:description": "近年、デジタルの発展によりオンライン・オフラインを問わず、さまざまなデータを大量に取得できるようになり、多くの企業が顧客データ活用の取り組みを始めているかと思います。しかし、顧客データ活用の最初のステップである、データ収集がうまくいっていない企業も多いのではないでしょうか。本記事では、顧客データの種類と収集方法から、顧客データを収集する際の注意点を紹介します。",
+                                "og:title": "顧客データ収集の方法と有効なツール。収集すべき2種類の顧客データ",
+                                "og:description": "近年、デジタルの発展によりオンライン・オフラインを問わず、さまざまなデータを大量に取得できるようになり、多くの企業が顧客データ活用の取り組みを始めているかと思います。しかし、顧客データ活用の最初のステップである、データ収集がうまくいっていない企業も多いのではないでしょうか。本記事では、顧客データの種類と収集方法から、顧客データを収集する際の注意点を紹介します。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.ever-rise.co.jp/dx-blog/static/68c8208e88e356adff4217635fee2599/f3583/data-collection-thumbnail.png"
+                            }
+                        ],
+                        "article": [
+                            {
+                                "articlebody": "近年、デジタルの発展によりオンライン・オフラインを問わず、さまざまなデータを大量に取得できるようになり、多くの企業が顧客データ活用...",
+                                "headline": "顧客データ収集の方法と有効なツール。収集すべき2種類の顧客データ"
+                            },
+                            {
+                                "headline": "顧客データ統合に必要な仕組み・データレイク/ETL/DWH/データマートとCDP",
+                                "url": "https://www.ever-rise.co.jp/dx-blog/data-integration-mechanism/"
+                            },
+                            {
+                                "headline": "CDPとMDMの違い、データ活用でのマスターデータマネジメントの重要性",
+                                "url": "https://www.ever-rise.co.jp/dx-blog/cdp-mdm/"
+                            },
+                            {
+                                "headline": "プライベートDMPとは？パブリックDMP・CDPとの違い、機能や問題点",
+                                "url": "https://www.ever-rise.co.jp/dx-blog/private-dmp/"
+                            },
+                            {
+                                "headline": "CDP導入のメリット！失敗しないツールの選び方と導入時の注意点",
+                                "url": "https://www.ever-rise.co.jp/dx-blog/cdp-introduce/"
+                            },
+                            {
+                                "headline": "人材業界のデータ活用",
+                                "url": "https://www.ever-rise.co.jp/dx-blog/human-resources-data-utilization/"
+                            },
+                            {
+                                "headline": "BIツールとExcelの違い、データ分析が正しく高速になる活用例",
+                                "url": "https://www.ever-rise.co.jp/dx-blog/bi-utilization/"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "持続可能性データの収集 | シュナイダーエレクトリック",
+                    "htmlTitle": "持続可能性<b>データ</b>の<b>収集</b> | シュナイダーエレクトリック",
+                    "link": "https://www.se.com/jp/ja/work/services/sustainability-business/energy-and-sustainability-software/data-collection.jsp",
+                    "displayLink": "www.se.com",
+                    "snippet": "AIにより、企業はエネルギーおよび持続可能性戦略の基盤として、正確かつ詳細な分析を目的として、データベースからより多くの価値を得ることができます。AIとエキスパート ...",
+                    "htmlSnippet": "AIにより、<b>企業</b>はエネルギーおよび持続可能性戦略の基盤として、正確かつ詳細な分析を目的として、データベースからより多くの価値を得ることができます。AIとエキスパート&nbsp;...",
+                    "cacheId": "dcz4K0pmtToJ",
+                    "formattedUrl": "https://www.se.com/jp/ja/work/services/sustainability.../data-collection.jsp",
+                    "htmlFormattedUrl": "https://www.se.com/jp/ja/work/services/sustainability.../data-collection.jsp",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQhmfLbWsA3ILg-IOtF0L5wi_BYo7Q-eSJAqNUiWxoRfAUUOvHtqvsmTg",
+                                "width": "311",
+                                "height": "162"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.se.com/jp/ja/assets/custom_logo/Schneider-Electric-Social.png",
+                                "og:type": "website",
+                                "twitter:card": "summary",
+                                "twitter:site": "@SchneiderElec",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "持続可能性データの収集 | シュナイダーエレクトリック",
+                                "og:url": "https://www.se.com/jp/ja/work/services/sustainability-business/energy-and-sustainability-software/data-collection.jsp",
+                                "og:description": "シュナイダーエレクトリックグローバル。包括的なデータ収集により、持続可能性とエネルギーに関するレポートを信頼することができます。確信を持って意志決定を下し、すべての省エネ策を特定できます。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.se.com/jp/ja/assets/custom_logo/Schneider-Electric-Social.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "サステナビリティ関連データの収集・活用等に関する実態調査の ...",
+                    "htmlTitle": "サステナビリティ関連<b>データ</b>の<b>収集</b>・活用等に関する実態調査の ...",
+                    "link": "https://www.meti.go.jp/shingikai/economy/hizaimu_joho/data_wg/pdf/003_05_00.pdf",
+                    "displayLink": "www.meti.go.jp",
+                    "snippet": "2023/03/01 ... 企業価値創造のためのサステナビリティデータの収集について、特に企業は、「企業グループ外（サプライチェー. ン／バリューチェーン）におけるデータ収集 ...",
+                    "htmlSnippet": "2023/03/01 <b>...</b> <b>企業</b>価値創造のためのサステナビリティデータの収集について、特に<b>企業</b>は、「<b>企業</b>グループ外（サプライチェー. ン／バリューチェーン）における<b>データ収集</b>&nbsp;...",
+                    "cacheId": "sYADf330BUcJ",
+                    "formattedUrl": "https://www.meti.go.jp/shingikai/economy/hizaimu.../003_05_00.pdf",
+                    "htmlFormattedUrl": "https://www.meti.go.jp/shingikai/economy/hizaimu.../003_05_00.pdf",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZyJOlCRNH2SaJuQROl865az0_ogdcU4gKyMfw20HWZxeoE8rvuOFzhIQ",
+                                "width": "353",
+                                "height": "143"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "moddate": "D:20230301155932+09'00'",
+                                "creator": "Microsoft® PowerPoint® for Microsoft 365",
+                                "creationdate": "D:20230301155932+09'00'",
+                                "producer": "Microsoft® PowerPoint® for Microsoft 365"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "x-raw-image:///1a92279a21fb0db1573dd7747a0110b66769e6b6e6e28dde637ee7d235716837"
+                            }
+                        ]
+                    },
+                    "mime": "application/pdf",
+                    "fileFormat": "PDF/Adobe Acrobat"
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "企業データの収集でお悩みの方へ！ツールや手法、コツをご紹介",
+                    "htmlTitle": "<b>企業データ</b>の<b>収集</b>でお悩みの方へ！ツールや手法、コツをご紹介",
+                    "link": "https://www.dsk-cloud.com/blog/data-aggregation-for-companies",
+                    "displayLink": "www.dsk-cloud.com",
+                    "snippet": "2020/07/02 ... データの統合的管理やデータ分析へ取り組むにはまず、社内に散在しているデータをかき集めなければいけません。しかしこれがなかなかに難しい作業です ...",
+                    "htmlSnippet": "2020/07/02 <b>...</b> <b>データ</b>の統合的管理や<b>データ</b>分析へ取り組むにはまず、社内に散在している<b>データ</b>をかき集めなければいけません。しかしこれがなかなかに難しい作業です&nbsp;...",
+                    "cacheId": "kzd4cALL4d8J",
+                    "formattedUrl": "https://www.dsk-cloud.com/blog/data-aggregation-for-companies",
+                    "htmlFormattedUrl": "https://www.dsk-cloud.com/blog/data-aggregation-for-companies",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJpjTPBMgasvtg8Xd--kE8LgslonlQuN1QLtMPrsQb2dEP8H6f-3lGv8g",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.dsk-cloud.com/hubfs/data-aggregation.jpg#keepProtocol",
+                                "twitter:title": "企業データの収集でお悩みの方へ！ツールや手法、コツをご紹介",
+                                "og:image:width": "1000",
+                                "og:image:alt": "データ 収集",
+                                "twitter:card": "summary_large_image",
+                                "og:type": "article",
+                                "twitter:domain": "www.dsk-cloud.com",
+                                "author": "株式会社電算システム",
+                                "og:title": "企業データの収集でお悩みの方へ！ツールや手法、コツをご紹介",
+                                "og:image:height": "667",
+                                "og:description": "データの統合的管理やデータ分析へ取り組むにはまず、社内に散在しているデータをかき集めなければいけません。しかしこれがなかなかに難しい作業です。システムごとに重複したデータを管理していることや、それぞれにデータフォーマットが異なることを考慮するとデータ収集にかかる手間とコストは非常に大きいと容易に想像できます。",
+                                "twitter:image": "https://www.dsk-cloud.com/hubfs/data-aggregation.jpg#keepProtocol",
+                                "facebook-domain-verification": "gxk32og9sbaoi66hj3t30rs5y41pq8",
+                                "twitter:image:alt": "データ 収集",
+                                "twitter:site": "@rakumaru_dsk",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "データの統合的管理やデータ分析へ取り組むにはまず、社内に散在しているデータをかき集めなければいけません。しかしこれがなかなかに難しい作業です。システムごとに重複したデータを管理していることや、それぞれにデータフォーマットが異なることを考慮するとデータ収集にかかる手間とコストは非常に大きいと容易に想像できます。",
+                                "og:url": "https://www.dsk-cloud.com/blog/data-aggregation-for-companies"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.dsk-cloud.com/hubfs/data-aggregation.jpg#keepProtocol"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "item": "ブログ",
+                                "name": "ブログ",
+                                "position": "2"
+                            },
+                            {
+                                "item": "データ分析",
+                                "name": "データ分析",
+                                "position": "3"
+                            },
+                            {
+                                "item": "企業データの収集でお悩みの方へ！ツールや手法、コツをご紹介",
+                                "name": "企業データの収集でお悩みの方へ！ツールや手法、コツをご紹介",
+                                "position": "4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "データ収集の5つのコツ！基本的な流れから丁寧に解説 | TRYETING ...",
+                    "htmlTitle": "<b>データ収集</b>の5つのコツ！基本的な流れから丁寧に解説 | TRYETING ...",
+                    "link": "https://www.tryeting.jp/column/4034/",
+                    "displayLink": "www.tryeting.jp",
+                    "snippet": "2022/03/23 ... ビッグデータを活用することで、企業のビジネスに大きな変革を与えられます。しかし、「データ活用といってもどのように進めればいいか分から ...",
+                    "htmlSnippet": "2022/03/23 <b>...</b> ビッグ<b>データ</b>を活用することで、<b>企業</b>のビジネスに大きな変革を与えられます。しかし、「<b>データ</b>活用といってもどのように進めればいいか分から&nbsp;...",
+                    "cacheId": "RnXLnKtsa7cJ",
+                    "formattedUrl": "https://www.tryeting.jp/column/4034/",
+                    "htmlFormattedUrl": "https://www.tryeting.jp/column/4034/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxG5hkJGZ2b0SobQmNotLfOF9iDoBBcA2mOr1fUkZz0BtoLUz7CG1kQSI",
+                                "width": "299",
+                                "height": "168"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.tryeting.jp/wp/wp-content/uploads/2022/03/data-kotu-01.jpg",
+                                "theme-color": "#111",
+                                "og:type": "article",
+                                "og:image:width": "1710",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "データ収集の5つのコツ！基本的な流れから丁寧に解説",
+                                "og:site_name": "TRYETING Inc.（トライエッティング）",
+                                "og:title": "データ収集の5つのコツ！基本的な流れから丁寧に解説",
+                                "og:image:height": "962",
+                                "bingbot": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+                                "og:description": "ビッグデータを活用することで、企業のビジネスに大きな変革を与えられます。しかし、「データ活用といってもどのように進めればいいか分からない」「とりあえずデータを集めているけどどのように活用すべきか分からない」と悩んでいる企業の方も多いでしょう。",
+                                "twitter:image": "https://www.tryeting.jp/wp/wp-content/uploads/2022/03/data-kotu-01.jpg",
+                                "facebook-domain-verification": "76sfwmnvtvrgbilmmiwl09i55pik5d",
+                                "article:modified_time": "2022-09-28T10:12:35+00:00",
+                                "viewport": "width=device-width,initial-scale=1.0",
+                                "twitter:description": "ビッグデータを活用することで、企業のビジネスに大きな変革を与えられます。しかし、「データ活用といってもどのように進めればいいか分からない」「とりあえずデータを集めているけどどのように活用すべきか分からない」と悩んでいる企業の方も多いでしょう。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.tryeting.jp/column/4034/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.tryeting.jp/wp/wp-content/uploads/2022/03/data-kotu-01.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "「サステナブルな企業価値創造に向けたサステナビリティ関連 ...",
+                    "htmlTitle": "「サステナブルな<b>企業</b>価値創造に向けたサステナビリティ関連 ...",
+                    "link": "https://www.meti.go.jp/press/2022/12/20221212001/20221212001.html",
+                    "displayLink": "www.meti.go.jp",
+                    "snippet": "2022/12/12 ... 経済産業省は、企業によるサステナビリティ関連データの正確かつ効率的な収集及び戦略的活用を促進し、企業価値創造に向けた経営・事業改革に繋げる ...",
+                    "htmlSnippet": "2022/12/12 <b>...</b> 経済産業省は、<b>企業</b>によるサステナビリティ関連<b>データ</b>の正確かつ効率的な<b>収集</b>及び戦略的活用を促進し、<b>企業</b>価値創造に向けた経営・事業改革に繋げる&nbsp;...",
+                    "cacheId": "KjwC6F-tt6QJ",
+                    "formattedUrl": "https://www.meti.go.jp/press/2022/12/20221212001/20221212001.html",
+                    "htmlFormattedUrl": "https://www.meti.go.jp/press/2022/12/20221212001/20221212001.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdd0ekuTwHPMkwCIixGf2VKNMxOuSVT6isOQKpKK72lJwNAR06j4ArWA",
+                                "width": "438",
+                                "height": "115"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.meti.go.jp/img_2017/logo.png"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 企業 データ収集",
+                        "totalResults": "59200000",
+                        "searchTerms": "企業 データ収集",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 企業 データ収集",
+                        "totalResults": "59200000",
+                        "searchTerms": "企業 データ収集",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 企業 データ収集",
+                        "totalResults": "59200000",
+                        "searchTerms": "企業 データ収集",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.204522,
+                "formattedSearchTime": "0.20",
+                "totalResults": "59200000",
+                "formattedTotalResults": "59,200,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "ビッグデータの分析に取り組む有名企業を紹介！ビッグデータの ...",
+                    "htmlTitle": "ビッグ<b>データ</b>の分析に取り組む有名<b>企業</b>を紹介！ビッグ<b>データ</b>の ...",
+                    "link": "https://www.geekly.co.jp/column/cat-position/big-data/",
+                    "displayLink": "www.geekly.co.jp",
+                    "snippet": "2023/03/31 ... ここでは、ビッグデータ企業で必要とされる仕事の種類についてご紹介します。 データエンジニア. データ分析を行うためには、まずデータ収集や管理が必要 ...",
+                    "htmlSnippet": "2023/03/31 <b>...</b> ここでは、ビッグデータ<b>企業</b>で必要とされる仕事の種類についてご紹介します。 データエンジニア. データ分析を行うためには、まず<b>データ収集</b>や管理が必要&nbsp;...",
+                    "cacheId": "6Xc8n3s_2D4J",
+                    "formattedUrl": "https://www.geekly.co.jp/column/cat-position/big-data/",
+                    "htmlFormattedUrl": "https://www.geekly.co.jp/column/cat-position/big-data/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6o9DodLZS8qMk9NNjjF4NrnErVf4luE77_p2kuNjmYBUXYlgI9vYK7ssk",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.geekly.co.jp/column/wp-content/uploads/2020/10/5ee9d0464c55b108f5d08460962933771d36dced4e507749742879d6944ac3_1280-e1602252810995-660x440.jpg",
+                                "og:type": "website",
+                                "og:site_name": "GeeklyMedia(ギークリーメディア)",
+                                "viewport": "width=device-width, initial-scale=1, maximum-scale=1.0",
+                                "og:title": "ビッグデータの分析に取り組む有名企業を紹介！ビッグデータの活用事例は？ビッグデータ分析企業に転職したい方必見 | GeeklyMedia(ギークリーメディア)",
+                                "og:url": "https://www.geekly.co.jp/column/cat-position/big-data/",
+                                "msapplication-tileimage": "https://www.geekly.co.jp/column/wp-content/uploads/2019/11/cropped-rogo-1-1-270x270.jpg",
+                                "og:description": "ビッグデータを利用して情報を分析する現代。データ分析からよりよい顧客サービスへつなげたり、売り上げアップを目指すなど、ビッグデータを活用する企業も増えています。今回はそんなビッグデータを扱う企業に転職したい方へ、ビッグデータの有名企業や転職に役立つ情報をご紹介します。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.geekly.co.jp/column/wp-content/uploads/2020/10/5ee9d0464c55b108f5d08460962933771d36dced4e507749742879d6944ac3_1280-e1602252810995-660x440.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Intune でのデータ収集 - Microsoft Intune | Microsoft Learn",
+                    "htmlTitle": "Intune での<b>データ収集</b> - Microsoft Intune | Microsoft Learn",
+                    "link": "https://learn.microsoft.com/ja-jp/mem/intune/protect/privacy-data-collect",
+                    "displayLink": "learn.microsoft.com",
+                    "snippet": "2023/03/15 ... 必須データ; オプション データ; 収集されない特定のエンド ユーザー データまたはコンテンツ; 次の手順. ユーザーが企業または個人のデバイス ...",
+                    "htmlSnippet": "2023/03/15 <b>...</b> 必須<b>データ</b>; オプション <b>データ</b>; <b>収集</b>されない特定のエンド ユーザー <b>データ</b>またはコンテンツ; 次の手順. ユーザーが<b>企業</b>または個人のデバイス&nbsp;...",
+                    "cacheId": "I1vrodLo4foJ",
+                    "formattedUrl": "https://learn.microsoft.com/ja-jp/mem/intune/protect/privacy-data-collect",
+                    "htmlFormattedUrl": "https://learn.microsoft.com/ja-jp/mem/intune/protect/privacy-data-collect",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQByNZQ3LP4Eb5X_81XLJBzrqL88bPkzuvegOeSgeMQwk6zA-26fyBAC8M",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "organization": [
+                            {
+                                "url": "https://www.microsoft.com/"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "schema": "Conceptual",
+                                "og:image": "https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png",
+                                "twitter:card": "summary",
+                                "ms.collection": "tier2",
+                                "loc_source_id": "Github-235678603#live",
+                                "ms.author": "brenduns",
+                                "ms.topic": "conceptual",
+                                "page_type": "conceptual",
+                                "ms.custom": "intune-azure",
+                                "ms.localizationpriority": "high",
+                                "document_id": "92f5f6f5-e3f0-c28c-4789-894774b93ed2",
+                                "locale": "ja-jp",
+                                "og:description": "Intune で収集される個人データについて説明します。",
+                                "ms.date": "04/27/2022",
+                                "depot_name": "MSDN.memdocs",
+                                "ms.service": "microsoft-intune",
+                                "github_feedback_content_git_url": "https://github.com/MicrosoftDocs/memdocs/blob/main/memdocs/intune/protect/privacy-data-collect.md",
+                                "word_count": "3116",
+                                "twitter:site": "@MicrosoftLearn",
+                                "updated_at": "2023-04-14 05:39 AM",
+                                "ms.reviewer": "demerson",
+                                "loc_version": "2023-04-13T17:42:45.5711544Z",
+                                "ms.subservice": "protect",
+                                "original_content_git_url": "https://github.com/MicrosoftDocs/memdocs-pr/blob/live/memdocs/intune/protect/privacy-data-collect.md",
+                                "scope": "Intune",
+                                "loc_file_id": "Github-235678603.live.MSDN.memdocs.intune/protect/privacy-data-collect.md",
+                                "ocv-translation-feedback": "true",
+                                "og:type": "website",
+                                "og:image:alt": "Microsoft Logo",
+                                "manager": "dougeby",
+                                "persistent_id": "2f18ae2a-3ce1-4f69-9302-f38905928933",
+                                "ms.contentlocale": "ja-jp",
+                                "author": "Brenduns",
+                                "ms.suite": "ems",
+                                "og:title": "Intune でのデータ収集 - Microsoft Intune",
+                                "color-scheme": "light dark",
+                                "site_name": "Docs",
+                                "ms.assetid": "d1171740-936d-46a5-af37-f418bd6fa63e",
+                                "ms.translationtype": "MT",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "breadcrumb_path": "/mem/breadcrumb/toc.json",
+                                "document_version_independent_id": "02b9fe77-ed28-a366-16f7-413a72ddfeb9",
+                                "cmproducts": "https://authoring-docs-microsoft.poolparty.biz/devrel/264575ff-1dea-4c26-a34d-7f5c8823abff",
+                                "og:url": "https://learn.microsoft.com/ja-jp/mem/intune/protect/privacy-data-collect",
+                                "search.appverid": "MET150",
+                                "uhfheaderid": "MSDocsHeader-Intune",
+                                "toc_rel": "../toc.json",
+                                "gitcommit": "https://github.com/MicrosoftDocs/memdocs-pr/blob/4d578748ae40c5ab3c806bfe49b0752a48b8333d/memdocs/intune/protect/privacy-data-collect.md"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "企業データ、収集から利活用へ 提携広がる - 日本経済新聞",
+                    "htmlTitle": "<b>企業データ</b>、<b>収集</b>から利活用へ 提携広がる - 日本経済新聞",
+                    "link": "https://www.nikkei.com/article/DGXZQOUC194IA0Z10C21A4000000/",
+                    "displayLink": "www.nikkei.com",
+                    "snippet": "2021/05/07 ... コールセンター大手のベルシステム24もデータ分析のブレインパッドと組んだ。企業のデータ活用は収集の段階から、利活用に軸足が移りつつある。 SCSKは ...",
+                    "htmlSnippet": "2021/05/07 <b>...</b> コールセンター大手のベルシステム24も<b>データ</b>分析のブレインパッドと組んだ。<b>企業</b>の<b>データ</b>活用は<b>収集</b>の段階から、利活用に軸足が移りつつある。 SCSKは&nbsp;...",
+                    "formattedUrl": "https://www.nikkei.com/article/DGXZQOUC194IA0Z10C21A4000000/",
+                    "htmlFormattedUrl": "https://www.nikkei.com/article/DGXZQOUC194IA0Z10C21A4000000/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfAJqq9r7Y0nAuKoAO8ZYtGc5i6tsp6jmTlAUvWzOB74vIVOJhWRJU0Dg",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO0579387007052021000000-1.jpg?ixlib=js-3.8.0&auto=format%2Ccompress&fit=crop&bg=FFFFFF&w=1200&h=630&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=44ae409340a0a561d917b58ca06ced69",
+                                "apple-itunes-app": "app-id=396855834, app-argument=nikkei://article/DGXZQOUC194IA0Z10C21A4000000/?from=sab",
+                                "theme-color": "#003e70",
+                                "twitter:card": "summary_large_image",
+                                "article:published_time": "2021-05-07T20:21:49+09:00",
+                                "og:site_name": "日本経済新聞",
+                                "al:android:package": "com.nikkei.newspaper",
+                                "x-f1h-custom-value": "{\"DSR\":1,\"dp\":\"r\",\"KFID0\":\"\",\"KFID2\":\"\",\"nk3\":\"8\",\"KJID\":\"DGXZQOUC194IA0Z10C21A4000000\",\"TOPIC\":[\"1B000000\",\"1B000000\",\"1BC20000\",\"1BC30000\",\"sokuho\"]}",
+                                "al:ios:url": "nikkei://article/DGXZQOUC194IA0Z10C21A4000000",
+                                "og:description": "企業が蓄積したデータを新たな商機に生かすため、IT（情報技術）企業と提携する動きが広がり始めた。住友商事系のSCSKはサイバーエージェント子会社のマイクロアド（東京・渋谷）と資本業務提携する。コールセンター大手のベルシステム24もデータ分析のブレインパッドと組んだ。企業のデータ活用は収集の段階から、利活用に軸足が移りつつある。SCSKはマイクロアドにこのほど約10億円を出資した。出資比率を明ら",
+                                "twitter:image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO0579387007052021000000-1.jpg?ixlib=js-3.8.0&auto=format%2Ccompress&fit=crop&bg=FFFFFF&w=1200&h=630&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=44ae409340a0a561d917b58ca06ced69",
+                                "article:publisher": "https://www.facebook.com/nikkei/",
+                                "al:ios:app_store_id": "396855834",
+                                "twitter:site": "@nikkei",
+                                "twitter:title": "企業データ、収集から利活用へ　提携広がる",
+                                "og:type": "article",
+                                "article:section": "ビジネス",
+                                "al:ios:app_name": "日経電子版",
+                                "og:title": "企業データ、収集から利活用へ　提携広がる - 日本経済新聞",
+                                "al:android:url": "nikkei://article/DGXZQOUC194IA0Z10C21A4000000?caller=facebook_app",
+                                "fb:app_id": "197388106979545",
+                                "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.nikkei.com/article/DGXZQOUC194IA0Z10C21A4000000/",
+                                "al:android:app_name": "日経電子版",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO0579387007052021000000-1.jpg?ixlib=js-3.8.0&auto=format%2Ccompress&fit=crop&bg=FFFFFF&w=1200&h=630&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=44ae409340a0a561d917b58ca06ced69"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "約9割がデータ収集に課題を実感――コネクトデータ「オープン ...",
+                    "htmlTitle": "約9割が<b>データ収集</b>に課題を実感――コネクトデータ「オープン ...",
+                    "link": "https://enterprisezine.jp/news/detail/14828",
+                    "displayLink": "enterprisezine.jp",
+                    "snippet": "DXを実現するための重要な活動の一つである、オープンデータの活用に関して調査を行ったところ、中小企業ではデータ収集やデータ前処理などの準備や、データ活用を ...",
+                    "htmlSnippet": "DXを実現するための重要な活動の一つである、オープンデータの活用に関して調査を行ったところ、中小<b>企業</b>では<b>データ収集</b>やデータ前処理などの準備や、データ活用を&nbsp;...",
+                    "cacheId": "iU75JGlI8QMJ",
+                    "formattedUrl": "https://enterprisezine.jp/news/detail/14828",
+                    "htmlFormattedUrl": "https://enterprisezine.jp/news/detail/14828",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTohPJj6i99aQn8bX58aVNskTYRLPyTpPmDrAzy-wbXUOLDSrJ1HJrdgKo",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "imageobject": [
+                            {
+                                "url": "https://enterprisezine.jp/lib/img/cmn/logo2.png"
+                            }
+                        ],
+                        "person": [
+                            {
+                                "name": "EnterpriseZine編集部"
+                            }
+                        ],
+                        "organization": [
+                            {
+                                "name": "EnterpriseZine（エンタープライズジン）",
+                                "url": "enterprisezine.jp"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "msapplication-config": "browserconfig.xml",
+                                "og:image": "https://enterprisezine.jp/static/images/article/14828/14828_00.png",
+                                "cxenseparse:sho-author": "EnterpriseZine編集部",
+                                "og:image:width": "1200",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "EnterpriseZine",
+                                "cxenseparse:url": "https://enterprisezine.jp/news/detail/14828",
+                                "cxenseparse:sho-publish-m": "202108",
+                                "cxenseparse:sho-tag": "オープンデータ",
+                                "og:description": "コネクトデータは、オープンデータの活用に関する調査結果を発表した。DXを実現するための重要な活動の一つである、オープンデータの活用に関して調査を行ったところ、中小企業ではデータ収集やデータ前処理などの...",
+                                "twitter:site": "enterprisezine",
+                                "fb:admins": "100002509171990",
+                                "cxenseparse:recs:publishtime": "2021-08-20T17:22:00+09:00",
+                                "cxenseparse:sho-publish-y": "2021",
+                                "application-name": "EnterpriseZine",
+                                "og:type": "article",
+                                "cxenseparse:pageclass": "article",
+                                "og:title": "約9割がデータ収集に課題を実感――コネクトデータ「オープンデータの活用に関する調査」",
+                                "og:image:height": "630",
+                                "cxenseparse:sho-articlepath": "article/detail/14828",
+                                "cxenseparse:sho-article-title": "約9割がデータ収集に課題を実感――コネクトデータ「オープンデータの活用に関する調査」",
+                                "cxenseparse:sho-article-type": "ニュース",
+                                "cxenseparse:sho-publish-d": "20210820",
+                                "cxenseparse:recs:image": "https://enterprisezine.jp/static/images/article/14828/14828_00.png",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "cxenseparse:sho-corner": "EnterpriseZineニュース",
+                                "cxenseparse:sho-corner-id": "1",
+                                "og:url": "https://enterprisezine.jp/news/detail/14828",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://enterprisezine.jp/static/images/article/14828/14828_00.png"
+                            }
+                        ],
+                        "article": [
+                            {
+                                "articlebody": "コネクトデータは、オープンデータの活用に関する調査結果を発表した。DXを実現するための重要な活動の一つである、オープンデータの活用に関...",
+                                "datemodified": "2021/08/20 17:23",
+                                "headline": "約9割がデータ収集に課題を実感――コネクトデータ「オープンデータの活用に関する調査」",
+                                "datepublished": "2021/08/20 17:22",
+                                "mainentityofpage": "https://enterprisezine.jp/news/detail/14828"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "EnterpriseZineニュース",
+                                "name": "EnterpriseZineニュース",
+                                "position": "1"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "データ分析を行う企業はどこ？国内の屈指技術力を持つ企業や得意 ...",
+                    "htmlTitle": "<b>データ</b>分析を行う<b>企業</b>はどこ？国内の屈指技術力を持つ<b>企業</b>や得意 ...",
+                    "link": "https://aidiot.jp/media/data/task_company/",
+                    "displayLink": "aidiot.jp",
+                    "snippet": "2023/03/10 ... 収集・蓄積されたさまざまな種類のビッグデータの中から、必要な知見や ... コンサル型のデータアナリストは、企業や組織のビジネス上の課題を解決 ...",
+                    "htmlSnippet": "2023/03/10 <b>...</b> <b>収集</b>・蓄積されたさまざまな種類のビッグ<b>データ</b>の中から、必要な知見や ... コンサル型の<b>データ</b>アナリストは、<b>企業</b>や組織のビジネス上の課題を解決&nbsp;...",
+                    "cacheId": "80OZWoY7R5gJ",
+                    "formattedUrl": "https://aidiot.jp/media/data/task_company/",
+                    "htmlFormattedUrl": "https://aidiot.jp/media/data/task_company/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU-nTB7vTIySfDoSOOvbH7evgzkuBGkt4mFVW4Ll_p2Hk2lcegy0yXL2L3",
+                                "width": "259",
+                                "height": "194"
+                            }
+                        ],
+                        "breadcrumb": [
+                            {
+                                "title": "HOME",
+                                "url": "HOME"
+                            },
+                            {
+                                "title": "データ",
+                                "url": "データ"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://aidiot.jp/media/wp-content/uploads/2023/02/記事画像-14-730x410.png",
+                                "og:type": "article",
+                                "article:published_time": "2023-03-10T06:24:29+00:00",
+                                "twitter:card": "summary",
+                                "twitter:title": "データ分析を行う企業はどこ？国内の屈指技術力を持つ企業や得意領域を分かりやすく解説！ - Aidiotプラス",
+                                "og:site_name": "Aidiotプラス - アイディオットプラスはデータ活用・新規事業開発者様に向けた日々の業務にプラスになるお役立ち情報をお届け。",
+                                "og:title": "データ分析を行う企業はどこ？国内の屈指技術力を持つ企業や得意領域を分かりやすく解説！ - Aidiotプラス",
+                                "og:description": "収集・蓄積されたさまざまな種類のビッグデータの中から、必要な知見や情報を抽出するデータ分析。データを収集・蓄積",
+                                "facebook-domain-verification": "7a8a3yxggmj1ujbky21etxouffzw2e",
+                                "article:modified_time": "2023-03-10T02:03:42+00:00",
+                                "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                                "twitter:description": "収集・蓄積されたさまざまな種類のビッグデータの中から、必要な知見や情報を抽出するデータ分析。データを収集・蓄積",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://aidiot.jp/media/data/task_company/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://aidiot.jp/media/wp-content/uploads/2023/02/%E8%A8%98%E4%BA%8B%E7%94%BB%E5%83%8F-14.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "アノテーションデータ収集を外部の企業に委託する際のチェック ...",
+                    "htmlTitle": "アノテーション<b>データ収集</b>を外部の<b>企業</b>に委託する際のチェック ...",
+                    "link": "https://book.st-hakky.com/docs/checkpoint-when-outsourcing-annotation/",
+                    "displayLink": "book.st-hakky.com",
+                    "snippet": "アノテーションデータ収集をする前に、対象となるデータにどのようなラベルを付与するか、またそのラベル定義が明確であることを確認しましょう。 2. アノテーションツール ...",
+                    "htmlSnippet": "アノテーション<b>データ収集</b>をする前に、対象となるデータにどのようなラベルを付与するか、またそのラベル定義が明確であることを確認しましょう。 2. アノテーションツール&nbsp;...",
+                    "cacheId": "U3LX3HyBfysJ",
+                    "formattedUrl": "https://book.st-hakky.com/docs/checkpoint-when-outsourcing-annotation/",
+                    "htmlFormattedUrl": "https://book.st-hakky.com/docs/checkpoint-when-outsourcing-annotation/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBjRMYkAEosdOGFic1mt4iSUQRoCxvZoRYJU9ppzBwUJL8D6XLtS-3I8E",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://book.st-hakky.com/img/logo.png",
+                                "twitter:card": "summary_large_image",
+                                "docsearch:version": "current",
+                                "og:title": "アノテーションデータ収集を外部の企業に委託する際のチェックポイント | Hakky Handbook",
+                                "docusaurus_version": "current",
+                                "docsearch:language": "en",
+                                "og:description": "アノテーションデータ収集の概要・何をするのか・委託会社に依頼するメリット・委託会社に依頼する際のチェックポイントについて紹介しています。",
+                                "twitter:image": "https://book.st-hakky.com/img/logo.png",
+                                "docusaurus_tag": "docs-default-current",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "docusaurus_locale": "en",
+                                "docsearch:docusaurus_tag": "docs-default-current",
+                                "og:url": "https://book.st-hakky.com/docs/checkpoint-when-outsourcing-annotation/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://book.st-hakky.com/img/logo.png"
+                            }
+                        ],
+                        "breadcrumblist": [
+                            {
+                                "position": "1"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "name": "アノテーション",
+                                "position": "4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "ビッグデータ企業による情報収集を防ぐことってできるの ...",
+                    "htmlTitle": "ビッグ<b>データ企業</b>による情報<b>収集</b>を防ぐことってできるの ...",
+                    "link": "https://www.gizmodo.jp/2020/11/can-i-stop-big-data-companies-from-getting-my-personal.html",
+                    "displayLink": "www.gizmodo.jp",
+                    "snippet": "2020/11/24 ... 専門家に喫緊の疑問・質問を投げかける米Gizmodoの｢Giz Asks｣シリーズ。今回は5人にビッグデータ企業とデータ収集会社について語ってもらいました。",
+                    "htmlSnippet": "2020/11/24 <b>...</b> 専門家に喫緊の疑問・質問を投げかける米Gizmodoの｢Giz Asks｣シリーズ。今回は5人にビッグデータ<b>企業</b>と<b>データ収集</b>会社について語ってもらいました。",
+                    "cacheId": "TU0yxQWZQIgJ",
+                    "formattedUrl": "https://www.gizmodo.jp/.../can-i-stop-big-data-companies-from-getting-my- personal.html",
+                    "htmlFormattedUrl": "https://www.gizmodo.jp/.../can-i-stop-big-data-companies-from-getting-my- personal.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcVpR6oKazYLn4swBrxaZg35NhH1pXtUSMWQoYjqLZQHL_oV75PdSptiA",
+                                "width": "320",
+                                "height": "157"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://media.loom-app.com/gizmodo/dist/images/2020/11/24/201124bigdata.jpg?w=1280&h=630&f=jpg",
+                                "theme-color": "#ffffff",
+                                "twitter:card": "summary_large_image",
+                                "article:published_time": "2020-11-24T23:00:00.000Z",
+                                "og:description": "専門家に喫緊の疑問・質問を投げかける米Gizmodoの｢Giz Asks｣シリーズ。今回は5人にビッグデータ企業とデータ収集会社について語ってもらいました。みなさん、心の準備はいいですか？ 末恐ろしいですよ。",
+                                "twitter:site": "@gizmodojapan",
+                                "cxenseparse:author": "山田ちとら",
+                                "article:modified_time": "2020-11-24T13:46:00.000Z",
+                                "fb:admins": "1354296164",
+                                "cxenseparse:recs:publishtime": "2020-11-24T23:00:00.000Z",
+                                "cxenseparse:recs:articleid": "223879",
+                                "og:type": "article",
+                                "twitter:title": "ビッグデータ企業による情報収集を防ぐことってできるの？",
+                                "twitter:domain": "https://twitter.com/gizmodojapan",
+                                "cxenseparse:title": "ビッグデータ企業による情報収集を防ぐことってできるの？",
+                                "cxenseparse:pageclass": "article",
+                                "author": "mediagene Inc.",
+                                "og:title": "ビッグデータ企業による情報収集を防ぐことってできるの？",
+                                "cxenseparse:mdg-marker-categoryslug": "technology",
+                                "fb:pages": "118581851539475",
+                                "cxenseparse:mdg-marker-tagslug": "web",
+                                "fb:app_id": "116343322381911",
+                                "viewport": "width=device-width,initial-scale=1.0",
+                                "twitter:description": "専門家に喫緊の疑問・質問を投げかける米Gizmodoの｢Giz Asks｣シリーズ。今回は5人にビッグデータ企業とデータ収集会社について語ってもらいました。みなさん、心の準備はいいですか？ 末恐ろしいですよ。",
+                                "cxenseparse:mdg-marker-category": "TECHNOLOGY",
+                                "cxenseparse:mdg-marker-tag": "Web",
+                                "og:url": "https://www.gizmodo.jp/2020/11/can-i-stop-big-data-companies-from-getting-my-personal.html"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://media.loom-app.com/gizmodo/dist/images/2020/11/24/201124bigdata.jpg?w=1280&h=630&f=jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "顧客データの収集方法と活用術とは？種類・統合・分析・管理も ...",
+                    "htmlTitle": "顧客<b>データ</b>の<b>収集</b>方法と活用術とは？種類・統合・分析・管理も ...",
+                    "link": "https://www.brainpad.co.jp/rtoaster/blog/customer_data/",
+                    "displayLink": "www.brainpad.co.jp",
+                    "snippet": "2021/07/26 ... オフライン・オンラインを問わずあらゆる顧客データを収集し、統合・分析を ... 営業支援システムを顧客データの管理に使用すれば、顧客情報・企業 ...",
+                    "htmlSnippet": "2021/07/26 <b>...</b> オフライン・オンラインを問わずあらゆる顧客<b>データ</b>を<b>収集</b>し、統合・分析を ... 営業支援システムを顧客<b>データ</b>の管理に使用すれば、顧客情報・<b>企業</b>&nbsp;...",
+                    "cacheId": "-6NbXZwBCzsJ",
+                    "formattedUrl": "https://www.brainpad.co.jp/rtoaster/blog/customer_data/",
+                    "htmlFormattedUrl": "https://www.brainpad.co.jp/rtoaster/blog/customer_data/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT45P_C8haXmPrTrMRk8bnvHKBE_yRUCJs8cRM8UmfgsBjKkCxWHqKS6m4",
+                                "width": "269",
+                                "height": "187"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.brainpad.co.jp/rtoaster/wp/wp-content/uploads/2021/07/customerdata.jpg",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "Rtoaster",
+                                "viewport": "initial-scale=1.0, width=device-width",
+                                "og:title": "顧客データの収集方法と活用術とは？種類・統合・分析・管理も詳細解説｜Rtoaster - Webもアプリもパーソナライズ（アールトースター）",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.brainpad.co.jp/rtoaster/blog/customer_data/",
+                                "og:description": "マーケティングにおいて、第一に重要なのは顧客理解です。オフライン・オンラインを問わずあらゆる顧客データを収集し、統合・分析を行うことで顧客理解が深められ、より効果的なマーケティング施策を企画・実行できます。本記事では、顧客データの管理・ 分析・ 活用・ 統合・種類について詳細に解説します。顧客データを活用したデジタルマーケティングの参考にしてください。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.brainpad.co.jp/rtoaster/wp/wp-content/uploads/2021/07/customerdata.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "10の事例から学ぶ｜ビジネスにデータを活用して成功へ | IT ...",
+                    "htmlTitle": "10の事例から学ぶ｜ビジネスに<b>データ</b>を活用して成功へ | IT ...",
+                    "link": "https://www.it-comm.co.jp/media/10-cases-use-data-for-business-to-succeed",
+                    "displayLink": "www.it-comm.co.jp",
+                    "snippet": "2021/11/17 ... 企業がデータ活用に注力しているのは、それだけのメリットを見出せるから ... スシローが実践したのは、寿司皿へのICタグ取付によるデータ収集です。",
+                    "htmlSnippet": "2021/11/17 <b>...</b> <b>企業</b>がデータ活用に注力しているのは、それだけのメリットを見出せるから ... スシローが実践したのは、寿司皿へのICタグ取付による<b>データ収集</b>です。",
+                    "cacheId": "gn637nd3pOEJ",
+                    "formattedUrl": "https://www.it-comm.co.jp/media/10-cases-use-data-for-business-to-succeed",
+                    "htmlFormattedUrl": "https://www.it-comm.co.jp/media/10-cases-use-data-for-business-to-succeed",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfmT1PF8JWIUHtZGY4GnPuTLhesQ1CVTUijgYds8-d-ICrsCET0HXsHtRz",
+                                "width": "267",
+                                "height": "189"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.it-comm.co.jp/hubfs/blog/images/10-cases-use-data-for-business.png#keepProtocol",
+                                "twitter:title": "10の事例から学ぶ｜ビジネスにデータを活用して成功へ",
+                                "og:image:width": "1920",
+                                "og:image:alt": "10の事例から学ぶ｜ビジネスにデータを活用して成功へ",
+                                "twitter:card": "summary_large_image",
+                                "og:type": "article",
+                                "twitter:domain": "www.it-comm.co.jp",
+                                "og:title": "10の事例から学ぶ｜ビジネスにデータを活用して成功へ",
+                                "og:image:height": "1361",
+                                "og:description": "近年、多くの企業がビジネスにおけるデータ活用に取り組んでいます。企業がデータ活用に注力しているのは、それだけのメリットを見出せるからでしょう。本記事では、ビジネスにおけるデータ活用の効果を解説します。また、データ活用に成功した具体的な事例も解説しますので、これから取り組みたいと考えている方はぜひ参考にしてください。",
+                                "twitter:image": "https://www.it-comm.co.jp/hubfs/blog/images/10-cases-use-data-for-business.png#keepProtocol",
+                                "twitter:image:alt": "10の事例から学ぶ｜ビジネスにデータを活用して成功へ",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "近年、多くの企業がビジネスにおけるデータ活用に取り組んでいます。企業がデータ活用に注力しているのは、それだけのメリットを見出せるからでしょう。本記事では、ビジネスにおけるデータ活用の効果を解説します。また、データ活用に成功した具体的な事例も解説しますので、これから取り組みたいと考えている方はぜひ参考にしてください。",
+                                "og:url": "https://www.it-comm.co.jp/media/10-cases-use-data-for-business-to-succeed"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.it-comm.co.jp/hubfs/blog/images/10-cases-use-data-for-business.png#keepProtocol"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "TOP",
+                                "name": "TOP",
+                                "position": "1"
+                            },
+                            {
+                                "item": "ブログ",
+                                "name": "ブログ",
+                                "position": "2"
+                            },
+                            {
+                                "item": "データ分析",
+                                "name": "データ分析",
+                                "position": "3"
+                            },
+                            {
+                                "item": "10の事例から学ぶ｜ビジネスにデータを活用して成功へ",
+                                "name": "10の事例から学ぶ｜ビジネスにデータを活用して成功へ",
+                                "position": "4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "LINE公式アカウントで実現するCRMとは？ | PORTL",
+                    "htmlTitle": "LINE公式アカウントで実現するCRMとは？ | PORTL",
+                    "link": "https://portl.social/column/line-crm-overview/",
+                    "displayLink": "portl.social",
+                    "snippet": "2022/08/10 ... 「ただデータを溜めているだけ！」「データを分散して収集していて、統合できていない…」という企業が多いのではないでしょうか。 顧客 ...",
+                    "htmlSnippet": "2022/08/10 <b>...</b> 「ただ<b>データ</b>を溜めているだけ！」「<b>データ</b>を分散して<b>収集</b>していて、統合できていない…」という<b>企業</b>が多いのではないでしょうか。 顧客&nbsp;...",
+                    "cacheId": "SS72yeAgJ1AJ",
+                    "formattedUrl": "https://portl.social/column/line-crm-overview/",
+                    "htmlFormattedUrl": "https://portl.social/column/line-crm-overview/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTX9fFe4acoRXqKQNNu8uYSkpQu-KLRG_Igxen1M8ucocLCmB1ZnFvBfAI",
+                                "width": "355",
+                                "height": "142"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://portl.social/wp-content/uploads/2022/08/【A-25】バナー.webp",
+                                "og:type": "article",
+                                "og:image:width": "1200",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "PORTL",
+                                "og:title": "LINE公式アカウントで実現するCRMとは？ | PORTL",
+                                "og:image:height": "480",
+                                "og:image:type": "image/webp",
+                                "msapplication-tileimage": "https://portl.social/wp-content/uploads/2022/02/cropped-p-icon-270x270.png",
+                                "og:description": "トーチライトが運営するSNSマーケティング領域での課題解決に向けた情報を提供するサイト「PORTL（ポートル）」の「コラム」一覧です。",
+                                "article:publisher": "https://www.facebook.com/torchlight.co.jp",
+                                "twitter:site": "@torchlight_inc",
+                                "article:modified_time": "2023-01-16T05:39:34+00:00",
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,user-scalable=no",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://portl.social/column/line-crm-overview/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://portl.social/wp-content/uploads/2022/08/%E3%80%90A-25%E3%80%91%E3%83%8F%E3%82%99%E3%83%8A%E3%83%BC.webp"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 企業 データ収集",
+                        "totalResults": "59200000",
+                        "searchTerms": "企業 データ収集",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 企業 データ収集",
+                        "totalResults": "59200000",
+                        "searchTerms": "企業 データ収集",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 企業 データ収集",
+                        "totalResults": "59200000",
+                        "searchTerms": "企業 データ収集",
+                        "count": 10,
+                        "startIndex": 31,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.240405,
+                "formattedSearchTime": "0.24",
+                "totalResults": "59200000",
+                "formattedTotalResults": "59,200,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "「企業概況データバンク」ご登録受付中 - ujp.com",
+                    "htmlTitle": "「<b>企業</b>概況<b>データ</b>バンク」ご登録受付中 - ujp.com",
+                    "link": "https://www.ujp.com/%E3%83%9A%E3%83%BC%E3%82%B8%E3%83%88%E3%83%83%E3%83%97/%E4%BC%81%E6%A5%AD%E6%A6%82%E6%B3%81%E3%83%87%E3%83%BC%E3%82%BF%E3%83%90%E3%83%B3%E3%82%AF%E7%99%BB%E9%8C%B2/",
+                    "displayLink": "www.ujp.com",
+                    "snippet": "企業概況データバンクとは？ ... 企業データをご登録頂いた皆様に、在米日系企業の動向や米国ビジネスに欠かせない ... PR、データ収集、トレンド発掘にご活用下さい。",
+                    "htmlSnippet": "<b>企業</b>概況データバンクとは？ ... <b>企業</b>データをご登録頂いた皆様に、在米日系<b>企業</b>の動向や米国ビジネスに欠かせない ... PR、<b>データ収集</b>、トレンド発掘にご活用下さい。",
+                    "cacheId": "2FJBr2Uhhn4J",
+                    "formattedUrl": "https://www.ujp.com/ページトップ/企業概況データバンク登録/",
+                    "htmlFormattedUrl": "https://www.ujp.com/ページトップ/<b>企業</b>概況データバンク登録/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "twitter:title": "「企業概況データバンク」ご登録受付中",
+                                "twitter:card": "summary_large_image",
+                                "og:type": "website",
+                                "og:site_name": "ujp.com",
+                                "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no",
+                                "apple-mobile-web-app-capable": "yes",
+                                "twitter:description": "貴社の情報を『企業概況』に掲載*できます！ (*現在掲載につきましては米国拠点のある企業様のみのサービスです)",
+                                "og:title": "「企業概況データバンク」ご登録受付中",
+                                "og:locale": "ja_JP",
+                                "og:url": "http://www.ujp.com/ページトップ/企業概況データバンク登録/",
+                                "og:description": "貴社の情報を『企業概況』に掲載*できます！ (*現在掲載につきましては米国拠点のある企業様のみのサービスです)"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "製品 – リアルタイムデータ収集&品質 - Tealium JA",
+                    "htmlTitle": "製品 – リアルタイム<b>データ収集</b>&amp;品質 - Tealium JA",
+                    "link": "https://tealium.com/ja/products-real-time-data-collection-quality/",
+                    "displayLink": "tealium.com",
+                    "snippet": "リアルタイムなデータ収集とデータ品質. ... すべての顧客データの収集と管理. データ収集. データ品質 ... グローバル企業による、データの先進的な活用事例.",
+                    "htmlSnippet": "リアルタイムな<b>データ収集</b>とデータ品質. ... すべての顧客データの収集と管理. <b>データ収集</b>. データ品質 ... グローバル<b>企業</b>による、データの先進的な活用事例.",
+                    "cacheId": "-2FfPamiEj4J",
+                    "formattedUrl": "https://tealium.com/ja/products-real-time-data-collection-quality/",
+                    "htmlFormattedUrl": "https://tealium.com/ja/products-real-time-data-collection-quality/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjV6KCNgOaVqv9Lh0WvPxwNa0lt-p9RZ3sNKrUTd-a6qT73GpMNo23bV4A",
+                                "width": "270",
+                                "height": "187"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "msapplication-tilecolor": "#00aba9",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "theme-color": "#ffffff",
+                                "og:site_name": "Tealium JA",
+                                "article:modified_time": "2023-01-27T09:33:43+00:00",
+                                "viewport": "width=device-width,initial-scale=1",
+                                "og:title": "製品 – リアルタイムデータ収集&品質 - Tealium JA",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://tealium.com/ja/products-real-time-data-collection-quality/",
+                                "og:description": "リアルタイムなデータ収集とデータ品質",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://wpmedia.tealium.com/wp-content/uploads/sites/6/2021/08/eventstream-example-tabbed-block-image-565x391-1.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "データガバナンス | 用語解説 | 野村総合研究所(NRI)",
+                    "htmlTitle": "<b>データ</b>ガバナンス | 用語解説 | 野村総合研究所(NRI)",
+                    "link": "https://www.nri.com/jp/knowledge/glossary/lst/ta/data_governance",
+                    "displayLink": "www.nri.com",
+                    "snippet": "各社でDXが加速すると、企業内のあらゆる部門でデータ収集・蓄積・利活用が進みます。しかし、これらは個別の業務・サービスの実行やシステム化を目的として構築された ...",
+                    "htmlSnippet": "各社でDXが加速すると、<b>企業</b>内のあらゆる部門で<b>データ収集</b>・蓄積・利活用が進みます。しかし、これらは個別の業務・サービスの実行やシステム化を目的として構築された&nbsp;...",
+                    "cacheId": "NX0QAB8tITMJ",
+                    "formattedUrl": "https://www.nri.com/jp/knowledge/glossary/lst/ta/data_governance",
+                    "htmlFormattedUrl": "https://www.nri.com/jp/knowledge/glossary/lst/ta/data_governance",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhI6GjmUN9cQEEALABzGFOk8MRes0aHu2sZk2YTk1kZsuE0ICYStE8gxAW",
+                                "width": "309",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "vicurrentdatetime": "638234131276293216",
+                                "og:image": "http://www.nri.com/-/media/Corporate/jp/Images/knowledge/glossary/ogp/ogp_data_governance.png",
+                                "og:type": "website",
+                                "viewport": "width=device-width,initial-scale=1",
+                                "og:title": "データガバナンス | 用語解説 | 野村総合研究所(NRI)",
+                                "og:locale": "ja_JP",
+                                "og:url": "http://www.nri.com/jp/knowledge/glossary/lst/ta/data_governance",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "http://www.nri.com/-/media/Corporate/jp/Images/knowledge/glossary/ogp/ogp_data_governance.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "NRI トップ",
+                                "name": "NRI トップ",
+                                "position": "1"
+                            },
+                            {
+                                "item": "ナレッジ・インサイト",
+                                "name": "ナレッジ・インサイト",
+                                "position": "2"
+                            },
+                            {
+                                "item": "用語解説",
+                                "name": "用語解説",
+                                "position": "3"
+                            },
+                            {
+                                "item": "用語解説一覧",
+                                "name": "用語解説一覧",
+                                "position": "4"
+                            },
+                            {
+                                "name": "データガバナンス",
+                                "position": "5"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "データ収集を戦略的に進めるポイントは？IoTの活用方法もご紹介 ...",
+                    "htmlTitle": "<b>データ収集</b>を戦略的に進めるポイントは？IoTの活用方法もご紹介 ...",
+                    "link": "https://jpn.nec.com/solution/smart_connectivity/column/store_001/index.html",
+                    "displayLink": "jpn.nec.com",
+                    "snippet": "1. 必要なデータを収集できていないと感じる企業が多数. これからデータ活用に向けて動き出そう、というときの最初のステップはデータを収集することです ...",
+                    "htmlSnippet": "1. 必要な<b>データ</b>を<b>収集</b>できていないと感じる<b>企業</b>が多数. これから<b>データ</b>活用に向けて動き出そう、というときの最初のステップは<b>データ</b>を<b>収集</b>することです&nbsp;...",
+                    "cacheId": "2fLX51tVvlsJ",
+                    "formattedUrl": "https://jpn.nec.com/solution/smart_connectivity/column/store.../index.html",
+                    "htmlFormattedUrl": "https://jpn.nec.com/solution/smart_connectivity/column/store.../index.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRELLkTS0UPccS8jgFghBhE6i925xtvubyhBiXjlpaLQQPq6hc60kFMx76U",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://jpn.nec.com/solution/smart_connectivity/column/images/store_001_ogp.jpg",
+                                "og:type": "article",
+                                "og:site_name": "NEC",
+                                "viewport": "width=device-width,initial-scale=1",
+                                "og:title": "データ収集を戦略的に進めるポイントは？IoTの活用方法もご紹介",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://jpn.nec.com/solution/smart_connectivity/column/store_001/index.html",
+                                "og:description": "自社でのデータ活用を進めていくにあたり、ありたい姿の実現のために取り組むべき課題や方針を把握できても、その先のデータを収集する段階でつまずいてしまい、データ活用が進まない、といった経験はありませんか？失敗しないデータ収集のために知っておきたいデータの種類や収集方法、データ収集の効果的な方法の一つとして注目されているIoTにおけるデータ収集の方法や注意点、などへの理解を深めることで、自社のデータ収集フェーズにおけるつまずきを解消していきましょう。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://jpn.nec.com/solution/smart_connectivity/column/images/store_001_ogp.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "データ収集システム - 企業19社の製品とランキング - IPROS",
+                    "htmlTitle": "<b>データ収集</b>システム - <b>企業</b>19社の製品とランキング - IPROS",
+                    "link": "https://www.ipros.jp/cg2/%E3%83%87%E3%83%BC%E3%82%BF%E5%8F%8E%E9%9B%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+                    "displayLink": "www.ipros.jp",
+                    "snippet": "データ収集システム - 企業19社の製品一覧とランキング · 1: メトラー・トレド株式会社 · 2: 株式会社宝計機製作所 · 3: 東芝プラントシステム株式会社 · 4: ホッティンガー・ ...",
+                    "htmlSnippet": "<b>データ収集</b>システム - <b>企業</b>19社の製品一覧とランキング &middot; 1: メトラー・トレド株式会社 &middot; 2: 株式会社宝計機製作所 &middot; 3: 東芝プラントシステム株式会社 &middot; 4: ホッティンガー・&nbsp;...",
+                    "cacheId": "Gixl9mFRdXMJ",
+                    "formattedUrl": "https://www.ipros.jp/cg2/データ収集システム/",
+                    "htmlFormattedUrl": "https://www.ipros.jp/cg2/<b>データ収集</b>システム/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPs5rY7WzI0QzkNwbVa1JYomIjothqDeb1cI9Lr58NEIUS_evd9oD79HA",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.ipros.jp/images/common/ogp/logo_ipros.png",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "イプロス",
+                                "twitter:domain": "ipros.jp",
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+                                "twitter:description": "データ収集システムのメーカーや取扱い企業、製品情報、参考価格、ランキングをまとめています。イプロスは、ものづくり・都市まちづくり・医薬食品技術における情報を集めた国内最大級の技術データベースサイトです。",
+                                "og:title": "データ収集システム - 企業19社の製品とランキング - IPROS",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.ipros.jp/cg2/%E3%83%87%E3%83%BC%E3%82%BF%E5%8F%8E%E9%9B%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+                                "og:description": "データ収集システムのメーカーや取扱い企業、製品情報、参考価格、ランキングをまとめています。イプロスは、ものづくり・都市まちづくり・医薬食品技術における情報を集めた国内最大級の技術データベースサイトです。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.ipros.jp/images/common/ogp/logo_ipros.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "「ChatGPT」イタリアで一時使用禁止に データ収集で違反の疑い ...",
+                    "htmlTitle": "「ChatGPT」イタリアで一時使用禁止に <b>データ収集</b>で違反の疑い ...",
+                    "link": "https://www3.nhk.or.jp/news/html/20230401/k10014026391000.html",
+                    "displayLink": "www3.nhk.or.jp",
+                    "snippet": "2023/04/01 ... 【NHK】イタリアの当局は、アメリカのベンチャー企業が開発した対話式AI、「ChatGPT」について、膨大な個人データの収集などが…",
+                    "htmlSnippet": "2023/04/01 <b>...</b> 【NHK】イタリアの当局は、アメリカのベンチャー<b>企業</b>が開発した対話式AI、「ChatGPT」について、膨大な個人<b>データ</b>の<b>収集</b>などが…",
+                    "formattedUrl": "https://www3.nhk.or.jp/news/html/20230401/k10014026391000.html",
+                    "htmlFormattedUrl": "https://www3.nhk.or.jp/news/html/20230401/k10014026391000.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQU7UUr4Imslku-WonwfCzDNwiRZN5N8q7RRrxs0t3bmob0FQ7hChDJ0mI",
+                                "width": "300",
+                                "height": "168"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "coverage": "Japan",
+                                "msapplication-tilecolor": "#0076d1",
+                                "og:image": "https://www3.nhk.or.jp/news/html/20230401/K10014026391_2304011108_0401111258_01_02.jpg",
+                                "msapplication-config": "/news/browserconfig.xml",
+                                "copyright": "NHK(Japan Broadcasting Corporation)",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "theme-color": "#0076d1",
+                                "og:site_name": "NHKニュース",
+                                "author": "日本放送協会",
+                                "targeted geographic area": "Japan",
+                                "og:title": "「ChatGPT」イタリアで一時使用禁止に データ収集で違反の疑い | NHK",
+                                "rating": "general",
+                                "msapplication-tileimage": "/news/parts16/images/favicon/apple-touch-icon-180x180-precomposed.png",
+                                "og:description": "【NHK】イタリアの当局は、アメリカのベンチャー企業が開発した対話式AI、「ChatGPT」について、膨大な個人データの収集などが…",
+                                "twitter:creator": "@nhk_news",
+                                "og:image:secure_url": "https://www3.nhk.or.jp/news/html/20230401/K10014026391_2304011108_0401111258_01_02.jpg",
+                                "fb:app_id": "157582317936888",
+                                "twitter:site": "@nhk_news",
+                                "viewport": "width=device-width,initial-scale=1",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www3.nhk.or.jp/news/html/20230401/k10014026391000.html",
+                                "content-language": "ja",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www3.nhk.or.jp/news/html/20230401/K10014026391_2304011108_0401111258_01_02.jpg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "NHKニューストップ",
+                                "name": "NHKニューストップ",
+                                "position": "1"
+                            },
+                            {
+                                "item": "国際ニュース一覧",
+                                "name": "国際ニュース一覧",
+                                "position": "2"
+                            },
+                            {
+                                "item": "ニュース記事",
+                                "name": "ニュース記事",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "～大企業ではデータの収集より分析に課題感あり～ /人事データの ...",
+                    "htmlTitle": "～大<b>企業</b>では<b>データ</b>の<b>収集</b>より分析に課題感あり～ /人事<b>データ</b>の ...",
+                    "link": "https://www.hrpro.co.jp/research_detail.php?r_no=306",
+                    "displayLink": "www.hrpro.co.jp",
+                    "snippet": "2021/07/15 ... テレワークの普及により、社員ごとの状態の迅速な把握と対応がますます重要になっている。人材マネジメントにおける「データ活用」の重要性が叫ばれる ...",
+                    "htmlSnippet": "2021/07/15 <b>...</b> テレワークの普及により、社員ごとの状態の迅速な把握と対応がますます重要になっている。人材マネジメントにおける「<b>データ</b>活用」の重要性が叫ばれる&nbsp;...",
+                    "cacheId": "M5PXHKFgxAEJ",
+                    "formattedUrl": "https://www.hrpro.co.jp/research_detail.php?r_no=306",
+                    "htmlFormattedUrl": "https://www.hrpro.co.jp/research_detail.php?r_no=306",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSX7O3VNfwaanmg-C4xU_aW6cRxOhDQQ1aboVQNrQKw3e5qQJxpOWMYmIg",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "http://www.hrpro.co.jp/images/hrpro_og.jpg",
+                                "copyright": "CopyrightcHRpro, Inc. All Rights Reserved.",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "HRプロ",
+                                "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                                "author": "ProFuture株式会社",
+                                "og:title": "～大企業ではデータの収集より分析に課題感あり～ /人事データの収集・活用に関する実態調査 - HR総研 | 人事のプロを支援するHRプロ",
+                                "og:locale": "ja-JP",
+                                "og:url": "https://www.hrpro.co.jp/research_detail.php?r_no=306",
+                                "og:description": "テレワークの普及により、社員ごとの状態の迅速な把握と対応がますます重要になっている。人材マネジメントにおける「データ活用」の重要性が叫ばれる中、各企業の取り組みの実態はどのようになっているのだろうか。また、「データ活用」の重要性を認識しつつ、これが進展していないとすれば、何がネックになっているのだろうか。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "http://www.hrpro.co.jp/images/hrpro_og.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "焦点：調理器具と引き換えに顔データ収集、中国で急成長の産業 ...",
+                    "htmlTitle": "焦点：調理器具と引き換えに顔<b>データ収集</b>、中国で急成長の産業 ...",
+                    "link": "https://jp.reuters.com/article/china-ai-data-idJPKCN1TW1EN",
+                    "displayLink": "jp.reuters.com",
+                    "snippet": "2019/07/07 ... それによって、中国の人工知能開発に貢献できる」と語るが、提供先企業の名称は明らかにしなかった。 AIアルゴリズムの訓練用データへの需要は急増して ...",
+                    "htmlSnippet": "2019/07/07 <b>...</b> それによって、中国の人工知能開発に貢献できる」と語るが、提供先<b>企業</b>の名称は明らかにしなかった。 AIアルゴリズムの訓練用<b>データ</b>への需要は急増して&nbsp;...",
+                    "cacheId": "WzY6rosqzHAJ",
+                    "formattedUrl": "https://jp.reuters.com/article/china-ai-data-idJPKCN1TW1EN",
+                    "htmlFormattedUrl": "https://jp.reuters.com/article/china-ai-data-idJPKCN1TW1EN",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHUIHNazeAhUptXK2lA1ayFrG9zSjGzLHS6HzHTw_bJ9PzIEQ_25jfmHWj",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://static.reuters.com/resources/r/?m=02&d=20190712&t=2&i=1407392546&r=LYNXNPEF601E5&w=800",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "JP",
+                                "og:article:modified_time": "2019-07-12T22:26:41Z",
+                                "analyticsattributes.topicchannel": "World",
+                                "analyticsattributes.backendchannellist": "worldNews;topNews;special20;reuters_social;jp_Chinanews;reuters;everythingNews;jp_chinacongress;JPWire_EL;jp_europe;JP-The-Wire",
+                                "twitter:creator": "@Reuters",
+                                "og:description": "ここは中国内陸の河南省にある某村。犬が吠え、鶏が歩き回るなかで、住民が未舗装の道路沿いに並び、自分たちの顔の画像と引き替えに、ヤカンやポット、ティーカップを手に入れている。",
+                                "article:publisher": "https://www.facebook.com/Reuters",
+                                "revision_date": "2019-07-12T22:26:41Z",
+                                "og:article:section": "ワールド",
+                                "analyticsattributes.articledate": "2019-07-12T22:26:41Z",
+                                "dcsext.dartzone": "jp.reuters/world/article",
+                                "author": "Cate　Cadell",
+                                "analyticsattributes.keywords": "CHINA,AI,DATA,Americas,Asia / Pacific,Asia,Company News,China (PRC),Consumer Cyclicals (TRBC level 1),Department Stores (TRBC level 4),East Asia,E-commerce & Auction Services (TRBC level 5),Emerging Market Countries,General News,Hong Kong,IT Services & Consulting (TRBC level 4),News Translated into Japanese,Japanese Language News,Internet & Mail Order Department Stores (TRBC level 5),Pictures,North America,Online Services (TRBC level 4),Online Services (NEC) (TRBC level 5),Major News,Retailers (Legacy),Diversified Retail (TRBC level 3),Retailers (TRBC level 2),All Retail,Society / Social Issues,Application Software (TRBC level 5),Software (TRBC level 4),Search Engines (TRBC level 5),Software & IT Services (TRBC level 3),Technology / Media / Telecoms,Translated News,United States,Internet / World Wide Web",
+                                "og:article:published_time": "2019-07-07T08:37:07Z",
+                                "og:article:tag": "CHINA,AI,DATA,Americas,Asia / Pacific,Asia,Company News,China (PRC),Consumer Cyclicals (TRBC level 1),Department Stores (TRBC level 4),East Asia,E-commerce & Auction Services (TRBC level 5),Emerging Market Countries,General News,Hong Kong,IT Services & Consulting (TRBC level 4),News Translated into Japanese,Japanese Language News,Internet & Mail Order Department Stores (TRBC level 5),Pictures,North America,Online Services (TRBC level 4),Online Services (NEC) (TRBC level 5),Major News,Retailers (Legacy),Diversified Retail (TRBC level 3),Retailers (TRBC level 2),All Retail,Society / Social Issues,Application Software (TRBC level 5),Software (TRBC level 4),Search Engines (TRBC level 5),Software & IT Services (TRBC level 3),Technology / Media / Telecoms,Translated News,United States,Internet / World Wide Web",
+                                "twitter:image:src": "https://static.reuters.com/resources/r/?m=02&d=20190712&t=2&i=1407392546&r=LYNXNPEF601E5&w=800",
+                                "analyticsattributes.topicsubchannel": "World",
+                                "analyticsattributes.edition": "jp",
+                                "og:locale": "ja_JP",
+                                "analyticsattributes.contenttype": "Article",
+                                "sailthru.image.full": "https://static.reuters.com/resources/r/?m=02&d=20190712&t=2&i=1407392546&r=LYNXNPEF601E5&w=800",
+                                "sailthru.author": "Cate　Cadell",
+                                "msapplication-config": "none",
+                                "analyticsattributes.title": "焦点：調理器具と引き換えに顔データ収集、中国で急成長の産業",
+                                "theme-color": "#ffffff",
+                                "analyticsattributes.topicn2codes": "AMERS,ASIA,ASXPAC,CMPNY,CN,CYCS,DEPT,EASIA,ECOMMA,EMRG,GEN,HK,ITSE,JFOR,JLN,MAILOD,MTPIX,NAMER,NETSV,NETSV1,NEWS1,RET,RGEN,SHOP,SHOPAL,SOCI,SOFAPP,SOFW,SRCHEN,SWIT,TMT,TRN,US,WWW",
+                                "twitter:image": "https://static.reuters.com/resources/r/?m=02&d=20190712&t=2&i=1407392546&r=LYNXNPEF601E5&w=800",
+                                "twitter:site": "@Reuters",
+                                "news_keywords": "CHINA;AI;DATA;Americas;Asia / Pacific;Asia;Company News;China (PRC);Consumer Cyclicals (TRBC level 1);Department Stores (TRBC level 4);East Asia;E-commerce & Auction Services (TRBC level 5);Emerging Market Countries;General News;Hong Kong;IT Services & Consulting (TRBC level 4);News Translated into Japanese;Japanese Language News;Internet & Mail Order Department Stores (TRBC level 5);Pictures;North America;Online Services (TRBC level 4);Online Services (NEC) (TRBC level 5);Major News;Retailers (Legacy);Diversified Retail (TRBC level 3);Retailers (TRBC level 2);All Retail;Society / Social Issues;Application Software (TRBC level 5);Software (TRBC level 4);Search Engines (TRBC level 5);Software & IT Services (TRBC level 3);Technology / Media / Telecoms;Translated News;United States;Internet / World Wide Web",
+                                "sailthru.title": "焦点：調理器具と引き換えに顔データ収集、中国で急成長の産業",
+                                "analyticsattributes.contenttitle": "焦点：調理器具と引き換えに顔データ収集、中国で急成長の産業",
+                                "analyticsattributes.canonicalurl": "https://jp.reuters.com/article/china-ai-data-idJPKCN1TW1EN",
+                                "analyticsattributes.channel": "Article - News",
+                                "og:article:author": "Cate　Cadell",
+                                "msapplication-tilecolor": "#ff8000",
+                                "sailthru.date": "2019-07-12T22:26:41Z",
+                                "og:type": "article",
+                                "twitter:title": "焦点：調理器具と引き換えに顔データ収集、中国で急成長の産業",
+                                "og:title": "焦点：調理器具と引き換えに顔データ収集、中国で急成長の産業",
+                                "analyticsattributes.inlinetype": "Slideshow",
+                                "analyticsattributes.keywordslug": "CHINA-AI-DATA",
+                                "analyticsattributes.author": "Cate　Cadell",
+                                "analyticsattributes.contentchannel": "World - World",
+                                "sailthru.description": "ここは中国内陸の河南省にある某村。犬が吠え、鶏が歩き回るなかで、住民が未舗装の道路沿いに並び、自分たちの顔の画像と引き替えに、ヤカンやポット、ティーカップを手に入れている。",
+                                "viewport": "width=device-width",
+                                "twitter:description": "ここは中国内陸の河南省にある某村。犬が吠え、鶏が歩き回るなかで、住民が未舗装の道路沿いに並び、自分たちの顔の画像と引き替えに、ヤカンやポット、ティーカップを手に入れている。",
+                                "analyticsattributes.topicn2names": "Americas,Asia / Pacific,Asia,Company News,China (PRC),Consumer Cyclicals (TRBC level 1),Department Stores (TRBC level 4),East Asia,E-commerce & Auction Services (TRBC level 5),Emerging Market Countries,General News,Hong Kong,IT Services & Consulting (TRBC level 4),News Translated into Japanese,Japanese Language News,Internet & Mail Order Department Stores (TRBC level 5),Pictures,North America,Online Services (TRBC level 4),Online Services (NEC) (TRBC level 5),Major News,Retailers (Legacy),Diversified Retail (TRBC level 3),Retailers (TRBC level 2),All Retail,Society / Social Issues,Application Software (TRBC level 5),Software (TRBC level 4),Search Engines (TRBC level 5),Software & IT Services (TRBC level 3),Technology / Media / Telecoms,Translated News,United States,Internet / World Wide Web",
+                                "og:url": "https://jp.reuters.com/article/china-ai-data-idJPKCN1TW1EN"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://static.reuters.com/resources/r/?m=02&d=20190712&t=2&i=1407392546&r=LYNXNPEF601E5&w=800"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "データ収集・分析の負荷削減に役立つiPaaS・BIツールとは？ | NTT ...",
+                    "htmlTitle": "<b>データ収集</b>・分析の負荷削減に役立つiPaaS・BIツールとは？ | NTT ...",
+                    "link": "https://www.ntt.com/business/sdpf/knowledge/archive_36.html",
+                    "displayLink": "www.ntt.com",
+                    "snippet": "しかし、日本企業によくあるのが、自社内に多数のデータを保持しているのにもかかわらず、そのデータが分散していたり、重複・欠損していたりするなど、データの活用環境が ...",
+                    "htmlSnippet": "しかし、日本<b>企業</b>によくあるのが、自社内に多数の<b>データ</b>を保持しているのにもかかわらず、その<b>データ</b>が分散していたり、重複・欠損していたりするなど、<b>データ</b>の活用環境が&nbsp;...",
+                    "cacheId": "FAQOKUDisKkJ",
+                    "formattedUrl": "https://www.ntt.com/business/sdpf/knowledge/archive_36.html",
+                    "htmlFormattedUrl": "https://www.ntt.com/business/sdpf/knowledge/archive_36.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUGw27YtogussnHtznv6gj-uvTeWjLvkUcYgMQZ_05swaPfM_WooMY7CeM",
+                                "width": "310",
+                                "height": "162"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.ntt.com/content/dam/nttcom/hq/cmn/img/logo-ogp-1200-630_w.png",
+                                "og:type": "article",
+                                "twitter:card": "summary",
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+                                "og:title": "データ収集・分析の負荷削減に役立つiPaaS・BIツールとは？ | NTTコミュニケーションズ 法人のお客さま",
+                                "title": "データ収集・分析の負荷削減に役立つiPaaS・BIツールとは？ | NTTコミュニケーションズ 法人のお客さま",
+                                "og:description": "この記事では、効率的なデータ収集・分析を実現するためのiPaaS・BIツールについて解説します。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.ntt.com/content/dam/nttcom/hq/cmn/img/logo-ogp-1200-630_w.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "name": "データ収集・分析の負荷削減に役立つiPaaS・BIツールとは？",
+                                "position": "4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "TSR企業情報ファイル | 商品・サービス | 東京商工リサーチ",
+                    "htmlTitle": "TSR<b>企業</b>情報ファイル | 商品・サービス | 東京商工リサーチ",
+                    "link": "http://www.tsr-net.co.jp/service/detail/file-corporate.html",
+                    "displayLink": "www.tsr-net.co.jp",
+                    "snippet": "「TSR企業情報ファイル」は、TSRが国内企業に関する属性情報を収集・蓄積したデータベースから、お客さまのご要望に応じてデータを抽出してご提供いたします。",
+                    "htmlSnippet": "「TSR<b>企業</b>情報ファイル」は、TSRが国内<b>企業</b>に関する属性情報を<b>収集</b>・蓄積したデータベースから、お客さまのご要望に応じて<b>データ</b>を抽出してご提供いたします。",
+                    "cacheId": "9ciFXRrbo4cJ",
+                    "formattedUrl": "www.tsr-net.co.jp/service/detail/file-corporate.html",
+                    "htmlFormattedUrl": "www.tsr-net.co.jp/service/detail/file-corporate.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFIsZapM8iMWC4o3Nh7zhf6P-8wG7uQD3BrzjV6OVvzHlVGjXpLx5CS_M",
+                                "width": "277",
+                                "height": "182"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.tsr-net.co.jp/common/img/ogp.jpg",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "株式会社東京商工リサーチ",
+                                "pf:attributes": "category_url:https://www.tsr-net.co.jp/service/index.html",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "og:title": "TSR企業情報ファイル | 商品・サービス | 東京商工リサーチ",
+                                "og:url": "https://www.tsr-net.co.jp/service/detail/file-corporate.html",
+                                "og:description": "「TSR企業情報ファイル」は、TSRが国内企業に関する属性情報を収集・蓄積したデータベースから、お客さまのご要望に応じてデータを抽出してご提供いたします。様々な企業情報を幅広く収録しており、TSRが提供している各種ファイルの中でも一番幅広い用途にお使いいただけるサービスです。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.tsr-net.co.jp/common/img/ogp.jpg"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

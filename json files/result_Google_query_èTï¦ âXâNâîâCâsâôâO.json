@@ -1,0 +1,1843 @@
+{
+    "query": "企業 スクレイピング",
+    "links": [
+        [
+            "https://pig-data.jp/blog_news/blog/scraping-crawling/scraping-service/",
+            "https://gigazine.net/news/20230203-meta-data-scraping/",
+            "https://pig-data.jp/blog_news/blog/scraping-crawling/scrapinglaw/",
+            "https://www.biz.ne.jp/matome/2008039/",
+            "https://topcourt-law.com/internet_security/scraping-illegal",
+            "https://zenn.dev/joanofarc/articles/get-financial-info-by-edinet",
+            "https://www.smilevision.co.jp/blog/scraping/",
+            "https://topcourt-law.com/corporate-legal/scraping-three-important-points",
+            "https://www.arkoselabs.com/jp/explained/what-is-website-scraping-jp/",
+            "https://www.ntt-west.co.jp/business/glossary/words-00147.html"
+        ],
+        [
+            "https://www.econos.jp/products/sitoke.php",
+            "https://di-acc2.com/dx/636/",
+            "https://www.octoparse.jp/blog/using-web-scraping-to-improve-business-analytics-and-intelligence",
+            "https://self-development.info/python%E3%81%A7yahoo%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%92%E3%82%B9%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0%E3%81%99%E3%82%8B%E3%80%90%E4%BC%81%E6%A5%AD%E6%83%85/",
+            "https://www.octoparse.jp/blog/web-scraping-for-businesses",
+            "https://self-development.info/%E6%A0%AA%E6%8E%A2%EF%BC%88kabutan%EF%BC%89%E3%82%92%E3%82%B9%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0%E3%81%97%E3%81%A6%E4%B8%8A%E5%A0%B4%E4%BC%81%E6%A5%AD%E3%82%B5%E3%82%A4%E3%83%88url/",
+            "https://fukuno.jig.jp/3388",
+            "https://qiita.com/pika_shi/items/eb56fc205e2d670062ae",
+            "https://fabeee.co.jp/column/dx/scraping/",
+            "https://jp.scrapestorm.com/tutorial/introduce-10-web-scraping-tool-to-scrape-company-information/"
+        ],
+        [
+            "https://www.soumu.go.jp/main_content/000654895.pdf",
+            "https://www.wantedly.com/id/akimitsu_takagi/items/3c037c82-aa2b-4982-9f97-366aa007a0c8",
+            "https://data.wingarc.com/scraping-27053",
+            "https://recruit.landscape.co.jp/?page_id=1415",
+            "https://note.com/11210858628/n/nd27e12ccfcbb",
+            "https://exploratory.io/note/exploratory/Web-Piy4qMt7",
+            "https://www.tryeting.jp/column/6325/",
+            "https://www.lancers.jp/menu/detail/201183",
+            "https://web-lawyers.net/person_matching/",
+            "https://legalmedia.coconala.com/3182"
+        ]
+    ],
+    "snapshot_ymd": "D2023-06-23",
+    "snapshot_timestamp": "D2023-06-23T01-26-08",
+    "responses": [
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "request": [
+                    {
+                        "title": "Google Custom Search - 企業 スクレイピング",
+                        "totalResults": "307000",
+                        "searchTerms": "企業 スクレイピング",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 企業 スクレイピング",
+                        "totalResults": "307000",
+                        "searchTerms": "企業 スクレイピング",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.45826,
+                "formattedSearchTime": "0.46",
+                "totalResults": "307000",
+                "formattedTotalResults": "307,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "Webスクレイピングサービス企業5選！面倒なデータ収集を自動化 ...",
+                    "htmlTitle": "Web<b>スクレイピング</b>サービス<b>企業</b>5選！面倒なデータ収集を自動化 ...",
+                    "link": "https://pig-data.jp/blog_news/blog/scraping-crawling/scraping-service/",
+                    "displayLink": "pig-data.jp",
+                    "snippet": "2022/05/10 ... は2016年3月に設立されたアメリカのIT企業であり、OctoparseというWebスクレイピングツールを提供しています。 Octoparseを使うとプログラミング不要でWeb ...",
+                    "htmlSnippet": "2022/05/10 <b>...</b> は2016年3月に設立されたアメリカのIT<b>企業</b>であり、OctoparseというWeb<b>スクレイピング</b>ツールを提供しています。 Octoparseを使うとプログラミング不要でWeb&nbsp;...",
+                    "cacheId": "6id_98O1i54J",
+                    "formattedUrl": "https://pig-data.jp/blog_news/blog/scraping-crawling/scraping-service/",
+                    "htmlFormattedUrl": "https://pig-data.jp/blog_news/blog/scraping-crawling/scraping-service/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS41KMsGZ54zc_jPGYWB1NgC6OV4Nt1jC0LghPfrQm5qmvjHdoNzU9QvWch",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://pig-data.jp/wp-content/uploads/pd_thumbnail_img-230017-L.jpg",
+                                "og:type": "article",
+                                "og:image:width": "1920",
+                                "article:published_time": "2022-05-10T02:33:00+00:00",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "Webスクレイピングサービス企業5選！面倒なデータ収集を自動化 – PigData | ビッグデータ収集・分析・活用ソリューション",
+                                "og:site_name": "PigData | ビッグデータ収集・分析・活用ソリューション – PigDataは、お客様のデータ活用に対する課題を丁寧にヒアリングし、 最適なデータ活用ソリューションをご提供します。",
+                                "og:title": "Webスクレイピングサービス企業5選！面倒なデータ収集を自動化 – PigData | ビッグデータ収集・分析・活用ソリューション",
+                                "og:image:height": "1280",
+                                "msapplication-tileimage": "https://pig-data.jp/wp-content/uploads/cropped-favicon-1-270x270.png",
+                                "og:description": "スクレイピングの相談をする インターネット上の情報収集を自動化できるWebスクレイピングに興味を持っている方は",
+                                "og:image:secure_url": "https://pig-data.jp/wp-content/uploads/pd_thumbnail_img-230017-L.jpg",
+                                "twitter:image": "https://pig-data.jp/wp-content/uploads/pd_thumbnail_img-230017-L.jpg",
+                                "article:modified_time": "2023-06-12T09:16:34+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "スクレイピングの相談をする インターネット上の情報収集を自動化できるWebスクレイピングに興味を持っている方は",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://pig-data.jp/blog_news/blog/scraping-crawling/scraping-service/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://pig-data.jp/wp-content/uploads/pd_thumbnail_img-230017-L.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Metaがデータスクレイピングと戦う一方でスクレイピング企業から ...",
+                    "htmlTitle": "Metaがデータ<b>スクレイピング</b>と戦う一方で<b>スクレイピング企業</b>から ...",
+                    "link": "https://gigazine.net/news/20230203-meta-data-scraping/",
+                    "displayLink": "gigazine.net",
+                    "snippet": "2023/02/03 ... Metaは、FacebookやInstagramからデータスクレイピングを行い販売していたとして複数の企業を訴えています。しかし、その裁判の中で提出された法的 ...",
+                    "htmlSnippet": "2023/02/03 <b>...</b> Metaは、FacebookやInstagramからデータ<b>スクレイピング</b>を行い販売していたとして複数の<b>企業</b>を訴えています。しかし、その裁判の中で提出された法的&nbsp;...",
+                    "cacheId": "XFuhr0Tis38J",
+                    "formattedUrl": "https://gigazine.net/news/20230203-meta-data-scraping/",
+                    "htmlFormattedUrl": "https://gigazine.net/news/20230203-meta-data-scraping/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6atbOyPDdELihTImh1ejjrr9FabF-WFyjcWwLUV2OXeWrewGsmCAZJP3X",
+                                "width": "300",
+                                "height": "168"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://i.gzn.jp/img/2023/02/03/meta-data-scraping/00_m.jpg",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "GIGAZINE",
+                                "twitter:site": "@gigazine",
+                                "viewport": "initial-scale=1",
+                                "og:title": "Metaがデータスクレイピングと戦う一方でスクレイピング企業からデータを買っていたことが判明",
+                                "og:url": "https://gigazine.net/news/20230203-meta-data-scraping/",
+                                "fb:pages": "514043575350122",
+                                "og:description": "Metaは、FacebookやInstagramからデータスクレイピングを行い販売していたとして複数の企業を訴えています。しかし、その裁判の中で提出された法的文書により、Meta自身も他のウェブサイトからデータを収集するため、複数年にわたってデータ収集業者にお金を支払っていたことが明らかになりました。",
+                                "twitter:account_id": "9334242"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://i.gzn.jp/img/2023/02/03/meta-data-scraping/00_m.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【IT弁護士監修】スクレイピングは違法？法律に基づいて徹底解説 ...",
+                    "htmlTitle": "【IT弁護士監修】<b>スクレイピング</b>は違法？法律に基づいて徹底解説 ...",
+                    "link": "https://pig-data.jp/blog_news/blog/scraping-crawling/scrapinglaw/",
+                    "displayLink": "pig-data.jp",
+                    "snippet": "2019/07/03 ... スクレイピング法律資料をダウンロードする 今回は、数々の企業におけるIT関連の案件を扱っていらっしゃる戸田総合.",
+                    "htmlSnippet": "2019/07/03 <b>...</b> <b>スクレイピング</b>法律資料をダウンロードする 今回は、数々の<b>企業</b>におけるIT関連の案件を扱っていらっしゃる戸田総合.",
+                    "cacheId": "3A0LVmHyCwIJ",
+                    "formattedUrl": "https://pig-data.jp/blog_news/blog/scraping-crawling/scrapinglaw/",
+                    "htmlFormattedUrl": "https://pig-data.jp/blog_news/blog/scraping-crawling/scrapinglaw/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1sUzdex8Hj7P_3s9TjbpoAcztICzOqCS4ETuT5DwphXXXJncFbIealOA",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://pig-data.jp/wp-content/uploads/pd_thumbnail_img-230008-L.jpg",
+                                "og:type": "article",
+                                "og:image:width": "1920",
+                                "article:published_time": "2019-07-03T02:17:52+00:00",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "【IT弁護士監修】スクレイピングは違法？法律に基づいて徹底解説 – PigData | ビッグデータ収集・分析・活用ソリューション",
+                                "og:site_name": "PigData | ビッグデータ収集・分析・活用ソリューション – PigDataは、お客様のデータ活用に対する課題を丁寧にヒアリングし、 最適なデータ活用ソリューションをご提供します。",
+                                "og:title": "【IT弁護士監修】スクレイピングは違法？法律に基づいて徹底解説 – PigData | ビッグデータ収集・分析・活用ソリューション",
+                                "og:image:height": "1280",
+                                "msapplication-tileimage": "https://pig-data.jp/wp-content/uploads/cropped-favicon-1-270x270.png",
+                                "og:description": "スクレイピング法律資料をダウンロードする 今回は、数々の企業におけるIT関連の案件を扱っていらっしゃる戸田総合",
+                                "og:image:secure_url": "https://pig-data.jp/wp-content/uploads/pd_thumbnail_img-230008-L.jpg",
+                                "twitter:image": "https://pig-data.jp/wp-content/uploads/pd_thumbnail_img-230008-L.jpg",
+                                "article:modified_time": "2023-06-12T09:18:11+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "スクレイピング法律資料をダウンロードする 今回は、数々の企業におけるIT関連の案件を扱っていらっしゃる戸田総合",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://pig-data.jp/blog_news/blog/scraping-crawling/scrapinglaw/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://pig-data.jp/wp-content/uploads/pd_thumbnail_img-230008-L.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "スクレイピング代行でおすすめの会社14選 | システム開発会社を探す ...",
+                    "htmlTitle": "<b>スクレイピング</b>代行でおすすめの会社14選 | システム開発会社を探す ...",
+                    "link": "https://www.biz.ne.jp/matome/2008039/",
+                    "displayLink": "www.biz.ne.jp",
+                    "snippet": "株式会社インディゴデータは、東京都中央区に本社を置くデータ収集から活用までを一貫したサービスを取り扱うデータサイエンス企業です。スクレイピングによるWeb ...",
+                    "htmlSnippet": "株式会社インディゴデータは、東京都中央区に本社を置くデータ収集から活用までを一貫したサービスを取り扱うデータサイエンス<b>企業</b>です。<b>スクレイピング</b>によるWeb&nbsp;...",
+                    "cacheId": "C957PXbwm3EJ",
+                    "formattedUrl": "https://www.biz.ne.jp/matome/2008039/",
+                    "htmlFormattedUrl": "https://www.biz.ne.jp/matome/2008039/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvxVuhEI6dElODL71u_k0Ux42t0w-7idV92e9dgpx8WOrN1qPUn6wJvOmR",
+                                "width": "299",
+                                "height": "168"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://img.biz.ne.jp/info/2008039_if1.jpg",
+                                "fb:app_id": "1585119665035317",
+                                "og:type": "website",
+                                "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no",
+                                "og:title": "スクレイピング代行でおすすめの会社14選",
+                                "og:url": "https://www.biz.ne.jp/matome/2008039/",
+                                "og:description": "この記事ではスクレイピング代行でおすすめの会社をご紹介します。時代は大量のデータから必要なデータを抽出するという方向に進んでいます。これはAIなどの技術も同様でより多くのデータを集めた方が網羅性が高くなるとおもわれているためです。\n\nとは言え、そのデータをうまく活用できている企業は現状少数派を言えるのではないでしょうか。大量のデータの集め方やその中からポイントを絞って最善のデータを探すための手法はプロに任せた方が得策です。是非、参考にしてみてください。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://img.biz.ne.jp/info/2008039_if1.jpg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "HOME",
+                                "name": "HOME",
+                                "position": "1"
+                            },
+                            {
+                                "item": "比較ビズまとめ",
+                                "name": "比較ビズまとめ",
+                                "position": "2"
+                            },
+                            {
+                                "item": "システム開発会社の記事",
+                                "name": "システム開発会社の記事",
+                                "position": "3"
+                            },
+                            {
+                                "item": "スクレイピング代行でおすすめの会社14選",
+                                "name": "スクレイピング代行でおすすめの会社14選",
+                                "position": "4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "スクレイピングは違法？3つの法律問題と対応策を弁護士が5分で解説",
+                    "htmlTitle": "<b>スクレイピング</b>は違法？3つの法律問題と対応策を弁護士が5分で解説",
+                    "link": "https://topcourt-law.com/internet_security/scraping-illegal",
+                    "displayLink": "topcourt-law.com",
+                    "snippet": "2019/02/18 ... もっとも、ビジネスの世界ではリスト作成やら何やらで、スクレイピングを多用している企業も多いはずです。 そこで今回は、そもそもスクレイピングが何な ...",
+                    "htmlSnippet": "2019/02/18 <b>...</b> もっとも、ビジネスの世界ではリスト作成やら何やらで、<b>スクレイピング</b>を多用している<b>企業</b>も多いはずです。 そこで今回は、そもそも<b>スクレイピング</b>が何な&nbsp;...",
+                    "cacheId": "mbAvplkQ4nUJ",
+                    "formattedUrl": "https://topcourt-law.com/internet_security/scraping-illegal",
+                    "htmlFormattedUrl": "https://topcourt-law.com/internet_security/scraping-illegal",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6ELFJiqWP5HjzbSZmjDXJMaDiTrajAn5Q1laU0Pcy5Oy1yK9BPoYbYEA",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://topcourt-law.com/wp-content/uploads/2019/02/shutterstock_435951994.jpg",
+                                "og:type": "article",
+                                "og:image:width": "1000",
+                                "article:published_time": "2019-02-17T15:11:04+00:00",
+                                "twitter:card": "summary",
+                                "twitter:title": "スクレイピングは違法？3つの法律問題と対応策を弁護士が5分で解説 | TOPCOURT LAW FIRM",
+                                "og:site_name": "TOPCOURT LAW FIRM",
+                                "twitter:domain": "topcourt-law.com",
+                                "og:title": "スクレイピングは違法？3つの法律問題と対応策を弁護士が5分で解説 | TOPCOURT LAW FIRM",
+                                "og:image:height": "667",
+                                "google": "nositelinkssearchbox",
+                                "og:description": "スクレイピングとは何かという点を確認したうえで、スクレイピングに関する法律上の問題点について、ITに詳しい弁護士が解説しています。",
+                                "og:image:secure_url": "https://topcourt-law.com/wp-content/uploads/2019/02/shutterstock_435951994.jpg",
+                                "twitter:image": "https://topcourt-law.com/wp-content/uploads/2021/06/logo.png",
+                                "fb:app_id": "234645467852804",
+                                "twitter:site": "@TopcourtLawfirm",
+                                "article:modified_time": "2023-05-30T06:41:13+00:00",
+                                "viewport": "width=device-width",
+                                "twitter:description": "スクレイピングとは何かという点を確認したうえで、スクレイピングに関する法律上の問題点について、ITに詳しい弁護士が解説しています。",
+                                "og:locale": "ja_JP",
+                                "fb:admins": "823343538075730",
+                                "position": "1",
+                                "og:url": "https://topcourt-law.com/internet_security/scraping-illegal",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://topcourt-law.com/wp-content/uploads/2019/02/shutterstock_435951994.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "企業の財務情報を自動収集したい！",
+                    "htmlTitle": "<b>企業</b>の財務情報を自動収集したい！",
+                    "link": "https://zenn.dev/joanofarc/articles/get-financial-info-by-edinet",
+                    "displayLink": "zenn.dev",
+                    "snippet": "2023/04/12 ... ダウンロードした情報に含まれる XBRL 形式のデータに対し、スクレイピングを実行し、欲しい情報を抽出する。 それでは早速始めましょう！",
+                    "htmlSnippet": "2023/04/12 <b>...</b> ダウンロードした情報に含まれる XBRL 形式のデータに対し、<b>スクレイピング</b>を実行し、欲しい情報を抽出する。 それでは早速始めましょう！",
+                    "cacheId": "aEHedviYQ0QJ",
+                    "formattedUrl": "https://zenn.dev/joanofarc/articles/get-financial-info-by-edinet",
+                    "htmlFormattedUrl": "https://zenn.dev/joanofarc/articles/get-financial-info-by-edinet",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAdL0NpgztaTdfZVfwNKSfFqXBM2mJDG2_Ce6vorvNgRIuN-sYAFLxbEM",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://res.cloudinary.com/zenn/image/upload/s--Tf5wSO6K--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25BC%2581%25E6%25A5%25AD%25E3%2581%25AE%25E8%25B2%25A1%25E5%258B%2599%25E6%2583%2585%25E5%25A0%25B1%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E5%258F%258E%25E9%259B%2586%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:JoanOfArc%2Cx_203%2Cy_98/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA0MmFiYzg1ZWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/og-base.png",
+                                "next-head-count": "12",
+                                "twitter:card": "summary_large_image",
+                                "og:type": "article",
+                                "og:site_name": "Zenn",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "企業の財務情報を自動収集したい！",
+                                "apple-mobile-web-app-title": "Zenn",
+                                "og:url": "https://zenn.dev/joanofarc/articles/get-financial-info-by-edinet",
+                                "zenn:image": "https://storage.googleapis.com/zenn-user-upload/avatar/042abc85ea.jpeg",
+                                "zenn:description": "JoanOfArcさんによる記事"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://res.cloudinary.com/zenn/image/upload/s--Tf5wSO6K--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25BC%2581%25E6%25A5%25AD%25E3%2581%25AE%25E8%25B2%25A1%25E5%258B%2599%25E6%2583%2585%25E5%25A0%25B1%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E5%258F%258E%25E9%259B%2586%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:JoanOfArc%2Cx_203%2Cy_98/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA0MmFiYzg1ZWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/og-base.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "ウェブスクレイピング技術を使ったシステム開発事例 | 大阪 WEB ...",
+                    "htmlTitle": "ウェブ<b>スクレイピング</b>技術を使ったシステム開発事例 | 大阪 WEB ...",
+                    "link": "https://www.smilevision.co.jp/blog/scraping/",
+                    "displayLink": "www.smilevision.co.jp",
+                    "snippet": "2018/08/22 ... 事例：企業のIRサイトをウェブスクレイピング技術でクロール. とある企業より投資家向けに便利なサービスを提供したいというお問い合わせをいただきました ...",
+                    "htmlSnippet": "2018/08/22 <b>...</b> 事例：<b>企業</b>のIRサイトをウェブ<b>スクレイピング</b>技術でクロール. とある<b>企業</b>より投資家向けに便利なサービスを提供したいというお問い合わせをいただきました&nbsp;...",
+                    "cacheId": "EnhyVaAdnxEJ",
+                    "formattedUrl": "https://www.smilevision.co.jp/blog/scraping/",
+                    "htmlFormattedUrl": "https://www.smilevision.co.jp/blog/scraping/",
+                    "pagemap": {
+                        "hcard": [
+                            {
+                                "fn": "いろは",
+                                "nickname": "いろは"
+                            },
+                            {
+                                "fn": "おいぬ",
+                                "nickname": "おいぬ"
+                            },
+                            {
+                                "fn": "トモロー",
+                                "nickname": "トモロー"
+                            },
+                            {
+                                "fn": "杉若 太郎"
+                            }
+                        ],
+                        "wpfooter": [
+                            {
+                                "copyrightholder": "2005–2023 大阪 WEBシステム開発 SmileVision"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRgIKkGqJml3RJhgow9YTPnhPGCuou7jY_Hh-GCOm0BabuzZI8bc_Ct-o",
+                                "width": "268",
+                                "height": "188"
+                            }
+                        ],
+                        "breadcrumb": [
+                            {
+                                "title": "HOME",
+                                "url": "HOME"
+                            },
+                            {
+                                "title": "社員ブログ",
+                                "url": "社員ブログ"
+                            }
+                        ],
+                        "imageobject": [
+                            {
+                                "width": "480",
+                                "url": "https://www.smilevision.co.jp/wp-content/uploads/2017/08/f13079ab727ceffcff62df989c5571eb-640x360.png",
+                                "height": "270"
+                            },
+                            {
+                                "width": "480",
+                                "url": "https://www.smilevision.co.jp/wp-content/uploads/2018/03/mv_tukutte10-640x360.png",
+                                "height": "270"
+                            },
+                            {
+                                "width": "480",
+                                "url": "https://www.smilevision.co.jp/wp-content/uploads/2017/05/1255_04-640x360.jpg",
+                                "height": "270"
+                            }
+                        ],
+                        "person": [
+                            {
+                                "name": "杉若 太郎"
+                            },
+                            {
+                                "name": "いろは"
+                            },
+                            {
+                                "name": "おいぬ"
+                            },
+                            {
+                                "name": "トモロー"
+                            }
+                        ],
+                        "organization": [
+                            {
+                                "name": "大阪 WEBシステム開発 SmileVision"
+                            },
+                            {
+                                "name": "大阪 WEBシステム開発 SmileVision"
+                            },
+                            {
+                                "name": "大阪 WEBシステム開発 SmileVision"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.smilevision.co.jp/wp-content/uploads/2018/08/rawpixel-574844-unsplash.jpg",
+                                "og:type": "blog",
+                                "twitter:card": "summary",
+                                "article:published_time": "2018-08-21T17:20:45+00:00",
+                                "og:image:width": "2500",
+                                "og:site_name": "大阪 WEBシステム開発 SmileVision",
+                                "og:title": "ウェブスクレイピング技術を使ったシステム開発事例｜大阪 WEBシステム開発 SmileVision",
+                                "og:image:height": "1755",
+                                "msapplication-tileimage": "https://www.smilevision.co.jp/wp-content/uploads/2022/06/favicon.ico",
+                                "og:description": "ウェブスクレイピングという技術があります。 これはウェブ・クローラーとも呼ばれたりもしますが、WWWのコンテンツを自動で取得する技術のことです。 ウェブスクレイピング技術は、多くの検索エンジンによって採用されており、ウェ",
+                                "twitter:image": "https://www.smilevision.co.jp/wp-content/uploads/2018/08/rawpixel-574844-unsplash.jpg?w=640",
+                                "twitter:text:title": "ウェブスクレイピング技術を使ったシステム開発事例",
+                                "twitter:site": "@roughlabotech",
+                                "article:modified_time": "2018-09-27T07:30:05+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.smilevision.co.jp/blog/scraping/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.smilevision.co.jp/wp-content/uploads/2018/08/rawpixel-574844-unsplash.jpg"
+                            }
+                        ],
+                        "hatomfeed": [
+                            {}
+                        ],
+                        "blogposting": [
+                            {
+                                "keywords": "社員ブログ",
+                                "datemodified": "2017-08-28",
+                                "headline": "柿の種より人の心を動かすキャッチコピーを考えてみる（その１）",
+                                "datepublished": "2017-08-28",
+                                "mainentityofpage": "社員ブログ 柿の種より人の心を動かすキャッチコピーを考えてみる（その１） 2017年8月28日 いろは 大阪 WEBシステム開発 SmileVision"
+                            },
+                            {
+                                "keywords": "社員ブログ",
+                                "datemodified": "2018-03-26",
+                                "headline": "【作ってみた】LINE NotifyとGoogle Apps Scriptで天気予報",
+                                "datepublished": "2018-03-26",
+                                "mainentityofpage": "社員ブログ 【作ってみた】LINE NotifyとGoogle Apps Scriptで天気予報 2018年3月26日 おいぬ 大阪 WEBシステム開発 SmileVision"
+                            },
+                            {
+                                "keywords": "社員ブログ",
+                                "datemodified": "2017-05-31",
+                                "headline": "Raspberry Piを使ってみよう 【オプション編】",
+                                "datepublished": "2017-05-31",
+                                "mainentityofpage": "社員ブログ Raspberry Piを使ってみよう 【オプション編】 2017年5月31日 トモロー 大阪 WEBシステム開発 SmileVision"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "スクレイピングとは？実施時に注意すべき3点をわかりやすく解説！",
+                    "htmlTitle": "<b>スクレイピング</b>とは？実施時に注意すべき3点をわかりやすく解説！",
+                    "link": "https://topcourt-law.com/corporate-legal/scraping-three-important-points",
+                    "displayLink": "topcourt-law.com",
+                    "snippet": "実施時に注意すべき3点をわかりやすく解説！ 企業法務. 991 PV. 投稿日: 2021.10.15. スクレイピングとは？実施時に注意すべき3点をわかりやすく解説！",
+                    "htmlSnippet": "実施時に注意すべき3点をわかりやすく解説！ <b>企業</b>法務. 991 PV. 投稿日: 2021.10.15. <b>スクレイピング</b>とは？実施時に注意すべき3点をわかりやすく解説！",
+                    "cacheId": "Xf2B2opu_LkJ",
+                    "formattedUrl": "https://topcourt-law.com/corporate-legal/scraping-three-important-points",
+                    "htmlFormattedUrl": "https://topcourt-law.com/corporate-legal/scraping-three-important-points",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3RIh8yjSr6PmLf3Ezan1ucnsxsKZi8k7UQAlrVARFKgeEKk8Z0qHiZjgV",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://topcourt-law.com/wp-content/uploads/2021/09/christopher-gower-m_HRfLhgABo-unsplash-1-1024x682.jpg",
+                                "og:type": "article",
+                                "article:published_time": "2021-10-15T05:07:34+00:00",
+                                "twitter:card": "summary",
+                                "twitter:title": "スクレイピングとは？実施時に注意すべき3点をわかりやすく解説！ | TOPCOURT LAW FIRM",
+                                "og:site_name": "TOPCOURT LAW FIRM",
+                                "twitter:domain": "topcourt-law.com",
+                                "og:title": "スクレイピングとは？実施時に注意すべき3点をわかりやすく解説！ | TOPCOURT LAW FIRM",
+                                "google": "nositelinkssearchbox",
+                                "og:description": "スクレイピングをうまく活用できれば、さまざまな面で業務の効率化を図ることができます。 とはいえ、過去には、スクレイピングに起因した逮捕事例も出ているため、スクレイピングを行う際には、あらかじめ法規制を確認しておく必要があります。 今回は、スクレイピングの概要や実施時に注意すべき法規制などをわかりやすく解説しました。",
+                                "og:image:secure_url": "https://topcourt-law.com/wp-content/uploads/2021/09/christopher-gower-m_HRfLhgABo-unsplash-1-1024x682.jpg",
+                                "twitter:image": "https://topcourt-law.com/wp-content/uploads/2021/06/logo.png",
+                                "fb:app_id": "234645467852804",
+                                "twitter:site": "@TopcourtLawfirm",
+                                "article:modified_time": "2021-10-15T05:07:34+00:00",
+                                "viewport": "width=device-width",
+                                "twitter:description": "スクレイピングをうまく活用できれば、さまざまな面で業務の効率化を図ることができます。 とはいえ、過去には、スクレイピングに起因した逮捕事例も出ているため、スクレイピングを行う際には、あらかじめ法規制を確認しておく必要があります。 今回は、スクレイピングの概要や実施時に注意すべき法規制などをわかりやすく解説しました。",
+                                "og:locale": "ja_JP",
+                                "fb:admins": "823343538075730",
+                                "position": "1",
+                                "og:url": "https://topcourt-law.com/corporate-legal/scraping-three-important-points",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://topcourt-law.com/wp-content/uploads/2021/09/christopher-gower-m_HRfLhgABo-unsplash-1-1024x682.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "ウェブサイトスクレイピング：スクレイピングとは何か、そして ...",
+                    "htmlTitle": "ウェブサイト<b>スクレイピング</b>：<b>スクレイピング</b>とは何か、そして ...",
+                    "link": "https://www.arkoselabs.com/jp/explained/what-is-website-scraping-jp/",
+                    "displayLink": "www.arkoselabs.com",
+                    "snippet": "そのデータが攻撃者に盗まれ、無料で配布したり、収益化した場合、企業の損失は測りきれません。多くの場合、攻撃者は盗んだデータベースを第三者やダークウェブで販売し、 ...",
+                    "htmlSnippet": "そのデータが攻撃者に盗まれ、無料で配布したり、収益化した場合、<b>企業</b>の損失は測りきれません。多くの場合、攻撃者は盗んだデータベースを第三者やダークウェブで販売し、&nbsp;...",
+                    "cacheId": "2nlyLMyRLesJ",
+                    "formattedUrl": "https://www.arkoselabs.com/jp/explained/what-is-website-scraping-jp/",
+                    "htmlFormattedUrl": "https://www.arkoselabs.com/jp/explained/what-is-website-scraping-jp/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnUAH9mdh1ls13xmw-TjQhJpWXHjWkXLNbbEFgED1ac9dfKrfNTew0sXM",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.arkoselabs.com/wp-content/uploads/web-scraping-1.png",
+                                "og:type": "article",
+                                "og:image:width": "800",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "Arkose Labs",
+                                "og:title": "ウェブサイトスクレイピング：スクレイピングとは何か、そしてそれを止めるには？",
+                                "og:image:height": "534",
+                                "og:image:type": "image/png",
+                                "msapplication-tileimage": "https://www.arkoselabs.com/wp-content/uploads/Fav-Icon.png",
+                                "og:description": "ウェブサイトスクレイピングとは？ 悪意のあるスクレイピング、またはWebハーベスティングは、Webサイトやアプリケーションから大量のデータを抽出することを目的としたボット攻撃を指します。収穫されたデータは、新規の偽アカウント登録、アカウントの乗っ取り、偽のリストやレビュー、在庫の買い占めなど、犯罪行為や詐欺行為を助長するために使用されます。不正行為に利用されるだけでなく、収集されたデータは、第三者や競合他社に売却される可能性もあります。 Data is New Oil つまりデータが新しい価値ある資源、という言葉通り、確かにデータはデジタル経済を動かす主要な通貨でしょう。より多くの消費者がショッピング、バンキング、エンターテイメント、そして社交に至るまでデジタルチャネルを利用するようになり、攻撃者が収穫で ",
+                                "article:publisher": "https://www.facebook.com/ArkoseLabs/",
+                                "facebook-domain-verification": "8ri2vbkcvm9ljefujes471fk324e5q",
+                                "twitter:site": "@ArkoseLabs",
+                                "og:locale:alternate": "en_US",
+                                "article:modified_time": "2022-05-19T14:32:48+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:locale": "en_US",
+                                "og:url": "https://www.arkoselabs.com/jp/explained/what-is-website-scraping-jp/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.arkoselabs.com/wp-content/uploads/web-scraping-1.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【NTT西日本】スクレイピング｜ICT用語集｜法人・ 企業向け ICT ...",
+                    "htmlTitle": "【NTT西日本】<b>スクレイピング</b>｜ICT用語集｜法人・ <b>企業</b>向け ICT ...",
+                    "link": "https://www.ntt-west.co.jp/business/glossary/words-00147.html",
+                    "displayLink": "www.ntt-west.co.jp",
+                    "snippet": "スクレイピングはデータの抽出手法の一種です。「こすること」「けずること」を意味する「scraping」に由来する言葉で、データスクレイピング、Webに特化するとWeb ...",
+                    "htmlSnippet": "<b>スクレイピング</b>はデータの抽出手法の一種です。「こすること」「けずること」を意味する「scraping」に由来する言葉で、データ<b>スクレイピング</b>、Webに特化するとWeb&nbsp;...",
+                    "cacheId": "FJrxZ5r9uacJ",
+                    "formattedUrl": "https://www.ntt-west.co.jp/business/glossary/words-00147.html",
+                    "htmlFormattedUrl": "https://www.ntt-west.co.jp/business/glossary/words-00147.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrVYnvUX24-HuuGpjHbT_KK9JiUHkz-CqszmWIl5dsNdEGslqFtJauJw4",
+                                "width": "231",
+                                "height": "219"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,initial-scale=1",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.ntt-west.co.jp/cmn_biz_header/img/local/img_smart10x.png"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 企業 スクレイピング",
+                        "totalResults": "307000",
+                        "searchTerms": "企業 スクレイピング",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 企業 スクレイピング",
+                        "totalResults": "307000",
+                        "searchTerms": "企業 スクレイピング",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 企業 スクレイピング",
+                        "totalResults": "307000",
+                        "searchTerms": "企業 スクレイピング",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.364879,
+                "formattedSearchTime": "0.36",
+                "totalResults": "307000",
+                "formattedTotalResults": "307,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "自動スクレイピングソフト「シトケ」 ｜ 企業リスト・法人名簿作成 ...",
+                    "htmlTitle": "自動<b>スクレイピング</b>ソフト「シトケ」 ｜ <b>企業</b>リスト・法人名簿作成 ...",
+                    "link": "https://www.econos.jp/products/sitoke.php",
+                    "displayLink": "www.econos.jp",
+                    "snippet": "このサイトは、DM・企業リスト・法人名簿・企業名簿・リスト作成・新規開拓向け各種オリジナルリスト作成サービスの ... 自動スクレイピングソフト「シトケ」 ...",
+                    "htmlSnippet": "このサイトは、DM・<b>企業</b>リスト・法人名簿・<b>企業</b>名簿・リスト作成・新規開拓向け各種オリジナルリスト作成サービスの ... 自動<b>スクレイピング</b>ソフト「シトケ」&nbsp;...",
+                    "cacheId": "WpW-MMc3L_oJ",
+                    "formattedUrl": "https://www.econos.jp/products/sitoke.php",
+                    "htmlFormattedUrl": "https://www.econos.jp/products/sitoke.php",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTP5YN3U-CLdswZgvBM_nnOGXtaHerL0TUEtjQgSeJN-AJ0YWzQpPquy6s",
+                                "width": "294",
+                                "height": "171"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "handheldfriendly": "True",
+                                "viewport": "width=device-width, user-scalable=no",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.econos.jp/img/prd_sitoke_img.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【Webスクレイピングとは】概要・できること・法律的課題まで ...",
+                    "htmlTitle": "【Web<b>スクレイピング</b>とは】概要・できること・法律的課題まで ...",
+                    "link": "https://di-acc2.com/dx/636/",
+                    "displayLink": "di-acc2.com",
+                    "snippet": "2022/07/23 ... Webサイト上のデータを収集し、企業のマーケティング活動等に活かせるスクレイピング技術。とても便利な反面、法律面での注意点がいくつかあります。",
+                    "htmlSnippet": "2022/07/23 <b>...</b> Webサイト上のデータを収集し、<b>企業</b>のマーケティング活動等に活かせる<b>スクレイピング</b>技術。とても便利な反面、法律面での注意点がいくつかあります。",
+                    "cacheId": "rHxXQWF8X9oJ",
+                    "formattedUrl": "https://di-acc2.com/dx/636/",
+                    "htmlFormattedUrl": "https://di-acc2.com/dx/636/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "og:type": "article",
+                                "article:published_time": "2021-01-30T04:54:21+00:00",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "【Webスクレイピングとは】概要・できること・法律的課題まで徹底解説｜Web解析の自動化支援",
+                                "og:site_name": "DXCEL WAVE | AI・機械学習・データサイエンス・アナリティクス・RPA自動化・デジタルマーケティング・フィンテック等の最新デジタル技術を幅広く配信",
+                                "og:title": "【Webスクレイピングとは】概要・できること・法律的課題まで徹底解説｜Web解析の自動化支援",
+                                "msapplication-tileimage": "https://di-acc2.com/wp-content/uploads/2022/07/cropped-DXCELWAVE-270x270.jpg",
+                                "og:description": "Webサイト上のデータを収集し、企業のマーケティング活動等に活かせるスクレイピング技術。とても便利な反面、法律面での注意点がいくつかあります。本記事では、Webスクレイピングとは何か？ご紹介します。加えて、Webスクレイピングの利用用途及び法律やコンプライアンス面で注意すべき点について図解も交えて詳しくご紹介します。",
+                                "twitter:image": "https://di-acc2.com/wp-content/uploads/2021/01/campaign-creators-OGOWDVLbMSc-unsplash-scaled.jpg",
+                                "article:modified_time": "2022-07-23T00:12:44+00:00",
+                                "viewport": "width=device-width, viewport-fit=cover",
+                                "twitter:description": "Webサイト上のデータを収集し、企業のマーケティング活動等に活かせるスクレイピング技術。とても便利な反面、法律面での注意点がいくつかあります。本記事では、Webスクレイピングとは何か？ご紹介します。加えて、Webスクレイピングの利用用途及び法律やコンプライアンス面で注意すべき点について図解も交えて詳しくご紹介します。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://di-acc2.com/dx/636/",
+                                "format-detection": "telephone=no"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Webスクレイピングを使ってデータ分析とインテリジェンスを向上 ...",
+                    "htmlTitle": "Web<b>スクレイピング</b>を使ってデータ分析とインテリジェンスを向上 ...",
+                    "link": "https://www.octoparse.jp/blog/using-web-scraping-to-improve-business-analytics-and-intelligence",
+                    "displayLink": "www.octoparse.jp",
+                    "snippet": "2021/04/11 ... これらの情報はすべてWebクローラーを導入することで簡単に取得できます。 4. 市場調査. ほぼすべての企業が市場調査を行います。市場調査を行うには、Web ...",
+                    "htmlSnippet": "2021/04/11 <b>...</b> これらの情報はすべてWebクローラーを導入することで簡単に取得できます。 4. 市場調査. ほぼすべての<b>企業</b>が市場調査を行います。市場調査を行うには、Web&nbsp;...",
+                    "cacheId": "DImoEp-zz9QJ",
+                    "formattedUrl": "https://www.octoparse.jp/.../using-web-scraping-to-improve-business- analytics-and-intelligence",
+                    "htmlFormattedUrl": "https://www.octoparse.jp/.../using-web-scraping-to-improve-business- analytics-and-intelligence",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "next-head-count": "6",
+                                "viewport": "width=device-width"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "PythonでYahooファイナンスをスクレイピングする【企業情報抽出 ...",
+                    "htmlTitle": "PythonでYahooファイナンスを<b>スクレイピング</b>する【<b>企業</b>情報抽出 ...",
+                    "link": "https://self-development.info/python%E3%81%A7yahoo%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9%E3%82%92%E3%82%B9%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0%E3%81%99%E3%82%8B%E3%80%90%E4%BC%81%E6%A5%AD%E6%83%85/",
+                    "displayLink": "self-development.info",
+                    "snippet": "2021/02/12 ... スクレイピングプログラムの起動. プログラム（スクリプトpy）では、一つの銘柄の企業情報を取得します。 そのため、3849件全部の企業情報を ...",
+                    "htmlSnippet": "2021/02/12 <b>...</b> <b>スクレイピング</b>プログラムの起動. プログラム（スクリプトpy）では、一つの銘柄の<b>企業</b>情報を取得します。 そのため、3849件全部の<b>企業</b>情報を&nbsp;...",
+                    "cacheId": "MWE9a6H5casJ",
+                    "formattedUrl": "https://self-development.info/ pythonでyahooファイナンスをスクレイピングする【企業情/",
+                    "htmlFormattedUrl": "https://self-development.info/ pythonでyahooファイナンスを<b>スクレイピング</b>する【<b>企業</b>情/",
+                    "pagemap": {
+                        "wpfooter": [
+                            {
+                                "name": "ジコログ",
+                                "about": "ジコログ",
+                                "url": "ジコログ"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSiMzq3l_xOy1aXA6xY87za_A5RVMdl3AvdlSCLPHwCrTMBZqWFsYf4mEFY",
+                                "width": "259",
+                                "height": "194"
+                            }
+                        ],
+                        "website": [
+                            {
+                                "name": "ジコログ",
+                                "about": "ジコログ",
+                                "url": "ジコログ"
+                            }
+                        ],
+                        "imageobject": [
+                            {
+                                "width": "1000",
+                                "url": "https://self-development.info/wp-content/uploads/2021/02/4114099_m.jpg",
+                                "height": "750"
+                            },
+                            {
+                                "width": "206",
+                                "url": "https://self-development.info/wp-content/themes/cocoon-master/images/no-amp-logo.png",
+                                "height": "60"
+                            }
+                        ],
+                        "person": [
+                            {
+                                "name": "self_development"
+                            }
+                        ],
+                        "organization": [
+                            {
+                                "name": "ジコログ"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://self-development.info/wp-content/uploads/2021/02/4114099_m.jpg",
+                                "og:type": "article",
+                                "article:published_time": "2021-02-12T12:12:57+09:00",
+                                "article:section": "プログラミング",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "PythonでYahooファイナンスをスクレイピングする【企業情報抽出】",
+                                "og:site_name": "ジコログ",
+                                "twitter:domain": "self-development.info",
+                                "twitter:url": "https://self-development.info/python%e3%81%a7yahoo%e3%83%95%e3%82%a1%e3%82%a4%e3%83%8a%e3%83%b3%e3%82%b9%e3%82%92%e3%82%b9%e3%82%af%e3%83%ac%e3%82%a4%e3%83%94%e3%83%b3%e3%82%b0%e3%81%99%e3%82%8b%e3%80%90%e4%bc%81%e6%a5%ad%e6%83%85/",
+                                "og:title": "PythonでYahooファイナンスをスクレイピングする【企業情報抽出】",
+                                "msapplication-tileimage": "https://self-development.info/wp-content/uploads/2022/09/cropped-1_out-1-270x270.png",
+                                "og:description": "上場企業の従業員数、平均年収、平均年齢などの企業情報を取得する場合、どのような方法があると思いますか？会社四季報？古いですね。Yahooファイナンスをスクレイピングすれば、すべて解決します。本記事では、Yahooファイナンスから企業情報を取得する方法を解説しています。",
+                                "twitter:creator": "@intent/follow?screen_name=selfdevelop2019",
+                                "twitter:image": "https://self-development.info/wp-content/uploads/2021/02/4114099_m.jpg",
+                                "twitter:site": "@intent/follow?screen_name=selfdevelop2019",
+                                "article:modified_time": "2021-02-13T13:56:18+00:00",
+                                "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover",
+                                "twitter:description": "上場企業の従業員数、平均年収、平均年齢などの企業情報を取得する場合、どのような方法があると思いますか？会社四季報？古いですね。Yahooファイナンスをスクレイピングすれば、すべて解決します。本記事では、Yahooファイナンスから企業情報を取得する方法を解説しています。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://self-development.info/python%e3%81%a7yahoo%e3%83%95%e3%82%a1%e3%82%a4%e3%83%8a%e3%83%b3%e3%82%b9%e3%82%92%e3%82%b9%e3%82%af%e3%83%ac%e3%82%a4%e3%83%94%e3%83%b3%e3%82%b0%e3%81%99%e3%82%8b%e3%80%90%e4%bc%81%e6%a5%ad%e6%83%85/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://self-development.info/wp-content/uploads/2021/02/4114099_m.jpg"
+                            }
+                        ],
+                        "hatomfeed": [
+                            {}
+                        ],
+                        "blogposting": [
+                            {
+                                "datemodified": "2021-02-13T13:56:18+00:00",
+                                "headline": "PythonでYahooファイナンスをスクレイピングする【企業情報抽出】",
+                                "datepublished": "2021-02-12T12:12:57+09:00",
+                                "mainentityofpage": "Yahooファイナンスのスクレイピングをしていきましょう。 Pythonを使ってできる限り簡単にスクレイピングを行います。 今回は、企業情報ページの..."
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "item": "プログラミング",
+                                "name": "プログラミング",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【活用事例】Webスクレイピングでビジネスを成長させる方法30選 ...",
+                    "htmlTitle": "【活用事例】Web<b>スクレイピング</b>でビジネスを成長させる方法30選 ...",
+                    "link": "https://www.octoparse.jp/blog/web-scraping-for-businesses",
+                    "displayLink": "www.octoparse.jp",
+                    "snippet": "2022/11/06 ... 膨大なデータを自動抽出するWebスクレイピングの技術を使えば、 ... 人材会社であれば、採用ニーズがある企業の営業リスト作成にも役立ちます。",
+                    "htmlSnippet": "2022/11/06 <b>...</b> 膨大なデータを自動抽出するWeb<b>スクレイピング</b>の技術を使えば、 ... 人材会社であれば、採用ニーズがある<b>企業</b>の営業リスト作成にも役立ちます。",
+                    "cacheId": "udEF6EeHjTAJ",
+                    "formattedUrl": "https://www.octoparse.jp/blog/web-scraping-for-businesses",
+                    "htmlFormattedUrl": "https://www.octoparse.jp/blog/web-scraping-for-businesses",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "next-head-count": "6",
+                                "viewport": "width=device-width"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "株探（kabutan）をスクレイピングして上場企業サイトURLを取得 ...",
+                    "htmlTitle": "株探（kabutan）を<b>スクレイピング</b>して上場<b>企業</b>サイトURLを取得 ...",
+                    "link": "https://self-development.info/%E6%A0%AA%E6%8E%A2%EF%BC%88kabutan%EF%BC%89%E3%82%92%E3%82%B9%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0%E3%81%97%E3%81%A6%E4%B8%8A%E5%A0%B4%E4%BC%81%E6%A5%AD%E3%82%B5%E3%82%A4%E3%83%88url/",
+                    "displayLink": "self-development.info",
+                    "snippet": "2021/05/07 ... 株探（かぶたん）をスクレイピングします。 株探には、企業毎にページが用意されています。 例えば、キャノンの企業ページは以下のURLです。",
+                    "htmlSnippet": "2021/05/07 <b>...</b> 株探（かぶたん）を<b>スクレイピング</b>します。 株探には、<b>企業</b>毎にページが用意されています。 例えば、キャノンの<b>企業</b>ページは以下のURLです。",
+                    "cacheId": "ZARHySEY8EgJ",
+                    "formattedUrl": "https://self-development.info/ 株探（kabutan）をスクレイピングして上場企業サイトurl/",
+                    "htmlFormattedUrl": "https://self-development.info/ 株探（kabutan）を<b>スクレイピング</b>して上場<b>企業</b>サイトurl/",
+                    "pagemap": {
+                        "wpfooter": [
+                            {
+                                "name": "ジコログ",
+                                "about": "ジコログ",
+                                "url": "ジコログ"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiWWwzxLUHo9gZ6B_cGs5O-29LI9eAXwTI093EibqK2LhaVgNkmMwYxLXG",
+                                "width": "249",
+                                "height": "203"
+                            }
+                        ],
+                        "website": [
+                            {
+                                "name": "ジコログ",
+                                "about": "ジコログ",
+                                "url": "ジコログ"
+                            }
+                        ],
+                        "imageobject": [
+                            {
+                                "width": "980",
+                                "url": "https://self-development.info/wp-content/uploads/2021/05/20210507135814.png",
+                                "height": "800"
+                            },
+                            {
+                                "width": "206",
+                                "url": "https://self-development.info/wp-content/themes/cocoon-master/images/no-amp-logo.png",
+                                "height": "60"
+                            }
+                        ],
+                        "person": [
+                            {
+                                "name": "self_development"
+                            }
+                        ],
+                        "organization": [
+                            {
+                                "name": "ジコログ"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://self-development.info/wp-content/uploads/2021/05/20210507135814.png",
+                                "og:type": "article",
+                                "article:published_time": "2021-05-07T14:01:18+09:00",
+                                "article:section": "プログラミング",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "株探（kabutan）をスクレイピングして上場企業サイトURLを取得",
+                                "og:site_name": "ジコログ",
+                                "twitter:domain": "self-development.info",
+                                "twitter:url": "https://self-development.info/%e6%a0%aa%e6%8e%a2%ef%bc%88kabutan%ef%bc%89%e3%82%92%e3%82%b9%e3%82%af%e3%83%ac%e3%82%a4%e3%83%94%e3%83%b3%e3%82%b0%e3%81%97%e3%81%a6%e4%b8%8a%e5%a0%b4%e4%bc%81%e6%a5%ad%e3%82%b5%e3%82%a4%e3%83%88url/",
+                                "og:title": "株探（kabutan）をスクレイピングして上場企業サイトURLを取得",
+                                "msapplication-tileimage": "https://self-development.info/wp-content/uploads/2022/09/cropped-1_out-1-270x270.png",
+                                "og:description": "上場企業のサイトURL一覧は、一般的には公開されていません。そのため、そこそこの金額により有料で販売されることもあります。この記事では、株探（kabutan）をスクレイピングをすることにより、上場企業サイトURL一覧を作成する方法を解説しています。",
+                                "twitter:creator": "@intent/follow?screen_name=selfdevelop2019",
+                                "twitter:image": "https://self-development.info/wp-content/uploads/2021/05/20210507135814.png",
+                                "twitter:site": "@intent/follow?screen_name=selfdevelop2019",
+                                "article:modified_time": "2021-05-08T07:25:55+00:00",
+                                "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover",
+                                "twitter:description": "上場企業のサイトURL一覧は、一般的には公開されていません。そのため、そこそこの金額により有料で販売されることもあります。この記事では、株探（kabutan）をスクレイピングをすることにより、上場企業サイトURL一覧を作成する方法を解説しています。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://self-development.info/%e6%a0%aa%e6%8e%a2%ef%bc%88kabutan%ef%bc%89%e3%82%92%e3%82%b9%e3%82%af%e3%83%ac%e3%82%a4%e3%83%94%e3%83%b3%e3%82%b0%e3%81%97%e3%81%a6%e4%b8%8a%e5%a0%b4%e4%bc%81%e6%a5%ad%e3%82%b5%e3%82%a4%e3%83%88url/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://self-development.info/wp-content/uploads/2021/05/20210507135814.png"
+                            }
+                        ],
+                        "hatomfeed": [
+                            {}
+                        ],
+                        "blogposting": [
+                            {
+                                "datemodified": "2021-05-08T07:25:55+00:00",
+                                "headline": "株探（kabutan）をスクレイピングして上場企業サイトURLを取得",
+                                "datepublished": "2021-05-07T14:01:18+09:00",
+                                "mainentityofpage": "上場企業サイトのURL一覧は、探してみると案外ありません。 だからこそ、価値があるのでしょう。 「上場企業ホームページ一覧」 「上場企業Web..."
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "item": "プログラミング",
+                                "name": "プログラミング",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "中小企業向け支援策オープンデータをスクレイピング、CSV ...",
+                    "htmlTitle": "中小<b>企業</b>向け支援策オープンデータを<b>スクレイピング</b>、CSV ...",
+                    "link": "https://fukuno.jig.jp/3388",
+                    "displayLink": "fukuno.jig.jp",
+                    "snippet": "2021/11/03 ... 「J-Net21[中小企業ビジネス支援サイト]」の「支援記事一覧」をJavaScript on Denoのプログラム scrapeSupportList.js を作って、スクレイピング(HTML ...",
+                    "htmlSnippet": "2021/11/03 <b>...</b> 「J-Net21[中小<b>企業</b>ビジネス支援サイト]」の「支援記事一覧」をJavaScript on Denoのプログラム scrapeSupportList.js を作って、<b>スクレイピング</b>(HTML&nbsp;...",
+                    "cacheId": "rQTWHKYmrRkJ",
+                    "formattedUrl": "https://fukuno.jig.jp/3388",
+                    "htmlFormattedUrl": "https://fukuno.jig.jp/3388",
+                    "pagemap": {
+                        "hcard": [
+                            {
+                                "fn": "福野泰介",
+                                "nickname": "福野泰介",
+                                "photo": "https://fukuno.jig.jp/profile/profile-ichigojam-glass.jpg",
+                                "url": "https://fukuno.jig.jp/"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzQn2mut58NiP0GrtD4V3iM9LLCqq1sRDeyuxIL79o2_-7ynOxxKHyrQQ",
+                                "width": "310",
+                                "height": "162"
+                            }
+                        ],
+                        "person": [
+                            {
+                                "identifier": "@taisukef",
+                                "image": "アイコン画像",
+                                "name": "福野泰介",
+                                "url": "福野泰介 - Taisuke Fukuno"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://img.sabae.cc/data/203204/d59c2387-bc1c-4bc1-85f8-69a7f2263fed.jpg",
+                                "og:type": "blog",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "福野泰介の一日一創 / create every day",
+                                "viewport": "width=device-width",
+                                "apple-mobile-web-app-capable": "yes",
+                                "og:title": "中小企業向け支援策オープンデータをスクレイピング、CSVオープンデータ化、アプリで表示",
+                                "og:description": "商工会議所など、地域の中小企業を支援する組織がよく参照しているサイト「J-Net21[中小企業ビジネス支援サイト]」の国による支援策をオープンデータ化して、サンプルアプリと共に提供開始。毎日、自動更新が走って、最新に保たれるはずです。「中小...",
+                                "twitter:image": "https://img.sabae.cc/data/203204/d59c2387-bc1c-4bc1-85f8-69a7f2263fed.jpg",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://img.sabae.cc/data/203204/d59c2387-bc1c-4bc1-85f8-69a7f2263fed.jpg"
+                            }
+                        ],
+                        "blog": [
+                            {
+                                "name": "福野泰介の一日一創",
+                                "url": "福野泰介の一日一創"
+                            }
+                        ],
+                        "article": [
+                            {
+                                "license": "CC BY 4.0",
+                                "articlebody": "商工会議所など、地域の中小企業を支援する組織がよく参照しているサイト「J-Net21[中小企業ビジネス支援サイト]」の国による支援策をオープン...",
+                                "author": "@taisukef",
+                                "datecreated": "2021-11-03",
+                                "headline": "中小企業向け支援策オープンデータをスクレイピング、CSVオープンデータ化、アプリで表示",
+                                "url": "中小企業向け支援策オープンデータをスクレイピング、CSVオープンデータ化、アプリで表示"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Wikipedia からスクレイピングして… とか言ってる人におすすめ ...",
+                    "htmlTitle": "Wikipedia から<b>スクレイピング</b>して… とか言ってる人におすすめ ...",
+                    "link": "https://qiita.com/pika_shi/items/eb56fc205e2d670062ae",
+                    "displayLink": "qiita.com",
+                    "snippet": "2015/11/23 ... みたいな話をよく耳にし，そんなのスクレイピングしなくても DBPedia 使えば ... これをスクレイピングでやろうとすると，上場企業一覧を取得して， ...",
+                    "htmlSnippet": "2015/11/23 <b>...</b> みたいな話をよく耳にし，そんなの<b>スクレイピング</b>しなくても DBPedia 使えば ... これを<b>スクレイピング</b>でやろうとすると，上場<b>企業</b>一覧を取得して，&nbsp;...",
+                    "cacheId": "x353qAbs3gUJ",
+                    "formattedUrl": "https://qiita.com/pika_shi/items/eb56fc205e2d670062ae",
+                    "htmlFormattedUrl": "https://qiita.com/pika_shi/items/eb56fc205e2d670062ae",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEYgH1j8Rl9KvUJtexshf5vMJOae6qRilffQS0Y8QsNA7Zxk19-RaP030",
+                                "width": "276",
+                                "height": "182"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9V2lraXBlZGlhJTIwJUUzJTgxJThCJUUzJTgyJTg5JUUzJTgyJUI5JUUzJTgyJUFGJUUzJTgzJUFDJUUzJTgyJUE0JUUzJTgzJTk0JUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgxJTk3JUUzJTgxJUE2JUUyJTgwJUE2JTIwJUUzJTgxJUE4JUUzJTgxJThCJUU4JUE4JTgwJUUzJTgxJUEzJUUzJTgxJUE2JUUzJTgyJThCJUU0JUJBJUJBJUUzJTgxJUFCJUUzJTgxJThBJUUzJTgxJTk5JUUzJTgxJTk5JUUzJTgyJTgxJUUzJTgxJTk3JUUzJTgxJTlGJUUzJTgxJTg0JUVGJUJDJThDREJQZWRpYSUyMCVFMyU4MSU4QiVFMyU4MiU4OSVFMyU4MSVBRSVFNiU4MyU4NSVFNSVBMCVCMSVFNiU4QSVCRCVFNSU4NyVCQSZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1jbGlwPWVsbGlwc2lzJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9OWM3MDU1MzBmMDRlYjMxZThjN2E5MDM0MDY3NmE4NTA&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ",
+                                "theme-color": "#55c500",
+                                "twitter:card": "summary_large_image",
+                                "og:type": "article",
+                                "og:site_name": "Qiita",
+                                "og:title": "Wikipedia からスクレイピングして… とか言ってる人におすすめしたい，DBPedia からの情報抽出 - Qiita",
+                                "csrf-param": "authenticity_token",
+                                "twitter:creator": "@pika_shi",
+                                "og:description": "みなさん DBPedia をご存知でしょうか．DBPedia とは，Wikipedia から構造化データ (RDF) として情報を抽出するものです．DBPedia では Linked Data として情報が体系化されているので，Wik...",
+                                "twitter:site": "@Qiita",
+                                "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no,viewport-fit=cover",
+                                "csrf-token": "myrQkO9KGKlQSMqqO+4u4SD0fQ7pIwf1JLar7suZPVUTAG9KKZNAIj5IiwzauuJ/aPPducHGw6CmObKlSTbwQg==",
+                                "fb:admins": "564524038",
+                                "og:url": "https://qiita.com/pika_shi/items/eb56fc205e2d670062ae",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.amazonaws.com%2F0%2F7113%2F9ab454b4-810b-0393-9644-a530273b7751.png?ixlib=rb-4.0.0&auto=format&gif-q=60&q=75&s=53f68b3b7df536d8befef1d7ff6e582f"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "スクレイピングとは？メリットや注意点などデータ収集の上で知っ ...",
+                    "htmlTitle": "<b>スクレイピング</b>とは？メリットや注意点などデータ収集の上で知っ ...",
+                    "link": "https://fabeee.co.jp/column/dx/scraping/",
+                    "displayLink": "fabeee.co.jp",
+                    "snippet": "2022/02/07 ... デジタル技術が進歩した今、企業にとってさまざまなデータの活用はなくてはならないプロセスの一つとなっています。データを活用するためにはまず ...",
+                    "htmlSnippet": "2022/02/07 <b>...</b> デジタル技術が進歩した今、<b>企業</b>にとってさまざまなデータの活用はなくてはならないプロセスの一つとなっています。データを活用するためにはまず&nbsp;...",
+                    "cacheId": "ZvNUBoVqaagJ",
+                    "formattedUrl": "https://fabeee.co.jp/column/dx/scraping/",
+                    "htmlFormattedUrl": "https://fabeee.co.jp/column/dx/scraping/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTRmED5uBUAcSn9Pd7Zi12bYGf4JcorohhO2Nkdqh11bihxV0IY6SPwqCP",
+                                "width": "266",
+                                "height": "189"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://fabeee.co.jp/column/wp-content/uploads/2022/02/23220686_m_1000-1.jpg",
+                                "og:type": "article",
+                                "article:published_time": "2022-02-07T06:22:13+00:00",
+                                "og:image:width": "1000",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "Fabeee Blog",
+                                "og:title": "スクレイピングとは？メリットや注意点などデータ収集の上で知っておくべきポイントを解説 - Fabeee Blog",
+                                "og:image:height": "711",
+                                "twitter:label1": "執筆者",
+                                "msapplication-tileimage": "https://fabeee.co.jp/column/wp-content/uploads/2021/10/Fabeee_fabicon-1.png",
+                                "og:description": "デジタル技術が進歩した今、企業にとってさまざまなデータの活用はなくてはならないプロセスの一つとなっています。データを活用するためにはまずデータの収集を行わなければいけませんが、効率良くデータ収集が行えないという悩みを抱え...",
+                                "twitter:data1": "この記事の監修者：冨塚辰",
+                                "article:modified_time": "2022-04-28T08:34:53+00:00",
+                                "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://fabeee.co.jp/column/dx/scraping/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://fabeee.co.jp/column/wp-content/uploads/2022/02/23220686_m_1000-1.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Webスクレイピングツール10選 | 企業情報を取得する - ScrapeStorm",
+                    "htmlTitle": "Web<b>スクレイピング</b>ツール10選 | <b>企業</b>情報を取得する - ScrapeStorm",
+                    "link": "https://jp.scrapestorm.com/tutorial/introduce-10-web-scraping-tool-to-scrape-company-information/",
+                    "displayLink": "jp.scrapestorm.com",
+                    "snippet": "Webスクレイピングツール10選 | 企業情報を取得する - ScrapeStorm · 1.ScrapeHero · 2.ScrapeStorm · 3. · 4.FMiner · 5.VisualScraper · 6.Getleft · 7.Diggernaut · 8.Websundew.",
+                    "htmlSnippet": "Web<b>スクレイピング</b>ツール10選 | <b>企業</b>情報を取得する - ScrapeStorm &middot; 1.ScrapeHero &middot; 2.ScrapeStorm &middot; 3. &middot; 4.FMiner &middot; 5.VisualScraper &middot; 6.Getleft &middot; 7.Diggernaut &middot; 8.Websundew.",
+                    "cacheId": "WOZWjnwo3-EJ",
+                    "formattedUrl": "https://jp.scrapestorm.com/.../introduce-10-web-scraping-tool-to-scrape- company-information/",
+                    "htmlFormattedUrl": "https://jp.scrapestorm.com/.../introduce-10-web-scraping-tool-to-scrape- company-information/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcaQ2VoMtjZbQv22BZ3TUNLWW_AILbQ5wf5vsH1irVtvNk3C-j9MhusTc",
+                                "width": "316",
+                                "height": "159"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://jp.scrapestorm.com/wp-content/uploads/2019/11/1-ScrapeHero.png"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 企業 スクレイピング",
+                        "totalResults": "307000",
+                        "searchTerms": "企業 スクレイピング",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 企業 スクレイピング",
+                        "totalResults": "307000",
+                        "searchTerms": "企業 スクレイピング",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 企業 スクレイピング",
+                        "totalResults": "307000",
+                        "searchTerms": "企業 スクレイピング",
+                        "count": 10,
+                        "startIndex": 31,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.186547,
+                "formattedSearchTime": "0.19",
+                "totalResults": "307000",
+                "formattedTotalResults": "307,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "消費者物価指数 (CPI) への ウェブスクレイピングの活用について",
+                    "htmlTitle": "消費者物価指数 (CPI) への ウェブ<b>スクレイピング</b>の活用について",
+                    "link": "https://www.soumu.go.jp/main_content/000654895.pdf",
+                    "displayLink": "www.soumu.go.jp",
+                    "snippet": "2019/11/13 ... ウェブスクレイピングにより、①ネット販売価格の直接把握、②膨大な量の ... フィールドマネージャーはスタッフが企業にスクレイピングやAPIの使用を ...",
+                    "htmlSnippet": "2019/11/13 <b>...</b> ウェブ<b>スクレイピング</b>により、①ネット販売価格の直接把握、②膨大な量の ... フィールドマネージャーはスタッフが<b>企業</b>に<b>スクレイピング</b>やAPIの使用を&nbsp;...",
+                    "cacheId": "5P0q85BvzqAJ",
+                    "formattedUrl": "https://www.soumu.go.jp/main_content/000654895.pdf",
+                    "htmlFormattedUrl": "https://www.soumu.go.jp/main_content/000654895.pdf",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7dBZZQkT0vkMq5zLvmDnFcARyIraq1EmnGRRperBXZMYGCniQFRGTdhk",
+                                "width": "270",
+                                "height": "187"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "moddate": "D:20191113151045+09'00'",
+                                "creationdate": "D:20191113151028+09'00'",
+                                "creator": "PowerPoint 用 Acrobat PDFMaker 19",
+                                "producer": "Adobe PDF Library 19.21.79"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "x-raw-image:///6b2efe57c026e03efc6322833aa35ceb23c5b20ed8194c0baae669326e615bec"
+                            }
+                        ]
+                    },
+                    "mime": "application/pdf",
+                    "fileFormat": "PDF/Adobe Acrobat"
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "某ファッションテック企業でのWebスクレイピング - 高木 章光's ...",
+                    "htmlTitle": "某ファッションテック<b>企業</b>でのWeb<b>スクレイピング</b> - 高木 章光&#39;s ...",
+                    "link": "https://www.wantedly.com/id/akimitsu_takagi/items/3c037c82-aa2b-4982-9f97-366aa007a0c8",
+                    "displayLink": "www.wantedly.com",
+                    "snippet": "新しい分析基盤の企画・導入プロジェクトのリーディング・新しい分析基盤で採用する技術の導入に関する意思決定（Airbyte、dbt、prefect、Great Expectationsなど） ...",
+                    "htmlSnippet": "新しい分析基盤の企画・導入プロジェクトのリーディング・新しい分析基盤で採用する技術の導入に関する意思決定（Airbyte、dbt、prefect、Great Expectationsなど）&nbsp;...",
+                    "cacheId": "YJhbvCwqePwJ",
+                    "formattedUrl": "https://www.wantedly.com/id/.../3c037c82-aa2b-4982-9f97-366aa007a0c8",
+                    "htmlFormattedUrl": "https://www.wantedly.com/id/.../3c037c82-aa2b-4982-9f97-366aa007a0c8",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ZTcuGJ6B_VxDumi13sWz-InzC_fv5i0xD5pXc8_-fgcF9VhNqdyNjIQ",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.wantedly.com/users/15727/share_image",
+                                "twitter:card": "summary_large_image",
+                                "og:type": "article",
+                                "twitter:title": "某ファッションテック企業でのWebスクレイピング - 高木 章光",
+                                "twitter:url": "https://www.wantedly.com/id/akimitsu_takagi/items/3c037c82-aa2b-4982-9f97-366aa007a0c8",
+                                "og:title": "某ファッションテック企業でのWebスクレイピング - 高木 章光",
+                                "og:description": "株式会社アイスタイル, データ分析システム部",
+                                "twitter:image": "https://www.wantedly.com/users/15727/share_image",
+                                "next-head-count": "27",
+                                "fb:app_id": "234170156611754",
+                                "twitter:site": "@wantedly",
+                                "viewport": "width=device-width, minimum-scale=1, maximum-scale=1, initial-scale=1, viewport-cover=cover, user-scalable=no",
+                                "og:url": "https://www.wantedly.com/id/akimitsu_takagi/items/3c037c82-aa2b-4982-9f97-366aa007a0c8"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.wantedly.com/users/15727/share_image"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "データ収集を大幅に効率化する「スクレイピング」とは？ 手法や ...",
+                    "htmlTitle": "データ収集を大幅に効率化する「<b>スクレイピング</b>」とは？ 手法や ...",
+                    "link": "https://data.wingarc.com/scraping-27053",
+                    "displayLink": "data.wingarc.com",
+                    "snippet": "2020/08/06 ... なお企業や公共機関はスクレイピングをするまでもなく情報を常時提供してくれることもあり、その際使われる仕組みをAPI（詳しくはコチラ）といいます ...",
+                    "htmlSnippet": "2020/08/06 <b>...</b> なお<b>企業</b>や公共機関は<b>スクレイピング</b>をするまでもなく情報を常時提供してくれることもあり、その際使われる仕組みをAPI（詳しくはコチラ）といいます&nbsp;...",
+                    "cacheId": "uHprR_gLXsMJ",
+                    "formattedUrl": "https://data.wingarc.com/scraping-27053",
+                    "htmlFormattedUrl": "https://data.wingarc.com/scraping-27053",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUn4blekElvhf6bfmrHZ_8BBy01n7U137o7QCawgCzu2ZgU0-Dx7FChLI",
+                                "width": "296",
+                                "height": "170"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://data.wingarc.com/wp-content/uploads/2020/06/DTJK_Scraping_top-1880x1080-C.jpg",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "データで越境者に寄り添うメディア データのじかん",
+                                "msvalidate.01": "7224E956BA28EE90C40A2DA25EC2997D",
+                                "og:title": "データ収集を大幅に効率化する「スクレイピング」とは？ 手法やルール・注意点を解説！",
+                                "og:description": "データ活用の前提として、まず材料となるデータがなければなりません。 そのために例えば機械学習のために大量の画像データを収集する、Webサイトから情報を集め、CSVファイルにまとめるといった作業を行いた…",
+                                "url": "https://data.wingarc.com/scraping-27053",
+                                "fb:app_id": "datanojikan",
+                                "twitter:site": "@datanojikan",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "og:locale": "ja_JP",
+                                "google-adsense-platform-domain": "sitekit.withgoogle.com",
+                                "google-adsense-platform-account": "ca-host-pub-2644536267352236",
+                                "position": "1",
+                                "og:url": "https://data.wingarc.com/scraping-27053",
+                                "stt-info": "state=unmatch"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://data.wingarc.com/wp-content/uploads/2020/06/DTJK_Scraping_top-1880x1080-C.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "クロール・WEBスクレイピング エンジニア - uSonar ...",
+                    "htmlTitle": "クロール・WEB<b>スクレイピング</b> エンジニア - uSonar ...",
+                    "link": "https://recruit.landscape.co.jp/?page_id=1415",
+                    "displayLink": "recruit.landscape.co.jp",
+                    "snippet": "仕事内容. データベース構築のためのWebクローリング業務をお任せします。 当社では、820万拠点を超える企業情報データベース ...",
+                    "htmlSnippet": "仕事内容. データベース構築のためのWebクローリング業務をお任せします。 当社では、820万拠点を超える<b>企業</b>情報データベース&nbsp;...",
+                    "cacheId": "kviOnJDAB6QJ",
+                    "formattedUrl": "https://recruit.landscape.co.jp/?page_id=1415",
+                    "htmlFormattedUrl": "https://recruit.landscape.co.jp/?page_id=1415",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRr5T4FepTN0U5Q1xLrZ5mhTcmTDr0dDJgjIebKtEHbTsfVpLcIxF6CvVg",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, user-scalable=yes, maximum-scale=1.0, minimum-scale=1.0"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://recruit.landscape.co.jp/wp-content/uploads/2021/07/id1415phtoto.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Musubu(ムスブ)をクローラー、企業情報をスクレイピング｜山口隆二",
+                    "htmlTitle": "Musubu(ムスブ)をクローラー、<b>企業</b>情報を<b>スクレイピング</b>｜山口隆二",
+                    "link": "https://note.com/11210858628/n/nd27e12ccfcbb",
+                    "displayLink": "note.com",
+                    "snippet": "2020/12/04 ... スクレイピングツールの概要 ScrapeStormとは、人工知能に基づき、強い機能を持っているWebスクレイピングツールです。プログラミングが必要なく、 ...",
+                    "htmlSnippet": "2020/12/04 <b>...</b> <b>スクレイピング</b>ツールの概要 ScrapeStormとは、人工知能に基づき、強い機能を持っているWeb<b>スクレイピング</b>ツールです。プログラミングが必要なく、&nbsp;...",
+                    "cacheId": "6Q33_NJouH8J",
+                    "formattedUrl": "https://note.com/11210858628/n/nd27e12ccfcbb",
+                    "htmlFormattedUrl": "https://note.com/11210858628/n/nd27e12ccfcbb",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4WrmnIsWS1J3-L9qbrqRT6MVtu9mp6tA6BNKX1njYssXQoQnf4UKjo9o",
+                                "width": "341",
+                                "height": "148"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://assets.st-note.com/production/uploads/images/40164249/picture_pc_c1c30898353e21efc90406452b05072c.png"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://assets.st-note.com/production/uploads/images/40164249/picture_pc_c1c30898353e21efc90406452b05072c.png",
+                                "twitter:app:url:iphone": "note://note/nd27e12ccfcbb",
+                                "twitter:app:id:googleplay": "mu.note",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "Musubu(ムスブ)をクローラー、企業情報をスクレイピング｜山口隆二",
+                                "thumbnail": "https://assets.st-note.com/production/uploads/images/40164249/picture_pc_c1c30898353e21efc90406452b05072c.png",
+                                "og:site_name": "note（ノート）",
+                                "twitter:url": "https://note.com/11210858628/n/nd27e12ccfcbb",
+                                "og:title": "Musubu(ムスブ)をクローラー、企業情報をスクレイピング｜山口隆二",
+                                "twitter:app:name:googleplay": "note（ノート）",
+                                "twitter:app:id:iphone": "906581110",
+                                "og:description": "Musubu(ムスブ)とは? Musubu(ムスブ)は、法人営業を支援する企業データベースです。数千社の営業リストを30秒で作成可能です。成約可能性の高い企業を自動選定、リストアップした企業への営業履歴を管理する案件管理機能もあります。営業先選定から営業管理までMusubuひとつで実現できます。 スクレイピングツールの概要 ScrapeStormとは、人工知能に基づき、強い機能を持っているWebスクレイピングツールです。プログラミングが必要なく、ほとんどのWebサイトからデータをスクレイピングします。URLを入力するだけで、自動的にWebサイト内容と次のページボタンを識別できます。1-",
+                                "twitter:app:url:googleplay": "note.mu://note/nd27e12ccfcbb",
+                                "fb:app_id": "665869046808089",
+                                "twitter:site": "@note_PR",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "twitter:description": "Musubu(ムスブ)とは? Musubu(ムスブ)は、法人営業を支援する企業データベースです。数千社の営業リストを30秒で作成可能です。成約可能性の高い企業を自動選定、リストアップした企業への営業履歴を管理する案件管理機能もあります。営業先選定から営業管理までMusubuひとつで実現できます。 スクレイピングツールの概要 ScrapeStormとは、人工知能に基づき、強い機能を持っているWebスクレイピングツールです。プログラミングが必要なく、ほとんどのWebサイトからデータをスクレイピングします。URLを入力するだけで、自動的にWebサイト内容と次のページボタンを識別できます。1-",
+                                "og:url": "https://note.com/11210858628/n/nd27e12ccfcbb",
+                                "twitter:app:name:iphone": "note（ノート）"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://assets.st-note.com/production/uploads/images/40164249/picture_pc_c1c30898353e21efc90406452b05072c.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Webスクレイピングでデータを取得する方法",
+                    "htmlTitle": "Web<b>スクレイピング</b>でデータを取得する方法",
+                    "link": "https://exploratory.io/note/exploratory/Web-Piy4qMt7",
+                    "displayLink": "exploratory.io",
+                    "snippet": "2023/05/01 ... プレビュー画面を見たい場合は、実行を押してください。 名前はUnicornにして作成をクリックします。 CBInsightsからユニコーン企業データを取得すること ...",
+                    "htmlSnippet": "2023/05/01 <b>...</b> プレビュー画面を見たい場合は、実行を押してください。 名前はUnicornにして作成をクリックします。 CBInsightsからユニコーン<b>企業</b>データを取得すること&nbsp;...",
+                    "cacheId": "wIvbsh7C4voJ",
+                    "formattedUrl": "https://exploratory.io/note/exploratory/Web-Piy4qMt7",
+                    "htmlFormattedUrl": "https://exploratory.io/note/exploratory/Web-Piy4qMt7",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiIj4Mt-Ixu9RffhPEW2f-SSevJdwW1q7c-9hlduSMGRVc4dtBFxJo_50",
+                                "width": "231",
+                                "height": "218"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://exploratory.io/note/exploratory/Web-Piy4qMt7/viz_images/thumbnail.png",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "og:title": "Webスクレイピングでデータを取得する方法",
+                                "og:url": "https://exploratory.io/note/exploratory/Web-Piy4qMt7",
+                                "og:description": "ExploratoryでWebスクレイピングを使って、Webサイトからデータを取得する方法を説明します。",
+                                "twitter:image": "https://exploratory.io/note/exploratory/Web-Piy4qMt7/viz_images/thumbnail.png"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://exploratory.io/note/exploratory/Web-Piy4qMt7/viz_images/thumbnail.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "データ収集できるスクレイピングとは？効率化にツールが必要な ...",
+                    "htmlTitle": "データ収集できる<b>スクレイピング</b>とは？効率化にツールが必要な ...",
+                    "link": "https://www.tryeting.jp/column/6325/",
+                    "displayLink": "www.tryeting.jp",
+                    "snippet": "2022/08/09 ... 現代では、多くの企業がAIなどの最新技術を導入し、データ活用の効率化は会社の行末を左右するまでになりました。データを収集する方法の一つとして、 ...",
+                    "htmlSnippet": "2022/08/09 <b>...</b> 現代では、多くの<b>企業</b>がAIなどの最新技術を導入し、データ活用の効率化は会社の行末を左右するまでになりました。データを収集する方法の一つとして、&nbsp;...",
+                    "cacheId": "EG_kWE8ZXroJ",
+                    "formattedUrl": "https://www.tryeting.jp/column/6325/",
+                    "htmlFormattedUrl": "https://www.tryeting.jp/column/6325/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_nh9dufHFNXY9RACnLagB5DP-eThQHq3UWrT66JPEWKlrMvjJZh9GvfQ",
+                                "width": "299",
+                                "height": "168"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.tryeting.jp/wp/wp-content/uploads/2022/08/Data-collection-tool01-min.jpg",
+                                "theme-color": "#111",
+                                "og:type": "article",
+                                "og:image:width": "1710",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "データ収集できるスクレイピングとは？効率化にツールが必要な理由",
+                                "og:site_name": "TRYETING Inc.（トライエッティング）",
+                                "og:title": "データ収集できるスクレイピングとは？効率化にツールが必要な理由",
+                                "og:image:height": "962",
+                                "bingbot": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+                                "og:description": "現代では、多くの企業がAIなどの最新技術を導入し、データ活用の効率化は会社の行末を左右するまでになりました。データを収集する方法の一つとして、スクレイピングが挙げられます。スクレイピングとは具体的にどんな技術を指すのか、どんなメリットがあるのかは、その名前からだけではわかりません。",
+                                "twitter:image": "https://www.tryeting.jp/wp/wp-content/uploads/2022/08/Data-collection-tool01-min.jpg",
+                                "facebook-domain-verification": "76sfwmnvtvrgbilmmiwl09i55pik5d",
+                                "article:modified_time": "2022-09-15T10:21:56+00:00",
+                                "viewport": "width=device-width,initial-scale=1.0",
+                                "twitter:description": "現代では、多くの企業がAIなどの最新技術を導入し、データ活用の効率化は会社の行末を左右するまでになりました。データを収集する方法の一つとして、スクレイピングが挙げられます。スクレイピングとは具体的にどんな技術を指すのか、どんなメリットがあるのかは、その名前からだけではわかりません。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.tryeting.jp/column/6325/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.tryeting.jp/wp/wp-content/uploads/2022/08/Data-collection-tool01-min.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "PRTIMESからスクレイピングで企業リストを作成します - ランサーズ",
+                    "htmlTitle": "PRTIMESから<b>スクレイピング</b>で<b>企業</b>リストを作成します - ランサーズ",
+                    "link": "https://www.lancers.jp/menu/detail/201183",
+                    "displayLink": "www.lancers.jp",
+                    "snippet": "PRTIMES（https://prtimes.jp/）のサイトよりスクレイピングにより条件に合う企業をリストアップして納品いたします。 ☆企業ピックアップ方法： 以下の方法AまたはBを ...",
+                    "htmlSnippet": "PRTIMES（https://prtimes.jp/）のサイトより<b>スクレイピング</b>により条件に合う<b>企業</b>をリストアップして納品いたします。 ☆<b>企業</b>ピックアップ方法： 以下の方法AまたはBを&nbsp;...",
+                    "cacheId": "Xw6ZjQ0JRRAJ",
+                    "formattedUrl": "https://www.lancers.jp/menu/detail/201183",
+                    "htmlFormattedUrl": "https://www.lancers.jp/menu/detail/201183",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSc0znCMH7cua4Hjow4W5yFlhyLIBECnz2h24K4v0AgaivnEQlA9a94aF2C",
+                                "width": "291",
+                                "height": "173"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "application-name": "ランサーズ",
+                                "msapplication-tilecolor": "#13366a",
+                                "og:image": "https://img2.lancers.jp/projectblob/70824/2387469/79f8c6a3c9143d0ede8f4b95721d06079be54b9da6151de9f9b43a4a520bf39e/30233821_1000_0.png",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "PRTIMESからスクレイピングで企業リストを作成します",
+                                "msapplication-square70x70logo": "//static.lancers.jp/smalltile.png",
+                                "og:site_name": "lancers",
+                                "og:title": "PRTIMESからスクレイピングで企業リストを作成します",
+                                "msapplication-wide310x150logo": "//static.lancers.jp/widetile.png",
+                                "og:description": "ランサーズで見積もり・カスタマイズの相談を承ります",
+                                "msapplication-square150x150logo": "//static.lancers.jp/mediumtile.png",
+                                "twitter:image:src": "https://img2.lancers.jp/projectblob/70824/2387469/79f8c6a3c9143d0ede8f4b95721d06079be54b9da6151de9f9b43a4a520bf39e/30233821_1000_0.png",
+                                "facebook-domain-verification": "xztog6r16r7yqpbcieivlh4vwpssja",
+                                "fb:app_id": "614134448610575",
+                                "twitter:site": "@lancersjp",
+                                "viewport": "width=device-width,initial-scale=1",
+                                "msapplication-square310x310logo": "//static.lancers.jp/largetile.png",
+                                "twitter:description": "ランサーズで見積もり・カスタマイズの相談を承ります",
+                                "og:url": "https://www.lancers.jp/menu/detail/201183",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://img2.lancers.jp/projectblob/70824/2387469/79f8c6a3c9143d0ede8f4b95721d06079be54b9da6151de9f9b43a4a520bf39e/30233821_1000_0.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "クラウドソーシング ランサーズ",
+                                "name": "クラウドソーシング ランサーズ",
+                                "position": "1"
+                            },
+                            {
+                                "item": "パッケージを探す",
+                                "name": "パッケージを探す",
+                                "position": "2"
+                            },
+                            {
+                                "item": "ビジネス・コーポレート",
+                                "name": "ビジネス・コーポレート",
+                                "position": "3"
+                            },
+                            {
+                                "item": "営業代行・テレアポ代行",
+                                "name": "営業代行・テレアポ代行",
+                                "position": "4"
+                            },
+                            {
+                                "item": "PRTIMESからスクレイピングで企業リストを作成します",
+                                "name": "PRTIMESからスクレイピングで企業リストを作成します",
+                                "position": "5"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "求人情報のスクレイピングと令和4年改正職業安定法について ...",
+                    "htmlTitle": "求人情報の<b>スクレイピング</b>と令和4年改正職業安定法について ...",
+                    "link": "https://web-lawyers.net/person_matching/",
+                    "displayLink": "web-lawyers.net",
+                    "snippet": "2022/08/30 ... これまで、職業安定法が適用される求人情報サイトは、求人企業からの依頼で情報を掲載するものに限定されていて、求人情報のスクレイピングについて ...",
+                    "htmlSnippet": "2022/08/30 <b>...</b> これまで、職業安定法が適用される求人情報サイトは、求人<b>企業</b>からの依頼で情報を掲載するものに限定されていて、求人情報の<b>スクレイピング</b>について&nbsp;...",
+                    "cacheId": "VTY3T1XF5TIJ",
+                    "formattedUrl": "https://web-lawyers.net/person_matching/",
+                    "htmlFormattedUrl": "https://web-lawyers.net/person_matching/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNdRg0_wEk5Hm9ac2iJnrwtcN0nwyPDmKGO1vq1JrpsW2ZTx_Qo5kfdxY",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://web-lawyers.net/wp-content/uploads/2022/08/person_matching.jpg",
+                                "og:type": "article",
+                                "article:section": "ＩＴ法務",
+                                "article:published_time": "2022-08-30T09:08:19+00:00",
+                                "og:image:width": "640",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "求人情報のスクレイピングと令和４年改正職業安定法について弁護士が解説 - 企業向けオンライン法律相談「Web Lawyers」",
+                                "og:site_name": "企業向けオンライン法律相談「Web Lawyers」",
+                                "og:title": "求人情報のスクレイピングと令和４年改正職業安定法について弁護士が解説 - 企業向けオンライン法律相談「Web Lawyers」",
+                                "og:image:height": "427",
+                                "og:updated_time": "2022-09-25T12:57:44+00:00",
+                                "og:description": "求人情報のスクレイピングを利用したサービスが新たに職業安定法の規制対象になります。募集情報等提供事業のルールについて、法改正も踏まえて解説します。",
+                                "og:image:secure_url": "https://web-lawyers.net/wp-content/uploads/2022/08/person_matching.jpg",
+                                "twitter:image": "https://web-lawyers.net/wp-content/uploads/2022/08/person_matching.jpg",
+                                "article:modified_time": "2022-09-25T12:57:44+00:00",
+                                "viewport": "width=device-width",
+                                "twitter:description": "求人情報のスクレイピングを利用したサービスが新たに職業安定法の規制対象になります。募集情報等提供事業のルールについて、法改正も踏まえて解説します。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://web-lawyers.net/person_matching/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://web-lawyers.net/wp-content/uploads/2022/08/person_matching.jpg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "トップページ",
+                                "name": "トップページ",
+                                "position": "1"
+                            },
+                            {
+                                "item": "コラム",
+                                "name": "コラム",
+                                "position": "2"
+                            },
+                            {
+                                "item": "ＩＴ法務",
+                                "name": "ＩＴ法務",
+                                "position": "3"
+                            },
+                            {
+                                "name": "求人情報のスクレイピングと令和４年改正職…",
+                                "position": "4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "スクレイピングとは？違法性があるデータの活用方法とその対処を ...",
+                    "htmlTitle": "<b>スクレイピング</b>とは？違法性があるデータの活用方法とその対処を ...",
+                    "link": "https://legalmedia.coconala.com/3182",
+                    "displayLink": "legalmedia.coconala.com",
+                    "snippet": "2022/04/22 ... Webサイトから特定のデータを抽出する技術であるスクレイピングは、効率 ... スクレイピングは情報収集におけるひとつの手段でしかなく、民間企業だけ ...",
+                    "htmlSnippet": "2022/04/22 <b>...</b> Webサイトから特定のデータを抽出する技術である<b>スクレイピング</b>は、効率 ... <b>スクレイピング</b>は情報収集におけるひとつの手段でしかなく、民間<b>企業</b>だけ&nbsp;...",
+                    "cacheId": "riZmw-92_RIJ",
+                    "formattedUrl": "https://legalmedia.coconala.com/3182",
+                    "htmlFormattedUrl": "https://legalmedia.coconala.com/3182",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCH91aqNrAi5MhK32BzBA-2m-gipBNAgMpyd8L8Ex9nRhy2rSK83aT1xPU",
+                                "width": "299",
+                                "height": "168"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://legalmedia.coconala.com/wp-content/uploads/2022/04/shutterstock_1815040181.jpg"
+                            }
+                        ],
+                        "imageobject": [
+                            {
+                                "width": "1000",
+                                "url": "https://legalmedia.coconala.com/wp-content/uploads/2022/04/shutterstock_1815040181.jpg",
+                                "height": "563"
+                            },
+                            {
+                                "width": "206",
+                                "url": "https://legalmedia.coconala.com/wp-content/themes/cocoon-master/images/no-amp-logo.png",
+                                "height": "60"
+                            }
+                        ],
+                        "organization": [
+                            {
+                                "name": "ココナラ法律相談メディア"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://legalmedia.coconala.com/wp-content/uploads/2022/04/shutterstock_1815040181.jpg",
+                                "og:type": "article",
+                                "article:published_time": "2022-04-21T19:20:30+09:00",
+                                "article:section": "企業法務",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "スクレイピングとは？違法性があるデータの活用方法とその対処を解説",
+                                "thumbnail": "https://legalmedia.coconala.com/wp-content/uploads/2022/04/shutterstock_1815040181.jpg",
+                                "og:site_name": "ココナラ法律相談メディア",
+                                "twitter:domain": "legalmedia.coconala.com",
+                                "twitter:url": "https://legalmedia.coconala.com/3182",
+                                "og:title": "スクレイピングとは？違法性があるデータの活用方法とその対処を解説",
+                                "msapplication-tileimage": "https://legalmedia.coconala.com/wp-content/uploads/2020/06/favicon.ico",
+                                "og:description": "Webサイトから特定のデータを抽出する技術であるスクレイピングは、効率が良い情報収集手段として、活用されることも多いです。この記事では、スクレイピングの違法性や正しい活用方法について解説します。",
+                                "twitter:image": "https://legalmedia.coconala.com/wp-content/uploads/2022/04/shutterstock_1815040181.jpg",
+                                "article:modified_time": "2022-04-22T19:20:30+09:00",
+                                "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover",
+                                "twitter:description": "Webサイトから特定のデータを抽出する技術であるスクレイピングは、効率が良い情報収集手段として、活用されることも多いです。この記事では、スクレイピングの違法性や正しい活用方法について解説します。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://legalmedia.coconala.com/3182"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://legalmedia.coconala.com/wp-content/uploads/2022/04/shutterstock_1815040181.jpg"
+                            }
+                        ],
+                        "blogposting": [
+                            {
+                                "headline": "スクレイピングとは？違法性があるデータの活用方法とその対処を解説",
+                                "datepublished": "2022-04-22T19:20:30+09:00",
+                                "mainentityofpage": "Webサイトから特定のデータを抽出する技術であるスクレイピング。 効率が良い情報収集手段として、活用されることも多いです。 しかし他社のサ..."
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ココナラ法律相談",
+                                "name": "ココナラ法律相談",
+                                "position": "1"
+                            },
+                            {
+                                "item": "記事TOP",
+                                "name": "記事TOP",
+                                "position": "1"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

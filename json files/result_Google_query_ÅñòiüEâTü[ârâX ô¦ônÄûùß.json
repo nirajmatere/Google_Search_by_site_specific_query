@@ -1,0 +1,1455 @@
+{
+    "query": "商品・サービス 導入事例",
+    "links": [
+        [
+            "https://www.n-techno.co.jp/service/example.html",
+            "https://www.f-sfc.co.jp/notice/topics/202009291200.html",
+            "https://aws.amazon.com/jp/solutions/case-studies/",
+            "https://www.buffalo.jp/biz/jirei/mokuteki.html?case_filter=%E5%95%86%E5%93%81%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%93%81%E8%B3%AA%E5%90%91%E4%B8%8A",
+            "https://www.oki.com/jp/case/",
+            "https://www.nttdatacs.co.jp/casestudy/",
+            "https://www.oki.com/jp/ctstage/case/",
+            "https://www.fukuokabank.co.jp/corporate/ebservice/jireishuu/",
+            "https://www.rakuten-bank.co.jp/business/services/",
+            "https://www.hitachi-solutions.co.jp/cases/"
+        ],
+        [
+            "https://www.intec.co.jp/case/list.html",
+            "https://canon.jp/business/case",
+            "https://www.cti.co.jp/product/pwl/case01/",
+            "https://www.hcs.co.jp/backnumber/",
+            "https://www.hitachi-solutions.co.jp/security_assessment/case02/",
+            "https://www.hcs.co.jp/casestudy/",
+            "https://sairu.co.jp/method/21952/",
+            "https://www.hitachi-systems-es.co.jp/casestudy/",
+            "https://www.oki-osk.jp/product/crm/example/",
+            "https://www.panasonic.com/jp/company/pstc/casestudy.html"
+        ],
+        [
+            "https://shifton.kpp-gr.com/products/promotion/",
+            "https://www.intercom.co.jp/casestudy/",
+            "https://shifton.kpp-gr.com/products/packaging/",
+            "https://www.do-lease.co.jp/service/autolease/case.html",
+            "https://www.bsearchtech.com/casestudy/",
+            "https://service.tepsys.co.jp/casestudies/",
+            "https://www.humancentrix.com/columns/how-to-create-casestudy-video.html",
+            "https://www.broadleaf.co.jp/products/",
+            "https://www.sankovalve.co.jp/piping_journal/",
+            "https://www.justsystems.com/jp/products/justsfa/case/"
+        ]
+    ],
+    "snapshot_ymd": "D2023-06-23",
+    "snapshot_timestamp": "D2023-06-23T01-28-43",
+    "responses": [
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "request": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 導入事例",
+                        "totalResults": "35200000",
+                        "searchTerms": "商品・サービス 導入事例",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 導入事例",
+                        "totalResults": "35200000",
+                        "searchTerms": "商品・サービス 導入事例",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.297855,
+                "formattedSearchTime": "0.30",
+                "totalResults": "35200000",
+                "formattedTotalResults": "35,200,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "商品・サービス 導入事例 | 日本テクノ株式会社",
+                    "htmlTitle": "<b>商品</b>・<b>サービス 導入事例</b> | 日本テクノ株式会社",
+                    "link": "https://www.n-techno.co.jp/service/example.html",
+                    "displayLink": "www.n-techno.co.jp",
+                    "snippet": "商品・サービス. 導入事例紹介. 電力の使用状況をLED発光色の変化と音声でお知らせする時計「SMART CLOCK ...",
+                    "htmlSnippet": "<b>商品</b>・<b>サービス</b>. <b>導入事例</b>紹介. 電力の使用状況をLED発光色の変化と音声でお知らせする時計「SMART CLOCK&nbsp;...",
+                    "cacheId": "WoHM4kODyr0J",
+                    "formattedUrl": "https://www.n-techno.co.jp/service/example.html",
+                    "htmlFormattedUrl": "https://www.n-techno.co.jp/service/example.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7_8mB0pg-_pkY07VqYy_xJ7PCKeSjVubk3j-CS8SVpdfi9AHLh9lPfXTZ",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,initial-scale=1.0",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.n-techno.org/wp/wp-content/uploads/2023/05/482_01.jpg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "HOME",
+                                "name": "HOME",
+                                "position": "1"
+                            },
+                            {
+                                "item": "商品・サービス",
+                                "name": "商品・サービス",
+                                "position": "2"
+                            },
+                            {
+                                "name": "導入事例紹介",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "商品・サービスの導入事例を公開しました。｜お知らせ｜シャープ ...",
+                    "htmlTitle": "<b>商品</b>・<b>サービス</b>の<b>導入事例</b>を公開しました。｜お知らせ｜シャープ ...",
+                    "link": "https://www.f-sfc.co.jp/notice/topics/202009291200.html",
+                    "displayLink": "www.f-sfc.co.jp",
+                    "snippet": "2020/09/29 ... 商品・サービスの導入事例を公開しました。 この度、カーリース、医療ファクタリング、集金代行システム、建物リースの導入事例を公開しましたので ...",
+                    "htmlSnippet": "2020/09/29 <b>...</b> <b>商品</b>・<b>サービス</b>の<b>導入事例</b>を公開しました。 この度、カーリース、医療ファクタリング、集金代行システム、建物リースの<b>導入事例</b>を公開しましたので&nbsp;...",
+                    "cacheId": "VPhjdnMPOM4J",
+                    "formattedUrl": "https://www.f-sfc.co.jp/notice/topics/202009291200.html",
+                    "htmlFormattedUrl": "https://www.f-sfc.co.jp/notice/topics/202009291200.html",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width",
+                                "author": "SHARP FINANCE CORPORATION",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "webpage": [
+                            {
+                                "maincontentofpage": "お知らせ HOME お知らせ 商品・サービスの導入事例を公開しました。 2020/09/29 お知らせ 商品・サービスの導入事例を公開しました。 この度、カー..."
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "HOME",
+                                "name": "HOME",
+                                "position": "1"
+                            },
+                            {
+                                "item": "お知らせ",
+                                "name": "お知らせ",
+                                "position": "2"
+                            },
+                            {
+                                "name": "商品・サービスの導入事例を公開しました。",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "AWS クラウド導入事例 | AWS",
+                    "htmlTitle": "AWS クラウド<b>導入事例</b> | AWS",
+                    "link": "https://aws.amazon.com/jp/solutions/case-studies/",
+                    "displayLink": "aws.amazon.com",
+                    "snippet": "さまざまな規模のお客様が AWS を使用して、アジリティの向上、コストの削減、そしてイノベーションの推進をクラウドで実現した方法を紹介します。",
+                    "htmlSnippet": "さまざまな規模のお客様が AWS を使用して、アジリティの向上、コストの削減、そしてイノベーションの推進をクラウドで実現した方法を紹介します。",
+                    "cacheId": "XQkT6lPAAgcJ",
+                    "formattedUrl": "https://aws.amazon.com/jp/solutions/case-studies/",
+                    "htmlFormattedUrl": "https://aws.amazon.com/jp/solutions/case-studies/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSp5HPWn8V5ECfH7SCra5frHu0UHU6E_WROkaw5fS7SUfstMRB1oAIiSew",
+                                "width": "150",
+                                "height": "79"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png",
+                                "twitter:title": "AWS クラウド導入事例 | AWS",
+                                "twitter:card": "summary",
+                                "og:type": "company",
+                                "og:site_name": "Amazon Web Services, Inc.",
+                                "msvalidate.01": "6F92E52A288E266E30C2797ECB5FCCF3",
+                                "og:title": "AWS クラウド導入事例 | AWS",
+                                "shenma-site-verification": "79b94bb338f010af876605819a332e19_1617844070",
+                                "fb:pages": "153063591397681",
+                                "twitter:image": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_179x109.png",
+                                "360-site-verification": "cbe5c6f0249e273e71fffd6d6580ce09",
+                                "baidu-site-verification": "pjxJUyWxae",
+                                "twitter:site": "@awscloud",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "sogou_site_verification": "Ow8cCy3Hgq",
+                                "twitter:description": "さまざまな規模のお客様が AWS を使用して、アジリティの向上、コストの削減、そしてイノベーションの推進をクラウドで実現した方法を紹介します。",
+                                "og:url": "https://aws.amazon.com/jp/solutions/case-studies/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例 : 目的・課題から選ぶ | バッファロー",
+                    "htmlTitle": "<b>導入事例</b> : 目的・課題から選ぶ | バッファロー",
+                    "link": "https://www.buffalo.jp/biz/jirei/mokuteki.html?case_filter=%E5%95%86%E5%93%81%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%93%81%E8%B3%AA%E5%90%91%E4%B8%8A",
+                    "displayLink": "www.buffalo.jp",
+                    "snippet": "導入事例 : 目的・課題から選ぶに関するサイト。コスト削減や業務効率向上、品質向上等の情報をご ... 目的・課題. 商品・サービス品質向上. 業種. イベント. 導入商品.",
+                    "htmlSnippet": "<b>導入事例</b> : 目的・課題から選ぶに関するサイト。コスト削減や業務効率向上、品質向上等の情報をご ... 目的・課題. <b>商品</b>・<b>サービス</b>品質向上. 業種. イベント. 導入商品.",
+                    "cacheId": "TMcUkPCt9l4J",
+                    "formattedUrl": "https://www.buffalo.jp/biz/jirei/mokuteki.html?...商品・サービス品質向上",
+                    "htmlFormattedUrl": "https://www.buffalo.jp/biz/jirei/mokuteki.html?...<b>商品</b>・<b>サービス</b>品質向上",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpp79N6fujodU0mFIpzWH8rbVZUDzRlcsmTFcrthG4FgzbDfdrP7DhF_M",
+                                "width": "148",
+                                "height": "98"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "msapplication-config": "/common/img/meta/browserconfig.xml",
+                                "x-search-big_category": "法人",
+                                "copyright": "株式会社バッファロー",
+                                "theme-color": "#fff",
+                                "og:site_name": "株式会社バッファロー",
+                                "msapplication-tooltip": "株式会社バッファロー",
+                                "apple-mobile-web-app-title": "株式会社バッファロー",
+                                "msapplication-tileimage": "/common/img/meta/tile-image/mstile-144x144.png",
+                                "og:description": "導入事例 : 目的・課題から選ぶに関するサイト。コスト削減や業務効率向上、品質向上等の情報をご紹介。",
+                                "twitter:creator": "@BuffaloCS",
+                                "twitter:site": "@BuffaloCS",
+                                "msapplication-tap-highlight": "no",
+                                "fb:admins": "100334",
+                                "msapplication-task-separator": "1",
+                                "application-name": "株式会社バッファロー",
+                                "msapplication-starturl": "//buffalo.jp/",
+                                "msapplication-tilecolor": "#fff",
+                                "twitter:title": "導入事例 : 目的・課題から選ぶ",
+                                "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+                                "twitter:site:id": "881942455",
+                                "msapplication-window": "width=800;height=600",
+                                "handheldfriendly": "True",
+                                "twitter:domain": "buffalo.jp",
+                                "author": "株式会社バッファロー",
+                                "og:title": "導入事例 : 目的・課題から選ぶ",
+                                "msapplication-navbutton-color": "#c00",
+                                "referrer": "unsafe-url",
+                                "apple-mobile-web-app-status-bar-style": "black",
+                                "twitter:creator:id": "881942455",
+                                "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover",
+                                "apple-mobile-web-app-capable": "yes",
+                                "msapplication-notification": "none",
+                                "mobileoptimized": "320",
+                                "mobile-web-app-capable": "yes",
+                                "og:locale": "ja_JP",
+                                "x-search-last_published_date": "2019-11-28 15:05:56",
+                                "og:url": "/biz/jirei/mokuteki.html",
+                                "format-detection": "telephone=no, address=no, email=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.buffalo.jp/biz/jirei/detail/__icsFiles/afieldfile/2023/05/08/event-cnci-monstschool-img-main.jpg?small_light(dw=148,q=70)"
+                            }
+                        ],
+                        "sitenavigationelement": [
+                            {
+                                "name": "法人向けWi-Fi(無線LAN)",
+                                "url": "法人向けWi-Fi(無線LAN)"
+                            },
+                            {
+                                "name": "サイトマップ",
+                                "url": "サイトマップ"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例｜OKI",
+                    "htmlTitle": "<b>導入事例</b>｜OKI",
+                    "link": "https://www.oki.com/jp/case/",
+                    "displayLink": "www.oki.com",
+                    "snippet": "導入事例：OKIグループが提供している商品・サービス（通信システム、情報システム、金融システム、メカトロニクス、プリンター）をご導入したお客様の各種事例をご ...",
+                    "htmlSnippet": "<b>導入事例</b>：OKIグループが提供している<b>商品</b>・<b>サービス</b>（通信システム、情報システム、金融システム、メカトロニクス、プリンター）をご導入したお客様の各種事例をご&nbsp;...",
+                    "cacheId": "0Ffpe7oMrjsJ",
+                    "formattedUrl": "https://www.oki.com/jp/case/",
+                    "htmlFormattedUrl": "https://www.oki.com/jp/case/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRg19TM0VS8G29X9N_dwaglQU2wr84IPq0SCd5OhFi1FleQ8rkOfGg5kQc",
+                                "width": "267",
+                                "height": "189"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:type": "website",
+                                "copyright": "All rights reserved, Copyright © Oki Electric Industry Co., Ltd. since 1995",
+                                "og:site_name": "OKI",
+                                "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1",
+                                "author": "沖電気工業株式会社",
+                                "og:title": "導入事例｜OKI",
+                                "og:url": "https://www.oki.com/jp/case/",
+                                "og:description": "導入事例：OKIグループが提供している商品・サービス（通信システム、情報システム、金融システム、メカトロニクス、プリンター）をご導入したお客様の各種事例をご紹介いたします。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.oki.com/jp/case/2023/img/yamaha-motor_750_530.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例 | NTTデータ カスタマサービス株式会社",
+                    "htmlTitle": "<b>導入事例</b> | NTTデータ カスタマ<b>サービス</b>株式会社",
+                    "link": "https://www.nttdatacs.co.jp/casestudy/",
+                    "displayLink": "www.nttdatacs.co.jp",
+                    "snippet": "NTTデータカスタマサービスの商品やサービスとともにご紹介します。 コロナ禍で急速に高まったシステム利用需要に対応する「Nutanix Frame」を採用 クラウドとオンプレミス ...",
+                    "htmlSnippet": "NTTデータカスタマ<b>サービス</b>の<b>商品</b>や<b>サービス</b>とともにご紹介します。 コロナ禍で急速に高まったシステム利用需要に対応する「Nutanix Frame」を採用 クラウドとオンプレミス&nbsp;...",
+                    "cacheId": "lvlZLrYZjJAJ",
+                    "formattedUrl": "https://www.nttdatacs.co.jp/casestudy/",
+                    "htmlFormattedUrl": "https://www.nttdatacs.co.jp/casestudy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8LtyP7mcJpG_FEVsQH93Rkaz4oq7AGVgrhz7C7IPQHLQY2sINwQo8q_M",
+                                "width": "200",
+                                "height": "133"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1.0"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.nttdatacs.co.jp/casestudy/img/casestudy_17s.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例｜コンタクトセンターシステム CTstage｜OKI",
+                    "htmlTitle": "<b>導入事例</b>｜コンタクトセンターシステム CTstage｜OKI",
+                    "link": "https://www.oki.com/jp/ctstage/case/",
+                    "displayLink": "www.oki.com",
+                    "snippet": "導入事例. カブドットコム証券株式会社 様. センターイメージ. 商品・サービス: CTstage; 概要: APIの使い勝手や信頼性、サポート力を高く評価し、2000年の ...",
+                    "htmlSnippet": "<b>導入事例</b>. カブドットコム証券株式会社 様. センターイメージ. <b>商品</b>・<b>サービス</b>: CTstage; 概要: APIの使い勝手や信頼性、サポート力を高く評価し、2000年の&nbsp;...",
+                    "cacheId": "RLFbq0GOTCYJ",
+                    "formattedUrl": "https://www.oki.com/jp/ctstage/case/",
+                    "htmlFormattedUrl": "https://www.oki.com/jp/ctstage/case/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRmhLtaHbrdw1cpAwhjgVvQPYGK2r6K1iw1-miMnbsXS2P93DSF0RXPGuw",
+                                "width": "200",
+                                "height": "204"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "copyright": "All rights reserved, Copyright © Oki Electric Industry Co., Ltd. since 1995",
+                                "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1",
+                                "author": "沖電気工業株式会社"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.oki.com/jp/ctstage/case/img/kabu_01.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "EBサービス導入事例集 | 福岡銀行",
+                    "htmlTitle": "EB<b>サービス導入事例</b>集 | 福岡銀行",
+                    "link": "https://www.fukuokabank.co.jp/corporate/ebservice/jireishuu/",
+                    "displayLink": "www.fukuokabank.co.jp",
+                    "snippet": "EBサービスの導入事例を商品毎にご紹介いたします。 ビジネスバンキングWeb · ビジネスバンキング-Webロゴ. インターネットを利用してお ...",
+                    "htmlSnippet": "EB<b>サービス</b>の<b>導入事例</b>を<b>商品</b>毎にご紹介いたします。 ビジネスバンキングWeb &middot; ビジネスバンキング-Webロゴ. インターネットを利用してお&nbsp;...",
+                    "cacheId": "hrCPc_mTFY4J",
+                    "formattedUrl": "https://www.fukuokabank.co.jp/corporate/ebservice/jireishuu/",
+                    "htmlFormattedUrl": "https://www.fukuokabank.co.jp/corporate/ebservice/jireishuu/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJK81RGD2nI-8b3hWiKLgexycfz_C9fIAblZmsgKYTUnWtEExv7i39",
+                                "width": "110",
+                                "height": "110"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.fukuokabank.co.jp/idc/groups/fu/documents/img/idc_002382.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "商品・サービス一覧 | 法人のお客さま | 楽天銀行",
+                    "htmlTitle": "<b>商品</b>・<b>サービス</b>一覧 | 法人のお客さま | 楽天銀行",
+                    "link": "https://www.rakuten-bank.co.jp/business/services/",
+                    "displayLink": "www.rakuten-bank.co.jp",
+                    "snippet": "ご利用の目的に応じて、最適なサービスをお選びいただけます。 利用用途からサービスを選ぶへ. 導入事例からサービスを選ぶ. 既にご利用いただいているお客さまの事例 ...",
+                    "htmlSnippet": "ご利用の目的に応じて、最適な<b>サービス</b>をお選びいただけます。 利用用途から<b>サービス</b>を選ぶへ. <b>導入事例</b>から<b>サービス</b>を選ぶ. 既にご利用いただいているお客さまの事例&nbsp;...",
+                    "cacheId": "gPIBsgX2_qUJ",
+                    "formattedUrl": "https://www.rakuten-bank.co.jp/business/services/",
+                    "htmlFormattedUrl": "https://www.rakuten-bank.co.jp/business/services/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9jZh21xoxSOWSqqhu0FuS7m0RkOE9g0ziLawdyn6a-JqoxcBu4pgZI7ti",
+                                "width": "200",
+                                "height": "200"
+                            }
+                        ],
+                        "corporation": [
+                            {
+                                "url": "楽天銀行"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.rakuten-bank.co.jp/shared/images/contents-mod/ogp-img-01.gif",
+                                "copyright": "Copyright © 2001 Rakuten Bank, Ltd. All Rights Reserved.",
+                                "og:type": "article",
+                                "og:site_name": "楽天銀行",
+                                "author": "楽天銀行株式会社",
+                                "og:page_id": "117665128323129",
+                                "og:title": "法人のお客さま | 楽天銀行",
+                                "og:description": "楽天銀行の法人のお客さま向けの商品・サービスのご紹介ページです。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.rakuten-bank.co.jp/shared/images/contents-mod/ogp-img-01.gif"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "事例紹介｜株式会社日立ソリューションズ",
+                    "htmlTitle": "<b>事例</b>紹介｜株式会社日立ソリューションズ",
+                    "link": "https://www.hitachi-solutions.co.jp/cases/",
+                    "displayLink": "www.hitachi-solutions.co.jp",
+                    "snippet": "日立ソリューションズのソリューション・商品をご活用頂いているお客様の導入事例やシステム構築例について ... Microsoft Dynamics 365 統合ERP構築サービス 導入事例.",
+                    "htmlSnippet": "日立ソリューションズのソリューション・<b>商品</b>をご活用頂いているお客様の<b>導入事例</b>やシステム構築例について ... Microsoft Dynamics 365 統合ERP構築<b>サービス 導入事例</b>.",
+                    "cacheId": "WYBFExM-ELgJ",
+                    "formattedUrl": "https://www.hitachi-solutions.co.jp/cases/",
+                    "htmlFormattedUrl": "https://www.hitachi-solutions.co.jp/cases/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPBvhAMhqn0lxam2qWHz4th0mA4An8jGDU12jgfgk83nTfqk1VFPIQ2NeC",
+                                "width": "289",
+                                "height": "175"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "/-/media/Project/DefaultSite/Products/Default/products_OGP.ashx",
+                                "og:type": "article",
+                                "viewport": "width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0",
+                                "author": "Hitachi Solutions, Ltd.",
+                                "og:title": "事例紹介｜株式会社日立ソリューションズ",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.hitachi-solutions.co.jp/cases/",
+                                "og:description": "日立ソリューションズのソリューション・商品をご活用頂いているお客様の導入事例やシステム構築例についてご紹介します。様々な企業の導入事例やシステム構築例をご覧ください。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.hitachi-solutions.co.jp/-/media/Project/DefaultSite/Products/CaseList/logo_kitano.ashx"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 導入事例",
+                        "totalResults": "35200000",
+                        "searchTerms": "商品・サービス 導入事例",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 導入事例",
+                        "totalResults": "35200000",
+                        "searchTerms": "商品・サービス 導入事例",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 導入事例",
+                        "totalResults": "35200000",
+                        "searchTerms": "商品・サービス 導入事例",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.173402,
+                "formattedSearchTime": "0.17",
+                "totalResults": "35200000",
+                "formattedTotalResults": "35,200,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "事例一覧｜事例紹介｜インテック",
+                    "htmlTitle": "<b>事例</b>一覧｜<b>事例</b>紹介｜インテック",
+                    "link": "https://www.intec.co.jp/case/list.html",
+                    "displayLink": "www.intec.co.jp",
+                    "snippet": "さまざまな企業の導入事例やシステム構築例をご覧ください。 ... アース製薬株式会社様; 商品・サービス：生産管理パッケージ導入サービス（mcframe） ...",
+                    "htmlSnippet": "さまざまな企業の<b>導入事例</b>やシステム構築例をご覧ください。 ... アース製薬株式会社様; <b>商品</b>・<b>サービス</b>：生産管理パッケージ導入サービス（mcframe）&nbsp;...",
+                    "cacheId": "LHYSxPMCruYJ",
+                    "formattedUrl": "https://www.intec.co.jp/case/list.html",
+                    "htmlFormattedUrl": "https://www.intec.co.jp/case/list.html",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1.0, maximum-scale=2.0",
+                                "author": "INTEC Inc."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例｜キヤノン",
+                    "htmlTitle": "<b>導入事例</b>｜キヤノン",
+                    "link": "https://canon.jp/business/case",
+                    "displayLink": "canon.jp",
+                    "snippet": "キヤノンマーケティングジャパンのお客さまの導入事例を課題別や業種別などさまざまなジャンルからお探しいただけ ... 業種・商品／サービス・従業員数・成果から探す ...",
+                    "htmlSnippet": "キヤノンマーケティングジャパンのお客さまの<b>導入事例</b>を課題別や業種別などさまざまなジャンルからお探しいただけ ... 業種・<b>商品</b>／<b>サービス</b>・従業員数・成果から探す&nbsp;...",
+                    "cacheId": "PHWXvsAeMTkJ",
+                    "formattedUrl": "https://canon.jp/business/case",
+                    "htmlFormattedUrl": "https://canon.jp/business/case",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAZFisZvZNvoDWAntneeLlatV--YMgbcgmvP3epZT0H5cVTezV9KzhsxI",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://canon.jp/-/media/Project/Canon/CanonJP/Website/shared/image/open-graph/og-logo-image.png?la=ja-JP",
+                                "fb:app_id": "317061325518270",
+                                "og:type": "article",
+                                "twitter:title": "case",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "Canon(Japan)",
+                                "twitter:site": "@Canon_mj",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "導入事例",
+                                "og:url": "https://canon.jp/business/case",
+                                "og:description": "キヤノンマーケティングジャパンのお客さまの導入事例を課題別や業種別などさまざまなジャンルからお探しいただけます。",
+                                "og:admins": "381111741960060"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://canon.jp/-/media/Project/Canon/CanonJP/Website/shared/image/open-graph/og-logo-image.png?la=ja-JP"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例 - PowerWatch LINK - 商品・サービス - 中電シーティーアイ",
+                    "htmlTitle": "<b>導入事例</b> - PowerWatch LINK - <b>商品</b>・<b>サービス</b> - 中電シーティーアイ",
+                    "link": "https://www.cti.co.jp/product/pwl/case01/",
+                    "displayLink": "www.cti.co.jp",
+                    "snippet": "商品・サービス ... 導入事例. 手作業だった電気料金計算をPowerWatch LINKでシステム化 ... PowerWatch LINK 導入前 → 導入後（周辺機能の改造も含む） ...",
+                    "htmlSnippet": "<b>商品</b>・<b>サービス</b> ... <b>導入事例</b>. 手作業だった電気料金計算をPowerWatch LINKでシステム化 ... PowerWatch LINK 導入前 → 導入後（周辺機能の改造も含む）&nbsp;...",
+                    "cacheId": "t6QEPTiHH-YJ",
+                    "formattedUrl": "https://www.cti.co.jp/product/pwl/case01/",
+                    "htmlFormattedUrl": "https://www.cti.co.jp/product/pwl/case01/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBTujNsRjgcDynjWGvREMDNRpiRHk9T5zj7Ct5CFPFLq3bCrGlN7OghhA",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.cti.co.jp/img/fb_thumb.jpg",
+                                "og:type": "article",
+                                "og:site_name": "中電シーティーアイ",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "導入事例"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.cti.co.jp/img/fb_thumb.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "バックナンバー｜導入事例｜北陸コンピュータ・サービス株式会社",
+                    "htmlTitle": "バックナンバー｜<b>導入事例</b>｜北陸コンピュータ・<b>サービス</b>株式会社",
+                    "link": "https://www.hcs.co.jp/backnumber/",
+                    "displayLink": "www.hcs.co.jp",
+                    "snippet": "導入事例CASE STUDY. バックナンバー; 条件から探す · 商品・サービス名から探す. NEW ...",
+                    "htmlSnippet": "<b>導入事例</b>CASE STUDY. バックナンバー; 条件から探す &middot; <b>商品</b>・<b>サービス</b>名から探す. NEW&nbsp;...",
+                    "cacheId": "0WM7W2hbT7AJ",
+                    "formattedUrl": "https://www.hcs.co.jp/backnumber/",
+                    "htmlFormattedUrl": "https://www.hcs.co.jp/backnumber/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4NFSK33OzvYw4XY87BAmJiu7B0rejCTbyaZQZEhUKzFSdJu8yKk8M7i8",
+                                "width": "318",
+                                "height": "159"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1.0"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.hcs.co.jp/wp-content/uploads/160209b97d90c8a32175242e79c01fbe.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "武州ガス株式会社様 セキュリティ診断サービスの導入事例や ...",
+                    "htmlTitle": "武州ガス株式会社様 セキュリティ診断<b>サービス</b>の<b>導入事例</b>や ...",
+                    "link": "https://www.hitachi-solutions.co.jp/security_assessment/case02/",
+                    "displayLink": "www.hitachi-solutions.co.jp",
+                    "snippet": "2019/10/23 ... 武州ガス株式会社様のセキュリティ診断サービスに関する導入事例。 ... 運用・保守サポート、商品・サービスを提供するソリューションプロバイダーです。",
+                    "htmlSnippet": "2019/10/23 <b>...</b> 武州ガス株式会社様のセキュリティ診断サービスに関する<b>導入事例</b>。 ... 運用・保守サポート、<b>商品</b>・<b>サービス</b>を提供するソリューションプロバイダーです。",
+                    "cacheId": "Iy01u4AtC_UJ",
+                    "formattedUrl": "https://www.hitachi-solutions.co.jp/security_assessment/case02/",
+                    "htmlFormattedUrl": "https://www.hitachi-solutions.co.jp/security_assessment/case02/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDFNva6hKi3JEJtvIolavQwpcoJ7e7ZGfW42UKOEMLJKz5R4vlJll0y29O",
+                                "width": "387",
+                                "height": "130"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "/-/media/Project/DefaultSite/Products/Default/products_OGP.ashx",
+                                "og:type": "article",
+                                "viewport": "width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0",
+                                "author": "Hitachi Solutions, Ltd.",
+                                "og:title": "武州ガス株式会社様 セキュリティ診断サービスの導入事例やシステム構築例を紹介｜事例紹介｜株式会社日立ソリューションズ",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.hitachi-solutions.co.jp/security_assessment/case02/",
+                                "og:description": "武州ガス株式会社様のセキュリティ診断サービスに関する導入事例。日立ソリューションズは、コンサルティングからシステム開発・構築、運用・保守サポート、商品・サービスを提供するソリューションプロバイダーです。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.hitachi-solutions.co.jp/-/media/Project/DefaultSite/cases/security_assessment/case02/img_bushugas.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "条件から探す｜導入事例｜北陸コンピュータ・サービス株式会社",
+                    "htmlTitle": "条件から探す｜<b>導入事例</b>｜北陸コンピュータ・<b>サービス</b>株式会社",
+                    "link": "https://www.hcs.co.jp/casestudy/",
+                    "displayLink": "www.hcs.co.jp",
+                    "snippet": "同じ条件で探す. 商品・サービス 事例集・カタログ. お客さまの成功事例を 事例集として配布しています。 無料でダウンロード ...",
+                    "htmlSnippet": "同じ条件で探す. <b>商品</b>・<b>サービス 事例</b>集・カタログ. お客さまの成功<b>事例</b>を <b>事例</b>集として配布しています。 無料でダウンロード&nbsp;...",
+                    "cacheId": "G22cwqbtG8oJ",
+                    "formattedUrl": "https://www.hcs.co.jp/casestudy/",
+                    "htmlFormattedUrl": "https://www.hcs.co.jp/casestudy/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例の作り方12のパターン【BtoB企業の事例で解説 ...",
+                    "htmlTitle": "<b>導入事例</b>の作り方12のパターン【BtoB企業の事例で解説 ...",
+                    "link": "https://sairu.co.jp/method/21952/",
+                    "displayLink": "sairu.co.jp",
+                    "snippet": "2023/05/22 ... しかし、実は導入事例にはさまざまな形があります。顧客が商品・サービスを導入した直後に記事化する、顧客へのインタビューを実施せずにコンテンツ化 ...",
+                    "htmlSnippet": "2023/05/22 <b>...</b> しかし、実は<b>導入事例</b>にはさまざまな形があります。顧客が<b>商品</b>・<b>サービス</b>を導入した直後に記事化する、顧客へのインタビューを実施せずにコンテンツ化&nbsp;...",
+                    "cacheId": "4fznDHJxiRgJ",
+                    "formattedUrl": "https://sairu.co.jp/method/21952/",
+                    "htmlFormattedUrl": "https://sairu.co.jp/method/21952/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "og:image": "https://sairu.co.jp/wp-content/uploads/2023/04/事例コンテンツの作り方12パターン.webp",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "株式会社才流（サイル） ｜ メソッドカンパニー",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "導入事例の作り方12のパターン【BtoB企業の事例で解説】 | メソッド | 才流",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://sairu.co.jp/method/21952/",
+                                "og:description": "才流（サイル）のメソッド「導入事例の作り方12のパターン【BtoB企業の事例で解説】」です。数百の成功事例から導き出した「成功の型」を、貴社のビジネスにお役立てください。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://sairu.co.jp/wp-content/uploads/2023/04/事例コンテンツの作り方12パターン.webp"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例：株式会社日立システムズエンジニアリングサービス",
+                    "htmlTitle": "<b>導入事例</b>：株式会社日立システムズエンジニアリング<b>サービス</b>",
+                    "link": "https://www.hitachi-systems-es.co.jp/casestudy/",
+                    "displayLink": "www.hitachi-systems-es.co.jp",
+                    "snippet": "株式会社日立システムズエンジニアリングサービス【導入事例】ページ。 ... セキュアなものにすることで、顧客満足の向上を実現しています。 商品の詳細 · 事例詳細 ...",
+                    "htmlSnippet": "株式会社日立システムズエンジニアリング<b>サービス</b>【<b>導入事例</b>】ページ。 ... セキュアなものにすることで、顧客満足の向上を実現しています。 <b>商品</b>の詳細 &middot; 事例詳細&nbsp;...",
+                    "cacheId": "g0JcSJnRyqMJ",
+                    "formattedUrl": "https://www.hitachi-systems-es.co.jp/casestudy/",
+                    "htmlFormattedUrl": "https://www.hitachi-systems-es.co.jp/casestudy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsXOwdmyW-ywVe0qZHnqK_yluARtUd7ttcGCs-WHrdA2RLYqnt9pr1L3d8",
+                                "width": "292",
+                                "height": "172"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0",
+                                "author": "Hitachi Systems Engineering Services, Ltd.",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.hitachi-systems-es.co.jp/casestudy/images/case06.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例｜コンタクトセンター向けクラウドCRM enjoy.CRMⅢ ...",
+                    "htmlTitle": "<b>導入事例</b>｜コンタクトセンター向けクラウドCRM enjoy.CRMⅢ ...",
+                    "link": "https://www.oki-osk.jp/product/crm/example/",
+                    "displayLink": "www.oki-osk.jp",
+                    "snippet": "トヨタモビリティサービス株式会社が掲げる SDGs 3 つのチャレンジ「カーボンニュートラル」「デジタルトランスフォーメーション」「ヘルスケア」を目指す取り組みの一環 ...",
+                    "htmlSnippet": "トヨタモビリティ<b>サービス</b>株式会社が掲げる SDGs 3 つのチャレンジ「カーボンニュートラル」「デジタルトランスフォーメーション」「ヘルスケア」を目指す取り組みの一環&nbsp;...",
+                    "cacheId": "PgC_3NZcOUsJ",
+                    "formattedUrl": "https://www.oki-osk.jp/product/crm/example/",
+                    "htmlFormattedUrl": "https://www.oki-osk.jp/product/crm/example/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTepVyQugntac9JesRaauFzxhpkQxVjszVsgXCSNhSXdzqVvvsxU81xhORF",
+                                "width": "214",
+                                "height": "150"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "copyright": "All rights reserved, Copyright © OKI Software Co., Ltd. since 2010",
+                                "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1",
+                                "author": "株式会社OKIソフトウェア"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.oki-osk.jp/product/crm/example/img/example_toyota.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例から探す | 商品一覧 | パナソニック ソリューション ...",
+                    "htmlTitle": "<b>導入事例</b>から探す | <b>商品</b>一覧 | パナソニック ソリューション ...",
+                    "link": "https://www.panasonic.com/jp/company/pstc/casestudy.html",
+                    "displayLink": "www.panasonic.com",
+                    "snippet": "高度なセキュリティ対策で、場所に縛られない働き方を実現。 > 続きを読む. 【導入商品】 > Microsoft 365導入支援サービス.",
+                    "htmlSnippet": "高度なセキュリティ対策で、場所に縛られない働き方を実現。 &gt; 続きを読む. 【<b>導入商品</b>】 &gt; Microsoft 365<b>導入</b>支援<b>サービス</b>.",
+                    "cacheId": "YQaU4eNd1Y4J",
+                    "formattedUrl": "https://www.panasonic.com/jp/company/pstc/casestudy.html",
+                    "htmlFormattedUrl": "https://www.panasonic.com/jp/company/pstc/casestudy.html",
+                    "pagemap": {
+                        "thumbnail": [
+                            {
+                                "src": "https://www.panasonic.com/content/dam/panasonic/jp/company/pstc/common/images/fb_image01.jpg"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.panasonic.com/content/dam/panasonic/jp/company/pstc/common/images/fb_image01.jpg",
+                                "og:type": "article",
+                                "thumbnail": "https://www.panasonic.com/content/dam/panasonic/jp/company/pstc/common/images/fb_image01.jpg",
+                                "twitter:card": "summary_large_image",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "og:title": "導入事例から探す | 商品一覧 | パナソニック ソリューションテクノロジー株式会社 | Panasonic",
+                                "og:description": "パナソニック ソリューションテクノロジーが提供するICTソリューションの実績として、お客様のさまざまな課題を解決した導入事例を一部ご紹介します。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.panasonic.com/content/dam/panasonic/jp/company/pstc/common/images/fb_image01.jpg"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 導入事例",
+                        "totalResults": "35200000",
+                        "searchTerms": "商品・サービス 導入事例",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 導入事例",
+                        "totalResults": "35200000",
+                        "searchTerms": "商品・サービス 導入事例",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 導入事例",
+                        "totalResults": "35200000",
+                        "searchTerms": "商品・サービス 導入事例",
+                        "count": 10,
+                        "startIndex": 31,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.171242,
+                "formattedSearchTime": "0.17",
+                "totalResults": "35200000",
+                "formattedTotalResults": "35,200,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "販売促進「SHIFT ON promotion」の商品・サービスをご案内",
+                    "htmlTitle": "販売促進「SHIFT ON promotion」の<b>商品</b>・<b>サービス</b>をご案内",
+                    "link": "https://shifton.kpp-gr.com/products/promotion/",
+                    "displayLink": "shifton.kpp-gr.com",
+                    "snippet": "まずはお気軽にお問い合わせください。 販売促進（SHIFT ON promotion）に関するお問い合わせをする. 導入事例. お客様導入事例を掲載しています。",
+                    "htmlSnippet": "まずはお気軽にお問い合わせください。 販売促進（SHIFT ON promotion）に関するお問い合わせをする. <b>導入事例</b>. お客様<b>導入事例</b>を掲載しています。",
+                    "cacheId": "I5CRSejJJfUJ",
+                    "formattedUrl": "https://shifton.kpp-gr.com/products/promotion/",
+                    "htmlFormattedUrl": "https://shifton.kpp-gr.com/products/promotion/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-UhQn_d7YOjQToMRu1s6ccFjbYRJpNxXToznXtA-KmHKmOVQnUs2PoM8",
+                                "width": "311",
+                                "height": "162"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://shifton.kpp-gr.com/dcms_media/image/ogp.png",
+                                "og:type": "article",
+                                "twitter:card": "summary",
+                                "twitter:title": "販売促進「SHIFT ON promotion」の商品・サービスをご案内",
+                                "og:site_name": "SHIFT ON（シフト オン）－事業を最適化する紙総合商社",
+                                "og:title": "販売促進「SHIFT ON promotion」の商品・サービスをご案内",
+                                "og:description": "SHIFT ON promotionは、店舗で活用されるPOPやプライスカード、その他さまざまな販促品の素材選びから製作までトータルでサポートするソリューションです。環境に配慮した販促品製作を含め、店舗のコンセプトにマッチする販促製品をご提案いたします。",
+                                "twitter:image": "https://shifton.kpp-gr.com/dcms_media/image/ogp.png",
+                                "facebook-domain-verification": "l1forqemvplokwq81y7ece78o18c54",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "twitter:description": "SHIFT ON promotionは、店舗で活用されるPOPやプライスカード、その他さまざまな販促品の素材選びから製作までトータルでサポートするソリューションです。環境に配慮した販促品製作を含め、店舗のコンセプトにマッチする販促製品をご提案いたします。",
+                                "og:locale": "ja_JP",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://shifton.kpp-gr.com/dcms_media/image/ogp.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "事業を最適化する紙総合商社SHIFTON",
+                                "name": "事業を最適化する紙総合商社SHIFTON",
+                                "position": "1"
+                            },
+                            {
+                                "item": "商品・サービス一覧",
+                                "name": "商品・サービス一覧",
+                                "position": "2"
+                            },
+                            {
+                                "item": "販売促進（SHIFT ON promotion）の商品・サービス",
+                                "name": "販売促進（SHIFT ON promotion）の商品・サービス",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "インターコム商品 導入事例",
+                    "htmlTitle": "インターコム<b>商品 導入事例</b>",
+                    "link": "https://www.intercom.co.jp/casestudy/",
+                    "displayLink": "www.intercom.co.jp",
+                    "snippet": "導入事例. インターコムの商品・サービスは様々なお客様にお使いいただいています。 すべて表示. すべて. 用途で絞り込む. 資産管理. 情報漏洩対策. 内部統制.",
+                    "htmlSnippet": "<b>導入事例</b>. インターコムの<b>商品</b>・<b>サービス</b>は様々なお客様にお使いいただいています。 すべて表示. すべて. 用途で絞り込む. 資産管理. 情報漏洩対策. 内部統制.",
+                    "cacheId": "7Ka-03NljEMJ",
+                    "formattedUrl": "https://www.intercom.co.jp/casestudy/",
+                    "htmlFormattedUrl": "https://www.intercom.co.jp/casestudy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbQsDff4_VczCRNJC0gip-IGuTrl_FeMCoSaVHd0RaMiGABg564EdYhQQ",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.intercom.co.jp/casestudy/images/jsonld-16x9.jpg",
+                                "og:type": "website",
+                                "fb:app_id": "977421522590346",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "株式会社インターコム 導入事例",
+                                "twitter:site": "@intercom_jp",
+                                "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1",
+                                "og:title": "会社情報｜株式会社インターコム",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.intercom.co.jp/casestudy/",
+                                "og:description": "株式会社インターコムの導入事例。様々な業種の企業様に導入いただいております。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.intercom.co.jp/casestudy/images/jsonld-16x9.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "パッケージ「SHIFT ON packaging」の商品・サービスをご案内",
+                    "htmlTitle": "パッケージ「SHIFT ON packaging」の<b>商品</b>・<b>サービス</b>をご案内",
+                    "link": "https://shifton.kpp-gr.com/products/packaging/",
+                    "displayLink": "shifton.kpp-gr.com",
+                    "snippet": "まずはお気軽にお問い合わせください。 パッケージ（SHIFT ON packaging）に関するお問い合わせをする. 導入事例. お客様導入事例を掲載しています。",
+                    "htmlSnippet": "まずはお気軽にお問い合わせください。 パッケージ（SHIFT ON packaging）に関するお問い合わせをする. <b>導入事例</b>. お客様<b>導入事例</b>を掲載しています。",
+                    "cacheId": "l_0THPHZyFUJ",
+                    "formattedUrl": "https://shifton.kpp-gr.com/products/packaging/",
+                    "htmlFormattedUrl": "https://shifton.kpp-gr.com/products/packaging/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-UhQn_d7YOjQToMRu1s6ccFjbYRJpNxXToznXtA-KmHKmOVQnUs2PoM8",
+                                "width": "311",
+                                "height": "162"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://shifton.kpp-gr.com/dcms_media/image/ogp.png",
+                                "og:type": "article",
+                                "twitter:card": "summary",
+                                "twitter:title": "パッケージ「SHIFT ON packaging」の商品・サービスをご案内",
+                                "og:site_name": "SHIFT ON（シフト オン）－事業を最適化する紙総合商社",
+                                "og:title": "パッケージ「SHIFT ON packaging」の商品・サービスをご案内",
+                                "og:description": "SHIFT ON packagingは、梱包・包装用の資材調達から、お客様の課題に応じたオーダーメイドパッケージの設計、製品化までトータルでサポートするソリューションです。業務効率化、環境対応、コスト削減などの経営課題の改善策をご提案いたします。",
+                                "twitter:image": "https://shifton.kpp-gr.com/dcms_media/image/ogp.png",
+                                "facebook-domain-verification": "l1forqemvplokwq81y7ece78o18c54",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "twitter:description": "SHIFT ON packagingは、梱包・包装用の資材調達から、お客様の課題に応じたオーダーメイドパッケージの設計、製品化までトータルでサポートするソリューションです。業務効率化、環境対応、コスト削減などの経営課題の改善策をご提案いたします。",
+                                "og:locale": "ja_JP",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://shifton.kpp-gr.com/dcms_media/image/ogp.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "事業を最適化する紙総合商社SHIFTON",
+                                "name": "事業を最適化する紙総合商社SHIFTON",
+                                "position": "1"
+                            },
+                            {
+                                "item": "商品・サービス一覧",
+                                "name": "商品・サービス一覧",
+                                "position": "2"
+                            },
+                            {
+                                "item": "パッケージ（SHIFT ON packaging）の商品・サービス",
+                                "name": "パッケージ（SHIFT ON packaging）の商品・サービス",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例｜オートリース｜商品・サービス｜北海道リース株式会社",
+                    "htmlTitle": "<b>導入事例</b>｜オートリース｜<b>商品</b>・<b>サービス</b>｜北海道リース株式会社",
+                    "link": "https://www.do-lease.co.jp/service/autolease/case.html",
+                    "displayLink": "www.do-lease.co.jp",
+                    "snippet": "Case.1 医療法人社団 K社様 保有台数28台 Before ／ リースバック導入前の状況 車両管理業務に手間がかかり、負担に。 病院、訪問介護、デイサービス等総合的な医療 ...",
+                    "htmlSnippet": "Case.1 医療法人社団 K社様 保有台数28台 Before ／ リースバック<b>導入</b>前の状況 車両管理業務に手間がかかり、負担に。 病院、訪問介護、デイ<b>サービス</b>等総合的な医療&nbsp;...",
+                    "cacheId": "U9v9MONV8JsJ",
+                    "formattedUrl": "https://www.do-lease.co.jp/service/autolease/case.html",
+                    "htmlFormattedUrl": "https://www.do-lease.co.jp/service/autolease/case.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ZN44kD1z0H_KCj2tcYA0KNc5e4AVVjvosAHWiNx81AcQydeO0IkfrVg",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.do-lease.co.jp/archives/001/201903/fe556c761e1eaf5cbffc82aaf26884de.jpg",
+                                "og:type": "article",
+                                "twitter:title": "導入事例｜オートリース｜商品・サービス｜北海道リース株式会社｜北海道リース株式会社",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "北海道リース",
+                                "twitter:domain": "www.do-lease.co.jp",
+                                "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover",
+                                "og:title": "導入事例｜オートリース｜商品・サービス｜北海道リース株式会社",
+                                "csrf-token": "2b53e751bc351aeb02fee6fb20783ea0f32e54b3910d3147f972053fe241062e",
+                                "og:url": "https://www.do-lease.co.jp/service/autolease/case.html",
+                                "og:description": "Case.1 医療法人社団 K社様 保有台数28台 Before ／ リースバック導入前の状況 車両管理業務に手間がかかり、負担に。 病院、訪問介護、デイサービス等総合的な医療サービスを提供するK社様。保有車両は訪問介護...",
+                                "twitter:image": "https://www.do-lease.co.jp/archives/001/201903/fe556c761e1eaf5cbffc82aaf26884de.jpg"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.do-lease.co.jp/archives/001/201903/fe556c761e1eaf5cbffc82aaf26884de.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例 | 実績で選ばれているGENIEE SEARCH（旧probo）",
+                    "htmlTitle": "<b>導入事例</b> | 実績で選ばれているGENIEE SEARCH（旧probo）",
+                    "link": "https://www.bsearchtech.com/casestudy/",
+                    "displayLink": "www.bsearchtech.com",
+                    "snippet": "個人情報について 個人情報の取り扱いに同意する ビジネスサーチテクノロジは、お客様から個人情報をご提供いただいた場合、製品・サービス情報の提供、およびお客様 ...",
+                    "htmlSnippet": "個人情報について 個人情報の取り扱いに同意する ビジネスサーチテクノロジは、お客様から個人情報をご提供いただいた場合、製品・<b>サービス</b>情報の提供、およびお客様&nbsp;...",
+                    "cacheId": "e4rLQyVMKmQJ",
+                    "formattedUrl": "https://www.bsearchtech.com/casestudy/",
+                    "htmlFormattedUrl": "https://www.bsearchtech.com/casestudy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxBG8jQJatHi31_GpAq80cXM9TduByiT9CDxQnG58GZy3bwVqqs2jJYkg",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.bsearchtech.com/wp-content/uploads/2018/01/default-user-image.jpg",
+                                "theme-color": "#0091e1",
+                                "og:type": "article",
+                                "og:image:width": "512",
+                                "article:published_time": "2022-11-01T07:54:17+00:00",
+                                "twitter:card": "summary",
+                                "twitter:title": "導入事例 | 実績で選ばれているGENIEE SEARCH（旧probo）",
+                                "og:site_name": "ビジネスサーチテクノロジ株式会社",
+                                "author": "ビジネスサーチテクノロジ株式会社",
+                                "og:title": "導入事例 | 実績で選ばれているGENIEE SEARCH（旧probo）",
+                                "og:image:height": "512",
+                                "og:description": "【旧probo,ポップファインド,ポップリンク】「GENIEE SEARCH」は大手企業など900社以上の導入実績をもつサイト内検索ツールです。Webサイトの課題改善・売上UPを実現した企業様の導入事例を多数紹介します。",
+                                "og:image:secure_url": "https://www.bsearchtech.com/wp-content/uploads/2018/01/default-user-image.jpg",
+                                "twitter:image": "https://www.bsearchtech.com/wp-content/uploads/2018/01/default-user-image.jpg",
+                                "facebook-domain-verification": "v7fq43u43rwbmfsn459rvpr2o7k1q3",
+                                "article:modified_time": "2023-03-03T02:31:44+00:00",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "twitter:description": "【旧probo,ポップファインド,ポップリンク】「GENIEE SEARCH」は大手企業など900社以上の導入実績をもつサイト内検索ツールです。Webサイトの課題改善・売上UPを実現した企業様の導入事例を多数紹介します。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.bsearchtech.com/casestudy/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.bsearchtech.com/wp-content/uploads/2018/01/default-user-image.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例｜株式会社テプコシステムズ サービス情報サイト",
+                    "htmlTitle": "<b>導入事例</b>｜株式会社テプコシステムズ <b>サービス</b>情報サイト",
+                    "link": "https://service.tepsys.co.jp/casestudies/",
+                    "displayLink": "service.tepsys.co.jp",
+                    "snippet": "導入事例のページです。テプコシステムズは東京電力グループの企業で、制御系の専門サービスやデータ分析、情報共有など開発・運用・保守をご提供し、お客さまの業務 ...",
+                    "htmlSnippet": "<b>導入事例</b>のページです。テプコシステムズは東京電力グループの企業で、制御系の専門<b>サービス</b>やデータ分析、情報共有など開発・運用・保守をご提供し、お客さまの業務&nbsp;...",
+                    "cacheId": "Sqm6bjWtiKQJ",
+                    "formattedUrl": "https://service.tepsys.co.jp/casestudies/",
+                    "htmlFormattedUrl": "https://service.tepsys.co.jp/casestudies/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnp6oofKh0xGGbpN5br-d3DO0xD5cYzh5t8qp8_v2VpzTXW8KxR0P_bHc",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://service.tepsys.co.jp/assets/img/common/og_img.png",
+                                "og:type": "article",
+                                "og:site_name": "株式会社テプコシステムズ サービス情報サイト",
+                                "viewport": "width=device-width",
+                                "og:title": "導入事例｜株式会社テプコシステムズ サービス情報サイト",
+                                "og:url": "https://service.tepsys.co.jp/casestudies/",
+                                "og:description": "導入事例のページです。テプコシステムズは東京電力グループの企業で、制御系の専門サービスやデータ分析、情報共有など開発・運用・保守をご提供し、お客さまの業務変革をITで支援します。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://service.tepsys.co.jp/assets/img/common/og_img.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例動画を制作する際に必要なチェックポイントをご紹介",
+                    "htmlTitle": "<b>導入事例</b>動画を制作する際に必要なチェックポイントをご紹介",
+                    "link": "https://www.humancentrix.com/columns/how-to-create-casestudy-video.html",
+                    "displayLink": "www.humancentrix.com",
+                    "snippet": "2019/04/24 ... 導入事例動画とは、自社の商品・サービスを導入した顧客がどういった効果を得ているのか？導入した経緯は何か？などをインタビュー形式（主に）で紹介 ...",
+                    "htmlSnippet": "2019/04/24 <b>...</b> <b>導入事例</b>動画とは、自社の<b>商品</b>・<b>サービス</b>を導入した顧客がどういった効果を得ているのか？導入した経緯は何か？などをインタビュー形式（主に）で紹介&nbsp;...",
+                    "cacheId": "kuU58YUbq68J",
+                    "formattedUrl": "https://www.humancentrix.com/.../how-to-create-casestudy-video.html",
+                    "htmlFormattedUrl": "https://www.humancentrix.com/.../how-to-create-casestudy-video.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCiqaLOyVg6JGaj3_i-IFNslAk0yLyBkxE-izjsSBNH0NmMpElEr2IaRoK",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.humancentrix.com/hubfs/how-to-create-casestudy-video.jpg#keepProtocol",
+                                "twitter:title": "導入事例動画を制作する際に必要なチェックポイントをご紹介",
+                                "og:image:width": "1000",
+                                "og:image:alt": "how-to-create-casestudy-video",
+                                "twitter:card": "summary_large_image",
+                                "og:type": "article",
+                                "twitter:domain": "www.humancentrix.com",
+                                "msvalidate.01": "1FDF138A6F72FB18B25603618432D82D",
+                                "og:title": "導入事例動画を制作する際に必要なチェックポイントをご紹介",
+                                "og:image:height": "667",
+                                "og:description": "導入事例動画とは、自社の商品・サービスを導入した顧客がどういった効果を得ているのか？導入した経緯は何か？などをインタビュー形式（主に）で紹介するという動画コンテンツです。これから導入事例動画を制作しようと考えている方に向けて、その際に必要な６つのチェックポイントについてご紹介します。",
+                                "twitter:image": "https://www.humancentrix.com/hubfs/how-to-create-casestudy-video.jpg#keepProtocol",
+                                "facebook-domain-verification": "gwjhstzb35mi4zvlw6lpmdhrk1bqw4",
+                                "twitter:image:alt": "how-to-create-casestudy-video",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "導入事例動画とは、自社の商品・サービスを導入した顧客がどういった効果を得ているのか？導入した経緯は何か？などをインタビュー形式（主に）で紹介するという動画コンテンツです。これから導入事例動画を制作しようと考えている方に向けて、その際に必要な６つのチェックポイントについてご紹介します。",
+                                "og:url": "https://www.humancentrix.com/columns/how-to-create-casestudy-video.html"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.humancentrix.com/hubfs/how-to-create-casestudy-video.jpg#keepProtocol"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "item": "ブログ",
+                                "name": "ブログ",
+                                "position": "2"
+                            },
+                            {
+                                "item": "動画マーケティング",
+                                "name": "動画マーケティング",
+                                "position": "3"
+                            },
+                            {
+                                "item": "導入事例動画を制作する際に必要なチェックポイントをご紹介",
+                                "name": "導入事例動画を制作する際に必要なチェックポイントをご紹介",
+                                "position": "4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "商品情報 | 株式会社ブロードリーフ",
+                    "htmlTitle": "<b>商品</b>情報 | 株式会社ブロードリーフ",
+                    "link": "https://www.broadleaf.co.jp/products/",
+                    "displayLink": "www.broadleaf.co.jp",
+                    "snippet": "商品・サービス情報. ブロードリーフは、⾃動⾞整備業、 ... 2023/4/14: IT導入補助金を「IT導入補助金2023」版に更新しました。 ... 商品情報をみる · 導入事例をみる ...",
+                    "htmlSnippet": "<b>商品</b>・<b>サービス</b>情報. ブロードリーフは、⾃動⾞整備業、 ... 2023/4/14: IT導入補助金を「IT導入補助金2023」版に更新しました。 ... 商品情報をみる &middot; <b>導入事例</b>をみる&nbsp;...",
+                    "cacheId": "--jlCO4LbNYJ",
+                    "formattedUrl": "https://www.broadleaf.co.jp/products/",
+                    "htmlFormattedUrl": "https://www.broadleaf.co.jp/products/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNs5R-sQ1n24a4oRz23NXZn-L2obtm8ZPlIrtFpL8BlXidmfPP6KqzBFo",
+                                "width": "234",
+                                "height": "100"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.broadleaf.co.jp/Portals/0/images/products/top/dencho-topbanner.png?12241145030996"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "配管ジャーナル | 三興バルブ継手 | 福岡・バルブ・パイプ・消火栓 ...",
+                    "htmlTitle": "配管ジャーナル | 三興バルブ継手 | 福岡・バルブ・パイプ・消火栓 ...",
+                    "link": "https://www.sankovalve.co.jp/piping_journal/",
+                    "displayLink": "www.sankovalve.co.jp",
+                    "snippet": "商品・サービス導入事例 ... 大型配管のバーリング加工に関するサポート事例を紹介. 2022/07/11 ... 既存蒸気配管・周辺バルブ交換のご依頼～選定までの事例紹介.",
+                    "htmlSnippet": "<b>商品</b>・<b>サービス導入事例</b> ... 大型配管のバーリング加工に関するサポート事例を紹介. 2022/07/11 ... 既存蒸気配管・周辺バルブ交換のご依頼～選定までの事例紹介.",
+                    "cacheId": "jgsNX0eKLhoJ",
+                    "formattedUrl": "https://www.sankovalve.co.jp/piping_journal/",
+                    "htmlFormattedUrl": "https://www.sankovalve.co.jp/piping_journal/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKWAia4G7Rjj4pVEwjEloM0xxqT5C13qkBO2Mzi6zXkoxwYbN8ltwl2Ng",
+                                "width": "432",
+                                "height": "117"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.sankovalve.co.jp/wp/wp-content/themes/sanko-valve/assets/img/heroImg.png",
+                                "og:type": "article",
+                                "twitter:card": "summary",
+                                "og:site_name": "三興バルブ継手",
+                                "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover",
+                                "og:url": "https://www.sankovalve.co.jp/piping_journal/",
+                                "og:description": "福岡から沖縄まで、九州全域でバルブ・継手・パイプ・消火栓・排水器具・衛生陶器・住設機器等の管材機材を卸売。配管・施工動画の配信も行っております。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.sankovalve.co.jp/wp/wp-content/themes/sanko-valve/assets/images/page-pipingjournal/bg-photo.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例 | JUST.SFA | 商品・サービス | ジャストシステム",
+                    "htmlTitle": "<b>導入事例</b> | JUST.SFA | <b>商品</b>・<b>サービス</b> | ジャストシステム",
+                    "link": "https://www.justsystems.com/jp/products/justsfa/case/",
+                    "displayLink": "www.justsystems.com",
+                    "snippet": "株式会社ジャストシステム JUST.SFA - 個人と組織の「継続成長」を支援する”成長型”営業支援クラウドサービスの導入事例ページです。",
+                    "htmlSnippet": "株式会社ジャストシステム JUST.SFA - 個人と組織の「継続成長」を支援する”成長型”営業支援クラウド<b>サービス</b>の<b>導入事例</b>ページです。",
+                    "cacheId": "8XMs2f_ssvEJ",
+                    "formattedUrl": "https://www.justsystems.com/jp/products/justsfa/case/",
+                    "htmlFormattedUrl": "https://www.justsystems.com/jp/products/justsfa/case/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCo32iecMayoZWMDcZRBGQgHsFvXMY5SFjmz0rAShFLSg4iPohAoG5SVA",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.justsystems.com/shared/img/icon/ogimage-sfa.png",
+                                "og:type": "article",
+                                "og:site_name": "JustSystems | ジャストシステム",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "og:title": "導入事例 | JUST.SFA - 個人と組織の「継続成長」を支援する”成長型”営業支援クラウドサービス | 商品・サービス | ジャストシステム",
+                                "og:url": "https://www.justsystems.com/jp/products/justsfa/case/",
+                                "og:description": "株式会社ジャストシステム　JUST.SFA - 個人と組織の「継続成長」を支援する”成長型”営業支援クラウドサービスの導入事例ページです。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.justsystems.com/shared/img/icon/ogimage-sfa.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム"
+                            },
+                            {
+                                "item": "商品・サービス",
+                                "name": "商品・サービス"
+                            },
+                            {
+                                "item": "JUST.SFA",
+                                "name": "JUST.SFA"
+                            },
+                            {
+                                "name": "導入事例"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

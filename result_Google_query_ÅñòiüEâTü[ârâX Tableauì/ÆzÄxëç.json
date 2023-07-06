@@ -1,0 +1,1418 @@
+{
+    "query": "商品・サービス Tableau構築支援",
+    "links": [
+        [
+            "https://www.hitachi-solutions.co.jp/tableau/",
+            "https://www.tableau.com/ja-jp/solutions/customer/oldcastle-cfo-tells-story-behind-numbers",
+            "https://www.qsolcorp.co.jp/news/14/",
+            "https://pig-data.jp/service/",
+            "https://prtimes.jp/main/html/rd/p/000000117.000025288.html",
+            "https://exchange.tableau.com/ja-JP/products/644",
+            "https://xcc-dash.jp/pdf/NR_unyo_hosyu.pdf",
+            "https://kb.tableau.com/articles/howto/identifying-the-first-product-each-customer-purchased?lang=ja-jp",
+            "https://www.keywalker.co.jp/tableau/tableau.html",
+            "https://data-viz-lab.com/company"
+        ],
+        [
+            "https://help.salesforce.com/s/articleView?id=admin_intelligent_sales_products.htm&type=5&language=ja",
+            "http://www.tohojoho.jp/product/product.html",
+            "https://www.panasonic.com/jp/company/pstc/products.html",
+            "https://kaho-enterprise.co.jp/",
+            "https://help.salesforce.com/s/articleView?id=release-notes.rn_bi_analytics_cloud.htm&type=5&language=ja&release=234",
+            "https://www.nttdata-bizsys.co.jp/imforcemedia/insight/004/",
+            "https://www.seraku.co.jp/",
+            "https://www.nri.com/jp/news/newsrelease/lst/2022/cc/1208_1",
+            "https://www.qdenbs.com/news/archives/106.html",
+            "https://www.glassdoor.com/Job/tokyo-tableau-jobs-SRCH_IL.0,5_IC2851580_KO6,13.htm"
+        ],
+        [
+            "https://www.azest.co.jp/service/business-intelligence/",
+            "https://www.snowflake.com/about/events/snowday-japan-2023/?lang=ja",
+            "https://www.ig.com/jp/news-and-trade-ideas/shares-news/alesforce-com-agreed-in-acquisition-of-tableau-software-for-data-190620",
+            "https://classmethod.jp/cases/skylark-skylark-pos-redshift-tableau/",
+            "https://strate.biz/bi/bisolution/",
+            "https://www.zenrin-ms.co.jp/map_based_marketing/chartbox/",
+            "https://www.kartz.co.jp/data/dashboard/",
+            "https://okunote.co.jp/visualization/",
+            "https://www.ntt-west.co.jp/business/smart10x/solution/066.html",
+            "https://www.hakuhodo-ms.co.jp/"
+        ]
+    ],
+    "snapshot_ymd": "D2023-06-23",
+    "snapshot_timestamp": "D2023-06-23T01-28-33",
+    "responses": [
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "request": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス Tableau構築支援",
+                        "totalResults": "230000",
+                        "searchTerms": "商品・サービス Tableau構築支援",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス Tableau構築支援",
+                        "totalResults": "230000",
+                        "searchTerms": "商品・サービス Tableau構築支援",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.282938,
+                "formattedSearchTime": "0.28",
+                "totalResults": "230000",
+                "formattedTotalResults": "230,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "日立ソリューションズ『Tableau』とは？価格・システム・サービス ...",
+                    "htmlTitle": "日立ソリューションズ『<b>Tableau</b>』とは？価格・システム・<b>サービス</b> ...",
+                    "link": "https://www.hitachi-solutions.co.jp/tableau/",
+                    "displayLink": "www.hitachi-solutions.co.jp",
+                    "snippet": "2022/09/26 ... 当社では、PoC、データ分析システム構想策定支援、Tableau環境の構築、既存システムからの必要なデータの抽出、データマートの構築、BI利活用支援まで ...",
+                    "htmlSnippet": "2022/09/26 <b>...</b> 当社では、PoC、データ分析システム構想策定<b>支援</b>、<b>Tableau</b>環境の<b>構築</b>、既存システムからの必要なデータの抽出、データマートの<b>構築</b>、BI利活用<b>支援</b>まで&nbsp;...",
+                    "cacheId": "u-aDH9pNxqcJ",
+                    "formattedUrl": "https://www.hitachi-solutions.co.jp/tableau/",
+                    "htmlFormattedUrl": "https://www.hitachi-solutions.co.jp/<b>tableau</b>/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJtPVeObu42XqiJX1sUNejU1_UkyWW6VvlVHFT1zhqqcByfdXPq9JHroY",
+                                "width": "218",
+                                "height": "231"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "/-/media/Project/DefaultSite/Products/Default/CS_J_Color_1280x720.ashx",
+                                "og:type": "article",
+                                "viewport": "width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0",
+                                "author": "Hitachi Solutions, Ltd.",
+                                "og:title": "Tableau｜日立ソリューションズ『Tableau』とは？価格・システム・サービス概要や、解決できる課題についてご紹介",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.hitachi-solutions.co.jp/tableau/",
+                                "og:description": "日立ソリューションズが提供する【Tableau】についてご紹介いたします。日立ソリューションズは、コンサルティングからシステム開発・構築、運用・保守サポート、商品・サービスを提供するソリューションプロバイダーです。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.hitachi-solutions.co.jp/-/media/Project/DefaultSite/Products/t/tableau/tableau_overview.ashx?h=613&la=ja-JP&w=580&hash=867D7BE8A4714246980EF46A47D24CDA"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "何千人ものユーザーを支援するためのセルフサービス BI として ...",
+                    "htmlTitle": "何千人ものユーザーを<b>支援</b>するためのセルフ<b>サービス</b> BI として ...",
+                    "link": "https://www.tableau.com/ja-jp/solutions/customer/oldcastle-cfo-tells-story-behind-numbers",
+                    "displayLink": "www.tableau.com",
+                    "snippet": "Lisborg 氏は Tableau を使って、Oldcastle 社の各 206 製造施設の概要をわかりやすく示し社員が自ら次の質問ができるダッシュボードを作成しました。このダッシュボードは ...",
+                    "htmlSnippet": "Lisborg 氏は <b>Tableau</b> を使って、Oldcastle 社の各 206 製造施設の概要をわかりやすく示し社員が自ら次の質問ができるダッシュボードを作成しました。このダッシュボードは&nbsp;...",
+                    "cacheId": "YBswwYbiDgIJ",
+                    "formattedUrl": "https://www.tableau.com/ja-jp/.../oldcastle-cfo-tells-story-behind-numbers",
+                    "htmlFormattedUrl": "https://www.<b>tableau</b>.com/ja-jp/.../oldcastle-cfo-tells-story-behind-numbers",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSY8DiX-Qp0q3ayhCHwhW50WaKGCwgRcuCo4S9H3c7uFEcKnWVCpG0quD5",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "breadcrumb_l1_url": "https://www.tableau.com/ja-jp/solutions",
+                                "og:image": "https://www.tableau.com/sites/default/files/overviewtemplate_51.jpg",
+                                "twitter:card": "summary",
+                                "twitter:title": "何千人ものユーザーを支援するためのセルフサービス BI として Tableau を支持する建材メーカー、Oldcastle 社 CFO",
+                                "og:type": "article",
+                                "breadcrumb_l2_text": "Data insights in the midst of the COVID-19 pandemic helped CVS Health improve readiness, response",
+                                "datamodel:campaign_topic": "dm_campaign_topic_operational_excellence",
+                                "og:site_name": "Tableau",
+                                "handheldfriendly": "true",
+                                "twitter:url": "https://www.tableau.com/ja-jp/solutions/customer/oldcastle-cfo-tells-story-behind-numbers",
+                                "og:title": "何千人ものユーザーを支援するためのセルフサービス BI として Tableau を支持する建材メーカー、Oldcastle 社 CFO",
+                                "datamodel:department": "dm_department_finance",
+                                "datamodel:organization_size": "dm_organization_size_enterprise_5000",
+                                "twitter:creator": "@tableau",
+                                "og:description": "このビデオでは、Oldcastle 社の CFO である Ian Crabtree 氏が、財務に関して確固とした意思決定を行えるようにすることで、ビジネスを強化していることを語ります。Crabtree 氏は、「数字が意味していることをストーリーとして伝える」ことが自分の目標であり、Tableau によってその工程にかかる時間を短縮でき、コストも削減できると言います。",
+                                "breadcrumb_l2_url": "https://www.tableau.com/ja-jp/solutions/customer",
+                                "twitter:image": "https://www.tableau.com/sites/default/files/overviewtemplate_51.jpg",
+                                "datamodel:language": "ja-JP",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "twitter:description": "このビデオでは、Oldcastle 社の CFO である Ian Crabtree 氏が、財務に関して確固とした意思決定を行えるようにすることで、ビジネスを強化していることを語ります。Crabtree 氏は、「数字が意味していることをストーリーとして伝える」ことが自分の目標であり、Tableau によってその工程にかかる時間を短縮でき、コストも削減できると言います。",
+                                "mobileoptimized": "width",
+                                "breadcrumb_l1_text": "ソリューション｜Tableau - BI・分析プラットフォーム",
+                                "og:url": "https://www.tableau.com/ja-jp/solutions/customer/oldcastle-cfo-tells-story-behind-numbers",
+                                "datamodel:industry": "dm_industry_manufacturing, dm_industry_mill_products"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.tableau.com/sites/default/files/overviewtemplate_51.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "分析ソフトウェアTableauの導入・利用支援サービスに新メニューを ...",
+                    "htmlTitle": "分析ソフトウェア<b>Tableau</b>の導入・利用<b>支援サービス</b>に新メニューを ...",
+                    "link": "https://www.qsolcorp.co.jp/news/14/",
+                    "displayLink": "www.qsolcorp.co.jp",
+                    "snippet": "2023/04/10 ... セルフサービスBIツールで企業のデータドリブン化を促進 ― Tableauの ... 活用をねらいとしてAWSを活用した基盤構築などのサービスを拡充しています。",
+                    "htmlSnippet": "2023/04/10 <b>...</b> セルフ<b>サービス</b>BIツールで企業のデータドリブン化を促進 ― <b>Tableau</b>の ... 活用をねらいとしてAWSを活用した基盤<b>構築</b>などの<b>サービス</b>を拡充しています。",
+                    "cacheId": "aDffvfxm7vYJ",
+                    "formattedUrl": "https://www.qsolcorp.co.jp/news/14/",
+                    "htmlFormattedUrl": "https://www.qsolcorp.co.jp/news/14/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIjIeanl0NpHxQF8wYjDufUeY_0Kqxrv8dTodxjpdp62PX9fMBayOIFT8",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "msapplication-tilecolor": "#ffffff",
+                                "og:image": "https://www.qsolcorp.co.jp/resource/img/common/ogp.jpg",
+                                "msapplication-square70x70logo": "/resource/img/common/ico/site-tile-70x70.png",
+                                "theme-color": "#ffffff",
+                                "og:type": "website",
+                                "og:site_name": "Qsol株式会社のコーポレートブランド",
+                                "og:title": "Qsol株式会社のコーポレートブランド",
+                                "msapplication-wide310x150logo": "/resource/img/common/ico/site-tile-310x150.png",
+                                "msapplication-tileimage": "/resource/img/common/ico/apple-touch-icon-144x144.png",
+                                "msapplication-square150x150logo": "/resource/img/common/ico/site-tile-150x150.png",
+                                "og:description": "Qsol(キューソル)は、Qsol株式会社のコーポレートブランドです。既存システムや業務の分析・企画から開発、インフラ構築、運用・保守、監視まで、ICTのチカラで、様々な課題を解決します。",
+                                "viewport": "width=device-width,user-scalable=no,minimum-scale=1,maximum-scale=1",
+                                "msapplication-square310x310logo": "/resource/img/common/ico/site-tile-310x310.png",
+                                "og:url": "https://www.qsolcorp.co.jp"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.qsolcorp.co.jp/resource/img/common/ogp.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "サービス – PigData | ビッグデータ収集・分析・活用ソリューション",
+                    "htmlTitle": "<b>サービス</b> – PigData | ビッグデータ収集・分析・活用ソリューション",
+                    "link": "https://pig-data.jp/service/",
+                    "displayLink": "pig-data.jp",
+                    "snippet": "データ統合. 最新営業リスト作成・管理ダッシュボード · Tableau構築支援サービス · 自社に関連する情報を収集 ; ビッグデータ分析. スクレイピング代行サービス · SNS分析 ...",
+                    "htmlSnippet": "データ統合. 最新営業リスト作成・管理ダッシュボード &middot; <b>Tableau構築支援サービス</b> &middot; 自社に関連する情報を収集 ; ビッグデータ分析. スクレイピング代行<b>サービス</b> &middot; SNS分析&nbsp;...",
+                    "cacheId": "zSGm2k7jn7AJ",
+                    "formattedUrl": "https://pig-data.jp/service/",
+                    "htmlFormattedUrl": "https://pig-data.jp/service/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfN-eK7Ew0frVlB_4G1jOXBb3joaki8MC-2yHn4Xxt7y385lw9lm7SJ7c",
+                                "width": "173",
+                                "height": "173"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "サービス – PigData | ビッグデータ収集・分析・活用ソリューション",
+                                "og:site_name": "PigData | ビッグデータ収集・分析・活用ソリューション – PigDataは、お客様のデータ活用に対する課題を丁寧にヒアリングし、 最適なデータ活用ソリューションをご提供します。",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "サービス – PigData | ビッグデータ収集・分析・活用ソリューション",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://pig-data.jp/service/",
+                                "msapplication-tileimage": "https://pig-data.jp/wp-content/uploads/cropped-favicon-1-270x270.png"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://pig-data.jp/wp-content/uploads/service_icon-04.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "クロスキャット、Tableau、Oracle Analytics Cloudに対応する運用 ...",
+                    "htmlTitle": "クロスキャット、<b>Tableau</b>、Oracle Analytics Cloudに対応する運用 ...",
+                    "link": "https://prtimes.jp/main/html/rd/p/000000117.000025288.html",
+                    "displayLink": "prtimes.jp",
+                    "snippet": "2023/05/30 ... クロスキャット、Tableau、Oracle Analytics Cloudに対応する運用・保守支援サービス提供開始. ～ ヘルプデスク、システム監視、障害対応まで幅広く ...",
+                    "htmlSnippet": "2023/05/30 <b>...</b> クロスキャット、<b>Tableau</b>、Oracle Analytics Cloudに対応する運用・保守<b>支援サービス</b>提供開始. ～ ヘルプデスク、システム監視、障害対応まで幅広く&nbsp;...",
+                    "cacheId": "7NhPDFa4-ngJ",
+                    "formattedUrl": "https://prtimes.jp/main/html/rd/p/000000117.000025288.html",
+                    "htmlFormattedUrl": "https://prtimes.jp/main/html/rd/p/000000117.000025288.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2vNmldaFmdnJeOpFCjRcKKC16N8K5LhVGxtyn251DQ_DDOudCM6AkKeVP",
+                                "width": "376",
+                                "height": "134"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://prtimes.jp/i/25288/117/resize/d25288-117-1a7b0159ebc91c1dfc32-0.png"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://prtimes.jp/i/25288/117/ogp/d25288-117-1a7b0159ebc91c1dfc32-0.png",
+                                "og:type": "article",
+                                "twitter:title": "クロスキャット、Tableau、Oracle Analytics Cloudに対応する運用・保守支援サービス提供開始",
+                                "twitter:card": "summary_large_image",
+                                "thumbnail": "https://prtimes.jp/i/25288/117/resize/d25288-117-1a7b0159ebc91c1dfc32-0.png",
+                                "og:site_name": "プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES",
+                                "twitter:url": "https://prtimes.jp/main/html/rd/p/000000117.000025288.html",
+                                "og:title": "クロスキャット、Tableau、Oracle Analytics Cloudに対応する運用・保守支援サービス提供開始",
+                                "twitter:image:height": "300",
+                                "release:company": "株式会社クロスキャット",
+                                "release:image": "https://prtimes.jp/i/25288/117/resize/d25288-117-1a7b0159ebc91c1dfc32-0.png",
+                                "release:date": "2023年5月30日 15時35分",
+                                "og:description": "株式会社クロスキャットのプレスリリース（2023年5月30日 15時35分）クロスキャット、Tableau、Oracle Analytics Cloudに対応する運用・保守支援サービス提供開始",
+                                "twitter:creator": "@PRTIMES_JP",
+                                "twitter:image": "https://prtimes.jp/i/25288/117/ogp/d25288-117-1a7b0159ebc91c1dfc32-0.png",
+                                "fb:app_id": "1495958567142613",
+                                "twitter:site": "@PRTIMES_JP",
+                                "twitter:image:width": "300",
+                                "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                                "twitter:description": "株式会社クロスキャットのプレスリリース（2023年5月30日 15時35分）クロスキャット、Tableau、Oracle Analytics Cloudに対応する運用・保守支援サービス提供開始",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://prtimes.jp/main/html/rd/p/000000117.000025288.html"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://prcdn.freetls.fastly.net/release_image/25288/117/25288-117-d073c24cb22b6b8fefa7e155ac05806f-545x195.png?format=jpeg&auto=webp&quality=85&width=1950&height=1350&fit=bounds"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Product Sales Performance with Shopify | Tableau Exchange",
+                    "htmlTitle": "Product Sales Performance with Shopify | <b>Tableau</b> Exchange",
+                    "link": "https://exchange.tableau.com/ja-JP/products/644",
+                    "displayLink": "exchange.tableau.com",
+                    "snippet": "Lovelytics のサービスとしての分析サービスを使用して Shopify に接続すると、数分後には、アドホック レポートと構築済みの Tableau ダッシュボードを通じて Shopify ...",
+                    "htmlSnippet": "Lovelytics の<b>サービス</b>としての分析<b>サービス</b>を使用して Shopify に接続すると、数分後には、アドホック レポートと<b>構築</b>済みの <b>Tableau</b> ダッシュボードを通じて Shopify&nbsp;...",
+                    "cacheId": "oUi4OCJ3Y5oJ",
+                    "formattedUrl": "https://exchange.tableau.com/ja-JP/products/644",
+                    "htmlFormattedUrl": "https://exchange.<b>tableau</b>.com/ja-JP/products/644",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "next-head-count": "9",
+                                "viewport": "width=device-width, initial-scale=1"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Tableau、Oracle Analytics Cloud 対応 運用・保守支援サービス提供 ...",
+                    "htmlTitle": "<b>Tableau</b>、Oracle Analytics Cloud 対応 運用・保守<b>支援サービス</b>提供 ...",
+                    "link": "https://xcc-dash.jp/pdf/NR_unyo_hosyu.pdf",
+                    "displayLink": "xcc-dash.jp",
+                    "snippet": "2023/05/30 ... お客様がデータ分析環境を Olacle Analytics Cloud や Tableau Server に構築した際、専門スタッ. フの不足から見たい時にデータを確認できないなど、運用 ...",
+                    "htmlSnippet": "2023/05/30 <b>...</b> お客様がデータ分析環境を Olacle Analytics Cloud や <b>Tableau</b> Server に<b>構築</b>した際、専門スタッ. フの不足から見たい時にデータを確認できないなど、運用&nbsp;...",
+                    "cacheId": "w99NbpikHz8J",
+                    "formattedUrl": "https://xcc-dash.jp/pdf/NR_unyo_hosyu.pdf",
+                    "htmlFormattedUrl": "https://xcc-dash.jp/pdf/NR_unyo_hosyu.pdf",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQltUd8Ev_KcvtxcFb61es1vfbl4FdijF8CDfzZrDKbq-bBRnQQEbfUrTE",
+                                "width": "246",
+                                "height": "205"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "moddate": "D:20230529180146+09'00'",
+                                "creator": "Microsoft® Word for Microsoft 365",
+                                "creationdate": "D:20230529180146+09'00'",
+                                "producer": "Microsoft® Word for Microsoft 365"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "x-raw-image:///b865941364f07ba28d4ca8108a347c9600b4b14b5e36a324a7affd9d86cf779e"
+                            }
+                        ]
+                    },
+                    "mime": "application/pdf",
+                    "fileFormat": "PDF/Adobe Acrobat"
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "各顧客が購入した最初の製品を識別する | Tableau Software",
+                    "htmlTitle": "各顧客が購入した最初の製品を識別する | <b>Tableau</b> Software",
+                    "link": "https://kb.tableau.com/articles/howto/identifying-the-first-product-each-customer-purchased?lang=ja-jp",
+                    "displayLink": "kb.tableau.com",
+                    "snippet": "ご質問. 各顧客が最初の注文で購入した製品を示すフィールドを作成する方法。 環境. Tableau Desktop. 回答. 次の例では、\"Superstore (スーパーストア)\" サンプル ...",
+                    "htmlSnippet": "ご質問. 各顧客が最初の注文で購入した製品を示すフィールドを作成する方法。 環境. <b>Tableau</b> Desktop. 回答. 次の例では、&quot;Superstore (スーパーストア)&quot; サンプル&nbsp;...",
+                    "cacheId": "qE8f_6cIWxQJ",
+                    "formattedUrl": "https://kb.tableau.com/.../identifying-the-first-product-each-customer- purchased?...",
+                    "htmlFormattedUrl": "https://kb.<b>tableau</b>.com/.../identifying-the-first-product-each-customer- purchased?...",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "breadcrumb_l1_url": "https://www.tableau.com/ja-jp/support",
+                                "breadcrumb_l2_text": "ナレッジベース",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "breadcrumb_l1_text": "サポート",
+                                "breadcrumb_l2_url": "http://kb.tableau.com?lang=ja-jp/"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Tableauソリューション | ビッグデータを分析・可視化",
+                    "htmlTitle": "<b>Tableau</b>ソリューション | ビッグデータを分析・可視化",
+                    "link": "https://www.keywalker.co.jp/tableau/tableau.html",
+                    "displayLink": "www.keywalker.co.jp",
+                    "snippet": "キーウォーカーはセールスフォース認定のTableauサービスパートナーです。2021年3 ... の時系列データをもとに、商品やサービスの需要予測の支援をおこなっています。",
+                    "htmlSnippet": "キーウォーカーはセールスフォース認定の<b>Tableauサービス</b>パートナーです。2021年3 ... の時系列データをもとに、<b>商品</b>や<b>サービス</b>の需要予測の<b>支援</b>をおこなっています。",
+                    "cacheId": "7TFepHzVB4oJ",
+                    "formattedUrl": "https://www.keywalker.co.jp/tableau/tableau.html",
+                    "htmlFormattedUrl": "https://www.keywalker.co.jp/<b>tableau</b>/<b>tableau</b>.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBx-GDYZ_EWKCycwqQ0kmbv9RzbWyWCOTCII84huKqM5pbGl9ktOT1fowS",
+                                "width": "318",
+                                "height": "159"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.keywalker.co.jp/wp-content/uploads/2017/05/big-data-image.jpg",
+                                "og:type": "article",
+                                "article:section": "Tableau",
+                                "article:published_time": "2019-09-20T11:21:04+09:00",
+                                "og:image:width": "1400",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "Tableauソリューション | ビッグデータを分析・可視化",
+                                "og:site_name": "ビッグデータ収集・分析の株式会社キーウォーカー",
+                                "og:title": "Tableauソリューション | ビッグデータを分析・可視化",
+                                "og:image:height": "700",
+                                "og:updated_time": "2023-06-20T11:54:19+09:00",
+                                "og:description": "Tableauで組織にデータカルチャーを Tableauと高度な情報デザインとデータ統計・分析の知見を活かしたデータビジュアライゼーションを提供しています。リアルタイムにデータを共有・分析・可視化するプラットフォーム構築 …",
+                                "twitter:creator": "@keywalkerinc",
+                                "article:publisher": "https://www.facebook.com/KeywalkerInc/",
+                                "twitter:image": "https://www.keywalker.co.jp/wp-content/uploads/2017/05/big-data-image.jpg",
+                                "article:tag": "Tableauソリューション",
+                                "fb:app_id": "165000123634047",
+                                "twitter:site": "@keywalkerinc",
+                                "article:modified_time": "2023-06-20T11:54:19+09:00",
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+                                "twitter:description": "Tableauで組織にデータカルチャーを Tableauと高度な情報デザインとデータ統計・分析の知見を活かしたデータビジュアライゼーションを提供しています。リアルタイムにデータを共有・分析・可視化するプラットフォーム構築 […]",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.keywalker.co.jp/tableau/tableau.html"
+                            }
+                        ],
+                        "Breadcrumb": [
+                            {
+                                "title": "ホーム",
+                                "url": "ホーム"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.keywalker.co.jp/wp-content/uploads/2017/05/big-data-image.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "会社案内",
+                    "htmlTitle": "会社案内",
+                    "link": "https://data-viz-lab.com/company",
+                    "displayLink": "data-viz-lab.com",
+                    "snippet": "Tableau ZEN MASTER 2019/2020/2021. Tableau Ambassador ... での多角的な現状把握とオポチュニティ分析を行い、商品・サービス・ブランド戦略構築に大きく貢献した。",
+                    "htmlSnippet": "<b>Tableau</b> ZEN MASTER 2019/2020/2021. <b>Tableau</b> Ambassador ... での多角的な現状把握とオポチュニティ分析を行い、<b>商品</b>・<b>サービス</b>・ブランド戦略<b>構築</b>に大きく貢献した。",
+                    "cacheId": "VSZohIIqF-YJ",
+                    "formattedUrl": "https://data-viz-lab.com/company",
+                    "htmlFormattedUrl": "https://data-viz-lab.com/company",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCONCc5b8kzztsIelG4i8asbWto88MkixEqNXYW-Eo-HqC5H36DgEyuUix",
+                                "width": "268",
+                                "height": "188"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://data-viz-lab.com/wp-content/uploads/2021/03/logo02.png",
+                                "twitter:card": "summary_large_image",
+                                "og:type": "article",
+                                "og:site_name": "DATA VIZ LAB|データビズラボ",
+                                "og:title": "会社案内",
+                                "msapplication-tileimage": "https://data-viz-lab.com/wp-content/uploads/2021/03/favicon.ico",
+                                "og:description": "会社概要 商号 データビズラボ株式会社 代表者 代表取締役　永田ゆかり 資本金(資本準備金含む) 98,000,745円 事業内容 1.データ戦略策定コンサルティング 2.データマネジメントのコンサルティング 3.データ分析と可視化のコンサ",
+                                "facebook-domain-verification": "2dwsoikt2bv6mmgnvwn8goqmyvvdws",
+                                "fb:app_id": "2760146377406724",
+                                "twitter:site": "@DataVizLabsPath",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:locale": "ja_JP",
+                                "fb:admins": "100034537481926",
+                                "og:url": "https://data-viz-lab.com/company"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://data-viz-lab.com/wp-content/uploads/2021/03/logo02.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "HOME",
+                                "name": "HOME",
+                                "position": "1"
+                            },
+                            {
+                                "item": "会社案内",
+                                "name": "会社案内",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス Tableau構築支援",
+                        "totalResults": "230000",
+                        "searchTerms": "商品・サービス Tableau構築支援",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス Tableau構築支援",
+                        "totalResults": "230000",
+                        "searchTerms": "商品・サービス Tableau構築支援",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス Tableau構築支援",
+                        "totalResults": "230000",
+                        "searchTerms": "商品・サービス Tableau構築支援",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.207787,
+                "formattedSearchTime": "0.21",
+                "totalResults": "230000",
+                "formattedTotalResults": "230,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "商品と在庫の設定",
+                    "htmlTitle": "<b>商品</b>と在庫の設定",
+                    "link": "https://help.salesforce.com/s/articleView?id=admin_intelligent_sales_products.htm&type=5&language=ja",
+                    "displayLink": "help.salesforce.com",
+                    "snippet": "Experience Cloud ユーザが使用できるオブジェクトは? 患者のライフイベントの表示 · 給付確認サービスへの接続 · 取引先と取引先責任者のリレーションの計算の迅速化 ...",
+                    "htmlSnippet": "Experience Cloud ユーザが使用できるオブジェクトは? 患者のライフイベントの表示 &middot; 給付確認<b>サービス</b>への接続 &middot; 取引先と取引先責任者のリレーションの計算の迅速化&nbsp;...",
+                    "formattedUrl": "https://help.salesforce.com/s/articleView?id=admin_intelligent...5...",
+                    "htmlFormattedUrl": "https://help.salesforce.com/s/articleView?id=admin_intelligent...5...",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "salesforce-mask-redirects": "true",
+                                "salesforce-redirect-uri": "https://help.salesforce.com/services/authcallback/trailblazerloginCommunity",
+                                "salesforce-brand": "Help_Community",
+                                "salesforce-login-handler": "onLogin",
+                                "viewport": "initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0, minimal-ui",
+                                "salesforce-mode": "authprovider",
+                                "salesforce-authprovider-login": "https://help.salesforce.com/services/auth/sso/trailblazerloginCommunity",
+                                "salesforce-init-handler": "onInit",
+                                "salesforce-logout-handler": "onLogout",
+                                "salesforce-authprovider-signup": "https://help.salesforce.com/services/auth/sso/trailblazersignupCommunity",
+                                "salesforce-community": "https://trailblazer.me"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "商品・サービス | 東邦情報システム株式会社",
+                    "htmlTitle": "<b>商品</b>・<b>サービス</b> | 東邦情報システム株式会社",
+                    "link": "http://www.tohojoho.jp/product/product.html",
+                    "displayLink": "www.tohojoho.jp",
+                    "snippet": "ECサイト構築サービス「MakeShop」でネットショップ構築を支援します。 ページトップへ. 業務パッケージ（ERP）. 商品・サービス名, 概要. 奉行シリーズ ...",
+                    "htmlSnippet": "ECサイト<b>構築</b>サービス「MakeShop」でネットショップ<b>構築</b>を<b>支援</b>します。 ページトップへ. 業務パッケージ（ERP）. <b>商品</b>・<b>サービス</b>名, 概要. 奉行シリーズ&nbsp;...",
+                    "cacheId": "gKIvwdI4vggJ",
+                    "formattedUrl": "www.tohojoho.jp/product/product.html",
+                    "htmlFormattedUrl": "www.tohojoho.jp/product/product.html"
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "ソリューションから探す | 商品一覧 | パナソニック ソリューション ...",
+                    "htmlTitle": "ソリューションから探す | <b>商品</b>一覧 | パナソニック ソリューション ...",
+                    "link": "https://www.panasonic.com/jp/company/pstc/products.html",
+                    "displayLink": "www.panasonic.com",
+                    "snippet": "特許調査支援サービス「PatentSQUARE」 ... Splunk ログデータ運用支援サービス; > PCデータバックアップ構築・運用支援サービス ... ハードウェア商品（ICT基盤）.",
+                    "htmlSnippet": "特許調査<b>支援サービス</b>「PatentSQUARE」 ... Splunk ログデータ運用<b>支援サービス</b>; &gt; PCデータバックアップ<b>構築</b>・運用<b>支援サービス</b> ... ハードウェア<b>商品</b>（ICT基盤）.",
+                    "cacheId": "mIQ078XqiOgJ",
+                    "formattedUrl": "https://www.panasonic.com/jp/company/pstc/products.html",
+                    "htmlFormattedUrl": "https://www.panasonic.com/jp/company/pstc/products.html",
+                    "pagemap": {
+                        "thumbnail": [
+                            {
+                                "src": "https://www.panasonic.com/content/dam/panasonic/jp/company/pstc/common/images/fb_image01.jpg"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.panasonic.com/content/dam/panasonic/jp/company/pstc/common/images/fb_image01.jpg",
+                                "og:type": "article",
+                                "thumbnail": "https://www.panasonic.com/content/dam/panasonic/jp/company/pstc/common/images/fb_image01.jpg",
+                                "twitter:card": "summary_large_image",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "og:title": "ソリューションから探す | 商品一覧 | パナソニック ソリューションテクノロジー株式会社 | Panasonic",
+                                "og:description": "当社は、パナソニックグループで30年間磨き上げてきたICTノウハウと技術、さまざまな業界・業務の知見を掛け合わせ、お客様にとって本当に価値あるソリューションをご提供します。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.panasonic.com/content/dam/panasonic/jp/company/pstc/common/images/fb_image01.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "株式会社カホエンタープライズ",
+                    "htmlTitle": "株式会社カホエンタープライズ",
+                    "link": "https://kaho-enterprise.co.jp/",
+                    "displayLink": "kaho-enterprise.co.jp",
+                    "snippet": "Tableau／Google Workspace 導入・活用支援; データ分析基盤（DWH）の構築・運用支援; データ活用に関するコンサルティング. AIなど最新クラウドサービスの活用推進 ...",
+                    "htmlSnippet": "<b>Tableau</b>／Google Workspace 導入・活用<b>支援</b>; データ分析基盤（DWH）の<b>構築</b>・運用<b>支援</b>; データ活用に関するコンサルティング. AIなど最新クラウド<b>サービス</b>の活用推進&nbsp;...",
+                    "cacheId": "dyZ9glGXjvkJ",
+                    "formattedUrl": "https://kaho-enterprise.co.jp/",
+                    "htmlFormattedUrl": "https://kaho-enterprise.co.jp/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKge2dhoBQt6cYv9KJMtD2_DTTFbDGbrCqPh0zdgdGe7lqUiAiiqhMND26",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://kaho-enterprise.co.jp/assets/img/ogp.png",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "株式会社カホエンタープライズ",
+                                "og:site_name": "株式会社カホエンタープライズ",
+                                "viewport": "width=device-width, initial-scale=1, user-scalable=no",
+                                "twitter:url": "https://kaho-enterprise.co.jp/",
+                                "twitter:description": "データと向き合えば、気付く未来がある。株式会社カホエンタープライズ",
+                                "og:title": "株式会社カホエンタープライズ",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://kaho-enterprise.co.jp/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://kaho-enterprise.co.jp/assets/img/ogp.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Tableau CRM",
+                    "htmlTitle": "<b>Tableau</b> CRM",
+                    "link": "https://help.salesforce.com/s/articleView?id=release-notes.rn_bi_analytics_cloud.htm&type=5&language=ja&release=234",
+                    "displayLink": "help.salesforce.com",
+                    "snippet": "統合されたセールスおよびサービスデータを備えた新しい顧客インサイトアプリケーションをお試しください。ダッシュボードを構築するときに、モバイルレイアウトをより ...",
+                    "htmlSnippet": "統合されたセールスおよび<b>サービス</b>データを備えた新しい顧客インサイトアプリケーションをお試しください。ダッシュボードを<b>構築</b>するときに、モバイルレイアウトをより&nbsp;...",
+                    "formattedUrl": "https://help.salesforce.com/s/articleView?id=release-notes.rn...",
+                    "htmlFormattedUrl": "https://help.salesforce.com/s/articleView?id=release-notes.rn...",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLKZWiuh8dhHfbvHG0f-0e9-rI-By8QjdpluymS6C5qTTTiepWm_nuHes",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "salesforce-mask-redirects": "true",
+                                "salesforce-redirect-uri": "https://help.salesforce.com/services/authcallback/trailblazerloginCommunity",
+                                "salesforce-brand": "Help_Community",
+                                "og:site_name": "Salesforce",
+                                "salesforce-login-handler": "onLogin",
+                                "viewport": "initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0, minimal-ui",
+                                "salesforce-mode": "authprovider",
+                                "salesforce-authprovider-login": "https://help.salesforce.com/services/auth/sso/trailblazerloginCommunity",
+                                "salesforce-init-handler": "onInit",
+                                "salesforce-logout-handler": "onLogout",
+                                "salesforce-authprovider-signup": "https://help.salesforce.com/services/auth/sso/trailblazersignupCommunity",
+                                "salesforce-community": "https://trailblazer.me"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.salesforce.com/content/dam/web/global/svg-icons/placeholder29.svg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Tableauとは？選ばれる理由とユースケース紹介｜インサイト ...",
+                    "htmlTitle": "<b>Tableau</b>とは？選ばれる理由とユースケース紹介｜インサイト ...",
+                    "link": "https://www.nttdata-bizsys.co.jp/imforcemedia/insight/004/",
+                    "displayLink": "www.nttdata-bizsys.co.jp",
+                    "snippet": "支援内容, ・各データを収集したDWHの構築・DWHおよび手元データを活用したTableauセルフ分析環境の構築・習熟支援（集合研修、個別研修）",
+                    "htmlSnippet": "<b>支援</b>内容, ・各データを収集したDWHの<b>構築</b>・DWHおよび手元データを活用した<b>Tableau</b>セルフ分析環境の<b>構築</b>・習熟<b>支援</b>（集合研修、個別研修）",
+                    "cacheId": "BU3yJkx05qQJ",
+                    "formattedUrl": "https://www.nttdata-bizsys.co.jp/imforcemedia/insight/004/",
+                    "htmlFormattedUrl": "https://www.nttdata-bizsys.co.jp/imforcemedia/insight/004/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "format-detection": "telephone=no"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "総合ITソリューションのセラク",
+                    "htmlTitle": "総合ITソリューションのセラク",
+                    "link": "https://www.seraku.co.jp/",
+                    "displayLink": "www.seraku.co.jp",
+                    "snippet": "社会の発展に貢献する商品、サービスをご提供することで、皆さま方の発展とともに成長する. SERVICE. 株式会社セラクCCC. クラウドの定着・活用支援で顧客の発展に貢献 ...",
+                    "htmlSnippet": "社会の発展に貢献する<b>商品</b>、<b>サービス</b>をご提供することで、皆さま方の発展とともに成長する. SERVICE. 株式会社セラクCCC. クラウドの定着・活用<b>支援</b>で顧客の発展に貢献&nbsp;...",
+                    "cacheId": "z1iOUD5d3q8J",
+                    "formattedUrl": "https://www.seraku.co.jp/",
+                    "htmlFormattedUrl": "https://www.seraku.co.jp/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9VdRH47Ee8ZittpdxoESRwLWoAYgohEVf6JtWcDk5WpMBTD8uadyRt82s",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "http://www.seraku.co.jp/common/images/og.png",
+                                "og:type": "website",
+                                "viewport": "width=375px,user-scalable=no,shrink-to-fit=yes",
+                                "og:title": "総合ITソリューションのセラク",
+                                "mobile-web-app-capable": "yes",
+                                "og:url": "http://www.seraku.co.jp/",
+                                "og:description": "株式会社セラクのオフィシャルサイトです。IoTプラットフォームを始め、インフラ、WEB、アプリなど、総合的なITソリューションを提供しています。",
+                                "facebook-domain-verification": "ykgp4xocbi20rtxsz1bjvvd3e2v1va"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "http://www.seraku.co.jp/common/images/og.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "野村総合研究所、「Base」「Lead」「Trend」の3要素を基軸とした ...",
+                    "htmlTitle": "野村総合研究所、「Base」「Lead」「Trend」の3要素を基軸とした ...",
+                    "link": "https://www.nri.com/jp/news/newsrelease/lst/2022/cc/1208_1",
+                    "displayLink": "www.nri.com",
+                    "snippet": "2022/12/08 ... 〜「NRI BRAND INDEX」の活用で、各社のブランド力向上を支援〜 ... NBIは特定の商品・サービスごとに、過去から蓄積されたブランド力1を示す「Base ...",
+                    "htmlSnippet": "2022/12/08 <b>...</b> 〜「NRI BRAND INDEX」の活用で、各社のブランド力向上を<b>支援</b>〜 ... NBIは特定の<b>商品</b>・<b>サービス</b>ごとに、過去から蓄積されたブランド力<sup>1</sup>を示す「Base&nbsp;...",
+                    "cacheId": "Ml2RspL1qXkJ",
+                    "formattedUrl": "https://www.nri.com/jp/news/newsrelease/lst/2022/cc/1208_1",
+                    "htmlFormattedUrl": "https://www.nri.com/jp/news/newsrelease/lst/2022/cc/1208_1",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQBkkW-Z1jaoOl6s89HgR2Ohf2E1w60o29Y92_Pux18qQl9jRBjGQUdoMJ-",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "vicurrentdatetime": "638226410001630859",
+                                "og:image": "http://www.nri.com/-/media/Corporate/jp/Images/news/newsrelease/cc/2022/ogp/ogp_221208_1.png",
+                                "og:type": "website",
+                                "viewport": "width=device-width,initial-scale=1",
+                                "og:title": "野村総合研究所、「Base」「Lead」「Trend」の3要素を基軸とした新しいブランド評価指標NBIを開発し、毎年ランキングを発表 | ニュースリリース | 野村総合研究所(NRI)",
+                                "og:locale": "ja_JP",
+                                "og:url": "http://www.nri.com/jp/news/newsrelease/lst/2022/cc/1208_1",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "http://www.nri.com/-/media/Corporate/jp/Images/news/newsrelease/cc/2022/ogp/ogp_221208_1.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "NRI トップ",
+                                "name": "NRI トップ",
+                                "position": "1"
+                            },
+                            {
+                                "item": "ニュース",
+                                "name": "ニュース",
+                                "position": "2"
+                            },
+                            {
+                                "item": "ニュースリリース一覧",
+                                "name": "ニュースリリース一覧",
+                                "position": "3"
+                            },
+                            {
+                                "name": "野村総合研究所、「Base」「Lead」「Trend」の3要素を基軸とした新しいブランド評価指標NBIを開発し、毎年ランキングを発表",
+                                "position": "4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "分析ソフトウェアTableauの導入・利用支援サービスを提供開始しま ...",
+                    "htmlTitle": "分析ソフトウェア<b>Tableau</b>の導入・利用<b>支援サービス</b>を提供開始しま ...",
+                    "link": "https://www.qdenbs.com/news/archives/106.html",
+                    "displayLink": "www.qdenbs.com",
+                    "snippet": "2022/03/09 ... ニュース｜分析ソフトウェアTableauの導入・利用支援サービスを提供開始― セルフサービスBIツールで企業の.",
+                    "htmlSnippet": "2022/03/09 <b>...</b> ニュース｜分析ソフトウェア<b>Tableau</b>の導入・利用<b>支援サービス</b>を提供開始― セルフ<b>サービス</b>BIツールで企業の.",
+                    "cacheId": "QPtArqsay18J",
+                    "formattedUrl": "https://www.qdenbs.com/news/archives/106.html",
+                    "htmlFormattedUrl": "https://www.qdenbs.com/news/archives/106.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqv4jE48OKbDpehZ7g_iVZJ70XHCN8T9hAC9HtZ78bO6WoC59pOalLaGNG",
+                                "width": "309",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.qdenbs.com/img/common/sns_img.jpg",
+                                "og:type": "website",
+                                "og:site_name": "九電ビジネスソリューションズ株式会社（Qｓｏｌ）",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "分析ソフトウェアTableauの導入・利用支援サービスを提供開始しました｜ニュース｜九電ビジネスソリューションズ株式会社（Qｓｏｌ）",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.qdenbs.com/news/archives/106",
+                                "og:description": "ニュース｜分析ソフトウェアTableauの導入・利用支援サービスを提供開始―　セルフサービスBIツールで企業の"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.qdenbs.com/img/common/sns_img.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "4700 Tableau Jobs in Tokyo, June 2023 | Glassdoor",
+                    "htmlTitle": "4700 <b>Tableau</b> Jobs in Tokyo, June 2023 | Glassdoor",
+                    "link": "https://www.glassdoor.com/Job/tokyo-tableau-jobs-SRCH_IL.0,5_IC2851580_KO6,13.htm",
+                    "displayLink": "www.glassdoor.com",
+                    "snippet": "Search Tableau jobs in Tokyo with company ratings & salaries. ... 【職種名】 【SQL/ Tableau】 自動車メーカー向けデータ基盤構築支援&Tableau可視化 【仕事 ...",
+                    "htmlSnippet": "Search <b>Tableau</b> jobs in Tokyo with company ratings &amp; salaries. ... 【職種名】 【SQL/ <b>Tableau</b>】 自動車メーカー向けデータ基盤<b>構築支援</b>&amp;Tableau可視化 【仕事&nbsp;...",
+                    "cacheId": "UzN2t9poOVIJ",
+                    "formattedUrl": "https://www.glassdoor.com/.../tokyo-tableau-jobs-SRCH_IL.0,5_IC2851580_ KO6,13.htm",
+                    "htmlFormattedUrl": "https://www.glassdoor.com/.../tokyo-<b>tableau</b>-jobs-SRCH_IL.0,5_IC2851580_ KO6,13.htm",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "apple-itunes-app": "app-id=589698942",
+                                "og:image": "https://www-qa.glassdoor.com:8443/jobs-ux-app/static/img/partners/fb/logo-1200x630.png?v=721f9cswl",
+                                "theme-color": "#0caa41",
+                                "decorator": "undecorated",
+                                "og:type": "website",
+                                "og:site_name": "Glassdoor",
+                                "al:ios:app_name": "Glassdoor",
+                                "og:title": "Tableau Jobs in Tokyo | Glassdoor",
+                                "msapplication-navbutton-color": "#0caa41",
+                                "og:description": "Search Tableau jobs in Tokyo with company ratings & salaries. 4,700 open jobs for Tableau in Tokyo.",
+                                "al:ios:app_store_id": "589698942",
+                                "referrer": "origin",
+                                "fb:app_id": "169673973089895",
+                                "apple-mobile-web-app-status-bar-style": "#0caa41",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "apple-mobile-web-app-capable": "yes",
+                                "og:url": "https://www.glassdoor.com/Job/tokyo-tableau-jobs-SRCH_IL.0,5_IC2851580_KO6,13.htm",
+                                "google-play-app": "app-id=com.glassdoor.app"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www-qa.glassdoor.com:8443/jobs-ux-app/static/img/partners/fb/logo-1200x630.png?v=721f9cswl"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス Tableau構築支援",
+                        "totalResults": "230000",
+                        "searchTerms": "商品・サービス Tableau構築支援",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス Tableau構築支援",
+                        "totalResults": "230000",
+                        "searchTerms": "商品・サービス Tableau構築支援",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス Tableau構築支援",
+                        "totalResults": "230000",
+                        "searchTerms": "商品・サービス Tableau構築支援",
+                        "count": 10,
+                        "startIndex": 31,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.225923,
+                "formattedSearchTime": "0.23",
+                "totalResults": "230000",
+                "formattedTotalResults": "230,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "ビジネスインテリジェンス | 株式会社アゼスト（Azest）",
+                    "htmlTitle": "ビジネスインテリジェンス | 株式会社アゼスト（Azest）",
+                    "link": "https://www.azest.co.jp/service/business-intelligence/",
+                    "displayLink": "www.azest.co.jp",
+                    "snippet": "Tableauを活用したデータ分析支援・データ分析サービスの設計開発・データドリブン ... 年からTableauパートナーとして、ライセンス販売500社以上、導入構築支援・活用 ...",
+                    "htmlSnippet": "<b>Tableau</b>を活用したデータ分析<b>支援</b>・データ分析<b>サービス</b>の設計開発・データドリブン ... 年から<b>Tableau</b>パートナーとして、ライセンス販売500社以上、導入<b>構築支援</b>・活用&nbsp;...",
+                    "cacheId": "AizVEB-UXgYJ",
+                    "formattedUrl": "https://www.azest.co.jp/service/business-intelligence/",
+                    "htmlFormattedUrl": "https://www.azest.co.jp/service/business-intelligence/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiiY3BdupIvxZWnqkLyq51856SQ9To-ssHV-1RuyAuNpHnN2r_9FiBAjS2",
+                                "width": "288",
+                                "height": "175"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.azest.co.jp/wp/wp-content/themes/azest-inc/img/ogp.jpg",
+                                "og:type": "article",
+                                "og:site_name": "株式会社アゼスト（Azest）",
+                                "viewport": "width=device-width,initial-scale=1.0",
+                                "og:title": "ビジネスインテリジェンス | 株式会社アゼスト（Azest）",
+                                "og:url": "https://www.azest.co.jp/service/business-intelligence",
+                                "format-detection": "address=no,email=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.azest.co.jp/wp/wp-content/themes/azest-inc/img/ogp.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "SNOWDAY JAPAN",
+                    "htmlTitle": "SNOWDAY JAPAN",
+                    "link": "https://www.snowflake.com/about/events/snowday-japan-2023/?lang=ja",
+                    "displayLink": "www.snowflake.com",
+                    "snippet": "2023/02/14 ... イベントパートナー各社によって取扱商品・サービスに関するご案内、 ... 以降、ビッグデータ基盤構築とデータ分析処理開発、データ活用支援に ...",
+                    "htmlSnippet": "2023/02/14 <b>...</b> イベントパートナー各社によって取扱<b>商品</b>・<b>サービス</b>に関するご案内、 ... 以降、ビッグデータ基盤<b>構築</b>とデータ分析処理開発、データ活用<b>支援</b>に&nbsp;...",
+                    "cacheId": "KuBjuW0C8iwJ",
+                    "formattedUrl": "https://www.snowflake.com/about/events/snowday-japan-2023/?lang=ja",
+                    "htmlFormattedUrl": "https://www.snowflake.com/about/events/snowday-japan-2023/?lang=ja",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthg9BgPqtjZafr5oqxVYPGsDfHQ5BRS6pgM_CtchYOIuXriIPFAw8mIQ",
+                                "width": "311",
+                                "height": "162"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.snowflake.com/wp-content/uploads/2023/01/1200x628-SNOWDAY22-Social-JP.png",
+                                "theme-color": "#ffffff",
+                                "og:type": "article",
+                                "og:image:width": "1200",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "SNOWDAY JAPAN",
+                                "og:site_name": "Snowflake",
+                                "og:title": "SNOWDAY JAPAN",
+                                "og:image:height": "628",
+                                "og:image:type": "image/png",
+                                "og:description": "Snowflakeはデータクラウドによって、アプリケーション、データサイエンス、データエンジニアリングなどの領域で開発の新時代を切り開きます。SNOWDAYでは、データクラウドに関わる最新のイノベーションについて、ユーザーやエキスパートたちとともにお届けします。席数に限りがありますので、お早めにご登録ください。",
+                                "article:publisher": "https://www.facebook.com/Snowflake-Computing-709171695819345/",
+                                "twitter:image": "https://www.snowflake.com/wp-content/uploads/2023/01/1200x628-SNOWDAY22-Social-JP.png",
+                                "twitter:site": "@SnowflakeDB",
+                                "article:modified_time": "2023-04-01T16:51:49+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "Snowflakeはデータクラウドによって、アプリケーション、データサイエンス、データエンジニアリングなどの領域で開発の新時代を切り開きます。SNOWDAYでは、データクラウドに関わる最新のイノベーションについて、ユーザーやエキスパートたちとともにお届けします。席数に限りがありますので、お早めにご登録ください。",
+                                "og:locale": "en_US",
+                                "og:url": "https://www.snowflake.com/about/events/snowday-japan-2023/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.snowflake.com/wp-content/uploads/2023/01/1200x628-SNOWDAY22-Social-JP.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "セールスフォース・ドットコム、データ分析・チャート作成 ...",
+                    "htmlTitle": "セールスフォース・ドットコム、データ分析・チャート作成 ...",
+                    "link": "https://www.ig.com/jp/news-and-trade-ideas/shares-news/alesforce-com-agreed-in-acquisition-of-tableau-software-for-data-190620",
+                    "displayLink": "www.ig.com",
+                    "snippet": "2019/06/20 ... 6/10にデータ分析・チャート作成ソフトウェアのTableau Softwareを買収すると ... カスタマーサービス支援システム②「Service Cloud」が同20.3％増 ...",
+                    "htmlSnippet": "2019/06/20 <b>...</b> 6/10にデータ分析・チャート作成ソフトウェアの<b>Tableau</b> Softwareを買収すると ... カスタマー<b>サービス支援</b>システム②「Service Cloud」が同20.3％増&nbsp;...",
+                    "cacheId": "sYSh_wsRkNUJ",
+                    "formattedUrl": "https://www.ig.com/.../alesforce-com-agreed-in-acquisition-of-tableau- software-for-data-190620",
+                    "htmlFormattedUrl": "https://www.ig.com/.../alesforce-com-agreed-in-acquisition-of-<b>tableau</b>- software-for-data-190620",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWOSjFEhf6wPqgWOHZQMVdf4vRI_1hN2n_HEtOGNdcriqnsQJsiyC6ScML",
+                                "width": "259",
+                                "height": "194"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://a.c-dn.net/c/content/dam/publicsites/igcom/uk/images/news-article-image-folder/BG_salesforce_234230480.png",
+                                "og:type": "website",
+                                "og:image:width": "600",
+                                "twitter:card": "summary",
+                                "og:site_name": "IG",
+                                "twitter:domain": "www.IG.com",
+                                "og:title": "セールスフォース・ドットコム、データ分析・チャート作成ソフトウェアのTableau Softwareの買収で合意、過去最大の買収案件",
+                                "og:image:height": "450",
+                                "locale": "ja_JP",
+                                "softid": "igcom",
+                                "og:description": "ニューヨーク | アプリケーション・ソフトウェア | 業績フォロー\nBLOOMBERG CRM:US | REUTERS CRM",
+                                "twitter:creator": "@IGcom",
+                                "twitter:site": "@IGcom",
+                                "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1",
+                                "page-type": "default",
+                                "og:url": "https://www.ig.com/jp/news-and-trade-ideas/shares-news/alesforce-com-agreed-in-acquisition-of-tableau-software-for-data-190620",
+                                "published_at": "2019-06-20"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://a.c-dn.net/c/content/dam/publicsites/igcom/uk/images/news-article-image-folder/BG_salesforce_234230480.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "全国約3,000店舗のPOSデータ数十億件をリアルタイム分析する基盤 ...",
+                    "htmlTitle": "全国約3,000店舗のPOSデータ数十億件をリアルタイム分析する基盤 ...",
+                    "link": "https://classmethod.jp/cases/skylark-skylark-pos-redshift-tableau/",
+                    "displayLink": "classmethod.jp",
+                    "snippet": "・AWS活用プラットフォーム構築サービス・AWS総合支援サービス・Amazon Redshift導入コンサルティング・Tableau Desktop導入コンサルティング ...",
+                    "htmlSnippet": "・AWS活用プラットフォーム<b>構築サービス</b>・AWS総合<b>支援サービス</b>・Amazon Redshift導入コンサルティング・<b>Tableau</b> Desktop導入コンサルティング&nbsp;...",
+                    "cacheId": "ffl3zUi0FewJ",
+                    "formattedUrl": "https://classmethod.jp/cases/skylark-skylark-pos-redshift-tableau/",
+                    "htmlFormattedUrl": "https://classmethod.jp/cases/skylark-skylark-pos-redshift-<b>tableau</b>/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThpTxtK9H5kBhpe0l44wwTzygXhSRuNCma3a8tNR36OyE2vkb6d14Ag5s",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://classmethod.jp/wp-content/themes/classmethod/img/common/ogp.png",
+                                "og:type": "article",
+                                "article:published_time": "2016-10-21T05:02:38+00:00",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "全国約3,000店舗のPOSデータ数十億件をリアルタイム分析する基盤を開発 | クラスメソッド株式会社",
+                                "og:site_name": "クラスメソッド株式会社",
+                                "og:title": "全国約3,000店舗のPOSデータ数十億件をリアルタイム分析する基盤を開発 | クラスメソッド株式会社",
+                                "google": "nositelinkssearchbox",
+                                "twitter:creator": "@classmethod",
+                                "og:image:secure_url": "https://classmethod.jp/wp-content/themes/classmethod/img/common/ogp.png",
+                                "article:publisher": "https://www.facebook.com/classmethod/",
+                                "twitter:image": "https://classmethod.jp/wp-content/themes/classmethod/img/common/ogp.png",
+                                "fb:app_id": "1906077256335423",
+                                "twitter:site": "@classmethod",
+                                "article:modified_time": "2023-05-08T01:13:57+00:00",
+                                "viewport": "width=375",
+                                "og:locale": "ja_JP",
+                                "fb:admins": "176409632388390",
+                                "position": "2",
+                                "og:url": "https://classmethod.jp/cases/skylark-skylark-pos-redshift-tableau/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://classmethod.jp/wp-content/themes/classmethod/img/common/ogp.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "BIソリューションの料金・評判・口コミについて – ITツール・Web ...",
+                    "htmlTitle": "BIソリューションの料金・評判・口コミについて – ITツール・Web ...",
+                    "link": "https://strate.biz/bi/bisolution/",
+                    "displayLink": "strate.biz",
+                    "snippet": "2023/02/21 ... リゾームが提供するBIソリューション（Tableau）は、「様々なデータを統合的に ... BIツールの構築からデータ活用の支援まで、導入企業の状況に応じて ...",
+                    "htmlSnippet": "2023/02/21 <b>...</b> リゾームが提供するBIソリューション（<b>Tableau</b>）は、「様々なデータを統合的に ... BIツールの<b>構築</b>からデータ活用の<b>支援</b>まで、導入企業の状況に応じて&nbsp;...",
+                    "cacheId": "_Vk9Q5xEQPoJ",
+                    "formattedUrl": "https://strate.biz/bi/bisolution/",
+                    "htmlFormattedUrl": "https://strate.biz/bi/bisolution/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT34zlWHqxjPshARfi830QPeME3LDX64mEbh2uO04QB-8z377IX-5qS5ytj",
+                                "width": "283",
+                                "height": "178"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://cdn.strate.biz/wp-content/uploads/2022/10/BIソリューションズ.jpg",
+                                "og:type": "article",
+                                "og:site_name": "ITツール･Webサービス比較サイト| STRATE[ストラテ]",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "og:title": "BIソリューションの料金･評判･口コミについて",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://strate.biz/bi/bisolution/",
+                                "og:description": "リゾームが提供するBIソリューション（Tableau）は、「様々なデータを統合的に活用したい」 「部門横断でデータを共有したい」など、企業にとって大切な財産であるデータの活用をサポートします。",
+                                "facebook-domain-verification": "rsqg4aey6uza5lgr2hpx0s7ifwfu5x"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://cdn.strate.biz/wp-content/uploads/2022/10/bi_image_20221003.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "データ可視化「CHARTBOX」 - 株式会社ゼンリンマーケティング ...",
+                    "htmlTitle": "データ可視化「CHARTBOX」 - 株式会社ゼンリンマーケティング ...",
+                    "link": "https://www.zenrin-ms.co.jp/map_based_marketing/chartbox/",
+                    "displayLink": "www.zenrin-ms.co.jp",
+                    "snippet": "Tableauに最新のゼンリン地図データを加え、地域ごとのデータを直感的に理解する ... が誇る豊富な地図や統計データを活用したTableauダッシュボード構築サービス！",
+                    "htmlSnippet": "<b>Tableau</b>に最新のゼンリン地図データを加え、地域ごとのデータを直感的に理解する ... が誇る豊富な地図や統計データを活用した<b>Tableau</b>ダッシュボード<b>構築サービス</b>！",
+                    "cacheId": "kP4OUXj7d7oJ",
+                    "formattedUrl": "https://www.zenrin-ms.co.jp/map_based_marketing/chartbox/",
+                    "htmlFormattedUrl": "https://www.zenrin-ms.co.jp/map_based_marketing/chartbox/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT46lpltlfSz0HdUW1r7sa6RgcEgJgxckPiKOBrg_W1Slyglv9z7KHg7Ok",
+                                "width": "270",
+                                "height": "187"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.zenrin-ms.co.jp/map_based_marketing/images/topimageIllust.png",
+                                "og:type": "article",
+                                "og:site_name": "株式会社ゼンリンマーケティングソリューションズ",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "データ可視化商品群「CHARTBOX」 - 株式会社ゼンリンマーケティングソリューションズ",
+                                "og:description": "Tableauに最新のゼンリン地図データを加え、地域ごとのデータを直感的に理解することができ、より深い分析を行うことができます。",
+                                "format-detection": "telephone=no,address=no,email=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.zenrin-ms.co.jp/map_based_marketing/images/topimageIllust.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "ダッシュボード構築 | PR会社 | 株式会社カーツメディアワークス",
+                    "htmlTitle": "ダッシュボード<b>構築</b> | PR会社 | 株式会社カーツメディアワークス",
+                    "link": "https://www.kartz.co.jp/data/dashboard/",
+                    "displayLink": "www.kartz.co.jp",
+                    "snippet": "企業内には、部署・商品・サービスなど、機能別・レベル別にKPIや分析条件があります。経営層が見るべきデータとチームレベルで見るデータが同じなわけがありません。",
+                    "htmlSnippet": "企業内には、部署・<b>商品</b>・<b>サービス</b>など、機能別・レベル別にKPIや分析条件があります。経営層が見るべきデータとチームレベルで見るデータが同じなわけがありません。",
+                    "cacheId": "cvF4V4XO4XsJ",
+                    "formattedUrl": "https://www.kartz.co.jp/data/dashboard/",
+                    "htmlFormattedUrl": "https://www.kartz.co.jp/data/dashboard/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVzVVt6kdVwh2H8tJTQKIhDOuLxZxReC2dzW5zd7eTmkrfQjbyrCopR3oi",
+                                "width": "367",
+                                "height": "137"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "msapplication-tilecolor": "#d22249",
+                                "theme-color": "#ffffff",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "google": "nositelinkssearchbox",
+                                "msapplication-tileimage": "https://www.kartz.co.jp/wp-content/uploads/2022/02/cropped-favicon_512-270x270.png",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.kartz.co.jp/wp-content/uploads/2021/11/dashboard_01.jpg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "item": "データビジュアライズ",
+                                "name": "データビジュアライズ",
+                                "position": "2"
+                            },
+                            {
+                                "item": "ダッシュボード構築",
+                                "name": "ダッシュボード構築",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Tableau活用支援｜okunote｜意思決定を促すパワーポイント資料 ...",
+                    "htmlTitle": "<b>Tableau</b>活用<b>支援</b>｜okunote｜意思決定を促すパワーポイント資料 ...",
+                    "link": "https://okunote.co.jp/visualization/",
+                    "displayLink": "okunote.co.jp",
+                    "snippet": "VISUALIZATION 企業のデータ分析をサポートする. BIツール「Tableau」とは · FEATURES okunoteが提供するTableau活用支援サービスの特徴 · CASE ダッシュボードの作成事例.",
+                    "htmlSnippet": "VISUALIZATION 企業のデータ分析をサポートする. BIツール「<b>Tableau</b>」とは &middot; FEATURES okunoteが提供する<b>Tableau</b>活用<b>支援サービス</b>の特徴 &middot; CASE ダッシュボードの作成事例.",
+                    "cacheId": "ZLRDJwUsYscJ",
+                    "formattedUrl": "https://okunote.co.jp/visualization/",
+                    "htmlFormattedUrl": "https://okunote.co.jp/visualization/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnQzMo7gJWfdwLoCGVWCkKf9msE-v9INvHpufhGxabLAENox3sPWVnOo9I",
+                                "width": "251",
+                                "height": "201"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:type": "website",
+                                "viewport": "width=375px",
+                                "og:title": "Tableau活用支援｜okunote｜意思決定を促すパワーポイント資料作成研修・資料作成代行",
+                                "og:url": "http://okunote.co.jp/visualization/index.php",
+                                "og:description": "okunote（オクノテ）は、データに基づく意思決定をサポートするため、BIツールTableauの活用支援を行っています。目的や課題に沿ってコンサルタントが操作しやすいダッシュボードを作成します。また、ロジカルシンキングに基づいたパワーポイント資料作成研修、資料作成代行によって組織を動かすビジネスパーソンをご支援します。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://okunote.co.jp/images/visualization/mv-sp.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【NTT西日本】Tableauを利用したデータ分析・活用によるDX支援 ...",
+                    "htmlTitle": "【NTT西日本】<b>Tableau</b>を利用したデータ分析・活用によるDX<b>支援</b> ...",
+                    "link": "https://www.ntt-west.co.jp/business/smart10x/solution/066.html",
+                    "displayLink": "www.ntt-west.co.jp",
+                    "snippet": "データ活用によるDX支援サービスとは. お客さまがお持ちのデータをデータ分析ツール「Tableau」を活用して、DX推進人材の育成やダッシュボード作成ができる支援型 ...",
+                    "htmlSnippet": "データ活用によるDX<b>支援サービス</b>とは. お客さまがお持ちのデータをデータ分析ツール「<b>Tableau</b>」を活用して、DX推進人材の育成やダッシュボード作成ができる<b>支援</b>型&nbsp;...",
+                    "cacheId": "yZiO-E6DxH4J",
+                    "formattedUrl": "https://www.ntt-west.co.jp/business/smart10x/solution/066.html",
+                    "htmlFormattedUrl": "https://www.ntt-west.co.jp/business/smart10x/solution/066.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpChkkigkx0QlSZABvskMSyn_we6WTuiSUASOJYDjvuNHzMs-EGHSAdtk",
+                                "width": "284",
+                                "height": "177"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,initial-scale=1",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.ntt-west.co.jp/business/smart10x/solution/img/066/img_concept01.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "博報堂マーケティングシステムズ | HAKUHODO MARKETING ...",
+                    "htmlTitle": "博報堂マーケティングシステムズ | HAKUHODO MARKETING ...",
+                    "link": "https://www.hakuhodo-ms.co.jp/",
+                    "displayLink": "www.hakuhodo-ms.co.jp",
+                    "snippet": "オウンドメディアアプリ構築; SNSアカウント活用支援; LINEサービス活用支援; Eコマース活用支援; マーケティングシステム導入によるCRM支援; Web接客ツール活用支援 ...",
+                    "htmlSnippet": "オウンドメディアアプリ<b>構築</b>; SNSアカウント活用<b>支援</b>; LINE<b>サービス</b>活用<b>支援</b>; Eコマース活用<b>支援</b>; マーケティングシステム導入によるCRM<b>支援</b>; Web接客ツール活用<b>支援</b>&nbsp;...",
+                    "cacheId": "Ef_MFhsdeCcJ",
+                    "formattedUrl": "https://www.hakuhodo-ms.co.jp/",
+                    "htmlFormattedUrl": "https://www.hakuhodo-ms.co.jp/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOva5UIozHlul8UAuwQW8BUlYLyi6wHie8_LfcpIyCt_L6ST9zj2s2AOxK",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.hakuhodo-ms.co.jp/og.png",
+                                "og:type": "website",
+                                "og:site_name": "博報堂マーケティングシステムズ",
+                                "viewport": "width=device-width,initial-scale=1.0",
+                                "author": "//hakuhodo-ms.co.jp",
+                                "og:title": "博報堂マーケティングシステムズ | HAKUHODO MARKETING SYSTEMS",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.hakuhodo-ms.co.jp/",
+                                "og:description": "博報堂マーケティングシステムズは、クリエイティブ×統合プロデュース×エンジニアリングで、デジタルマーケティングの仕組みつくりと施策実践をワンストップで提供します。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.hakuhodo-ms.co.jp/og.png"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

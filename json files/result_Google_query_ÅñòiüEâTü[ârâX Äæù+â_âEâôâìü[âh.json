@@ -1,0 +1,1437 @@
+{
+    "query": "商品・サービス 資料ダウンロード",
+    "links": [
+        [
+            "https://www.blogwatcher.co.jp/download/",
+            "https://www.oki.com/jp/cloud/download/",
+            "https://www.cpeers.co.jp/post/web%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2-syncad%EF%BC%88%E3%82%B7%E3%83%B3%E3%82%AF%E3%82%A2%E3%83%89%EF%BC%89-%E3%80%8C%E5%AE%8C%E5%85%A8%E6%88%90%E6%9E%9C%E5%A0%B1%E9%85%AC%E5%9E%8B%E3%80%8D%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E6%8F%90%E4%BE%9B%E3%82%92%E9%96%8B%E5%A7%8B",
+            "https://www.fusodentsu.co.jp/service/document_all/form_Commonsolution_security.html",
+            "https://marketing.yahoo.co.jp/download/",
+            "https://service.n-techno.co.jp/contact/document.html",
+            "https://www.bsearchtech.com/solutions/ec_search/",
+            "https://www.sbisonpo.co.jp/car/download/",
+            "https://www.bsearchtech.com/products/ecsearch-solutions-download/",
+            "https://www.videor.co.jp/mt/mt-contactform.cgi?__mode=view&blog_id=692&id=287&object_id=63247&model=page&material_d=76482"
+        ],
+        [
+            "https://www.jfc.go.jp/n/service/dl_kokumin.html",
+            "https://usonar.co.jp/dl/",
+            "https://www.naitohouse.co.jp/business/download",
+            "https://usonar.co.jp/dl/otherservice/",
+            "https://www.hmklogi.com/document/",
+            "https://info.k-evolva.com/public/application/add/193",
+            "http://www.kankyo-life.co.jp/download.html",
+            "https://info.k-evolva.com/public/application/add/202",
+            "https://www.commercepick.com/archives/11173",
+            "https://www.hitachi-solutions.co.jp/grouptask-reminder/catalog/"
+        ],
+        [
+            "https://www.sanwa-comp.co.jp/download/eosl_dl-form.html",
+            "https://www.jtbbwt.com/business/documents/solution/detail/id=1294",
+            "https://workplace.idex-f.co.jp/download/",
+            "https://www.nttcoms.com/service/b2b_marketing/download/download06/",
+            "https://www.skypce.net/inquiry/",
+            "https://wacul.co.jp/lab/posts/b2b-cv-point-bestpractice",
+            "https://www.ecomark.jp/acquire/download/",
+            "https://rdc.ricoh.co.jp/contact_eventphoto/",
+            "https://www.t-yzk.jp/product/catalog/",
+            "https://rinnai.jp/business_user/"
+        ]
+    ],
+    "snapshot_ymd": "D2023-06-23",
+    "snapshot_timestamp": "D2023-06-23T01-28-47",
+    "responses": [
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "request": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 資料ダウンロード",
+                        "totalResults": "74000000",
+                        "searchTerms": "商品・サービス 資料ダウンロード",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 資料ダウンロード",
+                        "totalResults": "74000000",
+                        "searchTerms": "商品・サービス 資料ダウンロード",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.410782,
+                "formattedSearchTime": "0.41",
+                "totalResults": "74000000",
+                "formattedTotalResults": "74,000,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロード | 株式会社ブログウォッチャー",
+                    "htmlTitle": "<b>資料ダウンロード</b> | 株式会社ブログウォッチャー",
+                    "link": "https://www.blogwatcher.co.jp/download/",
+                    "displayLink": "www.blogwatcher.co.jp",
+                    "snippet": "携帯番号 日中に繋がりやすい番号を記載ください。 ご興味のある弊社サービス プロファイルパスポート AD プロファイルパスポート DMP",
+                    "htmlSnippet": "携帯番号 日中に繋がりやすい番号を記載ください。 ご興味のある弊社<b>サービス</b> プロファイルパスポート AD プロファイルパスポート DMP",
+                    "cacheId": "r8_nj26GVR4J",
+                    "formattedUrl": "https://www.blogwatcher.co.jp/download/",
+                    "htmlFormattedUrl": "https://www.blogwatcher.co.jp/download/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "og:type": "article",
+                                "article:published_time": "2016-09-02T14:04:08Z",
+                                "twitter:card": "summary",
+                                "twitter:title": "資料ダウンロード | 株式会社ブログウォッチャー",
+                                "og:site_name": "株式会社ブログウォッチャー | 位置情報データを活用したサービスを提供- blogwatcher Inc.",
+                                "twitter:domain": "www.blogwatcher.co.jp",
+                                "og:title": "資料ダウンロード | 株式会社ブログウォッチャー",
+                                "msapplication-tileimage": "https://www.blogwatcher.co.jp/wp/wp-content/uploads/2017/01/cropped-cf184e16c427c609ebfbf5cfda408d51-270x270.png",
+                                "og:description": "資料ダウンロード 下記のフォームにご入力ください。 フォームご入力後、メールにて資料をご送付いたします。",
+                                "article:publisher": "https://www.facebook.com/blogwatcher/",
+                                "twitter:site": "@Blogwatcher_tw",
+                                "article:modified_time": "2022-07-19T02:39:45Z",
+                                "viewport": "width=device-width",
+                                "twitter:description": "資料ダウンロード 下記のフォームにご入力ください。 フォームご入力後、メールにて資料をご送付いたします。",
+                                "og:url": "https://www.blogwatcher.co.jp/download/"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロード｜マネージドクラウドEXaaS（エクサース）｜OKI",
+                    "htmlTitle": "<b>資料ダウンロード</b>｜マネージドクラウドEXaaS（エクサース）｜OKI",
+                    "link": "https://www.oki.com/jp/cloud/download/",
+                    "displayLink": "www.oki.com",
+                    "snippet": "... 資料ダウンロード. 商品カタログ ... EXaaSプラットフォームサービスの概要を紹介するリーフレットです。 ... Adobe社のサイトからダウンロードしてください。",
+                    "htmlSnippet": "... <b>資料ダウンロード</b>. <b>商品</b>カタログ ... EXaaSプラットフォーム<b>サービス</b>の概要を紹介するリーフレットです。 ... Adobe社のサイトからダウンロードしてください。",
+                    "cacheId": "y4H-AzKhM2UJ",
+                    "formattedUrl": "https://www.oki.com/jp/cloud/download/",
+                    "htmlFormattedUrl": "https://www.oki.com/jp/cloud/download/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "copyright": "All rights reserved, Copyright © Oki Electric Industry Co., Ltd. since 1995",
+                                "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1",
+                                "author": "沖電気工業株式会社"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Webマーケティングメディア syncAD（シンクアド） 「完全成果 ...",
+                    "htmlTitle": "Webマーケティングメディア syncAD（シンクアド） 「完全成果 ...",
+                    "link": "https://www.cpeers.co.jp/post/web%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2-syncad%EF%BC%88%E3%82%B7%E3%83%B3%E3%82%AF%E3%82%A2%E3%83%89%EF%BC%89-%E3%80%8C%E5%AE%8C%E5%85%A8%E6%88%90%E6%9E%9C%E5%A0%B1%E9%85%AC%E5%9E%8B%E3%80%8D%E8%B3%87%E6%96%99%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E6%8F%90%E4%BE%9B%E3%82%92%E9%96%8B%E5%A7%8B",
+                    "displayLink": "www.cpeers.co.jp",
+                    "snippet": "成果報酬型ダウンロードの主な機能. syncAD（シンクアド）の「お役立ち資料」コンテンツに、商品・サービス資料ページを掲載し ...",
+                    "htmlSnippet": "成果報酬型<b>ダウンロード</b>の主な機能. syncAD（シンクアド）の「お役立ち<b>資料</b>」コンテンツに、<b>商品</b>・<b>サービス資料</b>ページを掲載し&nbsp;...",
+                    "cacheId": "gmgdw1FDIqUJ",
+                    "formattedUrl": "https://www.cpeers.co.jp/.../webマーケティングメディア-syncad（シンクアド） -「完全成果報酬型」資料ダウンロードサービスの提供を開始",
+                    "htmlFormattedUrl": "https://www.cpeers.co.jp/.../webマーケティングメディア-syncad（シンクアド） -「完全成果報酬型」<b>資料ダウンロードサービス</b>の提供を開始",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXToStDIMT7hee58aFhaWG-UphIKQQypGDMa5v-0QINT-FS_XqRe9fKpU",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://static.wixstatic.com/media/1899f8_bb5eddf708534478ac24a7739e638554~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/1899f8_bb5eddf708534478ac24a7739e638554~mv2.jpg",
+                                "og:image:width": "1920",
+                                "og:type": "article",
+                                "article:published_time": "2023-03-14T07:15:40.245Z",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "Webマーケティングメディア syncAD（シンクアド） 「完全成果報酬型」資料ダウンロードサービスの提供を開始",
+                                "og:site_name": "株式会社シーピアーズ",
+                                "skype_toolbar": "skype_toolbar_parser_compatible",
+                                "og:title": "Webマーケティングメディア syncAD（シンクアド） 「完全成果報酬型」資料ダウンロードサービスの提供を開始",
+                                "og:image:height": "1280",
+                                "og:description": "Webマーケティングメディア syncAD（シンクアド） 「完全成果報酬型」資料ダウンロードサービスの提供を開始いたしました。",
+                                "article:author": "シーピアーズPR DIv.",
+                                "twitter:image": "https://static.wixstatic.com/media/1899f8_bb5eddf708534478ac24a7739e638554~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/1899f8_bb5eddf708534478ac24a7739e638554~mv2.jpg",
+                                "article:modified_time": "2023-03-14T07:15:40.245Z",
+                                "viewport": "width=320, user-scalable=yes",
+                                "twitter:description": "Webマーケティングメディア syncAD（シンクアド） 「完全成果報酬型」資料ダウンロードサービスの提供を開始いたしました。",
+                                "og:url": "https://www.cpeers.co.jp/post/webマーケティングメディア-syncad（シンクアド）-「完全成果報酬型」資料ダウンロードサービスの提供を開始",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://static.wixstatic.com/media/1899f8_bb5eddf708534478ac24a7739e638554~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/1899f8_bb5eddf708534478ac24a7739e638554~mv2.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "セキュリティ関連サービス・商品資料ダウンロードフォーム｜扶桑 ...",
+                    "htmlTitle": "セキュリティ関連<b>サービス</b>・<b>商品資料ダウンロード</b>フォーム｜扶桑 ...",
+                    "link": "https://www.fusodentsu.co.jp/service/document_all/form_Commonsolution_security.html",
+                    "displayLink": "www.fusodentsu.co.jp",
+                    "snippet": "扶桑電通が提供するセキュリティ関連「商品・サービス」の資料がダウンロードできます。",
+                    "htmlSnippet": "扶桑電通が提供するセキュリティ関連「<b>商品</b>・<b>サービス</b>」の<b>資料</b>が<b>ダウンロード</b>できます。",
+                    "cacheId": "Wcy-Y7BiSeIJ",
+                    "formattedUrl": "https://www.fusodentsu.co.jp/service/.../form_Commonsolution_security.html",
+                    "htmlFormattedUrl": "https://www.fusodentsu.co.jp/service/.../form_Commonsolution_security.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsP4g6jfpHCcj_sIe_II_CJlWP6-Tp45DvmKE0ga3yFhGpbZ0lyVBEAuxp",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.fusodentsu.co.jp/dcms_media/image/ogp.png",
+                                "og:type": "article",
+                                "twitter:card": "summary",
+                                "twitter:title": "セキュリティ関連サービス・商品資料ダウンロードフォーム｜扶桑電通株式会社",
+                                "og:site_name": "扶桑電通株式会社",
+                                "og:title": "セキュリティ関連サービス・商品資料ダウンロードフォーム｜扶桑電通株式会社",
+                                "og:description": "扶桑電通が提供するセキュリティ関連「商品・サービス」の資料がダウンロードできます。",
+                                "twitter:image": "https://www.fusodentsu.co.jp/dcms_media/image/ogp.png",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "twitter:description": "扶桑電通が提供するセキュリティ関連「商品・サービス」の資料がダウンロードできます。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.fusodentsu.co.jp/service/document_all/form_Commonsolution_security.html",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.fusodentsu.co.jp/dcms_media/image/ogp.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "HOME",
+                                "name": "HOME",
+                                "position": "1"
+                            },
+                            {
+                                "item": "HOME",
+                                "name": "HOME",
+                                "position": "2"
+                            },
+                            {
+                                "item": "ダウンロード資料一覧ページ",
+                                "name": "ダウンロード資料一覧ページ",
+                                "position": "3"
+                            },
+                            {
+                                "item": "セキュリティ関連サービス・商品資料ダウンロードフォーム",
+                                "name": "セキュリティ関連サービス・商品資料ダウンロードフォーム",
+                                "position": "4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロード - Yahoo!マーケティングソリューション",
+                    "htmlTitle": "<b>資料ダウンロード</b> - Yahoo!マーケティングソリューション",
+                    "link": "https://marketing.yahoo.co.jp/download/",
+                    "displayLink": "marketing.yahoo.co.jp",
+                    "snippet": "JAPANの媒体資料、各種広告資料をダウンロードできます。Yahoo! ... コンテンツ企画型商品ケイパビリティ ... 広告サービス品質に関する透明性レポート.",
+                    "htmlSnippet": "JAPANの媒体<b>資料</b>、各種広告<b>資料</b>を<b>ダウンロード</b>できます。Yahoo! ... コンテンツ企画型<b>商品</b>ケイパビリティ ... 広告<b>サービス</b>品質に関する透明性レポート.",
+                    "cacheId": "H-1uSNNoF5EJ",
+                    "formattedUrl": "https://marketing.yahoo.co.jp/download/",
+                    "htmlFormattedUrl": "https://marketing.yahoo.co.jp/download/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLN8VezSLXF9-KtjwpIrM2HtJNBHnimguyt9VX2ytPASPeLHJ-5gFztys",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://s.yimg.jp/images/marketing/portal/images/ogp.jpg",
+                                "og:type": "website",
+                                "fb:app_id": "341550432687566",
+                                "twitter:card": "summary",
+                                "og:site_name": "Yahoo!マーケティングソリューション",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "ヤフーへの広告掲載とビッグデータ活用 - Yahoo!マーケティングソリューション",
+                                "og:url": "https://marketing.yahoo.co.jp/",
+                                "og:description": "Yahoo!マーケティングソリューション"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://s.yimg.jp/images/marketing/portal/images/ogp.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロード|日本テクノ株式会社の製品・サービス",
+                    "htmlTitle": "<b>資料ダウンロード</b>|日本テクノ株式会社の製品・<b>サービス</b>",
+                    "link": "https://service.n-techno.co.jp/contact/document.html",
+                    "displayLink": "service.n-techno.co.jp",
+                    "snippet": "資料ダウンロード。企業の電気をコントロールできる「スマートメーターエリア」「スマートクロック」。電力の「見える化、わかる化」によって工場、店舗、施設など事業 ...",
+                    "htmlSnippet": "<b>資料ダウンロード</b>。企業の電気をコントロールできる「スマートメーターエリア」「スマートクロック」。電力の「見える化、わかる化」によって工場、店舗、施設など事業&nbsp;...",
+                    "cacheId": "5GFwYeFVHngJ",
+                    "formattedUrl": "https://service.n-techno.co.jp/contact/document.html",
+                    "htmlFormattedUrl": "https://service.n-techno.co.jp/contact/document.html",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                                "format-detection": "telephone=no"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "GENIEE SEARCH for EC（旧ポップリンク）で確かな接客で ...",
+                    "htmlTitle": "GENIEE SEARCH for EC（旧ポップリンク）で確かな接客で ...",
+                    "link": "https://www.bsearchtech.com/solutions/ec_search/",
+                    "displayLink": "www.bsearchtech.com",
+                    "snippet": "EC向け商品検索サービス. 資料ダウンロード. 900社を超える企業様から喜びの声.",
+                    "htmlSnippet": "EC向け<b>商品</b>検索<b>サービス</b>. <b>資料ダウンロード</b>. 900社を超える企業様から喜びの声.",
+                    "cacheId": "Zd7oP_xTxXYJ",
+                    "formattedUrl": "https://www.bsearchtech.com/solutions/ec_search/",
+                    "htmlFormattedUrl": "https://www.bsearchtech.com/solutions/ec_search/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxBG8jQJatHi31_GpAq80cXM9TduByiT9CDxQnG58GZy3bwVqqs2jJYkg",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.bsearchtech.com/wp-content/uploads/2018/01/default-user-image.jpg",
+                                "theme-color": "#0091e1",
+                                "og:type": "article",
+                                "og:image:width": "512",
+                                "article:published_time": "2022-11-01T05:26:04+00:00",
+                                "twitter:card": "summary",
+                                "twitter:title": "GENIEE SEARCH for EC（旧ポップリンク）で確かな接客で売り上げに貢献する",
+                                "og:site_name": "ビジネスサーチテクノロジ株式会社",
+                                "author": "ビジネスサーチテクノロジ株式会社",
+                                "og:title": "GENIEE SEARCH for EC（旧ポップリンク）で確かな接客で売り上げに貢献する",
+                                "og:image:height": "512",
+                                "og:description": "【旧probo EC,ポップファインド,ポップリンク】「GENIEE SEARCH for EC（ECサイト向け商品検索）」は、シリーズ累計で900社以上が利用するECサイトに欠かせない機能を備えた商品検索ツールです。ジーニーサーチはCVR向上やUI/UX改善などECサイトの課題を改善します。",
+                                "og:image:secure_url": "https://www.bsearchtech.com/wp-content/uploads/2018/01/default-user-image.jpg",
+                                "twitter:image": "https://www.bsearchtech.com/wp-content/uploads/2018/01/default-user-image.jpg",
+                                "facebook-domain-verification": "v7fq43u43rwbmfsn459rvpr2o7k1q3",
+                                "article:modified_time": "2023-06-01T01:20:37+00:00",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "twitter:description": "【旧probo EC,ポップファインド,ポップリンク】「GENIEE SEARCH for EC（ECサイト向け商品検索）」は、シリーズ累計で900社以上が利用するECサイトに欠かせない機能を備えた商品検索ツールです。ジーニーサーチはCVR向上やUI/UX改善などECサイトの課題を改善します。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.bsearchtech.com/solutions/ec_search/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.bsearchtech.com/wp-content/uploads/2018/01/default-user-image.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロード - SBI損保の自動車保険",
+                    "htmlTitle": "<b>資料ダウンロード</b> - SBI損保の自動車保険",
+                    "link": "https://www.sbisonpo.co.jp/car/download/",
+                    "displayLink": "www.sbisonpo.co.jp",
+                    "snippet": "SBI損保の各種資料。 ... 納得の保険料と充実の事故対応・ロードサービスをお確かめください。 ... SBI損保の自動車保険の商品概要を説明したパンフレットです。",
+                    "htmlSnippet": "SBI損保の各種<b>資料</b>。 ... 納得の保険料と充実の事故対応・ロード<b>サービス</b>をお確かめください。 ... SBI損保の自動車保険の<b>商品</b>概要を説明したパンフレットです。",
+                    "cacheId": "3Mml-x6nUWUJ",
+                    "formattedUrl": "https://www.sbisonpo.co.jp/car/download/",
+                    "htmlFormattedUrl": "https://www.sbisonpo.co.jp/car/download/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx_VA-X3tcaNOQ-ZI7mtNWOhrXC5Jq9zVXlmeL37MOv404-_mVEp-kRA",
+                                "width": "95",
+                                "height": "95"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "http://sbisonpo.co.jp/common/images/og-image.gif",
+                                "og:type": "website",
+                                "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=1",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.sbisonpo.co.jp/car/download/images/img_carDownloadIndex--01.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "ECサイト向け商品検索サービス資料ダウンロード | ビジネスサーチ ...",
+                    "htmlTitle": "ECサイト向け<b>商品</b>検索<b>サービス資料ダウンロード</b> | ビジネスサーチ ...",
+                    "link": "https://www.bsearchtech.com/products/ecsearch-solutions-download/",
+                    "displayLink": "www.bsearchtech.com",
+                    "snippet": "ECサイトの検索機能の追加・強化・売り上げ改善を実現するECサイト向け商品検索サービス資料ダウンロード。 【掲.",
+                    "htmlSnippet": "ECサイトの検索機能の追加・強化・売り上げ改善を実現するECサイト向け<b>商品</b>検索<b>サービス資料ダウンロード</b>。 【掲.",
+                    "cacheId": "ATNc-j3jLLwJ",
+                    "formattedUrl": "https://www.bsearchtech.com/products/ecsearch-solutions-download/",
+                    "htmlFormattedUrl": "https://www.bsearchtech.com/products/ecsearch-solutions-download/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxBG8jQJatHi31_GpAq80cXM9TduByiT9CDxQnG58GZy3bwVqqs2jJYkg",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.bsearchtech.com/wp-content/uploads/2018/01/default-user-image.jpg",
+                                "theme-color": "#0091e1",
+                                "og:type": "article",
+                                "og:image:width": "512",
+                                "article:published_time": "2020-06-11T04:59:39+00:00",
+                                "twitter:card": "summary",
+                                "twitter:title": "ECサイト向け商品検索サービス資料ダウンロード | ビジネスサーチテクノロジ株式会社",
+                                "og:site_name": "ビジネスサーチテクノロジ株式会社",
+                                "author": "ビジネスサーチテクノロジ株式会社",
+                                "og:title": "ECサイト向け商品検索サービス資料ダウンロード | ビジネスサーチテクノロジ株式会社",
+                                "og:image:height": "512",
+                                "og:description": "ECサイトの検索機能の追加・強化・売り上げ改善を実現するECサイト向け商品検索サービス資料ダウンロード。 【掲",
+                                "og:image:secure_url": "https://www.bsearchtech.com/wp-content/uploads/2018/01/default-user-image.jpg",
+                                "twitter:image": "https://www.bsearchtech.com/wp-content/uploads/2018/01/default-user-image.jpg",
+                                "facebook-domain-verification": "v7fq43u43rwbmfsn459rvpr2o7k1q3",
+                                "article:modified_time": "2020-11-16T04:34:52+00:00",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "twitter:description": "ECサイトの検索機能の追加・強化・売り上げ改善を実現するECサイト向け商品検索サービス資料ダウンロード。 【掲",
+                                "og:locale": "ja_JP",
+                                "position": "3",
+                                "og:url": "https://www.bsearchtech.com/products/ecsearch-solutions-download/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.bsearchtech.com/wp-content/uploads/2018/01/default-user-image.jpg"
+                            }
+                        ],
+                        "hproduct": [
+                            {
+                                "fn": "Facebook",
+                                "photo": "https://www.bsearchtech.com/wp-content/themes/wp_bst_corp/common/images/logo_privacy2.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロード",
+                    "htmlTitle": "<b>資料ダウンロード</b>",
+                    "link": "https://www.videor.co.jp/mt/mt-contactform.cgi?__mode=view&blog_id=692&id=287&object_id=63247&model=page&material_d=76482",
+                    "displayLink": "www.videor.co.jp",
+                    "snippet": "ビデオリサーチサービスのご利用をお考えの皆様に、ホワイトペーパーを提供しております。各種サービスのご紹介レポートに加えて、業務にすぐ使えるお役立ち資料も ...",
+                    "htmlSnippet": "ビデオリサーチ<b>サービス</b>のご利用をお考えの皆様に、ホワイトペーパーを提供しております。各種<b>サービス</b>のご紹介レポートに加えて、業務にすぐ使えるお役立ち<b>資料</b>も&nbsp;...",
+                    "cacheId": "ismKVglMwJgJ",
+                    "formattedUrl": "https://www.videor.co.jp/mt/mt-contactform.cgi?__...id...",
+                    "htmlFormattedUrl": "https://www.videor.co.jp/mt/mt-contactform.cgi?__...id...",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSirlWnK5A7WIJGhw-YaVtQVsxeWqwORRUd8QM3hb1cLiehLim9OUABBn7w",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "msapplication-tilecolor": "#202945",
+                                "og:image": "https://www.videor.co.jp/_assets/images/ogp.png",
+                                "theme-color": "#202945",
+                                "og:image:width": "600",
+                                "og:type": "article",
+                                "twitter:title": "資料ダウンロード",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "ビデオリサーチ コーポレートサイト",
+                                "author": "株式会社ビデオリサーチ",
+                                "apple-mobile-web-app-title": "資料ダウンロード",
+                                "og:title": "資料ダウンロード",
+                                "og:image:height": "315",
+                                "og:description": "ビデオリサーチサービスのご利用をお考えの皆様に、ホワイトペーパーを提供しております。各種サービスのご紹介レポートに加えて、業務にすぐ使えるお役立ち資料もダウンロードできます。",
+                                "twitter:image": "https://www.videor.co.jp/_assets/images/ogp.png",
+                                "viewport": "width=360",
+                                "twitter:description": "ビデオリサーチサービスのご利用をお考えの皆様に、ホワイトペーパーを提供しております。各種サービスのご紹介レポートに加えて、業務にすぐ使えるお役立ち資料もダウンロードできます。",
+                                "og:locale": "ja_JP",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.videor.co.jp/_assets/images/ogp.png"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 資料ダウンロード",
+                        "totalResults": "74000000",
+                        "searchTerms": "商品・サービス 資料ダウンロード",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 資料ダウンロード",
+                        "totalResults": "74000000",
+                        "searchTerms": "商品・サービス 資料ダウンロード",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 資料ダウンロード",
+                        "totalResults": "74000000",
+                        "searchTerms": "商品・サービス 資料ダウンロード",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.209563,
+                "formattedSearchTime": "0.21",
+                "totalResults": "74000000",
+                "formattedTotalResults": "74,000,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "各種書式ダウンロード｜国民生活事業｜日本政策金融公庫",
+                    "htmlTitle": "各種書式<b>ダウンロード</b>｜国民生活事業｜日本政策金融公庫",
+                    "link": "https://www.jfc.go.jp/n/service/dl_kokumin.html",
+                    "displayLink": "www.jfc.go.jp",
+                    "snippet": "当ページから、お申込時の必要書類の書式、創業する方向けの参考資料等をダウンロード ... 企業概要書, はじめてお取引いただく方に、取扱商品・サービス等の企業内容 ...",
+                    "htmlSnippet": "当ページから、お申込時の必要書類の書式、創業する方向けの参考<b>資料</b>等を<b>ダウンロード</b> ... 企業概要書, はじめてお取引いただく方に、取扱<b>商品</b>・<b>サービス</b>等の企業内容&nbsp;...",
+                    "cacheId": "dd8bLRhU-2cJ",
+                    "formattedUrl": "https://www.jfc.go.jp/n/service/dl_kokumin.html",
+                    "htmlFormattedUrl": "https://www.jfc.go.jp/n/service/dl_kokumin.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTndJ006tG4grVLPDs9jVmNsCTatrUpbiibjjUkCaW21VkT-vyo2MJdago",
+                                "width": "166",
+                                "height": "85"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=980, user-scalable=yes"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.jfc.go.jp/n/service/img/bnr_internet.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "ダウンロード資料一覧ページ目 | ユーソナー",
+                    "htmlTitle": "<b>ダウンロード資料</b>一覧ページ目 | ユーソナー",
+                    "link": "https://usonar.co.jp/dl/",
+                    "displayLink": "usonar.co.jp",
+                    "snippet": "顧客データ統合ソリューション『ユーソナー(uSonar)』説明資料 ... 商品・サービスの企画開発支援から、顧客データの整備・分析、販売促進支援など多岐にわたる支援を ...",
+                    "htmlSnippet": "顧客データ統合ソリューション『ユーソナー(uSonar)』説明<b>資料</b> ... <b>商品</b>・<b>サービス</b>の企画開発支援から、顧客データの整備・分析、販売促進支援など多岐にわたる支援を&nbsp;...",
+                    "cacheId": "RPcaCG0n2bMJ",
+                    "formattedUrl": "https://usonar.co.jp/dl/",
+                    "htmlFormattedUrl": "https://usonar.co.jp/dl/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdgJ1nJNQ-Y7Z4En6gVdSVdSegRutL7JXY_ZqkeoGRDW6TQfPQMaYZZKg",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "/common/images/ogp202207.jpg",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "ダウンロード資料一覧ページ目 | ユーソナー",
+                                "og:type": "article",
+                                "og:site_name": "【ユーソナー】データベースマーケティング、名寄せ・データクレンジング",
+                                "og:title": "ダウンロード資料一覧ページ目 | ユーソナー",
+                                "og:description": "ダウンロード資料一覧 ページ目です。データベースマーケティング戦略をお考えならユーソナーにお任せください。",
+                                "twitter:image": "/common/images/ogp202207.jpg",
+                                "twitter:site": "@Landscape_IR",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "twitter:description": "ダウンロード資料一覧 ページ目です。データベースマーケティング戦略をお考えならユーソナーにお任せください。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://usonar.co.jp/dl/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://usonar.co.jp/dl/2022images/usonar_pamphlet1.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "トップ",
+                                "name": "トップ",
+                                "position": "1"
+                            },
+                            {
+                                "name": "資料ダウンロード",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "商品資料ダウンロード｜株式会社内藤ハウス",
+                    "htmlTitle": "<b>商品資料ダウンロード</b>｜株式会社内藤ハウス",
+                    "link": "https://www.naitohouse.co.jp/business/download",
+                    "displayLink": "www.naitohouse.co.jp",
+                    "snippet": "システム建築・プレハブ · ナイスビュア. ナイスビュアサービス資料. ナイスビュア資料ダウンロード · ナイスフィット. H&L. ナイスフィット資料ダウンロード · ナイススパン.",
+                    "htmlSnippet": "システム建築・プレハブ &middot; ナイスビュア. ナイスビュア<b>サービス</b>資料. ナイスビュア<b>資料ダウンロード</b> &middot; ナイスフィット. H&amp;L. ナイスフィット<b>資料ダウンロード</b> &middot; ナイススパン.",
+                    "cacheId": "q6OGGyXG5LoJ",
+                    "formattedUrl": "https://www.naitohouse.co.jp/business/download",
+                    "htmlFormattedUrl": "https://www.naitohouse.co.jp/business/download",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevcwIgoazb2GIbIqr3gSPFQj3_gIyK25rOwNWusS9qjRniWLzRjy6LYY",
+                                "width": "189",
+                                "height": "267"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "twitter:title": "商品資料ダウンロード｜株式会社内藤ハウス",
+                                "twitter:card": "summary",
+                                "viewport": "width=375",
+                                "author": "株式会社内藤ハウス",
+                                "twitter:description": "内藤ハウスの商品資料をダウンロードいただけます。",
+                                "og:title": "商品資料ダウンロード｜株式会社内藤ハウス",
+                                "og:url": "https://www.naitohouse.co.jp/business/download",
+                                "og:description": "内藤ハウスの商品資料をダウンロードいただけます。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://20442707.fs1.hubspotusercontent-na1.net/hubfs/20442707/download/img/niceviewer.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "そのほかのサービス資料 一覧1ページ目| 資料ダウンロード ...",
+                    "htmlTitle": "そのほかの<b>サービス</b>資料 一覧1ページ目| <b>資料ダウンロード</b> ...",
+                    "link": "https://usonar.co.jp/dl/otherservice/",
+                    "displayLink": "usonar.co.jp",
+                    "snippet": "独自構築した富裕層データベースと、ライフスタイル調査、イベントが連動するマーケティングクラブのご紹介です。商品・サービスの企画開発支援から、顧客データの ...",
+                    "htmlSnippet": "独自構築した富裕層データベースと、ライフスタイル調査、イベントが連動するマーケティングクラブのご紹介です。<b>商品</b>・<b>サービス</b>の企画開発支援から、顧客データの&nbsp;...",
+                    "cacheId": "XRq5XeslPGUJ",
+                    "formattedUrl": "https://usonar.co.jp/dl/otherservice/",
+                    "htmlFormattedUrl": "https://usonar.co.jp/dl/otherservice/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-nYnoTUEwJjkhBeKosHksSOjG0j4GGbEEoYHwcqMiViojCi4-PNGMc-o",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "/common/images/ogp202207.jpg",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "そのほかのサービス資料 一覧1ページ目| 資料ダウンロード | ユーソナー",
+                                "og:type": "article",
+                                "og:site_name": "【ユーソナー】データベースマーケティング、名寄せ・データクレンジング",
+                                "og:title": "そのほかのサービス資料 一覧1ページ目| 資料ダウンロード | ユーソナー",
+                                "og:description": "そのほかのサービス資料一覧 1ページ目です。データベースマーケティング戦略をお考えならユーソナー（uSonar）にお任せください。",
+                                "twitter:image": "/common/images/ogp202207.jpg",
+                                "twitter:site": "@Landscape_IR",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "twitter:description": "そのほかのサービス資料一覧 1ページ目です。データベースマーケティング戦略をお考えならユーソナー（uSonar）にお任せください。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://usonar.co.jp/dl/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://usonar.co.jp/dl/files/img-figure-nobles.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "トップ",
+                                "name": "トップ",
+                                "position": "1"
+                            },
+                            {
+                                "item": "資料ダウンロード",
+                                "name": "資料ダウンロード",
+                                "position": "2"
+                            },
+                            {
+                                "name": "そのほかのサービス資料一覧",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料一覧 | HMKロジサービス",
+                    "htmlTitle": "<b>資料</b>一覧 | HMKロジ<b>サービス</b>",
+                    "link": "https://www.hmklogi.com/document/",
+                    "displayLink": "www.hmklogi.com",
+                    "snippet": "物流サービスの選定にお役立てください。 ... 当社が作成したお役立ち資料をダウンロードいただけます。 サービス資料 ... 商品保管管理のサービスご紹介資料です。",
+                    "htmlSnippet": "物流<b>サービス</b>の選定にお役立てください。 ... 当社が作成したお役立ち<b>資料</b>を<b>ダウンロード</b>いただけます。 <b>サービス資料</b> ... <b>商品</b>保管管理の<b>サービス</b>ご紹介<b>資料</b>です。",
+                    "cacheId": "OFuqHzkPRbMJ",
+                    "formattedUrl": "https://www.hmklogi.com/document/",
+                    "htmlFormattedUrl": "https://www.hmklogi.com/document/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "資料一覧 | HMKロジサービス",
+                                "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+                                "og:site_name": "HMKロジサービス | オンリーワンの物流作り",
+                                "viewport": "width=device-width",
+                                "twitter:description": "HMKロジサービスのサービスを資料にてご提供しております。物流サービスの選定にお役立てください。",
+                                "og:title": "資料一覧 | HMKロジサービス",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.hmklogi.com/document/",
+                                "og:description": "HMKロジサービスのサービスを資料にてご提供しております。物流サービスの選定にお役立てください。",
+                                "format-detection": "telephone=no"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロードフォーム | KDDIエボルバ",
+                    "htmlTitle": "<b>資料ダウンロード</b>フォーム | KDDIエボルバ",
+                    "link": "https://info.k-evolva.com/public/application/add/193",
+                    "displayLink": "info.k-evolva.com",
+                    "snippet": "個別の商品・サービスにおける個人情報取得に当っては、当該案内資料またはWebページにその利用目的など詳細を掲載します。 （2）お客さまにご登録いただいた個人情報への ...",
+                    "htmlSnippet": "個別の<b>商品</b>・<b>サービス</b>における個人情報取得に当っては、当該案内<b>資料</b>またはWebページにその利用目的など詳細を掲載します。 （2）お客さまにご登録いただいた個人情報への&nbsp;...",
+                    "cacheId": "7vgOXdyepYgJ",
+                    "formattedUrl": "https://info.k-evolva.com/public/application/add/193",
+                    "htmlFormattedUrl": "https://info.k-evolva.com/public/application/add/193",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9MnztwAtRBUyJ2H0xgICNaix0LPgZoP5J7aomV1x9wOJ0iMpCt746og",
+                                "width": "417",
+                                "height": "121"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://info.k-evolva.com/static/upload/info.k-evolva.com/seminar/138/shared/img/TOP_image.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "環境ライフがご提案する各種商品・サービスのカタログダウンロード",
+                    "htmlTitle": "環境ライフがご提案する各種<b>商品</b>・<b>サービス</b>のカタログ<b>ダウンロード</b>",
+                    "link": "http://www.kankyo-life.co.jp/download.html",
+                    "displayLink": "www.kankyo-life.co.jp",
+                    "snippet": "資料のダウンロード · ヒロシ君が考えたシリーズ · 油くんバイバイ · これからのあかり 考える · EYE CATCHER アイキャッチャー.",
+                    "htmlSnippet": "<b>資料</b>の<b>ダウンロード</b> &middot; ヒロシ君が考えたシリーズ &middot; 油くんバイバイ &middot; これからのあかり 考える &middot; EYE CATCHER アイキャッチャー.",
+                    "cacheId": "J2uJ104jb6MJ",
+                    "formattedUrl": "www.kankyo-life.co.jp/download.html",
+                    "htmlFormattedUrl": "www.kankyo-life.co.jp/download.html"
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロードフォーム | KDDIエボルバ",
+                    "htmlTitle": "<b>資料ダウンロード</b>フォーム | KDDIエボルバ",
+                    "link": "https://info.k-evolva.com/public/application/add/202",
+                    "displayLink": "info.k-evolva.com",
+                    "snippet": "サービス・商品に関するご案内やアップセル・クロスセル、リマインドコールを実施。 ターゲット属性や購買ステータス等に応じたアプローチ手法の業務設計・構築～運用 ...",
+                    "htmlSnippet": "<b>サービス</b>・<b>商品</b>に関するご案内やアップセル・クロスセル、リマインドコールを実施。 ターゲット属性や購買ステータス等に応じたアプローチ手法の業務設計・構築～運用&nbsp;...",
+                    "cacheId": "ikUG51yP4RQJ",
+                    "formattedUrl": "https://info.k-evolva.com/public/application/add/202",
+                    "htmlFormattedUrl": "https://info.k-evolva.com/public/application/add/202",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRweA6swzIcc3LqZT1-1tYZsAxkK-RKulDxMB9sFYJy-gWEiuVcaoUf3g",
+                                "width": "418",
+                                "height": "120"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://info.k-evolva.com/static/upload/info.k-evolva.com/seminar/147/shared/img/TOP_image.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "ソウルドアウト Amazonスポンサー広告運用サービス【資料 ...",
+                    "htmlTitle": "ソウルドアウト Amazonスポンサー広告運用<b>サービス</b>【<b>資料</b> ...",
+                    "link": "https://www.commercepick.com/archives/11173",
+                    "displayLink": "www.commercepick.com",
+                    "snippet": "2021/11/22 ... ソウルドアウトは、「商品選定」「広告配信」「商品紹介」の3点から広告 ... ソウルドアウト Amazonスポンサー広告運用サービス【資料ダウンロード】.",
+                    "htmlSnippet": "2021/11/22 <b>...</b> ソウルドアウトは、「<b>商品</b>選定」「広告配信」「<b>商品</b>紹介」の3点から広告 ... ソウルドアウト Amazonスポンサー広告運用<b>サービス</b>【<b>資料ダウンロード</b>】.",
+                    "cacheId": "xW975mguFZkJ",
+                    "formattedUrl": "https://www.commercepick.com/archives/11173",
+                    "htmlFormattedUrl": "https://www.commercepick.com/archives/11173",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGLqCrDxR0xBWhfBezuBdwMuSfiB7u1pZOhIhA1QdljQBAWAutdqo2JwIM",
+                                "width": "375",
+                                "height": "134"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://www.commercepick.com/wp-content/uploads/2021/11/ソウルドアウト_Amazon広告-150x150.png"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.commercepick.com/wp-content/uploads/2021/11/ソウルドアウト_Amazon広告.png",
+                                "thumbnail": "https://www.commercepick.com/wp-content/uploads/2021/11/ソウルドアウト_Amazon広告-150x150.png",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "ソウルドアウト Amazonスポンサー広告運用サービス【資料ダウンロード】",
+                                "og:site_name": "コマースピック",
+                                "twitter:url": "https://www.commercepick.com/archives/11173",
+                                "og:title": "ソウルドアウト Amazonスポンサー広告運用サービス【資料ダウンロード】",
+                                "msapplication-tileimage": "https://www.commercepick.com/wp-content/uploads/2021/01/cropped-favicon-270x270.png",
+                                "og:description": "サービス概要 Amazonスポンサー広告の運用を支援するサービスです。ソウルドアウトは、「商品選定」「広告配信」「商品紹介」の３点から広告成果の最大化と在庫・販売状況を考慮した広告配信を行います。 ソ",
+                                "twitter:image": "https://www.commercepick.com/wp-content/uploads/2021/11/ソウルドアウト_Amazon広告.png",
+                                "dlm-version": "4.8.5",
+                                "facebook-domain-verification": "n7ext4yerfk5q3093b5ihzm1r86uuc",
+                                "fb:app_id": "850970412484488",
+                                "twitter:site": "commercepick",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "サービス概要 Amazonスポンサー広告の運用を支援するサービスです。ソウルドアウトは、「商品選定」「広告配信」「商品紹介」の３点から広告成果の最大化と在庫・販売状況を考慮した広告配信を行います。 ソ",
+                                "og:locale": "ja_JP",
+                                "fb:admins": "104771828321783",
+                                "og:url": "https://www.commercepick.com/archives/11173"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.commercepick.com/wp-content/uploads/2021/11/%E3%82%BD%E3%82%A6%E3%83%AB%E3%83%89%E3%82%A2%E3%82%A6%E3%83%88_Amazon%E5%BA%83%E5%91%8A.png"
+                            }
+                        ],
+                        "hatomfeed": [
+                            {}
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "item": "サービス資料",
+                                "name": "サービス資料",
+                                "position": "2"
+                            },
+                            {
+                                "name": "ソウルドアウト Amazonスポンサー広告運用サービス【資料ダウンロード】",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロード｜グループタスク リマインダーサービス｜日立 ...",
+                    "htmlTitle": "<b>資料ダウンロード</b>｜グループタスク リマインダー<b>サービス</b>｜日立 ...",
+                    "link": "https://www.hitachi-solutions.co.jp/grouptask-reminder/catalog/",
+                    "displayLink": "www.hitachi-solutions.co.jp",
+                    "snippet": "製品についてのリーフレットはこちらからダウンロードできます。リーフレットではグループタスク リマインダーサービスやプレミアムプランについて分かりやすくご紹介 ...",
+                    "htmlSnippet": "製品についてのリーフレットはこちらから<b>ダウンロード</b>できます。リーフレットではグループタスク リマインダー<b>サービス</b>やプレミアムプランについて分かりやすくご紹介&nbsp;...",
+                    "cacheId": "0fhtuWOqHugJ",
+                    "formattedUrl": "https://www.hitachi-solutions.co.jp/grouptask-reminder/catalog/",
+                    "htmlFormattedUrl": "https://www.hitachi-solutions.co.jp/grouptask-reminder/catalog/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRh8ymYIIUbuVduzilWU_0YsARCKy1C5pRkR3pEqhxMqgZkh44f_neEHjs",
+                                "width": "189",
+                                "height": "267"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "/-/media/Project/DefaultSite/Products/Default/products_OGP.ashx",
+                                "og:type": "website",
+                                "viewport": "width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0",
+                                "author": "Hitachi Solutions, Ltd.",
+                                "og:title": "資料ダウンロード｜グループタスク リマインダーサービス｜日立ソリューションズ",
+                                "og:url": "https://www.hitachi-solutions.co.jp/grouptask-reminder/catalog/",
+                                "og:description": "製品についてのリーフレットはこちらからダウンロードできます。リーフレットではグループタスク リマインダーサービスやプレミアムプランについて分かりやすくご紹介しています。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.hitachi-solutions.co.jp/grouptask-reminder/images/catalog/image_reminderservice.jpg"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 資料ダウンロード",
+                        "totalResults": "74000000",
+                        "searchTerms": "商品・サービス 資料ダウンロード",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 資料ダウンロード",
+                        "totalResults": "74000000",
+                        "searchTerms": "商品・サービス 資料ダウンロード",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 資料ダウンロード",
+                        "totalResults": "74000000",
+                        "searchTerms": "商品・サービス 資料ダウンロード",
+                        "count": 10,
+                        "startIndex": 31,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.185023,
+                "formattedSearchTime": "0.19",
+                "totalResults": "74000000",
+                "formattedTotalResults": "74,000,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "延長保守サービス ダウンロードフォーム | 三和コンピュータ株式会社",
+                    "htmlTitle": "延長保守<b>サービス ダウンロード</b>フォーム | 三和コンピュータ株式会社",
+                    "link": "https://www.sanwa-comp.co.jp/download/eosl_dl-form.html",
+                    "displayLink": "www.sanwa-comp.co.jp",
+                    "snippet": "三和コンピュータは、ICTワンストップサービスを提供し、お客様の新しい価値の創造に貢献します。",
+                    "htmlSnippet": "三和コンピュータは、ICTワンストップサービスを提供し、お客様の新しい価値の創造に貢献します。",
+                    "cacheId": "PSgzu9FZvMUJ",
+                    "formattedUrl": "https://www.sanwa-comp.co.jp/download/eosl_dl-form.html",
+                    "htmlFormattedUrl": "https://www.sanwa-comp.co.jp/download/eosl_dl-form.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgk6jIhB2fhG7pMmO0820Q65JVriScwJJ7JwPOVrsBBaaArvXQzv0VbbM",
+                                "width": "187",
+                                "height": "270"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.sanwa-comp.co.jp/dcms_media/image/EOSL.gif?wmode=opaque"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "HOME",
+                                "name": "HOME",
+                                "position": "1"
+                            },
+                            {
+                                "item": "ダウンロードページ",
+                                "name": "ダウンロードページ",
+                                "position": "2"
+                            },
+                            {
+                                "name": "延長保守サービス ダウンロードフォーム",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "企業・団体向け 資料ダウンロード 体感型ギフトカタログ『JTB ...",
+                    "htmlTitle": "企業・団体向け <b>資料ダウンロード</b> 体感型ギフトカタログ『JTB ...",
+                    "link": "https://www.jtbbwt.com/business/documents/solution/detail/id=1294",
+                    "displayLink": "www.jtbbwt.com",
+                    "snippet": "並びにお客様への回答、弊社の新商品・サービス等の案内のために必要な範囲でのみ使用させていただきます。 詳しくは、株式会社JTB「個人情報の取り扱いについて 」を ...",
+                    "htmlSnippet": "並びにお客様への回答、弊社の新<b>商品</b>・<b>サービス</b>等の案内のために必要な範囲でのみ使用させていただきます。 詳しくは、株式会社JTB「個人情報の取り扱いについて 」を&nbsp;...",
+                    "cacheId": "ayAc729BA10J",
+                    "formattedUrl": "https://www.jtbbwt.com/business/documents/solution/detail/id=1294",
+                    "htmlFormattedUrl": "https://www.jtbbwt.com/business/documents/solution/detail/id=1294",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxe6BRio4KxvHFWCA-zVRoJbvPiscHMlc-BJpMUWUzM8lFQL0Yt1GP-_3s",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.jtbbwt.com/files/user/assets/images/business/og_image_business.png",
+                                "twitter:title": "体感型ギフトカタログ『JTBギフトトラベル』（商品の一例） | サービス資料 | 資料ダウンロード | 企業・団体向け | JTB 法人サービス",
+                                "og:type": "article",
+                                "twitter:card": "summary",
+                                "og:site_name": "JTB法人サービス",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "体感型ギフトカタログ『JTBギフトトラベル』（商品の一例） | サービス資料 | 資料ダウンロード | 企業・団体向け | JTB 法人サービス",
+                                "og:url": "https://www.jtbbwt.com/business/documents/solution/detail/id=1294",
+                                "twitter:image": "https://www.jtbbwt.com/files/user/assets/images/business/og_image_business.png",
+                                "facebook-domain-verification": "8eyt7lff3eqxexdvbefuphv8syksm2"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.jtbbwt.com/files/user/assets/images/business/og_image_business.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "企業・団体向け",
+                                "name": "企業・団体向け",
+                                "position": "2"
+                            },
+                            {
+                                "item": "資料ダウンロード（サービス資料）",
+                                "name": "資料ダウンロード（サービス資料）",
+                                "position": "3"
+                            },
+                            {
+                                "name": "体感型ギフトカタログ『JTBギフトトラベル』（商品の一例）",
+                                "position": "4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "カタログ・資料ダウンロード（一覧） - イデックスビジネスサービス",
+                    "htmlTitle": "カタログ・<b>資料ダウンロード</b>（一覧） - イデックスビジネス<b>サービス</b>",
+                    "link": "https://workplace.idex-f.co.jp/download/",
+                    "displayLink": "workplace.idex-f.co.jp",
+                    "snippet": "弊社で提供している各種商品・サービスをカタログをダウンロード頂けます。 目的に合わせてお気軽にご利用下さい。 カタログ・資料一覧.",
+                    "htmlSnippet": "弊社で提供している各種<b>商品</b>・<b>サービス</b>をカタログを<b>ダウンロード</b>頂けます。 目的に合わせてお気軽にご利用下さい。 カタログ・<b>資料</b>一覧.",
+                    "cacheId": "V1usdagVIrQJ",
+                    "formattedUrl": "https://workplace.idex-f.co.jp/download/",
+                    "htmlFormattedUrl": "https://workplace.idex-f.co.jp/download/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzv3fKG5Mr1_l9rp_pd4vIRx-J5IvqjN4Vt50zWfhw7t4Q4XP-Bicrp1Y",
+                                "width": "300",
+                                "height": "168"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1",
+                                "format-detection": "telephone=no",
+                                "facebook-domain-verification": "1yj61r5zd5jpy7h9b3z7nyjeyn8bhx"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://workplace.idex-f.co.jp/wp-content/uploads/2023/04/38e762b5a02aa850497d297f64e63497.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "売上向上～成果を上げるBtoBマーケティング支援サービス：資料 ...",
+                    "htmlTitle": "売上向上～成果を上げるBtoBマーケティング支援<b>サービス</b>：<b>資料</b> ...",
+                    "link": "https://www.nttcoms.com/service/b2b_marketing/download/download06/",
+                    "displayLink": "www.nttcoms.com",
+                    "snippet": "NTTコム オンラインのBtoBマーケティング支援サービスの特長や詳細についてのご紹介資料です。 ... 資料ダウンロード. BtoBマーケティングソリューション · 資料 ...",
+                    "htmlSnippet": "NTTコム オンラインのBtoBマーケティング支援<b>サービス</b>の特長や詳細についてのご紹介資料です。 ... <b>資料ダウンロード</b>. BtoBマーケティングソリューション &middot; 資料&nbsp;...",
+                    "cacheId": "REaCxmH63RkJ",
+                    "formattedUrl": "https://www.nttcoms.com/service/b2b_marketing/download/download06/",
+                    "htmlFormattedUrl": "https://www.nttcoms.com/service/b2b_marketing/download/download06/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTBgIAfQ8mjUsbCST5HUT2X4zqlMRjrxN4_kpnpUNYZI82-uV0VZLD0UviH",
+                                "width": "259",
+                                "height": "194"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.nttcoms.com/service/b2b_marketing/download/images/img_dl06.jpg",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "売上向上～成果を上げるBtoBマーケティング支援サービス：資料ダウンロード - BtoBマーケティングソリューション",
+                                "twitter:url": "https://www.nttcoms.com/service/b2b_marketing/download/download06/",
+                                "og:title": "売上向上～成果を上げるBtoBマーケティング支援サービス：資料ダウンロード - BtoBマーケティングソリューション",
+                                "og:description": "NTTコム オンラインのBtoBマーケティング支援サービスの特長や詳細についてのご紹介資料です。",
+                                "twitter:image": "https://www.nttcoms.com/service/b2b_marketing/download/images/img_dl06.jpg",
+                                "fb:app_id": "620874381261668",
+                                "twitter:site": "@nttcom_onlinePR",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "NTTコム オンラインのBtoBマーケティング支援サービスの特長や詳細についてのご紹介資料です。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.nttcoms.com/service/b2b_marketing/download/download06/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.nttcoms.com/service/b2b_marketing/download/images/img_dl06.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "お問い合わせ・資料ダウンロード｜SKYPCE（スカイピース）で ...",
+                    "htmlTitle": "お問い合わせ・<b>資料ダウンロード</b>｜SKYPCE（スカイピース）で ...",
+                    "link": "https://www.skypce.net/inquiry/",
+                    "displayLink": "www.skypce.net",
+                    "snippet": "お問い合わせ、ご相談への対応 ・カタログ、資料、粗品の発送 ・お客様との商談、弊社の営業活動 ・メールの配信 ・商品、サービス、情報誌、セミナー・展示会など ...",
+                    "htmlSnippet": "お問い合わせ、ご相談への対応 ・カタログ、<b>資料</b>、粗品の発送 ・お客様との商談、弊社の営業活動 ・メールの配信 ・<b>商品</b>、<b>サービス</b>、情報誌、セミナー・展示会など&nbsp;...",
+                    "cacheId": "AaYHr-Xt2G8J",
+                    "formattedUrl": "https://www.skypce.net/inquiry/",
+                    "htmlFormattedUrl": "https://www.skypce.net/inquiry/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1tlZVBnascb7J90b2ZpGnqskDx3SMVJTtuxjuYuQR3yxoOMUVrF2ZsHIW",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.skypce.net/common/img/ogp_img.jpg",
+                                "og:type": "article",
+                                "og:image:width": "1200",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "SKYPCE",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "お問い合わせ・資料ダウンロードSKYPCEで名刺管理｜Ｓｋｙが考える名刺の未来 業務で得た名刺情報は会社の重要資産です",
+                                "og:locale": "ja_JP",
+                                "og:image:height": "630",
+                                "og:url": "https://www.skypce.net/inquiry/",
+                                "og:description": "SKYPCEのお問い合わせ・資料ダウンロード",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.skypce.net/common/img/ogp_img.jpg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "name": "営業支援 名刺管理サービス「SKYPCE」トップ",
+                                "position": "1",
+                                "url": "営業支援 名刺管理サービス「SKYPCE」トップ"
+                            },
+                            {
+                                "name": "お問い合わせ・資料ダウンロード",
+                                "position": "1"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "サービス資料vsホワイトペーパー。売上につながるのはどちらか ...",
+                    "htmlTitle": "<b>サービス資料</b>vsホワイトペーパー。売上につながるのはどちらか ...",
+                    "link": "https://wacul.co.jp/lab/posts/b2b-cv-point-bestpractice",
+                    "displayLink": "wacul.co.jp",
+                    "snippet": "2020/09/13 ... サービス資料請求・ホワイトペーパーダウンロードは実際どれほどの成果に ... 資料請求した方に対し、「商品サービスに対するお客様の興味が顕在化し ...",
+                    "htmlSnippet": "2020/09/13 <b>...</b> サービス<b>資料</b>請求・ホワイトペーパー<b>ダウンロード</b>は実際どれほどの成果に ... <b>資料</b>請求した方に対し、「<b>商品サービス</b>に対するお客様の興味が顕在化し&nbsp;...",
+                    "cacheId": "nOIYwoX3X9EJ",
+                    "formattedUrl": "https://wacul.co.jp/lab/posts/b2b-cv-point-bestpractice",
+                    "htmlFormattedUrl": "https://wacul.co.jp/lab/posts/b2b-cv-point-bestpractice",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ6glYKfU_F-OQ0x9PmQomr8kuiZmBv7dx_oF2WfztEuJT-MPFsJfi9Ng",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://storage.googleapis.com/studio-cms-assets/projects/NxqglEkra1/s-2400x1260_v-frms_webp_952aba90-aff3-424b-86a3-d6451ae8701b.png",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "株式会社WACUL",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "サービス資料vsホワイトペーパー。売上につながるのはどちらか？B2BサイトにおけるCVポイントのベストプラクティス研究  ｜WACUL TECHNOLOGY & MARKETING LAB | 株式会社WACUL",
+                                "apple-mobile-web-app-title": "サービス資料vsホワイトペーパー。売上につながるのはどちらか？B2BサイトにおけるCVポイントのベストプラクティス研究  ｜WACUL TECHNOLOGY & MARKETING LAB | 株式会社WACUL",
+                                "og:url": "https://wacul.co.jp/lab/posts/b2b-cv-point-bestpractice",
+                                "og:description": "今回は、資料請求やホワイトペーパーダウンロードを通じて獲得したリードがどれほど成果につながっているのか、成果につながっている企業はどのような営業アプローチをおこなっているのかを明らかにすべく、アンケート調査を実施。B2B企業が資料請求やホワイトペーパーダウンロードから成果を出すために必要なアクションを提言する。 ",
+                                "twitter:image": "https://storage.googleapis.com/studio-cms-assets/projects/NxqglEkra1/s-2400x1260_v-frms_webp_952aba90-aff3-424b-86a3-d6451ae8701b.png"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://storage.googleapis.com/studio-cms-assets/projects/NxqglEkra1/s-2400x1260_v-frms_webp_952aba90-aff3-424b-86a3-d6451ae8701b.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロード（申込書類、申請案内） | 認定取得の申請方法 ...",
+                    "htmlTitle": "<b>資料ダウンロード</b>（申込書類、申請案内） | 認定取得の申請方法 ...",
+                    "link": "https://www.ecomark.jp/acquire/download/",
+                    "displayLink": "www.ecomark.jp",
+                    "snippet": "※認定審査料は商品類型によって考え方が異なります。また、サービス類型では専用の様式を用意しています。詳しくはエコマーク認定サービスのサイトをご参照ください。 付属 ...",
+                    "htmlSnippet": "※認定審査料は<b>商品</b>類型によって考え方が異なります。また、<b>サービス</b>類型では専用の様式を用意しています。詳しくはエコマーク認定<b>サービス</b>のサイトをご参照ください。 付属&nbsp;...",
+                    "cacheId": "-V-ZA4J0-0oJ",
+                    "formattedUrl": "https://www.ecomark.jp/acquire/download/",
+                    "htmlFormattedUrl": "https://www.ecomark.jp/acquire/download/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "copyright": "© Eco Mark Office. All Rights Reserved.",
+                                "viewport": "width=device-width , initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "RICOH イベントフォトサービス サービス資料｜資料ダウンロード ...",
+                    "htmlTitle": "RICOH イベントフォト<b>サービス サービス</b>資料｜<b>資料ダウンロード</b> ...",
+                    "link": "https://rdc.ricoh.co.jp/contact_eventphoto/",
+                    "displayLink": "rdc.ricoh.co.jp",
+                    "snippet": "弊社商品・サービスの情報提供やご提案等に使用させていただきます。 ※当社サイトはreCAPTCHAによって保護されており、Googleのプライバシーポリシーと利用規約が適用され ...",
+                    "htmlSnippet": "弊社<b>商品</b>・<b>サービス</b>の情報提供やご提案等に使用させていただきます。 ※当社サイトはreCAPTCHAによって保護されており、Googleのプライバシーポリシーと利用規約が適用され&nbsp;...",
+                    "cacheId": "AsmAsVEQ-9kJ",
+                    "formattedUrl": "https://rdc.ricoh.co.jp/contact_eventphoto/",
+                    "htmlFormattedUrl": "https://rdc.ricoh.co.jp/contact_eventphoto/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_f_Xvsj4DVG1PXBq-qvL8F1jK02Piqeh-hCnyUiTLEcVii1XPlxiLc9o",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "msapplication-tilecolor": "#000000",
+                                "og:image": "https://rdc.ricoh.co.jp/cms_dir/wp-content/themes/rdc/assets/img/common/ogp.png",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "theme-color": "#000000",
+                                "og:site_name": "RICOH Digital Contents",
+                                "og:title": "RICOH イベントフォトサービス サービス資料｜資料ダウンロード｜RICOH Digital Contents",
+                                "msapplication-tileimage": "/cms_dir/wp-content/themes/rdc/assets/img/favicon/ms-icon-144x144.png",
+                                "og:description": "RICOHのイベントフォトサービスとは、\"フォト\"から始まる参加型のデジタルコンテンツです。その場で印刷して記念品として持ち帰ったり、みんなで参加型のイベントシンボルを作成したり、イベントを「フォト」で盛り上げるコンテンツとしてお使いいただけます。",
+                                "twitter:creator": "@ricoh",
+                                "twitter:site": "@ricoh",
+                                "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0",
+                                "og:url": "/contact_eventphoto/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://rdc.ricoh.co.jp/cms_dir/wp-content/themes/rdc/assets/img/common/ogp.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "カタログダウンロードページ | 商品·サービス | テクノ矢崎株式会社",
+                    "htmlTitle": "カタログ<b>ダウンロード</b>ページ | <b>商品</b>·<b>サービス</b> | テクノ矢崎株式会社",
+                    "link": "https://www.t-yzk.jp/product/catalog/",
+                    "displayLink": "www.t-yzk.jp",
+                    "snippet": "上記カタログの郵送は「資料請求フォーム」より承っております。 資料請求フォーム. 空調システム. 吸収冷温水機（小型）／スーパーアロエースKシリーズ(4.76MB).",
+                    "htmlSnippet": "上記カタログの郵送は「<b>資料</b>請求フォーム」より承っております。 <b>資料</b>請求フォーム. 空調システム. 吸収冷温水機（小型）／スーパーアロエースKシリーズ(4.76MB).",
+                    "cacheId": "lGHFvaqdomgJ",
+                    "formattedUrl": "https://www.t-yzk.jp/product/catalog/",
+                    "htmlFormattedUrl": "https://www.t-yzk.jp/product/catalog/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMgNYr7MEZzcpw4qqHFgR0VjB9Y2UZkooKGMPLB62GDNHkiRu2bhd7IDMS",
+                                "width": "189",
+                                "height": "267"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.t-yzk.jp/img/product/catalog/img_pdf_01.png?v=221018"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "ビジネスユースのお客様： － リンナイ",
+                    "htmlTitle": "ビジネスユースのお客様： － リンナイ",
+                    "link": "https://rinnai.jp/business_user/",
+                    "displayLink": "rinnai.jp",
+                    "snippet": "リンナイ株式会社の商品の取扱説明書、設置工事説明書、外観図のダウンロード、販売促進用データを ... 東京ガスグループご販売店様向け製品資料集・専用カタログ.",
+                    "htmlSnippet": "リンナイ株式会社の<b>商品</b>の取扱説明書、設置工事説明書、外観図の<b>ダウンロード</b>、販売促進用データを ... 東京ガスグループご販売店様向け製品<b>資料</b>集・専用カタログ.",
+                    "cacheId": "Re--w5dN7NoJ",
+                    "formattedUrl": "https://rinnai.jp/business_user/",
+                    "htmlFormattedUrl": "https://rinnai.jp/business_user/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgiF7ofenKwSY4adJf1p60CKNZGs4um6GzxZePcHZmB9hw8RqHjpuH_2Q",
+                                "width": "265",
+                                "height": "190"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, minimum-scale=1.0, maximum-scale=2.0, user-scalable=0",
+                                "smp-info": "user=rin_nai,host=shutto.com",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://rinnai.jp/business_user/img/thumb/cs_biz_bnr.png"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

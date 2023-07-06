@@ -1,0 +1,1788 @@
+{
+    "query": "業界 シフト自動最適化",
+    "links": [
+        [
+            "https://www.optamo.jp/",
+            "https://connect.panasonic.com/jp-ja/solutions/logistics",
+            "https://advertising.amazon.com/ja-jp/resources/whats-new/omnichannel-metrics-automated-budget-optimization",
+            "https://pig-data.jp/service/optamo/",
+            "https://connect.panasonic.com/jp-ja/gemba-optimization-solution",
+            "https://optimal-ch.com/business-tool_ai-shift-2/",
+            "https://tech.bm-sms.co.jp/entry/2023/03/28/120000",
+            "https://www.otasukeman.jp/column/shift-management-tool",
+            "https://www.brainpad.co.jp/news/2018/01/17/6912",
+            "https://www.nihon-e.co.jp/service/business/shifttool.html"
+        ],
+        [
+            "https://www.msi.co.jp/solution/nuopt/download/introduction/module/DWH2013_shift.pdf",
+            "https://www.aspicjapan.org/asu/article/9369",
+            "https://prtimes.jp/main/html/rd/p/000000007.000031030.html",
+            "https://www.intra-mart.jp/im-press/useful/logistics_dx",
+            "https://www.jwa.or.jp/news/2022/01/15705/",
+            "https://www.docswell.com/s/fixstars/KLLGR4-20220629",
+            "https://care-infocom.jp/article/12425/",
+            "https://lp.hrbest.jp/",
+            "https://dcross.impress.co.jp/docs/usecase/002835.html",
+            "https://www.nico.or.jp/shien/63330/"
+        ],
+        [
+            "https://www.arithmer.co.jp/logistics-ai",
+            "https://www.omnetwork.co.jp/",
+            "https://a-idea.ai/logistics/",
+            "https://jp.reuters.com/article/carlyle-idJPKBN2SC01Z",
+            "https://www.msiism.jp/article/solution-scheduling.html",
+            "https://hrnote.jp/contents/a-contents-roumu-shihutokouri-20180908/",
+            "https://robotstart.info/2021/09/30/groovenauts-ai-quantum-computer.html",
+            "https://tenpodx.com/dxnews_20220124_001/",
+            "https://saas.imitsu.jp/cate-shift-management/serviceList",
+            "https://www.kcs.ne.jp/bizservice/solution/optamo"
+        ]
+    ],
+    "snapshot_ymd": "D2023-06-23",
+    "snapshot_timestamp": "D2023-06-23T01-27-41",
+    "responses": [
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "request": [
+                    {
+                        "title": "Google Custom Search - 業界 シフト自動最適化",
+                        "totalResults": "6260000",
+                        "searchTerms": "業界 シフト自動最適化",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 業界 シフト自動最適化",
+                        "totalResults": "6260000",
+                        "searchTerms": "業界 シフト自動最適化",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.374163,
+                "formattedSearchTime": "0.37",
+                "totalResults": "6260000",
+                "formattedTotalResults": "6,260,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "Optamo（オプタモ）｜ AIでシフト作成を効率化 勤務シフト最適化 ...",
+                    "htmlTitle": "Optamo（オプタモ）｜ AIで<b>シフト</b>作成を効率化 勤務<b>シフト最適化</b> ...",
+                    "link": "https://www.optamo.jp/",
+                    "displayLink": "www.optamo.jp",
+                    "snippet": "勤務シフト、タスク表をAIで自動作成するクラウドサービスです。 モーション独自の最適化技術 Motion Optimization Technology; 特許. シフト管理者: シフト作成にかかる ...",
+                    "htmlSnippet": "勤務<b>シフト</b>、タスク表をAIで<b>自動</b>作成するクラウドサービスです。 モーション独自の<b>最適化</b>技術 Motion Optimization Technology; 特許. <b>シフト</b>管理者: <b>シフト</b>作成にかかる&nbsp;...",
+                    "cacheId": "rtvIbvisVyMJ",
+                    "formattedUrl": "https://www.optamo.jp/",
+                    "htmlFormattedUrl": "https://www.optamo.jp/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQUMAlSPJ-ElCyetFp4Wed5KpxU8nXvUTDKjt0Piyi5VR2A4CFJwwSLKw",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.optamo.jp/images/optamo_ogp.jpg",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "Optamo（オプタモ）｜ AIでシフト作成を効率化　勤務シフト最適化クラウドサービス",
+                                "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+                                "twitter:url": "https://www.optamo.jp/",
+                                "twitter:description": "工場、物流、コールセンター、飲食・小売など、さまざまな業種のシフト管理に関わる負担を大幅に軽減し、DX化を支援します。",
+                                "og:title": "Optamo（オプタモ）｜ AIでシフト作成を効率化　勤務シフト最適化クラウドサービス",
+                                "og:url": "https://www.optamo.jp/",
+                                "og:description": "工場、物流、コールセンター、飲食・小売など、さまざまな業種のシフト管理に関わる負担を大幅に軽減し、DX化を支援します。",
+                                "twitter:image": "https://www.optamo.jp/images/optamo_ogp.jpg",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.optamo.jp/images/optamo_ogp.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "物流 - 業種・課題 - パナソニック コネクト",
+                    "htmlTitle": "物流 - 業種・課題 - パナソニック コネクト",
+                    "link": "https://connect.panasonic.com/jp-ja/solutions/logistics",
+                    "displayLink": "connect.panasonic.com",
+                    "snippet": "ECの普及にともない、取り扱う荷物量が急増する物流業界。労働者の高齢化、 ... 最適なシフト計画を自動割付け、庫内全体のオペレーション業務効率化を実現します。",
+                    "htmlSnippet": "ECの普及にともない、取り扱う荷物量が急増する物流<b>業界</b>。労働者の高齢化、 ... <b>最適</b>な<b>シフト</b>計画を<b>自動</b>割付け、庫内全体のオペレーション業務効率化を実現します。",
+                    "cacheId": "g10nEHBkqKgJ",
+                    "formattedUrl": "https://connect.panasonic.com/jp-ja/solutions/logistics",
+                    "htmlFormattedUrl": "https://connect.panasonic.com/jp-ja/solutions/logistics",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNz03Sbs1g2LQN8nz0ab3zeojRngRhPQeA1P61i2zMenJbfsTb0X0MHg4K",
+                                "width": "348",
+                                "height": "145"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://content.connect.panasonic.com/jp-ja/fai/37559/raw",
+                                "og:type": "article",
+                                "twitter:card": "summary",
+                                "twitter:title": "物流 - 業種・課題 - パナソニック コネクト",
+                                "og:site_name": "パナソニック コネクト",
+                                "twitter:site": "@Panasonic_CO_JP",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:url": "https://connect.panasonic.com/jp-ja/solutions/logistics",
+                                "og:title": "物流 - 業種・課題 - パナソニック コネクト",
+                                "og:url": "https://biz.panasonic.com/jp-ja/solutions/losgistics",
+                                "og:description": "パナソニックのSCMマネージメント（物流） - サプライチェーンをつなぐ「物流」の業務を可視化し、業務プロセスを分析・現場効率化ソリューションををご提案します。",
+                                "twitter:image": "https://content.connect.panasonic.com/jp-ja/fai/37559/raw"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://content.connect.panasonic.com/jp-ja/fai/37559/raw"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "オムニチャネル指標と予算の自動最適化機能を統合する | Amazon Ads",
+                    "htmlTitle": "オムニチャネル指標と予算の<b>自動最適化</b>機能を統合する | Amazon Ads",
+                    "link": "https://advertising.amazon.com/ja-jp/resources/whats-new/omnichannel-metrics-automated-budget-optimization",
+                    "displayLink": "advertising.amazon.com",
+                    "snippet": "2023/02/10 ... 予算の最適化にオプトインした広告主様は、オムニチャネルのパフォーマンスに基づいて予算を自動的にラインアイテム間でシフトすることができるため、 ...",
+                    "htmlSnippet": "2023/02/10 <b>...</b> 予算の<b>最適化</b>にオプトインした広告主様は、オムニチャネルのパフォーマンスに基づいて予算を<b>自動</b>的にラインアイテム間で<b>シフト</b>することができるため、&nbsp;...",
+                    "cacheId": "ypg8q-zE3lMJ",
+                    "formattedUrl": "https://advertising.amazon.com/.../omnichannel-metrics-automated-budget- optimization",
+                    "htmlFormattedUrl": "https://advertising.amazon.com/.../omnichannel-metrics-automated-budget- optimization",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSCuPscTOp76fJbsPXXysd8cFKLD3pN77Xr47JRiQH51adz4olSbrHcf8",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://m.media-amazon.com/images/G/01/AdProductsWebsite/images/logos/OG_image_Squid_Ink.png",
+                                "subpagetype": "Whats new",
+                                "relatedproducts": "Amazon DSP",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "Amazon DSPのオムニチャネル指標が予算の自動最適化機能と統合する（ベータ版）",
+                                "og:site_name": "Amazon Ads",
+                                "twitter:url": "https://advertising.amazon.com/resources/whats-new/omnichannel-metrics-automated-budget-optimization",
+                                "og:title": "Amazon DSPのオムニチャネル指標が予算の自動最適化機能と統合する（ベータ版）",
+                                "relatedmarketplaces": "United States",
+                                "yandex-verification": "18c0a3b64524d6c0",
+                                "og:description": "オムニチャネル指標のコンバージョンによる予算の自動最適化をオプトインしましょう（ベータ版）。",
+                                "twitter:image": "https://m.media-amazon.com/images/G/01/AdProductsWebsite/images/logos/OG_image_Squid_Ink.png",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "オムニチャネル指標のコンバージョンによる予算の自動最適化をオプトインしましょう（ベータ版）。",
+                                "publishdate": "2023年2月10日",
+                                "og:url": "https://advertising.amazon.com/resources/whats-new/omnichannel-metrics-automated-budget-optimization"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://m.media-amazon.com/images/G/01/AdProductsWebsite/images/logos/OG_image_Squid_Ink.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "シフト自動最適化AIソリューション「Optamo for Shift」 – PigData ...",
+                    "htmlTitle": "<b>シフト自動最適化</b>AIソリューション「Optamo for Shift」 – PigData ...",
+                    "link": "https://pig-data.jp/service/optamo/",
+                    "displayLink": "pig-data.jp",
+                    "snippet": "各業界、企業、部署ごとに最適なシフトを作成することができます。 他店舗での最適化、ヘルプ人員のオススメまで自動化. 多店舗からのヘルプ可能 ...",
+                    "htmlSnippet": "各<b>業界</b>、企業、部署ごとに最適な<b>シフト</b>を作成することができます。 他店舗での<b>最適化</b>、ヘルプ人員のオススメまで自動化. 多店舗からのヘルプ可能&nbsp;...",
+                    "cacheId": "1B1HgfzmhHkJ",
+                    "formattedUrl": "https://pig-data.jp/service/optamo/",
+                    "htmlFormattedUrl": "https://pig-data.jp/service/optamo/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTI1qsSz7BWtFu0HP4vM5Dub13vULpLPbkb8HtQbQWHOEl2sfgudmqqkRil",
+                                "width": "262",
+                                "height": "193"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:type": "article",
+                                "article:published_time": "2022-04-12T07:15:13+00:00",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "シフト自動最適化AIソリューション「Optamo for Shift」 – PigData | ビッグデータ収集・分析・活用ソリューション",
+                                "og:site_name": "PigData | ビッグデータ収集・分析・活用ソリューション – PigDataは、お客様のデータ活用に対する課題を丁寧にヒアリングし、 最適なデータ活用ソリューションをご提供します。",
+                                "og:title": "シフト自動最適化AIソリューション「Optamo for Shift」 – PigData | ビッグデータ収集・分析・活用ソリューション",
+                                "msapplication-tileimage": "https://pig-data.jp/wp-content/uploads/cropped-favicon-1-270x270.png",
+                                "og:description": "シフト自動最適化AIソリューション「Optamo for Shift」 PigData > サービス一覧",
+                                "article:modified_time": "2022-11-10T06:28:34+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "シフト自動最適化AIソリューション「Optamo for Shift」 PigData > サービス一覧",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://pig-data.jp/service/optamo/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://pig-data.jp/wp-content/uploads/36-2.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "現場最適化ソリューション - パナソニック コネクト",
+                    "htmlTitle": "現場<b>最適化</b>ソリューション - パナソニック コネクト",
+                    "link": "https://connect.panasonic.com/jp-ja/gemba-optimization-solution",
+                    "displayLink": "connect.panasonic.com",
+                    "snippet": "パナソニックの現場最適化ソリューションは、画像認識・センシング技術と ... な作業計画と人の勤務条件・保有スキルを考慮した、平準化されたシフト計画を自動作成.",
+                    "htmlSnippet": "パナソニックの現場<b>最適化</b>ソリューションは、画像認識・センシング技術と ... な作業計画と人の勤務条件・保有スキルを考慮した、平準化された<b>シフト</b>計画を<b>自動</b>作成.",
+                    "cacheId": "Er5wqyWAIl4J",
+                    "formattedUrl": "https://connect.panasonic.com/jp-ja/gemba-optimization-solution",
+                    "htmlFormattedUrl": "https://connect.panasonic.com/jp-ja/gemba-optimization-solution",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR13dhRygTZ5Ol5_QCk3Pp19NyKmXESDr6jgPecO0A3KliF92Niqy__vbeq",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://content.connect.panasonic.com/jp-ja/fai/30214/raw",
+                                "og:type": "article",
+                                "twitter:card": "summary",
+                                "twitter:title": "現場最適化ソリューション - パナソニック コネクト",
+                                "og:site_name": "パナソニック コネクト",
+                                "twitter:site": "@Panasonic_CO_JP",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:url": "https://connect.panasonic.com/jp-ja/gemba-optimization-solution",
+                                "og:title": "現場最適化ソリューション - パナソニック コネクト",
+                                "og:url": "https://connect.panasonic.com/jp-ja/gemba-optimization-solution",
+                                "og:description": "パナソニックの現場最適化ソリューションは、画像認識・センシング技術とソフトウェアによるDXで現場を可視化し、インダストリアルエンジニアリングによる現場の業務プロセス改革でサプライチェーンマネジメントの課題を解決し、お客様の経営に貢献します。",
+                                "twitter:image": "https://content.connect.panasonic.com/jp-ja/fai/30214/raw"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://content.connect.panasonic.com/jp-ja/fai/30214/raw"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【2023年最新版】介護業界でも使える自動シフト作成システム ...",
+                    "htmlTitle": "【2023年最新版】介護<b>業界</b>でも使える<b>自動シフト</b>作成システム ...",
+                    "link": "https://optimal-ch.com/business-tool_ai-shift-2/",
+                    "displayLink": "optimal-ch.com",
+                    "snippet": "2023/04/08 ... 統計解析を専門分野とする独自技術により、組み合わせ最適化アルゴリズムを応用し、勤務シフト表とタスク表を自動作成することができるサービスです。",
+                    "htmlSnippet": "2023/04/08 <b>...</b> 統計解析を専門分野とする独自技術により、組み合わせ<b>最適化</b>アルゴリズムを応用し、勤務<b>シフト</b>表とタスク表を<b>自動</b>作成することができるサービスです。",
+                    "cacheId": "M3icVZGIyCgJ",
+                    "formattedUrl": "https://optimal-ch.com/business-tool_ai-shift-2/",
+                    "htmlFormattedUrl": "https://optimal-ch.com/business-tool_ai-shift-2/",
+                    "pagemap": {
+                        "wpfooter": [
+                            {
+                                "url": "https://optimal-ch.com/"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZ8oas7D9SgBjlzX3vWywsCYvTLafDaskvkGAyYoQdBnnVe3suTd_yWo3x",
+                                "width": "259",
+                                "height": "194"
+                            }
+                        ],
+                        "website": [
+                            {
+                                "alternativeheadline": "ビジネスや日常を効率化。ITシステム・DX関連情報・パソコン活用のアイデアを発信するブログです。",
+                                "url": "https://optimal-ch.com/"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://optimal-ch.com/wp-content/uploads/2023/04/【2023年最新版】介護業界でも使える自動シフト作成システムおすすめ3選.png"
+                            }
+                        ],
+                        "imageobject": [
+                            {
+                                "width": "1920",
+                                "url": "https://optimal-ch.com/wp-content/uploads/2023/04/【2023年最新版】介護業界でも使える自動シフト作成システムおすすめ3選.png",
+                                "height": "1280"
+                            },
+                            {
+                                "width": "600",
+                                "url": "http://optimal-ch.com/wp-content/themes/cocoon-master/images/no-amp-logo.png",
+                                "height": "60"
+                            }
+                        ],
+                        "person": [
+                            {
+                                "name": "optimal-ch",
+                                "url": "https://optimal-ch.com/author/admin/"
+                            }
+                        ],
+                        "organization": [
+                            {
+                                "name": "オプティマルちゃんねる"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://optimal-ch.com/wp-content/uploads/2023/04/【2023年最新版】介護業界でも使える自動シフト作成システムおすすめ3選.png",
+                                "og:type": "article",
+                                "article:published_time": "2023-04-06T12:24:44+00:00",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "【2023年最新版】介護業界でも使える自動シフト作成システムおすすめ3選 - オプティマルちゃんねる",
+                                "article:section": "ITツール",
+                                "thumbnail": "https://optimal-ch.com/wp-content/uploads/2023/04/【2023年最新版】介護業界でも使える自動シフト作成システムおすすめ3選.png",
+                                "og:site_name": "オプティマルちゃんねる - ビジネスや日常を効率化。ITシステム・DX関連情報・パソコン活用のアイデアを発信するブログです。",
+                                "twitter:domain": "optimal-ch.com",
+                                "twitter:url": "https://optimal-ch.com/business-tool_ai-shift-2/",
+                                "og:title": "【2023年最新版】介護業界でも使える自動シフト作成システムおすすめ3選 - オプティマルちゃんねる",
+                                "msapplication-tileimage": "https://optimal-ch.com/wp-content/uploads/2023/03/logomark.png",
+                                "og:description": "シフト作成担当者は従業員が提出したシフト希望を考慮しつつ、かつ全体のバランスを考えてシフト表を作成しなければい",
+                                "twitter:creator": "@optimal_ch",
+                                "twitter:image": "https://optimal-ch.com/wp-content/uploads/2023/04/【2023年最新版】介護業界でも使える自動シフト作成システムおすすめ3選.png",
+                                "referrer": "no-referrer-when-downgrade",
+                                "twitter:site": "@optimal_ch",
+                                "article:modified_time": "2023-04-08T04:07:51+00:00",
+                                "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover",
+                                "twitter:description": "シフト作成担当者は従業員が提出したシフト希望を考慮しつつ、かつ全体のバランスを考えてシフト表を作成しなければい",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://optimal-ch.com/business-tool_ai-shift-2/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://optimal-ch.com/wp-content/uploads/2023/03/22124948-1024x768.png"
+                            }
+                        ],
+                        "hatomfeed": [
+                            {}
+                        ],
+                        "blogposting": [
+                            {
+                                "datemodified": "2023-04-08T04:07:51+00:00",
+                                "headline": "【2023年最新版】介護業界でも使える自動シフト作成システムおすすめ3選",
+                                "datepublished": "2023-04-06T12:24:44+00:00",
+                                "mainentityofpage": "シフト作成担当者は従業員が提出したシフト希望を考慮しつつ、かつ全体のバランスを考えてシフト表を作成しなければいけません。さらに、そ..."
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "item": "ITツール",
+                                "name": "ITツール",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "数理最適化によって訪問介護のシフトスケジューリングモデルを ...",
+                    "htmlTitle": "数理<b>最適化</b>によって訪問介護の<b>シフト</b>スケジューリングモデルを ...",
+                    "link": "https://tech.bm-sms.co.jp/entry/2023/03/28/120000",
+                    "displayLink": "tech.bm-sms.co.jp",
+                    "snippet": "2023/03/28 ... 医療・介護業界における「勤務シフト作成」の難しさ ... を守りながら自動で各サービスにヘルパーを割り当てる数理最適化モデルを作ってみました。",
+                    "htmlSnippet": "2023/03/28 <b>...</b> 医療・介護<b>業界</b>における「勤務<b>シフト</b>作成」の難しさ ... を守りながら<b>自動</b>で各サービスにヘルパーを割り当てる数理<b>最適化</b>モデルを作ってみました。",
+                    "cacheId": "qzI8SuT33c0J",
+                    "formattedUrl": "https://tech.bm-sms.co.jp/entry/2023/03/28/120000",
+                    "htmlFormattedUrl": "https://tech.bm-sms.co.jp/entry/2023/03/28/120000",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnECHXkGAaMXTU1dLGqx1JAmPR07sccKCW-YxvhMzfQZjQ3hWLJnfuhGc",
+                                "width": "300",
+                                "height": "168"
+                            }
+                        ],
+                        "photograph": [
+                            {
+                                "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/b/bm-sms-product-dev-saiyo-pr/20230322/20230322104322.png"
+                            },
+                            {
+                                "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/b/bm-sms-product-dev-saiyo-pr/20230322/20230322104413.png"
+                            },
+                            {
+                                "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/b/bm-sms-product-dev-saiyo-pr/20230322/20230322104434.png"
+                            },
+                            {
+                                "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/b/bm-sms-product-dev-saiyo-pr/20230322/20230322104347.png"
+                            },
+                            {
+                                "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/b/bm-sms-product-dev-saiyo-pr/20230322/20230322104401.png"
+                            },
+                            {
+                                "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/b/bm-sms-product-dev-saiyo-pr/20230322/20230322104424.png"
+                            },
+                            {
+                                "image": "https://cdn-ak.f.st-hatena.com/images/fotolife/b/bm-sms-product-dev-saiyo-pr/20230322/20230322104343.png"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://cdn-ak.f.st-hatena.com/images/fotolife/b/bm-sms-product-dev-saiyo-pr/20230322/20230322173819.jpg",
+                                "twitter:app:url:iphone": "hatenablog:///open?uri=https%3A%2F%2Ftech.bm-sms.co.jp%2Fentry%2F2023%2F03%2F28%2F120000",
+                                "og:type": "article",
+                                "og:image:alt": "数理最適化によって訪問介護のシフトスケジューリングモデルを作ってみた話 - エス・エム・エス エンジニア テックブログ",
+                                "article:published_time": "1679972400",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "数理最適化によって訪問介護のシフトスケジューリングモデルを作ってみた話 - エス・エム・エス エンジニア テックブログ",
+                                "og:site_name": "エス・エム・エス エンジニア テックブログ",
+                                "og:title": "数理最適化によって訪問介護のシフトスケジューリングモデルを作ってみた話 - エス・エム・エス エンジニア テックブログ",
+                                "twitter:app:id:iphone": "583299321",
+                                "og:description": "はじめに 医療・介護・ヘルスケア・シニアライフの4つの事業領域で高齢社会の情報インフラを構築している、株式会社エス・エム・エスのAnalytics&Innovation推進部（以下、A&I推進部）の新卒3年目の小貝です。現在は主に介護職向け求人情報サービスである「カイゴジョブ」のデータ分析・アルゴリズム開発を担当しています。 A&I推進部はエス・エム・エス社内のデータを横断的に収集し、データの分析や加工から、データに基づく施策展開までを行う部門です。部門の役割としては以下の3つが挙げられます。 事業課題解決：事業会社のデータ活用組織として、PL貢献をする 技術開発：データ活用組織としての専門性…",
+                                "twitter:image": "https://cdn-ak.f.st-hatena.com/images/fotolife/b/bm-sms-product-dev-saiyo-pr/20230322/20230322173819.jpg",
+                                "article:tag": "データ分析",
+                                "twitter:site": "@BM_SMS_Tech",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "twitter:description": "はじめに 医療・介護・ヘルスケア・シニアライフの4つの事業領域で高齢社会の情報インフラを構築している、株式会社エス・エム・エスのAnalytics&Innovation推進部（以下、A&I推進部）の新卒3年目の小貝です。現在は主に介護職向け求人情報サービスである「カイゴジョブ」のデータ分析・アルゴリズム開発を担当してい…",
+                                "og:url": "https://tech.bm-sms.co.jp/entry/2023/03/28/120000",
+                                "twitter:app:name:iphone": "はてなブログアプリ"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://cdn-ak.f.st-hatena.com/images/fotolife/b/bm-sms-product-dev-saiyo-pr/20230322/20230322173819.jpg"
+                            }
+                        ],
+                        "hatomfeed": [
+                            {}
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【おすすめ】シフト作成に特化したシフト管理システム比較17選 ...",
+                    "htmlTitle": "【おすすめ】<b>シフト</b>作成に特化した<b>シフト</b>管理システム比較17選 ...",
+                    "link": "https://www.otasukeman.jp/column/shift-management-tool",
+                    "displayLink": "www.otasukeman.jp",
+                    "snippet": "2023/04/01 ... シフト管理においては、誰もが名前を知っている各業界のリーダー企業だ ... 最適化AIによる自動作成が可能で、自動作成精度の評価が高いシフト管理 ...",
+                    "htmlSnippet": "2023/04/01 <b>...</b> <b>シフト</b>管理においては、誰もが名前を知っている各<b>業界</b>のリーダー企業だ ... <b>最適化</b>AIによる<b>自動</b>作成が可能で、<b>自動</b>作成精度の評価が高い<b>シフト</b>管理&nbsp;...",
+                    "cacheId": "IjW_6GgbP7AJ",
+                    "formattedUrl": "https://www.otasukeman.jp/column/shift-management-tool",
+                    "htmlFormattedUrl": "https://www.otasukeman.jp/column/shift-management-tool",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9fPexZ0AW0QjSQdRRD3fhi-KSqv0HoVk4FYG6xYrKEd36nOrs-lsJAyY",
+                                "width": "299",
+                                "height": "168"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.otasukeman.jp/hubfs/%E3%82%B7%E3%83%95%E3%83%88%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%AF%94%E8%BC%83%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E5%8C%96%E3%81%AE%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88.jpg#keepProtocol",
+                                "twitter:title": "【おすすめ】シフト作成に特化したシフト管理システム比較17選｜クラウドのメリットとは｜勤務シフト作成・シフト管理「お助けマン」のコラム",
+                                "og:image:width": "840",
+                                "og:image:alt": "シフト作成に特化したおすすめのシフト管理システム全17選｜料金・特徴を徹底比較！クラウド化のメリットとは",
+                                "twitter:card": "summary_large_image",
+                                "og:type": "article",
+                                "twitter:domain": "www.otasukeman.jp",
+                                "author": "勤務シフト作成お助けマン編集部",
+                                "og:title": "【おすすめ】シフト作成に特化したシフト管理システム比較17選｜クラウドのメリットとは｜勤務シフト作成・シフト管理「お助けマン」のコラム",
+                                "og:image:height": "473",
+                                "og:description": "従業員のシフト表作成・管理の業務を、クラウドサービスを活用することで、これまでよりもシフト表作成の時間を削減することが期待できます。今回は、従来の方法によるシフト作成の課題やクラウド化のメリットについて解説し、今注目されているシフト管理に特化したシステムに絞って、各サービスの料金、機能、特徴をご紹介します。",
+                                "twitter:image": "https://www.otasukeman.jp/hubfs/%E3%82%B7%E3%83%95%E3%83%88%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%AF%94%E8%BC%83%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E5%8C%96%E3%81%AE%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88.jpg#keepProtocol",
+                                "twitter:image:alt": "シフト作成に特化したおすすめのシフト管理システム全17選｜料金・特徴を徹底比較！クラウド化のメリットとは",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "従業員のシフト表作成・管理の業務を、クラウドサービスを活用することで、これまでよりもシフト表作成の時間を削減することが期待できます。今回は、従来の方法によるシフト作成の課題やクラウド化のメリットについて解説し、今注目されているシフト管理に特化したシステムに絞って、各サービスの料金、機能、特徴をご紹介します。",
+                                "og:url": "https://www.otasukeman.jp/column/shift-management-tool"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.otasukeman.jp/hubfs/%E3%82%B7%E3%83%95%E3%83%88%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%AF%94%E8%BC%83%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E5%8C%96%E3%81%AE%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88.jpg#keepProtocol"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "ブレインパッド、AIにより熟練者と遜色ない高精度な勤務シフト作成 ...",
+                    "htmlTitle": "ブレインパッド、AIにより熟練者と遜色ない高精度な勤務<b>シフト</b>作成 ...",
+                    "link": "https://www.brainpad.co.jp/news/2018/01/17/6912",
+                    "displayLink": "www.brainpad.co.jp",
+                    "snippet": "2018/01/17 ... 店舗シフト管理システムへ数理最適化技術を活用 －. 株式会社ブレインパッドは、小売・サービス業向けシステムを提供するオーエムネットワーク株式 ...",
+                    "htmlSnippet": "2018/01/17 <b>...</b> 店舗<b>シフト</b>管理システムへ数理<b>最適化</b>技術を活用 －. 株式会社ブレインパッドは、小売・サービス<b>業</b>向けシステムを提供するオーエムネットワーク株式&nbsp;...",
+                    "cacheId": "itQ0m5Xm5CIJ",
+                    "formattedUrl": "https://www.brainpad.co.jp/news/2018/01/17/6912",
+                    "htmlFormattedUrl": "https://www.brainpad.co.jp/news/2018/01/17/6912",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_B9F4LEJ_xZNJy7RWPwOiqH7MuoGxs_SN7CqpMshOSgFdEWB0CXNMQtM",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "http://www.brainpad.co.jp/common/images/sns.png",
+                                "twitter:card": "summary_large_image",
+                                "twitter:site": "@BrainPad_PR",
+                                "twitter:domain": "brainpad.co.jp",
+                                "viewport": "width=device-width,initial-scale=1,viewport-fit=cover",
+                                "og:title": "ブレインパッド、AIにより熟練者と遜色ない高精度な勤務シフト作成の自動化を実現｜株式会社ブレインパッド（BrainPad Inc.）",
+                                "og:description": "ブレインパッド、AIにより熟練者と遜色ない高精度な勤務シフト作成の自動化を実現－ 店舗シフト管理シス...",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "http://www.brainpad.co.jp/common/images/sns.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "勤務シフト自動最適化ツール | 主要サービス | 日本エンタープライズ ...",
+                    "htmlTitle": "勤務<b>シフト自動最適化</b>ツール | 主要サービス | 日本エンタープライズ ...",
+                    "link": "https://www.nihon-e.co.jp/service/business/shifttool.html",
+                    "displayLink": "www.nihon-e.co.jp",
+                    "snippet": "勤務シフト自動最適化ツール『Optamo』. データマイニング（統計解析）のノウハウを活かした、スケジュール管理者のための勤務表作成効率化ツールです。勤務シフト最適 ...",
+                    "htmlSnippet": "勤務<b>シフト自動最適化</b>ツール『Optamo』. データマイニング（統計解析）のノウハウを活かした、スケジュール管理者のための勤務表作成効率化ツールです。勤務シフト最適&nbsp;...",
+                    "cacheId": "n2E_cRkZaY0J",
+                    "formattedUrl": "https://www.nihon-e.co.jp/service/business/shifttool.html",
+                    "htmlFormattedUrl": "https://www.nihon-e.co.jp/service/business/shifttool.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXNNoIzllX1QyB_a3pMlkEYo2I1W65NpwE3n6341naGOGfDEFmGcf6MQ",
+                                "width": "402",
+                                "height": "125"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.nihon-e.co.jp/service/business/img/img_shift01.png"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 業界 シフト自動最適化",
+                        "totalResults": "6260000",
+                        "searchTerms": "業界 シフト自動最適化",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 業界 シフト自動最適化",
+                        "totalResults": "6260000",
+                        "searchTerms": "業界 シフト自動最適化",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 業界 シフト自動最適化",
+                        "totalResults": "6260000",
+                        "searchTerms": "業界 シフト自動最適化",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.175008,
+                "formattedSearchTime": "0.18",
+                "totalResults": "6260000",
+                "formattedTotalResults": "6,260,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "シフトスケジュール最適化",
+                    "htmlTitle": "<b>シフト</b>スケジュール<b>最適化</b>",
+                    "link": "https://www.msi.co.jp/solution/nuopt/download/introduction/module/DWH2013_shift.pdf",
+                    "displayLink": "www.msi.co.jp",
+                    "snippet": "シフトスケジュールを自動作成する方法をご紹介します ... NUOPT を用いたシフトスケジュール最適化. 道路保全計画 ... 【業界ごとのシフト作成の肝（1）】.",
+                    "htmlSnippet": "<b>シフト</b>スケジュールを<b>自動</b>作成する方法をご紹介します ... NUOPT を用いた<b>シフト</b>スケジュール<b>最適化</b>. 道路保全計画 ... 【<b>業界</b>ごとの<b>シフト</b>作成の肝（1）】.",
+                    "cacheId": "JVU4h3eXLnUJ",
+                    "formattedUrl": "https://www.msi.co.jp/solution/nuopt/download/.../DWH2013_shift.pdf",
+                    "htmlFormattedUrl": "https://www.msi.co.jp/solution/nuopt/download/.../DWH2013_shift.pdf",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzPEcDj91Su17Yln26tA9WrmF1hD9UYBMzuM4MxOK0n7gXw2kYGg1fmFtL",
+                                "width": "270",
+                                "height": "187"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "moddate": "D:20130513125339+09'00'",
+                                "creationdate": "D:20130513125339+09'00'",
+                                "creator": "Microsoft® PowerPoint® 2010",
+                                "author": "(㈱) 数理システム",
+                                "producer": "Microsoft® PowerPoint® 2010",
+                                "title": "タイトル"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "x-raw-image:///6c6907a13a0a4255ae694f53ddbfe0d3676c5f969a891df1da5be0951f965515"
+                            }
+                        ]
+                    },
+                    "mime": "application/pdf",
+                    "fileFormat": "PDF/Adobe Acrobat"
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "シフト自動作成ソフト12選。無料から高機能までタイプ別に ...",
+                    "htmlTitle": "<b>シフト自動</b>作成ソフト12選。無料から高機能までタイプ別に ...",
+                    "link": "https://www.aspicjapan.org/asu/article/9369",
+                    "displayLink": "www.aspicjapan.org",
+                    "snippet": "2023/06/09 ... シフト自動作成ソフトを用いることで、実際にどこまでシフト作成を効率化 ... 最適化アルゴリズムを応用した勤務シフト表、タスク表を自動作成する ...",
+                    "htmlSnippet": "2023/06/09 <b>...</b> <b>シフト自動</b>作成ソフトを用いることで、実際にどこまで<b>シフト</b>作成を効率化 ... <b>最適化</b>アルゴリズムを応用した勤務<b>シフト</b>表、タスク表を<b>自動</b>作成する&nbsp;...",
+                    "cacheId": "dIF23iUeym4J",
+                    "formattedUrl": "https://www.aspicjapan.org/asu/article/9369",
+                    "htmlFormattedUrl": "https://www.aspicjapan.org/asu/article/9369",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS36bYNskFE6j9tPF-XxIDFag2xZa4-WZGPx9Wh9WSmZzXJFHdyQ8cI8-s",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.aspicjapan.org/asu/cms/wp-content/uploads/2021/10/shj001.jpg",
+                                "og:type": "article",
+                                "og:image:width": "1400",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "アスピック｜SaaS比較・活用サイト",
+                                "og:title": "シフト自動作成ソフト12選。無料から高機能までタイプ別に | アスピック｜SaaS比較・活用サイト",
+                                "og:image:height": "933",
+                                "twitter:label1": "推定読み取り時間",
+                                "og:image:type": "image/jpeg",
+                                "og:description": "複雑なシフト作成や管理を自動化・効率化したい方へ。勤務シフトの提出から作成、スタッフへの共有、適切な人員配置まで、シフト作成業務の課題を解決する「シフト自動作成ソフト」についてタイプ別にご紹介します。",
+                                "twitter:data1": "25分",
+                                "article:modified_time": "2023-06-09T08:17:21+00:00",
+                                "viewport": "width=device-width,initial-scale=1.0,user-scalable=no",
+                                "twitter:description": "複雑なシフト作成や管理を自動化・効率化したい方へ。勤務シフトの提出から作成、スタッフへの共有、適切な人員配置まで、シフト作成業務の課題を解決する「シフト自動作成ソフト」についてタイプ別にご紹介します。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.aspicjapan.org/asu/article/9369",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.aspicjapan.org/asu/cms/wp-content/uploads/2021/10/shj001.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "勤務シフト自動作成のエントリー版「Optamo Lite R」を正式リリース",
+                    "htmlTitle": "勤務<b>シフト自動</b>作成のエントリー版「Optamo Lite R」を正式リリース",
+                    "link": "https://prtimes.jp/main/html/rd/p/000000007.000031030.html",
+                    "displayLink": "prtimes.jp",
+                    "snippet": "2021/11/10 ... 飲食・小売業界はテンプレートの選択が可能 ... 専門とする統計解析の「組合せ最適化」技術を用いた、勤務シフト／タスク表を自動作成する『Optamo（ ...",
+                    "htmlSnippet": "2021/11/10 <b>...</b> 飲食・小売<b>業界</b>はテンプレートの選択が可能 ... 専門とする統計解析の「組合せ<b>最適化</b>」技術を用いた、勤務<b>シフト</b>／タスク表を<b>自動</b>作成する『Optamo（&nbsp;...",
+                    "cacheId": "rBiPCdU4ulQJ",
+                    "formattedUrl": "https://prtimes.jp/main/html/rd/p/000000007.000031030.html",
+                    "htmlFormattedUrl": "https://prtimes.jp/main/html/rd/p/000000007.000031030.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDNQNLxj8EyHdofdxrL2VDPvCiDcxEGThuh6a_1IHtTw1vpdVLAcrPfTuq",
+                                "width": "299",
+                                "height": "168"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://prtimes.jp/i/31030/7/resize/d31030-7-adafa7e4b92af5720bd7-2.png"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://prtimes.jp/i/31030/7/ogp/d31030-7-adafa7e4b92af5720bd7-2.png",
+                                "og:type": "article",
+                                "twitter:title": "勤務シフト自動作成のエントリー版「Optamo Lite R」を正式リリース",
+                                "twitter:card": "summary_large_image",
+                                "thumbnail": "https://prtimes.jp/i/31030/7/resize/d31030-7-adafa7e4b92af5720bd7-2.png",
+                                "og:site_name": "プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES",
+                                "twitter:url": "https://prtimes.jp/main/html/rd/p/000000007.000031030.html",
+                                "og:title": "勤務シフト自動作成のエントリー版「Optamo Lite R」を正式リリース",
+                                "twitter:image:height": "300",
+                                "release:company": "株式会社モーション",
+                                "release:image": "https://prtimes.jp/i/31030/7/resize/d31030-7-adafa7e4b92af5720bd7-2.png",
+                                "release:date": "2021年11月10日 08時50分",
+                                "og:description": "株式会社モーションのプレスリリース（2021年11月10日 08時50分）勤務シフト自動作成のエントリー版[Optamo Lite R]を正式リリース",
+                                "twitter:creator": "@PRTIMES_JP",
+                                "twitter:image": "https://prtimes.jp/i/31030/7/ogp/d31030-7-adafa7e4b92af5720bd7-2.png",
+                                "fb:app_id": "1495958567142613",
+                                "twitter:site": "@PRTIMES_JP",
+                                "twitter:image:width": "300",
+                                "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                                "twitter:description": "株式会社モーションのプレスリリース（2021年11月10日 08時50分）勤務シフト自動作成のエントリー版[Optamo Lite R]を正式リリース",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://prtimes.jp/main/html/rd/p/000000007.000031030.html"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://prtimes.jp/i/31030/7/resize/d31030-7-adafa7e4b92af5720bd7-2.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "物流DXとは？ ～物流業界の課題や取組むメリットから推進事例まで ...",
+                    "htmlTitle": "物流DXとは？ ～物流<b>業界</b>の課題や取組むメリットから推進事例まで ...",
+                    "link": "https://www.intra-mart.jp/im-press/useful/logistics_dx",
+                    "displayLink": "www.intra-mart.jp",
+                    "snippet": "2022/09/30 ... 物流センターやトラック輸送の人員配置・シフトの最適化; 配車計画を自動立案や、渋滞予測や回避ルート、駐車場の選定など配送計画の最適化 ...",
+                    "htmlSnippet": "2022/09/30 <b>...</b> 物流センターやトラック輸送の人員配置・<b>シフト</b>の<b>最適化</b>; 配車計画を<b>自動</b>立案や、渋滞予測や回避ルート、駐車場の選定など配送計画の<b>最適化</b>&nbsp;...",
+                    "cacheId": "Mu11Ez7cTpQJ",
+                    "formattedUrl": "https://www.intra-mart.jp/im-press/useful/logistics_dx",
+                    "htmlFormattedUrl": "https://www.intra-mart.jp/im-press/useful/logistics_dx",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9HRo4NSMFnAxo1ggVC8g_S-p7vDGVlw4nn2geWig5kV1GA2Td3JQxfqvb",
+                                "width": "322",
+                                "height": "156"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.intra-mart.jp/dcms_media/image/Logistics-DX-img01.jpeg",
+                                "og:type": "website",
+                                "twitter:card": "summary",
+                                "twitter:title": "物流DXとは？　～物流業界の課題や取組むメリットから推進事例までを解説～",
+                                "og:site_name": "イントラマートラボ",
+                                "og:title": "物流DXとは？　～物流業界の課題や取組むメリットから推進事例までを解説～",
+                                "og:description": "物流DXとは、物流においてDXに取り組むことです。つまり、物流業界など、物流業を手がける企業が新たな価値の創出を目指して...",
+                                "twitter:image": "https://www.intra-mart.jp/dcms_media/image/Logistics-DX-img01.jpeg",
+                                "viewport": "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1",
+                                "twitter:description": "物流DXとは、物流においてDXに取り組むことです。つまり、物流業界など、物流業を手がける企業が新たな価値の創出を目指して...",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.intra-mart.jp/im-press/useful/logistics_dx",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.intra-mart.jp/dcms_media/image/Logistics-DX-img01.jpeg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "HOME",
+                                "name": "HOME",
+                                "position": "1"
+                            },
+                            {
+                                "item": "IM-Press",
+                                "name": "IM-Press",
+                                "position": "2"
+                            },
+                            {
+                                "item": "お役立ち情報",
+                                "name": "お役立ち情報",
+                                "position": "3"
+                            },
+                            {
+                                "name": "物流DXとは？ ～物流業界の課題や取組むメリットから推進事例までを解説～",
+                                "position": "4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "人流・気象データなどを活用した小売り・飲食業界向けAI需要予測 ...",
+                    "htmlTitle": "人流・気象データなどを活用した小売り・飲食<b>業界</b>向けAI需要予測 ...",
+                    "link": "https://www.jwa.or.jp/news/2022/01/15705/",
+                    "displayLink": "www.jwa.or.jp",
+                    "snippet": "2022/01/31 ... ... 飲食業界向けAI需要予測サービス「サキミル」を提供開始 ～高精度な来店客数の予測機能を低価格で提供し、発注数や勤務シフトの最適化に貢献～",
+                    "htmlSnippet": "2022/01/31 <b>...</b> ... 飲食<b>業界</b>向けAI需要予測サービス「サキミル」を提供開始 ～高精度な来店客数の予測機能を低価格で提供し、発注数や勤務<b>シフト</b>の<b>最適化</b>に貢献～",
+                    "cacheId": "WPQsXSdF1jEJ",
+                    "formattedUrl": "https://www.jwa.or.jp/news/2022/01/15705/",
+                    "htmlFormattedUrl": "https://www.jwa.or.jp/news/2022/01/15705/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDwVILBh3hgtYcsLKtK7_2dpFPcSt8SbmOhGbW4VdCZCgTqx1nr_J9IwI",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.jwa.or.jp/wp-content/uploads/2019/07/jwa-ogp-img.png",
+                                "og:type": "article",
+                                "og:image:width": "1200",
+                                "og:site_name": "日本気象協会",
+                                "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no",
+                                "og:title": "人流・気象データなどを活用した小売り・飲食業界向けAI需要予測サービス「サキミル」を提供開始 ～高精度な来店客数の予測機能を低価格で提供し、発注数や勤務シフトの最適化に貢献～ | JWAニュース | 日本気象協会",
+                                "og:image:height": "630",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.jwa.or.jp/news/2022/01/15705/",
+                                "og:description": "日本気象協会のオフィシャルサイトです。各業界で多角的に活用されている日本気象協会の事業をご紹介致します。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.jwa.or.jp/wp-content/uploads/2019/07/jwa-ogp-img.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "製造業向け量子コンピュータ時代のDXワークショップ ～シフト最適 ...",
+                    "htmlTitle": "製造<b>業</b>向け量子コンピュータ時代のDXワークショップ ～<b>シフト最適</b> ...",
+                    "link": "https://www.docswell.com/s/fixstars/KLLGR4-20220629",
+                    "displayLink": "www.docswell.com",
+                    "snippet": "2022/06/29 ... 45. Fixstars Corporation www.fixstars.com 事例紹介: 人員配置の効率化・自動最適化関連インタビュー動画(4:00～): ...",
+                    "htmlSnippet": "2022/06/29 <b>...</b> 45. Fixstars Corporation www.fixstars.com 事例紹介: 人員配置の効率化・<b>自動最適化</b>関連インタビュー動画(4:00～):&nbsp;...",
+                    "cacheId": "cFO1uBpZ70UJ",
+                    "formattedUrl": "https://www.docswell.com/s/fixstars/KLLGR4-20220629",
+                    "htmlFormattedUrl": "https://www.docswell.com/s/fixstars/KLLGR4-20220629",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Utf-AFskO4IwMOQyuig45Us_33zaGu3TWfShSF8MW0g3fC7RuQjGcT3X",
+                                "width": "300",
+                                "height": "168"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://image.docswell.com/cover/KLLGR4/7K17159K/37KX1M45JD.jpg",
+                                "og:type": "website",
+                                "twitter:card": "player",
+                                "twitter:title": "製造業向け量子コンピュータ時代のDXワークショップ ～シフト最適化の中身を覗いてみよう～（2022/06/29） | ドクセル",
+                                "og:site_name": "Docswell",
+                                "og:title": "製造業向け量子コンピュータ時代のDXワークショップ ～シフト最適化の中身を覗いてみよう～（2022/06/29） | ドクセル",
+                                "twitter:label1": "Published by",
+                                "og:description": "量子コンピューティング時代を見据え、株式会社Fixstars Amplifyでは、量子アニーリング・イジングマシン向...",
+                                "twitter:image": "https://image.docswell.com/cover/KLLGR4/7K17159K/37KX1M45JD.jpg",
+                                "twitter:data1": "株式会社フィックスターズ",
+                                "twitter:player": "https://www.docswell.com/slide/KLLGR4/embed?mode=twitter",
+                                "twitter:player:height": "405",
+                                "twitter:site": "@DocswellSlide",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "twitter:description": "製造業向け量子コンピュータ時代のDXワークショップ ～シフト最適化の中身を覗いてみよう～（2022/06/29）",
+                                "og:url": "https://www.docswell.com/s/fixstars/KLLGR4-20220629",
+                                "twitter:player:width": "620"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://image.docswell.com/cover/KLLGR4/7K17159K/37KX1M45JD.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【2023年版】介護現場のシフト作成を楽にするアプリ5選＆選び方の ...",
+                    "htmlTitle": "【2023年版】介護現場の<b>シフト</b>作成を楽にするアプリ5選＆選び方の ...",
+                    "link": "https://care-infocom.jp/article/12425/",
+                    "displayLink": "care-infocom.jp",
+                    "snippet": "2022/08/29 ... シフト表を作るだけで、勤務形態一覧表を自動生成！ ... 介護業界のシフト作成は、労働基準法や人員配置基準など満たすべきルールの多さが特徴です。",
+                    "htmlSnippet": "2022/08/29 <b>...</b> <b>シフト</b>表を作るだけで、勤務形態一覧表を<b>自動</b>生成！ ... 介護<b>業界</b>の<b>シフト</b>作成は、労働基準法や人員配置基準など満たすべきルールの多さが特徴です。",
+                    "cacheId": "1ZAD3aQx9msJ",
+                    "formattedUrl": "https://care-infocom.jp/article/12425/",
+                    "htmlFormattedUrl": "https://care-infocom.jp/article/12425/",
+                    "pagemap": {
+                        "hcard": [
+                            {
+                                "fn": "伊藤 亜記（監修者）"
+                            },
+                            {
+                                "fn": "伊藤 亜記"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQC4DTHAX4RTCVZXW_EU-cA6nEA8eq3aUKK61UTwIuehqIE8NyueyvId2g",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "person": [
+                            {
+                                "name": "伊藤 亜記（監修者）"
+                            },
+                            {
+                                "name": "伊藤 亜記",
+                                "description": "短大卒業後、大手出版会社へ入社。祖父母二人の介護と看取りの経験を機に、社会人入学にて福祉の勉強を始める。 98年に介護福祉士を取得し、...",
+                                "hascredential": "介護福祉士／社会福祉主事/レクリエーションインストラクター"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://care-infocom.jp/article/wp-content/uploads/2022/08/12425-1.jpg",
+                                "og:type": "article",
+                                "og:site_name": "介護の人事労務ナビ",
+                                "viewport": "width=device-width,initial-scale=1.0",
+                                "og:title": "【2023年版】介護現場のシフト作成を楽にするアプリ5選＆選び方のポイント",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://care-infocom.jp/article/12425/",
+                                "msapplication-tileimage": "https://care-infocom.jp/article/wp-content/uploads/2022/03/cropped-icon512x512-270x270.png",
+                                "og:description": "介護現場に特化した最新のシフト作成アプリ＆サービス5選を紹介！シフト管理で考慮すべき点に触れながら、シフト作成アプリのメリットや選び方のポイントを解説していきます。基本の機能や使い方もまとめておりますので、これから施設や事業所にシフト作成アプリを導入したい方は参考にしてください。",
+                                "facebook-domain-verification": "qwv19tu7cr7qc1kvbfkrm25xyaswr2"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://care-infocom.jp/article/wp-content/uploads/2022/08/12425-1.jpg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "item": "人事・労務",
+                                "name": "人事・労務",
+                                "position": "2"
+                            },
+                            {
+                                "name": "【2023年版】介護現場のシフト作成を楽にするアプリ5選＆選び方のポイント",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "HRBEST(ハーベスト)：シフト作成自動化AIでスキマ時間にシフト ...",
+                    "htmlTitle": "HRBEST(ハーベスト)：<b>シフト</b>作成自動化AIでスキマ時間に<b>シフト</b> ...",
+                    "link": "https://lp.hrbest.jp/",
+                    "displayLink": "lp.hrbest.jp",
+                    "snippet": "スタッフさんの勤務希望や労務条件、スキルレベルに応じたシフト作成をAIで自動化 ... 業界ごとのルールが複雑 ... 職場の規則・状況に最適化したシフトを作成します。",
+                    "htmlSnippet": "スタッフさんの勤務希望や労務条件、スキルレベルに応じた<b>シフト</b>作成をAIで自動化 ... <b>業界</b>ごとのルールが複雑 ... 職場の規則・状況に<b>最適化</b>した<b>シフト</b>を作成します。",
+                    "cacheId": "hc4vhU8aLgUJ",
+                    "formattedUrl": "https://lp.hrbest.jp/",
+                    "htmlFormattedUrl": "https://lp.hrbest.jp/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzrQJvA2wdHS-fpDbSFgo635jwWv42LGVKgL5dOfJsNnPwqJy5Q6PhbwVR",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://storage.googleapis.com/production-os-assets/assets/51de813d-791d-4c98-9503-fcc18db769dc",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "HRBEST(ハーベスト)：シフト作成自動化AIでスキマ時間にシフト作成！【月額2980円から使える🙌】",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "HRBEST(ハーベスト)：シフト作成自動化AIでスキマ時間にシフト作成！【ひとりあたり月額99円から使える🙌】",
+                                "apple-mobile-web-app-title": "HRBEST(ハーベスト)：シフト作成自動化AIでスキマ時間にシフト作成！【ひとりあたり月額99円から使える🙌】",
+                                "og:url": "https://lp.hrbest.jp/",
+                                "og:description": "スタッフさんの勤務希望や労務条件、スキルレベルに応じたシフト作成をAIで自動化！いつもの紙作業を簡単ワンクリックに！",
+                                "twitter:image": "https://storage.googleapis.com/production-os-assets/assets/51de813d-791d-4c98-9503-fcc18db769dc"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://storage.googleapis.com/production-os-assets/assets/51de813d-791d-4c98-9503-fcc18db769dc"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "日本惣菜協会、注文量予測と人員シフトの最適化に向けた業界標準 ...",
+                    "htmlTitle": "日本惣菜協会、注文量予測と人員<b>シフト</b>の<b>最適化</b>に向けた<b>業界</b>標準 ...",
+                    "link": "https://dcross.impress.co.jp/docs/usecase/002835.html",
+                    "displayLink": "dcross.impress.co.jp",
+                    "snippet": "2021/10/08 ... 結果、注文量については精度約96％で予測でき、シフト計画の作成では、約130人を対象にしたシフト表を約4分で自動で作成できたという（図1）。 図1：惣菜 ...",
+                    "htmlSnippet": "2021/10/08 <b>...</b> 結果、注文量については精度約96％で予測でき、<b>シフト</b>計画の作成では、約130人を対象にした<b>シフト</b>表を約4分で<b>自動</b>で作成できたという（図1）。 図1：惣菜&nbsp;...",
+                    "cacheId": "4Q36tFQTQ8kJ",
+                    "formattedUrl": "https://dcross.impress.co.jp/docs/usecase/002835.html",
+                    "htmlFormattedUrl": "https://dcross.impress.co.jp/docs/usecase/002835.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOsRP6ZEuD3PGV64GwH2p-RYT0p5RhrgoYw3U7gQ0DlPwPQseJotd480Q-",
+                                "width": "300",
+                                "height": "168"
+                            }
+                        ],
+                        "breadcrumb": [
+                            {
+                                "title": "Top",
+                                "url": "Top"
+                            },
+                            {
+                                "title": "UseCase",
+                                "url": "UseCase"
+                            },
+                            {
+                                "title": "製造",
+                                "url": "製造"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://dcross.impress.co.jphttps://dcross.impress.co.jp/img/dx/list/002/835/rss.jpg",
+                                "copyright": "Copyright © Impress Corporation. All Rights Reserved.",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "日本惣菜協会、注文量予測と人員シフトの最適化に向けた業界標準モデルの作成に着手",
+                                "distributable": "licensee",
+                                "og:site_name": "デジタルクロス",
+                                "firstpage": "/docs/usecase/002835.html",
+                                "twitter:url": "https://dcross.impress.co.jp/docs/usecase/002835.html",
+                                "author": "株式会社インプレス",
+                                "og:title": "日本惣菜協会、注文量予測と人員シフトの最適化に向けた業界標準モデルの作成に着手",
+                                "creation_date": "2021-10-08T06:00:00+09:00",
+                                "og:description": "　弁当・惣菜などの製造工場では種々の課題を抱えている。多品種の受注生産でありながら、短納期かつ注文数の確定が納入前夜であることから、事前の仕込み量と実際の製造量が合わず廃棄ロスが発生している。盛り付け作業の機械化が難しく人手に頼らざるを得ないものの、製造量に応じたシフトアサインができず余剰人員が発生してもいる。",
+                                "target-month": "10",
+                                "target-day": "8",
+                                "twitter:image:src": "https://dcross.impress.co.jp/img/dx/list/002/835/rss.jpg",
+                                "fb:app_id": "1943237472610951",
+                                "twitter:site": "@dcross_impress",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "twitter:description": "　弁当・惣菜などの製造工場では種々の課題を抱えている。多品種の受注生産でありながら、短納期かつ注文数の確定が納入前夜であることから、事前の仕込み量と実際の製造量が合わず廃棄ロスが発生している。盛り付け作業の機械化が難しく人手に頼らざるを得ないものの、製造量に応じたシフトアサインができず余剰人員が発生してもいる。",
+                                "target-year": "2021",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://dcross.impress.co.jp/docs/usecase/002835.html"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://dcross.impress.co.jp/img/dx/list/002/835/sozai.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "オーエムネットワーク株式会社【新潟から全国の小売・サービス業 ...",
+                    "htmlTitle": "オーエムネットワーク株式会社【新潟から全国の小売・サービス<b>業</b> ...",
+                    "link": "https://www.nico.or.jp/shien/63330/",
+                    "displayLink": "www.nico.or.jp",
+                    "snippet": "2023/04/07 ... ▷︎AI搭載で精度の高いシフトを自動作成. 世界最高速の数理最適化エンジンを搭載し、店舗の複雑な条件を考慮したシフト表を素早く作成できる。",
+                    "htmlSnippet": "2023/04/07 <b>...</b> ▷︎AI搭載で精度の高い<b>シフト</b>を<b>自動</b>作成. 世界最高速の数理<b>最適化</b>エンジンを搭載し、店舗の複雑な条件を考慮した<b>シフト</b>表を素早く作成できる。",
+                    "cacheId": "BEUkmMslnK4J",
+                    "formattedUrl": "https://www.nico.or.jp/shien/63330/",
+                    "htmlFormattedUrl": "https://www.nico.or.jp/shien/63330/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG8gKLcB5ly5sinVWa7H02hqWSeRJuPzBVxjWEgrwGbUCTl9hm47JAibT9",
+                                "width": "259",
+                                "height": "194"
+                            }
+                        ],
+                        "website": [
+                            {
+                                "logo": "https://www.nico.or.jp/wp-content/uploads/2018/02/logo.png",
+                                "url": "https://www.nico.or.jp/"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://www.nico.or.jp/wp-content/themes/nico-child/images/googlesearch_thum01.jpg"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.nico.or.jp/wp-content/uploads/2023/04/nicopress187_omn00e.jpg",
+                                "og:image:width": "300",
+                                "article:published_time": "2023-04-07T05:06:40+00:00",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "にいがた産業創造機構（NICO）",
+                                "apple-mobile-web-app-title": "オーエムネットワーク株式会社【新潟から全国の小売・サービス業の店舗シフト管理をサポート】 - にいがた産業創造機構（NICO）",
+                                "msapplication-tileimage": "https://www.nico.or.jp/wp-content/uploads/2018/03/cropped-favicon01-270x270.gif",
+                                "og:description": "現場に応じたシフトを自動生成。 新潟から全国の小売・サービス業の 店舗シフト管理をサポート 小売業やサービス業",
+                                "og:image:secure_url": "https://www.nico.or.jp/wp-content/uploads/2023/04/nicopress187_omn00e.jpg",
+                                "twitter:image": "https://www.nico.or.jp/wp-content/uploads/2023/04/nicopress187_omn00e.jpg",
+                                "article:modified_time": "2023-04-07T05:06:00+00:00",
+                                "fb:admins": "100001078575690",
+                                "og:type": "article",
+                                "twitter:title": "オーエムネットワーク株式会社【新潟から全国の小売・サービス業の店舗シフト管理をサポート】 | にいがた産業創造機構（NICO）",
+                                "thumbnail": "https://www.nico.or.jp/wp-content/themes/nico-child/images/googlesearch_thum01.jpg",
+                                "og:title": "オーエムネットワーク株式会社【新潟から全国の小売・サービス業の店舗シフト管理をサポート】 | にいがた産業創造機構（NICO）",
+                                "og:image:height": "200",
+                                "google": "nositelinkssearchbox",
+                                "article:tag": "2022年度",
+                                "fb:app_id": "456448901440515",
+                                "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                                "apple-mobile-web-app-capable": "yes",
+                                "twitter:description": "現場に応じたシフトを自動生成。 新潟から全国の小売・サービス業の 店舗シフト管理をサポート 小売業やサービス業",
+                                "mobile-web-app-capable": "yes",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.nico.or.jp/shien/63330/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.nico.or.jp/wp-content/uploads/2023/03/nicopress187_omn01.jpg"
+                            }
+                        ],
+                        "hatomfeed": [
+                            {}
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 業界 シフト自動最適化",
+                        "totalResults": "6260000",
+                        "searchTerms": "業界 シフト自動最適化",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 業界 シフト自動最適化",
+                        "totalResults": "6260000",
+                        "searchTerms": "業界 シフト自動最適化",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 業界 シフト自動最適化",
+                        "totalResults": "6260000",
+                        "searchTerms": "業界 シフト自動最適化",
+                        "count": 10,
+                        "startIndex": 31,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.191978,
+                "formattedSearchTime": "0.19",
+                "totalResults": "6260000",
+                "formattedTotalResults": "6,260,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "物流AI | 物流業界に迫る2024年問題をAIで解決",
+                    "htmlTitle": "物流AI | 物流<b>業界</b>に迫る2024年問題をAIで解決",
+                    "link": "https://www.arithmer.co.jp/logistics-ai",
+                    "displayLink": "www.arithmer.co.jp",
+                    "snippet": "あらゆる制約条件を考慮した上で自動的に最適な配送ルートを提案します。 労力の削減.jpg. シフト・人員配置の最適化による労力の削減. 運搬の際の勤務シフト作成・人員 ...",
+                    "htmlSnippet": "あらゆる制約条件を考慮した上で<b>自動</b>的に最適な配送ルートを提案します。 労力の削減.jpg. <b>シフト</b>・人員配置の<b>最適化</b>による労力の削減. 運搬の際の勤務<b>シフト</b>作成・人員&nbsp;...",
+                    "cacheId": "8qLeQav-jUAJ",
+                    "formattedUrl": "https://www.arithmer.co.jp/logistics-ai",
+                    "htmlFormattedUrl": "https://www.arithmer.co.jp/logistics-ai",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSHUD2K8ocAECCbTCi9HapYyhzjV19qG262hJfJcCnb5ms-BrjFMQQ9jw",
+                                "width": "269",
+                                "height": "187"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://static.wixstatic.com/media/06cbfb_0184c87136b64de48f9284f193fb9dda~mv2.jpg/v1/fill/w_1536,h_1072,al_c/06cbfb_0184c87136b64de48f9284f193fb9dda~mv2.jpg",
+                                "og:image:width": "1536",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "物流AI | 数学とAIで社会課題を解決するArithmer",
+                                "og:site_name": "Arithmer",
+                                "skype_toolbar": "skype_toolbar_parser_compatible",
+                                "og:title": "物流AI | 数学とAIで社会課題を解決するArithmer",
+                                "og:image:height": "1072",
+                                "og:description": "AI技術×シミュレーションで圧倒的に速い解析時間を実現します。シミュレーションを行うには、知識や膨大な試行回数が必要になり、結果が出るまで数ヶ月を要することがあります。 私たちの防災テックでは、これら課題を解決し、活用場面を広げていきます。",
+                                "twitter:image": "https://static.wixstatic.com/media/06cbfb_0184c87136b64de48f9284f193fb9dda~mv2.jpg/v1/fill/w_1536,h_1072,al_c/06cbfb_0184c87136b64de48f9284f193fb9dda~mv2.jpg",
+                                "viewport": "width=320, user-scalable=yes",
+                                "twitter:description": "AI技術×シミュレーションで圧倒的に速い解析時間を実現します。シミュレーションを行うには、知識や膨大な試行回数が必要になり、結果が出るまで数ヶ月を要することがあります。 私たちの防災テックでは、これら課題を解決し、活用場面を広げていきます。",
+                                "og:url": "https://www.arithmer.co.jp/logistics-ai",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://static.wixstatic.com/media/06cbfb_0184c87136b64de48f9284f193fb9dda~mv2.jpg/v1/fill/w_1536,h_1072,al_c/06cbfb_0184c87136b64de48f9284f193fb9dda~mv2.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "流通業向け情報システムのクラウドサービス | オーエムネットワーク ...",
+                    "htmlTitle": "流通<b>業</b>向け情報システムのクラウドサービス | オーエムネットワーク ...",
+                    "link": "https://www.omnetwork.co.jp/",
+                    "displayLink": "www.omnetwork.co.jp",
+                    "snippet": "数理最適化手法. 複雑にからみ合った条件を満たしつつ、ムリ・ムダ・ムラが最も少ない組合せを素早く的確に導き出します。 （適用例：シフト自動作成 ...",
+                    "htmlSnippet": "数理<b>最適化</b>手法. 複雑にからみ合った条件を満たしつつ、ムリ・ムダ・ムラが最も少ない組合せを素早く的確に導き出します。 （適用例：<b>シフト自動</b>作成&nbsp;...",
+                    "cacheId": "eukUANeJaDkJ",
+                    "formattedUrl": "https://www.omnetwork.co.jp/",
+                    "htmlFormattedUrl": "https://www.omnetwork.co.jp/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDUaRZ6lUTIuoAkwr81Xn4Tsf1dS_lOxts7Mfb1kYzEEfVeiN4OpLPHGmr",
+                                "width": "206",
+                                "height": "245"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1",
+                                "google": "nositelinkssearchbox"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.omnetwork.co.jp/img/home/img_main_sp.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "物流業界がAIを導入する理由とは？最適化されたモデルや企業事例を ...",
+                    "htmlTitle": "物流<b>業界</b>がAIを導入する理由とは？<b>最適化</b>されたモデルや企業事例を ...",
+                    "link": "https://a-idea.ai/logistics/",
+                    "displayLink": "a-idea.ai",
+                    "snippet": "2022/10/02 ... 物流業界には長時間労働と労働条件の劣化、再配達・受け取り拒否問題、EC市場の拡大、ドライバーの高齢化、積載率の低下といった課題があります。",
+                    "htmlSnippet": "2022/10/02 <b>...</b> 物流<b>業界</b>には長時間労働と労働条件の劣化、再配達・受け取り拒否問題、EC市場の拡大、ドライバーの高齢化、積載率の低下といった課題があります。",
+                    "cacheId": "fcIKgRc0C_kJ",
+                    "formattedUrl": "https://a-idea.ai/logistics/",
+                    "htmlFormattedUrl": "https://a-idea.ai/logistics/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJRXWuQ7NN4S5r6oAHholA3SLXx2uEtFZjVHcGa1dzJapvxUhego-j52ae",
+                                "width": "288",
+                                "height": "175"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://a-idea.ai/wp-content/uploads/2022/09/物流業界がAIを導入する理由とは？-最適化されたモデルや企業事例を紹介.png",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "A-Idea(アイデア)｜AI・人工知能が分かるメディア",
+                                "viewport": "width=device-width, viewport-fit=cover",
+                                "og:title": "物流業界がAIを導入する理由とは？最適化されたモデルや企業事例を紹介 | A-Idea(アイデア)｜AI・人工知能が分かるメディア",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://a-idea.ai/logistics/",
+                                "msapplication-tileimage": "https://a-idea.ai/wp-content/uploads/2022/09/cropped-スクリーンショット-2022-09-06-16.06.28-270x270.png",
+                                "og:description": "物流業界には長時間労働と労働条件の劣化、再配達・受け取り拒否問題、EC市場の拡大、ドライバーの高齢化、積載率の低下といった課題があります。このような問題に対して、AIの導入が解決策となる場合があります。物流予測や在庫管理といった特定の作業の",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://a-idea.ai/wp-content/uploads/2022/09/%E7%89%A9%E6%B5%81%E6%A5%AD%E7%95%8C%E3%81%8CAI%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%E3%81%A8%E3%81%AF%EF%BC%9F-%E6%9C%80%E9%81%A9%E5%8C%96%E3%81%95%E3%82%8C%E3%81%9F%E3%83%A2%E3%83%87%E3%83%AB%E3%82%84%E4%BC%81%E6%A5%AD%E4%BA%8B%E4%BE%8B%E3%82%92%E7%B4%B9%E4%BB%8B.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "米カーライル、日本の自動車業界に投資機会 EVシフトで＝幹部 ...",
+                    "htmlTitle": "米カーライル、日本の自動車<b>業界</b>に投資機会 EV<b>シフト</b>で＝幹部 ...",
+                    "link": "https://jp.reuters.com/article/carlyle-idJPKBN2SC01Z",
+                    "displayLink": "jp.reuters.com",
+                    "snippet": "2022/11/21 ... 「10年、20年前のPE業界では、投資先のコスト（削減）に重点が置かれていたが、現在は価格戦略や製品ラインの最適化などを通じて事業をどう成長 ...",
+                    "htmlSnippet": "2022/11/21 <b>...</b> 「10年、20年前のPE<b>業界</b>では、投資先のコスト（削減）に重点が置かれていたが、現在は価格戦略や製品ラインの<b>最適化</b>などを通じて事業をどう成長&nbsp;...",
+                    "cacheId": "8eheN7Ish9MJ",
+                    "formattedUrl": "https://jp.reuters.com/article/carlyle-idJPKBN2SC01Z",
+                    "htmlFormattedUrl": "https://jp.reuters.com/article/carlyle-idJPKBN2SC01Z",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5-Xdj-2UYcl4TTkF9-kQzT9YvpfQ3qDr4sKPL7BOFLRBlQrB8VOzKFt2i",
+                                "width": "216",
+                                "height": "234"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://static.reuters.com/resources/r/?m=02&d=20221122&t=2&i=1614998810&r=LYNXMPEIAL01A&w=800",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "JP",
+                                "og:article:modified_time": "2022-11-22T01:37:41Z",
+                                "analyticsattributes.topicchannel": "Business",
+                                "analyticsattributes.backendchannellist": "businessNews;topNews;special20;everythingNews;JPWire_EL;moneynews;JP-The-Wire",
+                                "twitter:creator": "@Reuters",
+                                "og:description": "米プライベートエクイティ（ＰＥ）大手カーライル・グループでマネージングディレクターを務める寺阪令司氏はロイターとのインタビューで、日本の自動車業界に関して、電気自動車（ＥＶ）へのシフトが加速することで変革を迫られ、グローバルＰＥにとって投資機会が拡大するとの見方を示した。",
+                                "article:publisher": "https://www.facebook.com/Reuters",
+                                "revision_date": "2022-11-22T01:37:41Z",
+                                "og:article:section": "ビジネス",
+                                "analyticsattributes.articledate": "2022-11-22T01:37:41Z",
+                                "dcsext.dartzone": "jp.reuters/business/article",
+                                "author": "Reuters Staff",
+                                "analyticsattributes.keywords": "CARLYLE,Asia / Pacific,Automobiles / Auto Parts (Legacy),Automobiles & Auto Parts (TRBC level 3),Company News,Electrical Components & Equipment (NEC) (TRBC level 5),Interviews,Investment Management & Fund Operators (TRBC level 4),Investment Management (TRBC level 5),News Written In Japanese,Japanese Language News,Japan,North America,United States,Wires & Cables (TRBC level 5)",
+                                "og:article:published_time": "2022-11-22T01:40:19Z",
+                                "og:article:tag": "CARLYLE,Asia / Pacific,Automobiles / Auto Parts (Legacy),Automobiles & Auto Parts (TRBC level 3),Company News,Electrical Components & Equipment (NEC) (TRBC level 5),Interviews,Investment Management & Fund Operators (TRBC level 4),Investment Management (TRBC level 5),News Written In Japanese,Japanese Language News,Japan,North America,United States,Wires & Cables (TRBC level 5)",
+                                "twitter:image:src": "https://static.reuters.com/resources/r/?m=02&d=20221122&t=2&i=1614998810&r=LYNXMPEIAL01A&w=800",
+                                "analyticsattributes.topicsubchannel": "Business",
+                                "analyticsattributes.edition": "jp",
+                                "og:locale": "ja_JP",
+                                "analyticsattributes.contenttype": "Article",
+                                "sailthru.image.full": "https://static.reuters.com/resources/r/?m=02&d=20221122&t=2&i=1614998810&r=LYNXMPEIAL01A&w=800",
+                                "sailthru.author": "Reuters Staff",
+                                "msapplication-config": "none",
+                                "analyticsattributes.title": "米カーライル、日本の自動車業界に投資機会　ＥＶシフトで＝幹部",
+                                "theme-color": "#ffffff",
+                                "analyticsattributes.topicn2codes": "ASIA,AUT,AUTO,CMPNY,ELCO1,INTER,INVM,INVMAN,JDOM,JLN,JP,NAMER,US,WIRCAB",
+                                "twitter:image": "https://static.reuters.com/resources/r/?m=02&d=20221122&t=2&i=1614998810&r=LYNXMPEIAL01A&w=800",
+                                "twitter:site": "@Reuters",
+                                "news_keywords": "CARLYLE;Asia / Pacific;Automobiles / Auto Parts (Legacy);Automobiles & Auto Parts (TRBC level 3);Company News;Electrical Components & Equipment (NEC) (TRBC level 5);Interviews;Investment Management & Fund Operators (TRBC level 4);Investment Management (TRBC level 5);News Written In Japanese;Japanese Language News;Japan;North America;United States;Wires & Cables (TRBC level 5)",
+                                "sailthru.title": "米カーライル、日本の自動車業界に投資機会　ＥＶシフトで＝幹部",
+                                "analyticsattributes.contenttitle": "米カーライル、日本の自動車業界に投資機会　ＥＶシフトで＝幹部",
+                                "analyticsattributes.canonicalurl": "https://jp.reuters.com/article/carlyle-idJPKBN2SC01Z",
+                                "analyticsattributes.channel": "Article - News",
+                                "og:article:author": "Reuters Staff",
+                                "msapplication-tilecolor": "#ff8000",
+                                "sailthru.date": "2022-11-22T01:37:41Z",
+                                "og:type": "article",
+                                "twitter:title": "米カーライル、日本の自動車業界に投資機会　ＥＶシフトで＝幹部",
+                                "og:title": "米カーライル、日本の自動車業界に投資機会　ＥＶシフトで＝幹部",
+                                "analyticsattributes.inlinetype": "Image",
+                                "analyticsattributes.keywordslug": "CARLYLE",
+                                "analyticsattributes.author": "Reuters Staff",
+                                "analyticsattributes.contentchannel": "Business - Business",
+                                "sailthru.description": "米プライベートエクイティ（ＰＥ）大手カーライル・グループでマネージングディレクターを務める寺阪令司氏はロイターとのインタビューで、日本の自動車業界に関して、電気自動車（ＥＶ）へのシフトが加速することで変革を迫られ、グローバルＰＥにとって投資機会が拡大するとの見方を示した。",
+                                "viewport": "width=device-width",
+                                "twitter:description": "米プライベートエクイティ（ＰＥ）大手カーライル・グループでマネージングディレクターを務める寺阪令司氏はロイターとのインタビューで、日本の自動車業界に関して、電気自動車（ＥＶ）へのシフトが加速することで変革を迫られ、グローバルＰＥにとって投資機会が拡大するとの見方を示した。",
+                                "analyticsattributes.topicn2names": "Asia / Pacific,Automobiles / Auto Parts (Legacy),Automobiles & Auto Parts (TRBC level 3),Company News,Electrical Components & Equipment (NEC) (TRBC level 5),Interviews,Investment Management & Fund Operators (TRBC level 4),Investment Management (TRBC level 5),News Written In Japanese,Japanese Language News,Japan,North America,United States,Wires & Cables (TRBC level 5)",
+                                "og:url": "https://jp.reuters.com/article/carlyle-idJPKBN2SC01Z"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://static.reuters.com/resources/r/?m=02&d=20221122&t=2&i=1614998810&r=LYNXMPEIAL01A&w=800"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "スケジューリング問題とは？数理最適化によるシフト作成などの ...",
+                    "htmlTitle": "スケジューリング問題とは？数理<b>最適化</b>による<b>シフト</b>作成などの ...",
+                    "link": "https://www.msiism.jp/article/solution-scheduling.html",
+                    "displayLink": "www.msiism.jp",
+                    "snippet": "2022/01/14 ... スケジューリング問題とは？数理最適化によるシフト作成などの問題解決事例のページです。MSIISMは、NTTデータ数理システムが監修する数理科学で現実 ...",
+                    "htmlSnippet": "2022/01/14 <b>...</b> スケジューリング問題とは？数理<b>最適化</b>による<b>シフト</b>作成などの問題解決事例のページです。MSIISMは、NTTデータ数理システムが監修する数理科学で現実&nbsp;...",
+                    "cacheId": "bYcfI-mYmxYJ",
+                    "formattedUrl": "https://www.msiism.jp/article/solution-scheduling.html",
+                    "htmlFormattedUrl": "https://www.msiism.jp/article/solution-scheduling.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSpILzT-fe1_fseJhFsQeiskbwhIAwhG3V4uwHtBUzAqT6hzZqtVFzQPc",
+                                "width": "269",
+                                "height": "188"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.msiism.jp/.assets/AdobeStock_290210319.jpeg",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "スケジューリング問題とは？数理最適化によるシフト作成などの問題解決事例｜NTTデータ数理システム",
+                                "og:site_name": "数理科学とコンピュータサイエンスのメディア｜MSIISM　byNTTデータ数理システム",
+                                "og:title": "スケジューリング問題とは？数理最適化によるシフト作成などの問題解決事例｜NTTデータ数理システム",
+                                "og:description": "スケジューリング問題とは？数理最適化によるシフト作成などの問題解決事例のページです。MSIISMは、NTTデータ数理システムが監修する数理科学で現実世界の問題を解決するための情報発信」メディアです。",
+                                "twitter:image": "https://www.msiism.jp/.assets/AdobeStock_290210319.jpeg",
+                                "viewport": "width=device-width, initial-scale=-100%, user-scalable=no",
+                                "twitter:description": "スケジューリング問題とは？数理最適化によるシフト作成などの問題解決事例のページです。MSIISMは、NTTデータ数理システムが監修する数理科学で現実世界の問題を解決するための情報発信」メディアです。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.msiism.jp/article/solution-scheduling.html",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.msiism.jp/.assets/AdobeStock_290210319.jpeg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "小売業向けシフト管理システムまとめ｜最適な人員配置で人件費 ...",
+                    "htmlTitle": "小売<b>業</b>向け<b>シフト</b>管理システムまとめ｜<b>最適</b>な人員配置で人件費 ...",
+                    "link": "https://hrnote.jp/contents/a-contents-roumu-shihutokouri-20180908/",
+                    "displayLink": "hrnote.jp",
+                    "snippet": "2018/09/08 ... シフトの自動作成や労働時間の自動集計 シフト管理機能以外にも ... シフト管理で生産性向上 シフト管理やシフト作成の高度化を通して、店舗における ...",
+                    "htmlSnippet": "2018/09/08 <b>...</b> <b>シフト</b>の<b>自動</b>作成や労働時間の<b>自動</b>集計 <b>シフト</b>管理機能以外にも ... <b>シフト</b>管理で生産性向上 <b>シフト</b>管理や<b>シフト</b>作成の高度化を通して、店舗における&nbsp;...",
+                    "cacheId": "RQB4C3uOLN4J",
+                    "formattedUrl": "https://hrnote.jp/contents/a-contents-roumu-shihutokouri-20180908/",
+                    "htmlFormattedUrl": "https://hrnote.jp/contents/a-contents-roumu-shihutokouri-20180908/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_dRXHhBWOPyl-hvK8vBXw78m1GfFbbl7EPzIsb_h8VvsgCfkEXiUtNM0",
+                                "width": "295",
+                                "height": "171"
+                            }
+                        ],
+                        "BreadcrumbList": [
+                            {}
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://hrnote.jp/wp/wp-content/uploads/2018/09/12001.png",
+                                "og:type": "article",
+                                "og:image:width": "1200",
+                                "article:published_time": "2018-09-11T03:20:09+00:00",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "小売業向けシフト管理システムまとめ｜最適な人員配置で人件費削減 | 人事部から企業成長を応援するメディアHR NOTE",
+                                "og:site_name": "人事の成長から、企業の成長を応援するメディア HR NOTE",
+                                "og:title": "小売業向けシフト管理システムまとめ｜最適な人員配置で人件費削減 | 人事部から企業成長を応援するメディアHR NOTE",
+                                "og:image:height": "694",
+                                "msapplication-tileimage": "https://hrnote.jp/wp/wp-content/uploads/2021/06/cropped-icon-logo-270x270.png",
+                                "og:description": "小売業にとって、シフト管理は重要な業務です。必要以上の従業員数で一日のシフトを組んでしまうと、人件費が予算を超えてしまうことがあります。しかし、季節や曜日、天候などの偶発的な要因でによって来客数が異なることがあるので、最適な人員配置が難しいのがシフト作成の難しいところです。また、学生のアルバイトが多い店舗であれば、テス",
+                                "og:image:secure_url": "https://hrnote.jp/wp/wp-content/uploads/2018/09/12001.png",
+                                "article:publisher": "https://www.facebook.com/hrnote.edi",
+                                "twitter:image": "https://hrnote.jp/wp/wp-content/uploads/2018/09/12001.png",
+                                "twitter:site": "@HRNOTE_edi",
+                                "article:modified_time": "2023-06-06T01:07:28+00:00",
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0",
+                                "twitter:description": "小売業にとって、シフト管理は重要な業務です。必要以上の従業員数で一日のシフトを組んでしまうと、人件費が予算を超えてしまうことがあります。しかし、季節や曜日、天候などの偶発的な要因でによって来客数が異なることがあるので、最適な人員配置が難しいのがシフト作成の難しいところです。また、学生のアルバイトが多い店舗であれば、テス",
+                                "og:locale": "ja_JP",
+                                "position": "1",
+                                "og:url": "https://hrnote.jp/contents/a-contents-roumu-shihutokouri-20180908/",
+                                "format-detection": "email=no,telephone=no,address=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://hrnote.jp/wp/wp-content/uploads/2018/09/12001.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "AIと量子コンピュータで「注文量の予測」と「シフト計画を最適化 ...",
+                    "htmlTitle": "AIと量子コンピュータで「注文量の予測」と「<b>シフト</b>計画を<b>最適化</b> ...",
+                    "link": "https://robotstart.info/2021/09/30/groovenauts-ai-quantum-computer.html",
+                    "displayLink": "robotstart.info",
+                    "snippet": "2021/09/30 ... ... シフト計画の最適化に関して、業界共通のモデル構築に取り組む。各社が ... 約130名を対象にしたシフト表の自動作成が約4分で実現している。 シフト ...",
+                    "htmlSnippet": "2021/09/30 <b>...</b> ... <b>シフト</b>計画の<b>最適化</b>に関して、<b>業界</b>共通のモデル構築に取り組む。各社が ... 約130名を対象にした<b>シフト</b>表の<b>自動</b>作成が約4分で実現している。 <b>シフト</b>&nbsp;...",
+                    "cacheId": "uVLTkDDxHhAJ",
+                    "formattedUrl": "https://robotstart.info/2021/09/30/groovenauts-ai-quantum-computer.html",
+                    "htmlFormattedUrl": "https://robotstart.info/2021/09/30/groovenauts-ai-quantum-computer.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRsl9x-E1cb2yqo9FG6L1XcCsyg6HKNxxdUNj_TG24uXrI2NmqYfW5nR5M",
+                                "width": "304",
+                                "height": "165"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://robotstart.info/wp-content/uploads/2021/09/groovenauts-ai-Quantum-computer.png",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "AIと量子コンピュータで「注文量の予測」と「シフト計画を最適化」 グルーヴノーツが経産省「革新的ロボット研究開発」に参画 - ロボスタ ロボスタ - ロボット情報WEBマガジン",
+                                "article:published_time": "2021-09-30T05:35:48+00:00",
+                                "og:site_name": "ロボスタ",
+                                "og:title": "AIと量子コンピュータで「注文量の予測」と「シフト計画を最適化」 グルーヴノーツが経産省「革新的ロボット研究開発」に参画 - ロボスタ ロボスタ - ロボット情報WEBマガジン",
+                                "og:description": "シェア 93 ツイート 0 はてブ 4 量子コンピュータ関連ビジネスを手掛ける株式会社グルーヴノーツは、AIや量子コンピュータを活用して工場の生産活動を最適化する取り組みにおいて、経済産業省が推進する令和3年度「革新的ロ […]",
+                                "twitter:image:src": "https://robotstart.info/wp-content/uploads/2021/09/groovenauts-ai-Quantum-computer.png",
+                                "fb:app_id": "1718080128411058",
+                                "article:modified_time": "2022-03-30T09:33:18+00:00",
+                                "viewport": "width=device-width,initial-scale=1.0,user-scalable=no",
+                                "twitter:description": "ロボット情報WEBマガジン",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://robotstart.info/2021/09/30/groovenauts-ai-quantum-computer.html"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://robotstart.info/wp-content/uploads/2021/09/groovenauts-ai-Quantum-computer.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "ヤマダホールディングス、小売業・サービス業向けシフト管理 ...",
+                    "htmlTitle": "ヤマダホールディングス、小売<b>業</b>・サービス<b>業</b>向け<b>シフト</b>管理 ...",
+                    "link": "https://tenpodx.com/dxnews_20220124_001/",
+                    "displayLink": "tenpodx.com",
+                    "snippet": "2022/01/24 ... アールシフトによるワークスケジュールの再定義や自動作成、シフト管理業務全体 ... ウェブサイト上での商品検索導線の最適化を ...",
+                    "htmlSnippet": "2022/01/24 <b>...</b> アール<b>シフト</b>によるワークスケジュールの再定義や<b>自動</b>作成、<b>シフト</b>管理業務全体 ... ウェブサイト上での商品検索導線の<b>最適化</b>を&nbsp;...",
+                    "cacheId": "N5B4KGty8owJ",
+                    "formattedUrl": "https://tenpodx.com/dxnews_20220124_001/",
+                    "htmlFormattedUrl": "https://tenpodx.com/dxnews_20220124_001/",
+                    "pagemap": {
+                        "hcard": [
+                            {
+                                "fn": "NamiShibuya",
+                                "nickname": "NamiShibuya"
+                            }
+                        ],
+                        "wpfooter": [
+                            {
+                                "copyrightholder": "Datasection Inc.",
+                                "headline": "全国交通ICカード比較まとめ43選"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8FPqqOncRMnMYMDfNMo5oodfxPxcbjvU7zPaj0iBrKDGx1OdJY_GJ7B0",
+                                "width": "300",
+                                "height": "168"
+                            }
+                        ],
+                        "imageobject": [
+                            {
+                                "width": "640",
+                                "url": "https://tenpodx.com/wp-content/uploads/2022/05/全国交通ICカード-比較まとめ-640x360.jpg",
+                                "height": "360"
+                            },
+                            {
+                                "width": "640",
+                                "url": "https://tenpodx.com/wp-content/uploads/2021/09/excel_storesaletemplate_webp-640x360.webp",
+                                "height": "360"
+                            },
+                            {
+                                "width": "640",
+                                "url": "https://tenpodx.com/wp-content/uploads/2022/12/2023年年末年始記事-640x360.webp",
+                                "height": "360"
+                            },
+                            {
+                                "width": "640",
+                                "url": "https://tenpodx.com/wp-content/uploads/2022/02/【イオン公式アプリ】インストールから登録、便利な機能について徹底解説！-640x360.webp",
+                                "height": "360"
+                            },
+                            {
+                                "width": "640",
+                                "url": "https://tenpodx.com/wp-content/uploads/2022/01/【圧縮】タイトル_業務スーパーアプリ『gyomuca』の使い方と『gyomuca』のポイント還元を解説-640x360.webp",
+                                "height": "360"
+                            }
+                        ],
+                        "person": [
+                            {
+                                "name": "NamiShibuya"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://tenpodx.com/wp-content/uploads/2022/01/title_20220124_001.webp",
+                                "cdp-version": "1.1.7",
+                                "og:type": "blog",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "店舗運営に役立つ情報メディアTENPODX",
+                                "twitter:site": "@DXcom3",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "ヤマダホールディングス、小売業・サービス業向けシフト管理システム「アールシフト」を導入｜店舗運営に役立つ情報メディアTENPODX",
+                                "fb:admins": "102022208869121",
+                                "og:url": "https://tenpodx.com/dxnews_20220124_001/",
+                                "msapplication-tileimage": "https://tenpodx.com/wp-content/uploads/2022/12/cropped-fabicon-270x270.png",
+                                "og:description": "株式会社ヤマダホールディングスは、オーエムネットワーク株式会社が提供する小売業・サービス業向けシフト管理システム「アールシフト」を導入することになりました。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://tenpodx.com/wp-content/uploads/2022/01/title_20220124_001.webp"
+                            }
+                        ],
+                        "hatomfeed": [
+                            {}
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "シフト管理システム一覧比較！7サービスの価格や機能、特徴を徹底 ...",
+                    "htmlTitle": "<b>シフト</b>管理システム一覧比較！7サービスの価格や機能、特徴を徹底 ...",
+                    "link": "https://saas.imitsu.jp/cate-shift-management/serviceList",
+                    "displayLink": "saas.imitsu.jp",
+                    "snippet": "最適化AIによるシフト表の自動作成が特徴。複雑なシフト表もボタン1つでカンタン ... 従来これらの業界のシフト管理は手作業が中心で、いまだに紙やExcelで作成・管理し ...",
+                    "htmlSnippet": "<b>最適化</b>AIによる<b>シフト</b>表の<b>自動</b>作成が特徴。複雑な<b>シフト</b>表もボタン1つでカンタン ... 従来これらの<b>業界</b>の<b>シフト</b>管理は手作業が中心で、いまだに紙やExcelで作成・管理し&nbsp;...",
+                    "cacheId": "FIFKznEs3xMJ",
+                    "formattedUrl": "https://saas.imitsu.jp/cate-shift-management/serviceList",
+                    "htmlFormattedUrl": "https://saas.imitsu.jp/cate-shift-management/serviceList",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjZFSDge-0Mh-IoQe5WyGAbOuChk6K2hLT75vHVADq_VpDlUiQiiSsXCg",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://saas.imitsu.jp/images/ogp.png",
+                                "og:type": "website",
+                                "og:site_name": "アイミツSaaS",
+                                "viewport": "width=device-width, initial-scale=1, user-scalable=no",
+                                "og:title": "シフト管理システム一覧比較！7サービスの価格や機能、特徴を徹底比較｜アイミツSaaS",
+                                "og:url": "https://saas.imitsu.jp/cate-shift-management/serviceList",
+                                "og:description": "最新のシフト管理システム7サービスの価格や機能、特徴などをまとめてご紹介！ 機能や業界などの導入実績での絞り込みも可能。さらに【比較表機能】で、最大6サービスの料金や無料・トライアルプランの有無、機能、連携サービス、導入実績などを簡単比較。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://saas.imitsu.jp/images/ogp.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Optamo | 兼松コミュニケーションズ",
+                    "htmlTitle": "Optamo | 兼松コミュニケーションズ",
+                    "link": "https://www.kcs.ne.jp/bizservice/solution/optamo",
+                    "displayLink": "www.kcs.ne.jp",
+                    "snippet": "最適なシフト作成・管理工程をワンクリックで自動作成。 効率化、脱属人化、人材の有効活用など様々な角度から改善します。 Optamo for Shiftの ...",
+                    "htmlSnippet": "<b>最適</b>な<b>シフト</b>作成・管理工程をワンクリックで<b>自動</b>作成。 効率化、脱属人化、人材の有効活用など様々な角度から改善します。 Optamo for Shiftの&nbsp;...",
+                    "cacheId": "l6ahor91rIoJ",
+                    "formattedUrl": "https://www.kcs.ne.jp/bizservice/solution/optamo",
+                    "htmlFormattedUrl": "https://www.kcs.ne.jp/bizservice/solution/optamo",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_e0T_H3vKBODY95f1vqwxzgn9YXX6xNtQt5dAPceHRSdjlD3uZ074gTDO",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://d2v9xgxnew66g.cloudfront.net/96cf702894d98e8a14237a827ca08a2a/common/img_ogp.jpg?1666331144",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "twitter:domain": "kcs.ne.jp",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "Optamo | 兼松コミュニケーションズ",
+                                "og:url": "https://www.kcs.ne.jp/bizservice/solution/optamo",
+                                "og:description": "一次代理店として移動体通信機器及び関連機器の販売、スマートデバイスのセキュリティ管理、サポートサービス等モバイル機器を通したソリューション・サービスをご提案する兼松コミュニケーションズのOptamoをご紹介いたします",
+                                "format-detection": "telephone=no",
+                                "facebook-domain-verification": "hzu23pbwrxuxh9zrnhnvb6za3ij05n"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://d2v9xgxnew66g.cloudfront.net/96cf702894d98e8a14237a827ca08a2a/common/img_ogp.jpg?1666331144"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

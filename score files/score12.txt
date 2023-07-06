@@ -1,0 +1,12 @@
+Query: 会社 データ収集
+
+[0.0,	https://ai-market.jp/services/data-collection_company/]
+[0.0,	https://www.keywalker.co.jp/]
+[0.0,	https://www.uluru-bpo.jp/work/data_collection]
+[0.0,	https://www.hitachi-systems.com/solution/s0311/iotservice/]
+[0.0,	https://azuremarketplace.microsoft.com/ar-sa/marketplace/consulting-services/1599701004146.simple_iot_gateway?country=JP&filters=automotive&page=2]
+[0.0,	https://www.kk-icon.co.jp/product/leader/leader.html]
+[0.2596058228481084,	https://www.tatsuzin.info/products_dt/]
+[0.0,	https://www.niigataseiki.co.jp/products/jan4975846010369/]
+[0.0,	https://www.nidec.com/jp/nidec-advancetechnology/product/search/category/B104/M112/S100/NRCJ-DEWE2-A/]
+[0.2878334388901748,	https://www.kri-inc.jp/tech/result/07-04.html]

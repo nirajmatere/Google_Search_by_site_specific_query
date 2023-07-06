@@ -1,0 +1,1410 @@
+{
+    "query": "企業 資料ダウンロード",
+    "links": [
+        [
+            "https://ferret-plus.com/1673",
+            "https://www.profuture.co.jp/mk/column/25439",
+            "https://www.jfc.go.jp/n/service/dl_kokumin.html",
+            "https://www.smrj.go.jp/kyosai/skyosai/entry/request/index.html",
+            "https://www.nippan.co.jp/company/documents_download/",
+            "https://enpreth.jp/media/white-paper-site/",
+            "https://www.uvc.co.jp/company/document.html",
+            "https://www.forcas.com/document/",
+            "https://mfkessai.co.jp/kessai-download-form/document",
+            "https://www2.city.sapporo.jp/invest/request/"
+        ],
+        [
+            "https://www.jtbbwt.com/business/documents/solution/",
+            "https://corporatemuseum.tanseisha.co.jp/download/",
+            "https://www.tanabeconsulting.co.jp/vision/document/",
+            "https://www.no-harassment.mhlw.go.jp/download/",
+            "https://www.city.fukuoka.lg.jp/keizai/k-yuchi/business/dd.html",
+            "https://www.savechildren.or.jp/partnership/documents/",
+            "https://www.jtbcom.co.jp/download/",
+            "https://cloudcircus.jp/download/",
+            "https://www.pref.toyama.jp/1307/sangyou/shoukoukensetsu/kigyouricchi/top/shiryootoiawase/download.html",
+            "https://www.rs-is.co.jp/client-dl_001/"
+        ],
+        [
+            "https://www.rs-is.co.jp/client-dl_001/",
+            "https://www.kyoeisteel.co.jp/ja/company/download.html",
+            "https://legal.fronteo.com/fllp/quinnemanuel/webinar003",
+            "https://www.daj.jp/bs/prmt/",
+            "https://nocoinc.co.jp/media/sales-materials/documentdownload",
+            "http://www.mizuho-factor.co.jp/dl/",
+            "https://www.ycg-advisory.jp/learning/download/",
+            "https://www.jti.co.jp/corporate/data_download/",
+            "https://btob.medix-inc.co.jp/blog/document-download",
+            "https://www.murc.jp/small_business_strategy_documet_dl_smb/"
+        ]
+    ],
+    "snapshot_ymd": "D2023-06-23",
+    "snapshot_timestamp": "D2023-06-23T01-26-54",
+    "responses": [
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "request": [
+                    {
+                        "title": "Google Custom Search - 企業 資料ダウンロード",
+                        "totalResults": "135000000",
+                        "searchTerms": "企業 資料ダウンロード",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 企業 資料ダウンロード",
+                        "totalResults": "135000000",
+                        "searchTerms": "企業 資料ダウンロード",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.333881,
+                "formattedSearchTime": "0.33",
+                "totalResults": "135000000",
+                "formattedTotalResults": "135,000,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "企業のノウハウが凝縮されたダウンロード資料11選｜ferret",
+                    "htmlTitle": "<b>企業</b>のノウハウが凝縮された<b>ダウンロード資料</b>11選｜ferret",
+                    "link": "https://ferret-plus.com/1673",
+                    "displayLink": "ferret-plus.com",
+                    "snippet": "2018/06/28 ... ダウンロード資料一覧. 1.バズ部式コンテンツマーケティング SEOの上位表示を独占しPPC広告費を1/10にして売上を倍増させるため ...",
+                    "htmlSnippet": "2018/06/28 <b>...</b> <b>ダウンロード資料</b>一覧. 1.バズ部式コンテンツマーケティング SEOの上位表示を独占しPPC広告費を1/10にして売上を倍増させるため&nbsp;...",
+                    "cacheId": "ewmUSHXqboUJ",
+                    "formattedUrl": "https://ferret-plus.com/1673",
+                    "htmlFormattedUrl": "https://ferret-plus.com/1673",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFQ07LryIRtl-Ds41tYLbTv_I_42Kpqx1R2wy23uUtBne9HZQJDSqMLkRZ",
+                                "width": "259",
+                                "height": "194"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://ferret.akamaized.net/uploads/article/1673/eyecatch/default-3c0b297d25bc3f564f755792be79ce93.jpeg",
+                                "twitter:card": "summary_large_image",
+                                "fb:app_id": "772547789472030",
+                                "twitter:site": "@ferretplus",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "og:title": "企業のノウハウが凝縮されたダウンロード資料11選",
+                                "apple-mobile-web-app-title": "ferret",
+                                "csrf-token": "O7v30ranxgAk757WJ2EsiZNarg3eM+yUryzq+kLG1PmgFXyEQVN2bsoBcwljt8K1W9qjd8Sz5Zi+fjrgc3r1MQ==",
+                                "og:url": "https://ferret-plus.com/1673",
+                                "csrf-param": "authenticity_token",
+                                "og:description": "企業のホームページ担当の皆様は日々情報収集をおこなっていることと思いますが、その情報入手先としてオススメしたいのが企業が配布しているダウンロード資料です。今回は、企業が配布している無料のダウンロード資料をご紹介します。気になるものがあればぜひダウンロードしてみてください。",
+                                "twitter:image": "https://ferret.akamaized.net/uploads/article/1673/eyecatch/default-3c0b297d25bc3f564f755792be79ce93.jpeg"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://ferret.akamaized.net/uploads/article/1673/eyecatch/default-3c0b297d25bc3f564f755792be79ce93.jpeg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ferret",
+                                "name": "ferret",
+                                "position": "1"
+                            },
+                            {
+                                "item": "記事をさがす",
+                                "name": "記事をさがす",
+                                "position": "2"
+                            },
+                            {
+                                "item": "Web広告",
+                                "name": "Web広告",
+                                "position": "3"
+                            },
+                            {
+                                "name": "企業のノウハウが凝縮されたダウンロード資料11選",
+                                "position": "4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "SaaS企業に学ぶ、BtoBサイトの資料ダウンロードページ作成 ...",
+                    "htmlTitle": "SaaS<b>企業</b>に学ぶ、BtoBサイトの<b>資料ダウンロード</b>ページ作成 ...",
+                    "link": "https://www.profuture.co.jp/mk/column/25439",
+                    "displayLink": "www.profuture.co.jp",
+                    "snippet": "2021/08/03 ... 資料ダウンロードは、情報収集を目的にWebサイトに訪れた見込み顧客に対し、製品・サービスの紹介資料やお役立ち情報をまとめたホワイトペーパーを提供 ...",
+                    "htmlSnippet": "2021/08/03 <b>...</b> <b>資料ダウンロード</b>は、情報収集を目的にWebサイトに訪れた見込み顧客に対し、製品・サービスの紹介資料やお役立ち情報をまとめたホワイトペーパーを提供&nbsp;...",
+                    "cacheId": "tyPeKkDz4KUJ",
+                    "formattedUrl": "https://www.profuture.co.jp/mk/column/25439",
+                    "htmlFormattedUrl": "https://www.profuture.co.jp/mk/column/25439",
+                    "pagemap": {
+                        "BreadcrumbList": [
+                            {}
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.profuture.co.jp/mk/wp-content/uploads/2021/08/iStock-1289791880_SaaS企業に学ぶ、BtoBサイトの資料ダウンロードページ作成ポイント-1.jpg",
+                                "og:type": "article",
+                                "og:image:width": "1291",
+                                "article:published_time": "2021-08-03T11:05:46+00:00",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "SaaS企業に学ぶ、BtoBサイトの資料ダウンロードページ作成ポイント | MarkeTRUNK",
+                                "og:site_name": "ProFuture マーケティングソリューション",
+                                "og:title": "SaaS企業に学ぶ、BtoBサイトの資料ダウンロードページ作成ポイント | MarkeTRUNK",
+                                "og:image:height": "813",
+                                "msapplication-tileimage": "https://www.profuture.co.jp/mk/wp-content/uploads/2020/03/cropped-fav-270x270.png",
+                                "og:description": "見込み顧客の獲得チャネルの1つに資料ダウンロードがあります。資料ダウンロードは、情報収集を目的にWebサイトに",
+                                "og:image:secure_url": "https://www.profuture.co.jp/mk/wp-content/uploads/2021/08/iStock-1289791880_SaaS企業に学ぶ、BtoBサイトの資料ダウンロードページ作成ポイント-1.jpg",
+                                "twitter:image": "https://www.profuture.co.jp/mk/wp-content/uploads/2021/08/iStock-1289791880_SaaS企業に学ぶ、BtoBサイトの資料ダウンロードページ作成ポイント-1.jpg",
+                                "url": "https://www.profuture.co.jp/mk/column/25439",
+                                "article:modified_time": "2022-07-22T04:04:02+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "見込み顧客の獲得チャネルの1つに資料ダウンロードがあります。資料ダウンロードは、情報収集を目的にWebサイトに",
+                                "og:locale": "ja_JP",
+                                "position": "1",
+                                "og:url": "https://www.profuture.co.jp/mk/column/25439"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "各種書式ダウンロード｜国民生活事業｜日本政策金融公庫",
+                    "htmlTitle": "各種書式<b>ダウンロード</b>｜国民生活事業｜日本政策金融公庫",
+                    "link": "https://www.jfc.go.jp/n/service/dl_kokumin.html",
+                    "displayLink": "www.jfc.go.jp",
+                    "snippet": "小企業の標準的な経営指標です。 -. 経営改善計画書策定の手引, 経営改善計画書（公庫提出用）の策定にあたっての参考資料です。",
+                    "htmlSnippet": "小<b>企業</b>の標準的な経営指標です。 -. 経営改善計画書策定の手引, 経営改善計画書（公庫提出用）の策定にあたっての参考<b>資料</b>です。",
+                    "cacheId": "dd8bLRhU-2cJ",
+                    "formattedUrl": "https://www.jfc.go.jp/n/service/dl_kokumin.html",
+                    "htmlFormattedUrl": "https://www.jfc.go.jp/n/service/dl_kokumin.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTndJ006tG4grVLPDs9jVmNsCTatrUpbiibjjUkCaW21VkT-vyo2MJdago",
+                                "width": "166",
+                                "height": "85"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=980, user-scalable=yes"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.jfc.go.jp/n/service/img/bnr_internet.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料請求｜小規模企業共済（中小機構）",
+                    "htmlTitle": "<b>資料</b>請求｜小規模<b>企業</b>共済（中小機構）",
+                    "link": "https://www.smrj.go.jp/kyosai/skyosai/entry/request/index.html",
+                    "displayLink": "www.smrj.go.jp",
+                    "snippet": "小規模企業共済についての資料をダウンロード、もしくはご請求いただけます。 PDF. PDF形式でダウンロードできます。 資料請求フォーム. 資料請求 ...",
+                    "htmlSnippet": "小規模<b>企業</b>共済についての<b>資料</b>を<b>ダウンロード</b>、もしくはご請求いただけます。 PDF. PDF形式で<b>ダウンロード</b>できます。 <b>資料</b>請求フォーム. <b>資料</b>請求&nbsp;...",
+                    "cacheId": "7bsFoKSEbwsJ",
+                    "formattedUrl": "https://www.smrj.go.jp/kyosai/skyosai/entry/request/index.html",
+                    "htmlFormattedUrl": "https://www.smrj.go.jp/kyosai/skyosai/entry/request/index.html",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "og:image": "/common/img/og_image.jpg",
+                                "og:type": "article",
+                                "og:site_name": "独立行政法人 中小企業基盤整備機構",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "独立行政法人 中小企業基盤整備機構",
+                                "og:url": "https://www.smrj.go.jp/index.html",
+                                "og:description": "中小機構は、中小企業政策の実施機関として、成長ステージや経営課題に応じた支援メニューで中小企業の成長をサポートします。",
+                                "format-detection": "telephone=no, email=no, address=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "/common/img/og_image.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロード｜企業情報｜日本出版販売株式会社｜出版取次 ...",
+                    "htmlTitle": "<b>資料ダウンロード</b>｜<b>企業</b>情報｜日本出版販売株式会社｜出版取次 ...",
+                    "link": "https://www.nippan.co.jp/company/documents_download/",
+                    "displayLink": "www.nippan.co.jp",
+                    "snippet": "当社会社案内や取り組み事例資料ダウンロードのご紹介です。私たち日本出版販売株式会社（日販）は、1949（昭和24）年の創業以来、書籍・雑誌の流通を担う出版販売 ...",
+                    "htmlSnippet": "当社会社案内や取り組み事例<b>資料ダウンロード</b>のご紹介です。私たち日本出版販売株式会社（日販）は、1949（昭和24）年の創業以来、書籍・雑誌の流通を担う出版販売&nbsp;...",
+                    "cacheId": "1TFj8xZrHUYJ",
+                    "formattedUrl": "https://www.nippan.co.jp/company/documents_download/",
+                    "htmlFormattedUrl": "https://www.nippan.co.jp/company/documents_download/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwh6KPFt5Y9XRFaQSTdW_58sG3UPcmQNVqDM8vX6KVAlqy0N4HeO0FPC0",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.nippan.co.jp/wp-content/themes/nippan.co.jp/img/common/ogp.png",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "資料ダウンロード｜企業情報｜日本出版販売株式会社｜出版取次・出版流通",
+                                "og:site_name": "日本出版販売株式会社｜出版取次・出版流通",
+                                "viewport": "viewport-fit=cover,width=375",
+                                "twitter:description": "当社会社案内や取り組み事例資料ダウンロードのご紹介です。私たち日本出版販売株式会社（日販）は、1949（昭和24）年の創業以来、書籍・雑誌の流通を担う出版販売会社（出版取次）として、文化の普及発展に貢献すべく、不断の努力を続けてまいりました。現在では国内最大規模の出版販売会社としての地位を確固たるものとしております。",
+                                "og:title": "資料ダウンロード｜企業情報｜日本出版販売株式会社｜出版取次・出版流通",
+                                "og:url": "https://www.nippan.co.jp/company/documents_download/",
+                                "og:description": "当社会社案内や取り組み事例資料ダウンロードのご紹介です。私たち日本出版販売株式会社（日販）は、1949（昭和24）年の創業以来、書籍・雑誌の流通を担う出版販売会社（出版取次）として、文化の普及発展に貢献すべく、不断の努力を続けてまいりました。現在では国内最大規模の出版販売会社としての地位を確固たるものとしております。",
+                                "twitter:image": "https://www.nippan.co.jp/wp-content/themes/nippan.co.jp/img/common/ogp.png",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.nippan.co.jp/wp-content/themes/nippan.co.jp/img/common/ogp.png"
+                            }
+                        ],
+                        "sitenavigationelement": [
+                            {
+                                "name": "トップメッセージ",
+                                "url": "トップメッセージ"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【20選】欲しい資料がすぐ見つかるダウンロードサイトまとめ ...",
+                    "htmlTitle": "【20選】欲しい<b>資料</b>がすぐ見つかる<b>ダウンロード</b>サイトまとめ ...",
+                    "link": "https://enpreth.jp/media/white-paper-site/",
+                    "displayLink": "enpreth.jp",
+                    "snippet": "2023/05/03 ... あの成長企業や有名企業のIT活用も知ることができます。ユーザーの1万件を超えるリアルな評価や体験談と、ベンダー製品担当者の思いや導入事例も聞ける ...",
+                    "htmlSnippet": "2023/05/03 <b>...</b> あの成長<b>企業</b>や有名<b>企業</b>のIT活用も知ることができます。ユーザーの1万件を超えるリアルな評価や体験談と、ベンダー製品担当者の思いや導入事例も聞ける&nbsp;...",
+                    "cacheId": "UfNu7_Nxn-EJ",
+                    "formattedUrl": "https://enpreth.jp/media/white-paper-site/",
+                    "htmlFormattedUrl": "https://enpreth.jp/media/white-paper-site/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIoxG9O0jUB67VUe4Euc1KSnBtE7FQ8dm-QDoSGJETxmXrm1R9GQomIz9O",
+                                "width": "284",
+                                "height": "177"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "p:domain_verify": "239b8eeec4a1714f1acbff226040213f",
+                                "twitter:title": "【20選】欲しい資料がすぐ見つかるダウンロードサイトまとめ",
+                                "twitter:card": "summary_large_image",
+                                "twitter:site": "@pl_enpreth",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "資料ダウンロード（ホワイトペーパー）を手軽にダウンロードや請求できるポータルサイトを活用して、ビジネスを加速させていきましょう。",
+                                "twitter:image": "https://enpreth.jp/wp-content/uploads/2020/11/white-paper-site.jpg"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://enpreth.jp/wp-content/uploads/2020/11/white-paper-site.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロード｜企業情報｜株式会社ユニバンス",
+                    "htmlTitle": "<b>資料ダウンロード</b>｜<b>企業</b>情報｜株式会社ユニバンス",
+                    "link": "https://www.uvc.co.jp/company/document.html",
+                    "displayLink": "www.uvc.co.jp",
+                    "snippet": "製品カタログ · ハイブリッドトラック用モータージェネレータギヤボックス · SUVおよび乗用車専用フルタイム4WDトランスファー · SUV・ピックアップ用パートタイム4WD ...",
+                    "htmlSnippet": "製品カタログ &middot; ハイブリッドトラック用モータージェネレータギヤボックス &middot; SUVおよび乗用車専用フルタイム4WDトランスファー &middot; SUV・ピックアップ用パートタイム4WD&nbsp;...",
+                    "cacheId": "UgE3nurm_NoJ",
+                    "formattedUrl": "https://www.uvc.co.jp/company/document.html",
+                    "htmlFormattedUrl": "https://www.uvc.co.jp/company/document.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvrK_7nDFep3s5Khugr5j1j8s278Cgrwkp9e5f85OSxRUlriX9i4hDDHA",
+                                "width": "300",
+                                "height": "168"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "twitter:title": "資料ダウンロード｜企業情報｜株式会社ユニバンス",
+                                "twitter:card": "summary",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "author": "株式会社ユニバンス",
+                                "twitter:description": "駆動系ユニット専門メーカーユニバンスの会社案内パンフレット、製品カタログ等を掲載しています。",
+                                "og:title": "資料ダウンロード｜企業情報｜株式会社ユニバンス",
+                                "og:url": "https://www.uvc.co.jp/company/document.html",
+                                "og:description": "駆動系ユニット専門メーカーユニバンスの会社案内パンフレット、製品カタログ等を掲載しています。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://no-cache.hubspot.com/cta/default/4267900/9d50e4b4-ce42-492f-8d4e-0b1f76837c2d.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "FORCAS資料ダウンロード | FORCAS（フォーカス）｜営業DX ...",
+                    "htmlTitle": "FORCAS<b>資料ダウンロード</b> | FORCAS（フォーカス）｜営業DX ...",
+                    "link": "https://www.forcas.com/document/",
+                    "displayLink": "www.forcas.com",
+                    "snippet": "FORCASの機能や独自の企業データを紹介する資料をすぐにダウンロードしていただけます。 必要事項をご記入の上、ご送信ください。 □ この資料でわかること □",
+                    "htmlSnippet": "FORCASの機能や独自の<b>企業</b>データを紹介する<b>資料</b>をすぐに<b>ダウンロード</b>していただけます。 必要事項をご記入の上、ご送信ください。 □ この<b>資料</b>でわかること □",
+                    "cacheId": "STQjSxZl09YJ",
+                    "formattedUrl": "https://www.forcas.com/document/",
+                    "htmlFormattedUrl": "https://www.forcas.com/document/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnXBt9tQL15TrvwIZ684seNlnhG2s2IEFeCiL8YZZZNcKFeGE1PuiREvA",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.forcas.com/images/ogp-2.png",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "FORCAS（フォーカス）｜営業DXソリューション｜企業データベースと顧客分析",
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=6.0",
+                                "og:title": "FORCAS資料ダウンロード | FORCAS（フォーカス）｜営業DXソリューション｜企業データベースと顧客分析",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.forcas.com/document/",
+                                "og:description": "こちらのページからFORCASの概要資料ダウンロードをお申し込みいただけます。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.forcas.com/images/ogp-2.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロード（サービス資料） | 企業間請求代行・決済代行 ...",
+                    "htmlTitle": "<b>資料ダウンロード</b>（サービス資料） | <b>企業</b>間請求代行・決済代行 ...",
+                    "link": "https://mfkessai.co.jp/kessai-download-form/document",
+                    "displayLink": "mfkessai.co.jp",
+                    "snippet": "企業間請求代行・決済代行サービス「マネーフォワード ケッサイ」のサービス紹介資料を無料でダウンロードいただけます。3分程度で確認いただけるマネーフォワード ...",
+                    "htmlSnippet": "<b>企業</b>間請求代行・決済代行サービス「マネーフォワード ケッサイ」のサービス紹介<b>資料</b>を無料で<b>ダウンロード</b>いただけます。3分程度で確認いただけるマネーフォワード&nbsp;...",
+                    "cacheId": "SXTGGSxqRgYJ",
+                    "formattedUrl": "https://mfkessai.co.jp/kessai-download-form/document",
+                    "htmlFormattedUrl": "https://mfkessai.co.jp/kessai-download-form/document",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTvR7ag5JXKIVljLEPqM4u7aMNsyzP8EgERCNNWLJIR7Mw0smeXbP60YQ",
+                                "width": "299",
+                                "height": "168"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://assets-global.website-files.com/5f963e49419b8c8ec7739109/633e1cd75fcbd6ddc3cecc0a_MoneyForwardKessai_service_introduction_%E3%83%9A%E3%83%BC%E3%82%B8_01.png",
+                                "twitter:title": "資料ダウンロード（サービス資料） | 企業間請求代行・決済代行サービス「マネーフォワード ケッサイ」",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "企業間請求代行・決済代行サービス「マネーフォワード ケッサイ」のサービス紹介資料を無料でダウンロードいただけます。3分程度で確認いただけるマネーフォワード ケッサイの魅力を紹介しています。マネーフォサードケッサイ株式会社は東証プライム上場「株式会社マネーフォワード」の100%子会社です。",
+                                "og:title": "資料ダウンロード（サービス資料） | 企業間請求代行・決済代行サービス「マネーフォワード ケッサイ」",
+                                "og:description": "企業間請求代行・決済代行サービス「マネーフォワード ケッサイ」のサービス紹介資料を無料でダウンロードいただけます。3分程度で確認いただけるマネーフォワード ケッサイの魅力を紹介しています。マネーフォサードケッサイ株式会社は東証プライム上場「株式会社マネーフォワード」の100%子会社です。",
+                                "twitter:image": "https://assets-global.website-files.com/5f963e49419b8c8ec7739109/633e1cd75fcbd6ddc3cecc0a_MoneyForwardKessai_service_introduction_%E3%83%9A%E3%83%BC%E3%82%B8_01.png"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://assets-global.website-files.com/5f963e49419b8c8ec7739109/633e1cd75fcbd6ddc3cecc0a_MoneyForwardKessai_service_introduction_%E3%83%9A%E3%83%BC%E3%82%B8_01.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロード | SAPPORO企業進出総合ナビ - 札幌へ企業立地を ...",
+                    "htmlTitle": "<b>資料ダウンロード</b> | SAPPORO<b>企業</b>進出総合ナビ - 札幌へ<b>企業</b>立地を ...",
+                    "link": "https://www2.city.sapporo.jp/invest/request/",
+                    "displayLink": "www2.city.sapporo.jp",
+                    "snippet": "札幌へ企業立地をご検討されている企業様へお問合せ・資料ダウンロードのご案内ページです。",
+                    "htmlSnippet": "札幌へ<b>企業</b>立地をご検討されている<b>企業</b>様へお問合せ・<b>資料ダウンロード</b>のご案内ページです。",
+                    "cacheId": "UPzUseBlPT8J",
+                    "formattedUrl": "https://www2.city.sapporo.jp/invest/request/",
+                    "htmlFormattedUrl": "https://www2.city.sapporo.jp/invest/request/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlyCiMh4D6xWkG0hgbNsEq-IMmnZWlDFmtqgoLbL8WUgrwDDoxwW11kMM",
+                                "width": "170",
+                                "height": "240"
+                            }
+                        ],
+                        "BreadcrumbList": [
+                            {}
+                        ],
+                        "metatags": [
+                            {
+                                "msapplication-tilecolor": "#2d88ef",
+                                "og:image": "/invest/resource/img/meta/OGP.jpg",
+                                "twitter:card": "summary_large_image",
+                                "viewport": "width=device-width, initial-scale=1, user-scalable=0",
+                                "og:title": "お問合せ・資料ダウンロード | SAPPORO企業進出総合ナビ - 札幌へ企業立地をご検討されている企業様へ",
+                                "position": "1",
+                                "msapplication-tileimage": "/invest/resource/img/meta/mstile-144x144.png",
+                                "og:url": "https://www2.city.sapporo.jp/invest/request/",
+                                "og:description": "札幌へ企業立地をご検討されている企業様へお問合せ・資料ダウンロードのご案内ページです。",
+                                "format-detection": "telephone=no,email=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www2.city.sapporo.jp/invest/request/img/sinshutu_guide_hyoushi.png"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 企業 資料ダウンロード",
+                        "totalResults": "106000000",
+                        "searchTerms": "企業 資料ダウンロード",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 企業 資料ダウンロード",
+                        "totalResults": "106000000",
+                        "searchTerms": "企業 資料ダウンロード",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 企業 資料ダウンロード",
+                        "totalResults": "106000000",
+                        "searchTerms": "企業 資料ダウンロード",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.30429,
+                "formattedSearchTime": "0.30",
+                "totalResults": "106000000",
+                "formattedTotalResults": "106,000,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "サービス資料 | 資料ダウンロード | 企業・団体向け | JTB法人サービス",
+                    "htmlTitle": "サービス資料 | <b>資料ダウンロード</b> | <b>企業</b>・団体向け | JTB法人サービス",
+                    "link": "https://www.jtbbwt.com/business/documents/solution/",
+                    "displayLink": "www.jtbbwt.com",
+                    "snippet": "企業・団体向け 資料ダウンロード サービス資料 · タグキーワード · JTB GROUP PROFILE · 旅行 · ミーティング・イベント · プロモーション · インバウンド · HR（Human Resources ...",
+                    "htmlSnippet": "<b>企業</b>・団体向け <b>資料ダウンロード</b> サービス資料 &middot; タグキーワード &middot; JTB GROUP PROFILE &middot; 旅行 &middot; ミーティング・イベント &middot; プロモーション &middot; インバウンド &middot; HR（Human Resources&nbsp;...",
+                    "cacheId": "wEjPyhxHYwUJ",
+                    "formattedUrl": "https://www.jtbbwt.com/business/documents/solution/",
+                    "htmlFormattedUrl": "https://www.jtbbwt.com/business/documents/solution/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxe6BRio4KxvHFWCA-zVRoJbvPiscHMlc-BJpMUWUzM8lFQL0Yt1GP-_3s",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.jtbbwt.com/files/user/assets/images/business/og_image_business.png",
+                                "twitter:title": "サービス資料 | 資料ダウンロード | 企業・団体向け | JTB法人サービス",
+                                "og:type": "article",
+                                "twitter:card": "summary",
+                                "og:site_name": "JTB法人サービス",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "サービス資料 | 資料ダウンロード | 企業・団体向け | JTB法人サービス",
+                                "og:url": "https://www.jtbbwt.com/business/documents/solution/",
+                                "twitter:image": "https://www.jtbbwt.com/files/user/assets/images/business/og_image_business.png",
+                                "facebook-domain-verification": "8eyt7lff3eqxexdvbefuphv8syksm2"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.jtbbwt.com/files/user/assets/images/business/og_image_business.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "企業・団体向け",
+                                "name": "企業・団体向け",
+                                "position": "2"
+                            },
+                            {
+                                "name": "資料ダウンロード（サービス資料）",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロード一覧｜丹青社企業ミュージアム特設サイト",
+                    "htmlTitle": "<b>資料ダウンロード</b>一覧｜丹青社<b>企業</b>ミュージアム特設サイト",
+                    "link": "https://corporatemuseum.tanseisha.co.jp/download/",
+                    "displayLink": "corporatemuseum.tanseisha.co.jp",
+                    "snippet": "企業ミュージアム・ショールームにおけるデジタル活用について、インタラクティブ情報閲覧システム「VisualTiles®（ビジュアルタイルズ）」をご紹介します。 資料を ...",
+                    "htmlSnippet": "<b>企業</b>ミュージアム・ショールームにおけるデジタル活用について、インタラクティブ情報閲覧システム「VisualTiles®（ビジュアルタイルズ）」をご紹介します。 <b>資料</b>を&nbsp;...",
+                    "cacheId": "Q3UnkbhM-Z8J",
+                    "formattedUrl": "https://corporatemuseum.tanseisha.co.jp/download/",
+                    "htmlFormattedUrl": "https://corporatemuseum.tanseisha.co.jp/download/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRE6Y-wArup7j-roF5UCRPh2aOao6iKyTEGPV3v5lav8vZJdY-jfQ4kxek",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://corporatemuseum.tanseisha.co.jp/asset/img/common/ogimg.png",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "資料ダウンロード一覧｜丹青社企業ミュージアム特設サイト",
+                                "og:site_name": "丹青社 企業ミューアム特設サイト",
+                                "og:title": "資料ダウンロード一覧｜丹青社企業ミュージアム特設サイト",
+                                "msapplication-tileimage": "https://corporatemuseum.tanseisha.co.jp/uploads/favicon-300x300.png",
+                                "og:description": "企業ミュージアムに関わる資料をご紹介します。丹青社の企業ミュージアムづくりは、訪れる前よりも来場者にその企業を好きになってもらうため、社員の自社に対する愛着を深めてもらうために施設をつくっていきます。企業ミュージアムづくりに関してお気軽にご相談ください。",
+                                "twitter:image": "https://corporatemuseum.tanseisha.co.jp/asset/img/common/ogimg.png",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "企業ミュージアムに関わる資料をご紹介します。丹青社の企業ミュージアムづくりは、訪れる前よりも来場者にその企業を好きになってもらうため、社員の自社に対する愛着を深めてもらうために施設をつくっていきます。企業ミュージアムづくりに関してお気軽にご相談ください。",
+                                "og:url": "https://corporatemuseum.tanseisha.co.jp/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://corporatemuseum.tanseisha.co.jp/asset/img/common/ogimg.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロード｜タナベコンサルティングの長期ビジョン策定支援",
+                    "htmlTitle": "<b>資料ダウンロード</b>｜タナベコンサルティングの長期ビジョン策定支援",
+                    "link": "https://www.tanabeconsulting.co.jp/vision/document/",
+                    "displayLink": "www.tanabeconsulting.co.jp",
+                    "snippet": "長期ビジョン・中期経営計画策定に役立つ資料を無料でダウンロード。 ... そこから見えてきた企業経営の課題と今後の経営戦略のポイントについて提言します。",
+                    "htmlSnippet": "長期ビジョン・中期経営計画策定に役立つ<b>資料</b>を無料で<b>ダウンロード</b>。 ... そこから見えてきた<b>企業</b>経営の課題と今後の経営戦略のポイントについて提言します。",
+                    "cacheId": "Hp6vT6lYVv4J",
+                    "formattedUrl": "https://www.tanabeconsulting.co.jp/vision/document/",
+                    "htmlFormattedUrl": "https://www.tanabeconsulting.co.jp/vision/document/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKYp0SJ-j4b10z_soYNpQTf1MorEpe1qpNL7BcGzcA1fBncExMwYZovJY",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "BreadcrumbList": [
+                            {}
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.tanabeconsulting.co.jp/vision/files/images/og-document.jpg",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "長期ビジョン・中期経営計画策定の情報サイト",
+                                "viewport": "width=device-width, initial-scale=0.0, minimum-scale=1.0",
+                                "og:title": "資料ダウンロード｜タナベコンサルティングの長期ビジョン策定支援",
+                                "position": "1",
+                                "og:url": "https://www.tanabeconsulting.co.jp/vision/document/",
+                                "og:description": "長期ビジョン・中期経営計画策定に役立つ資料を無料でダウンロード。タナベコンサルティンググループは、長期ビジョンの策定から中期経営計画の作成、その戦略の実行・推進まで一気通貫でご支援します。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.tanabeconsulting.co.jp/vision/files/images/og-document.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "ハラスメント関係資料ダウンロード｜社内でハラスメント発生 ...",
+                    "htmlTitle": "ハラスメント関係<b>資料ダウンロード</b>｜社内でハラスメント発生 ...",
+                    "link": "https://www.no-harassment.mhlw.go.jp/download/",
+                    "displayLink": "www.no-harassment.mhlw.go.jp",
+                    "snippet": "人事担当の方」ハラスメント関係資料ダウンロード. ダウンロードコーナー ... カスタマーハラスメント対策企業マニュアル・リーフレット・ポスター.",
+                    "htmlSnippet": "人事担当の方」ハラスメント関係<b>資料ダウンロード</b>. ダウンロードコーナー ... カスタマーハラスメント対策<b>企業</b>マニュアル・リーフレット・ポスター.",
+                    "cacheId": "n68pnID-Qn4J",
+                    "formattedUrl": "https://www.no-harassment.mhlw.go.jp/download/",
+                    "htmlFormattedUrl": "https://www.no-harassment.mhlw.go.jp/download/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMMAAn4T3od0x5q0A29q2dK7FRYjLOND2gpIULlfyi_94H3DaZ-3y0NtlA",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:type": "article",
+                                "og:site_name": "あかるい職場応援団 -職場のハラスメント(パワハラ、セクハラ、マタハラ)の予防・解決に向けたポータルサイト-",
+                                "viewport": "width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0",
+                                "og:title": "ハラスメント関係資料ダウンロード｜社内でハラスメント発生！　人事担当の方｜あかるい職場応援団 -職場のハラスメント(パワハラ、セクハラ、マタハラ)の予防・解決に向けたポータルサイト-",
+                                "og:description": "あかるい職場応援団は職場のハラスメント(パワハラ、セクハラ、マタハラ)、いじめ・嫌がらせ問題の予防・解決に向けた情報提供のためのポータルサイトです。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.no-harassment.mhlw.go.jp/img/img_type4_600.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "福岡市 資料ダウンロード｜福岡市への企業立地に関するご案内",
+                    "htmlTitle": "福岡市 <b>資料ダウンロード</b>｜福岡市への<b>企業</b>立地に関するご案内",
+                    "link": "https://www.city.fukuoka.lg.jp/keizai/k-yuchi/business/dd.html",
+                    "displayLink": "www.city.fukuoka.lg.jp",
+                    "snippet": "2023/01/16 ... 資料ダウンロード. 各種資料はこちらからダウンロードできます。 立地交付金について. パンフレット（日本語／English／簡体中文／ ...",
+                    "htmlSnippet": "2023/01/16 <b>...</b> <b>資料ダウンロード</b>. 各種資料はこちらからダウンロードできます。 立地交付金について. パンフレット（日本語／English／簡体中文／&nbsp;...",
+                    "cacheId": "p0jnrl2yoj4J",
+                    "formattedUrl": "https://www.city.fukuoka.lg.jp/keizai/k-yuchi/business/dd.html",
+                    "htmlFormattedUrl": "https://www.city.fukuoka.lg.jp/keizai/k-yuchi/business/dd.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKQhxyZXb6-dofrzhN0VHfsaFl8iQb-7zF7UQ5DCt9m9X5mxO6KeHunS4",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.city.fukuoka.lg.jp/data/common/images/socialmedia/ogp.jpg?20230224111509",
+                                "referrer": "no-referrer-when-downgrade",
+                                "og:type": "article",
+                                "og:site_name": "福岡市",
+                                "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0, maximum-scale=1.0",
+                                "og:title": "福岡市 資料ダウンロード｜福岡市への企業立地に関するご案内",
+                                "genre": "福岡市への企業立地に関するご案内",
+                                "og:url": "https://www.city.fukuoka.lg.jp/keizai/k-yuchi/business/dd.html"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.city.fukuoka.lg.jp/data/common/images/socialmedia/ogp.jpg?20230224111509"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "法人向け資料ダウンロード｜ご寄付のお願い｜セーブ・ザ ...",
+                    "htmlTitle": "法人向け<b>資料ダウンロード</b>｜ご寄付のお願い｜セーブ・ザ ...",
+                    "link": "https://www.savechildren.or.jp/partnership/documents/",
+                    "displayLink": "www.savechildren.or.jp",
+                    "snippet": "SDGs達成に向けた企業との取り組み事例・支援概要などをわかりやすくまとめた資料をダウンロードしていただけます。",
+                    "htmlSnippet": "SDGs達成に向けた<b>企業</b>との取り組み事例・支援概要などをわかりやすくまとめた<b>資料</b>を<b>ダウンロード</b>していただけます。",
+                    "cacheId": "OarozmwuYT4J",
+                    "formattedUrl": "https://www.savechildren.or.jp/partnership/documents/",
+                    "htmlFormattedUrl": "https://www.savechildren.or.jp/partnership/documents/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbSoONqZQiKMlu5PUT8Ow1Lhl1xMeEGROFxU-hs0hzOfn80u_LHwFVO76M",
+                                "width": "200",
+                                "height": "200"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.savechildren.or.jp/ogpimage.jpg",
+                                "fb:app_id": "1479468208936669",
+                                "og:type": "article",
+                                "og:site_name": "セーブ・ザ・チルドレン・ジャパン",
+                                "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                                "og:title": "法人向け資料ダウンロード｜ご寄付のお願い｜セーブ・ザ・チルドレン・ジャパン",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.savechildren.or.jp/partnership/documents/",
+                                "og:description": "SDGs達成に向けた企業との取り組み事例・支援概要などをわかりやすくまとめた資料をダウンロードしていただけます。",
+                                "article:publisher": "https://www.facebook.com/SCJ.SavetheChildrenJapan"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.savechildren.or.jp/ogpimage.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロード｜株式会社JTBコミュニケーションデザイン",
+                    "htmlTitle": "<b>資料ダウンロード</b>｜株式会社JTBコミュニケーションデザイン",
+                    "link": "https://www.jtbcom.co.jp/download/",
+                    "displayLink": "www.jtbcom.co.jp",
+                    "snippet": "以下より、関連資料をダウンロードいただけます。※一部資料は弊社サービスサイトへ遷移します。 サスティナブルな ...",
+                    "htmlSnippet": "以下より、関連<b>資料</b>を<b>ダウンロード</b>いただけます。※一部<b>資料</b>は弊社サービスサイトへ遷移します。 サスティナブルな&nbsp;...",
+                    "cacheId": "EUQ9psTpn9gJ",
+                    "formattedUrl": "https://www.jtbcom.co.jp/download/",
+                    "htmlFormattedUrl": "https://www.jtbcom.co.jp/download/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpWYy6uFXWuLOV6TwDO1YOq_qtXlvdLN3dYxQjWZwZYXxKbnByYpAk6F4",
+                                "width": "286",
+                                "height": "176"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,user-scalable=yes,maximum-scale=1",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.jtbcom.co.jp/download/img/jcd-img-wp-bn-companyprofile.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "TOP",
+                                "name": "TOP"
+                            },
+                            {
+                                "item": "資料ダウンロード",
+                                "name": "資料ダウンロード"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロード",
+                    "htmlTitle": "<b>資料ダウンロード</b>",
+                    "link": "https://cloudcircus.jp/download/",
+                    "displayLink": "cloudcircus.jp",
+                    "snippet": "BtoB企業のWebマーケティングにおける、集客から顧客育成、商談作りまでを支援するパッケージ「Cloud CIRCUS for Web」の概要資料です。 ダウンロード. Cloud CIRCUSの ...",
+                    "htmlSnippet": "BtoB<b>企業</b>のWebマーケティングにおける、集客から顧客育成、商談作りまでを支援するパッケージ「Cloud CIRCUS for Web」の概要<b>資料</b>です。 <b>ダウンロード</b>. Cloud CIRCUSの&nbsp;...",
+                    "cacheId": "PE1j4Hg8WscJ",
+                    "formattedUrl": "https://cloudcircus.jp/download/",
+                    "htmlFormattedUrl": "https://cloudcircus.jp/download/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQ62S19lFFr27iccNtnRNfMaTJNlLdpL_4b80LpJoCt753ZqGjeoJDPyc",
+                                "width": "299",
+                                "height": "168"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://cloudcircus.jp/dcms_media/image/ogp.png",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image>\n\n<meta name=",
+                                "og:site_name": "デジタルマーケティングプラットフォーム「Cloud Cirus（クラウドサーカス）」",
+                                "viewport": "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1",
+                                "og:title": "デジタルマーケティングのすべてがここに。デジタルマーケティングプラットフォーム「Cloud Cirus（クラウドサーカス）」",
+                                "og:url": "https://cloudcircus.jp/",
+                                "og:description": "デジタルマーケティングプラットフォーム「Cloud Cirus（クラウドサーカス）」は、情報発信からCX（顧客体験価値）向上・見込み顧客育成・リピート増加まで企業が顧客を増やすためのマーケティングをワンパッケージで提供します。",
+                                "format-detection": "telephone=no",
+                                "facebook-domain-verification": "fcfwd4okq47ig4unxqd18oqbeqnyqa"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://cloudcircus.jp/dcms_media/image/ogp.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "TOP",
+                                "name": "TOP",
+                                "position": "1"
+                            },
+                            {
+                                "name": "資料ダウンロード",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "富山県／資料ダウンロード",
+                    "htmlTitle": "富山県／<b>資料ダウンロード</b>",
+                    "link": "https://www.pref.toyama.jp/1307/sangyou/shoukoukensetsu/kigyouricchi/top/shiryootoiawase/download.html",
+                    "displayLink": "www.pref.toyama.jp",
+                    "snippet": "資料ダウンロード. 下記ファイル名をクリックすると、資料のダウンロードを行うことができます。 富山県企業立地ガイド2022（PDF：7,031KB）.",
+                    "htmlSnippet": "<b>資料ダウンロード</b>. 下記ファイル名をクリックすると、資料のダウンロードを行うことができます。 富山県<b>企業</b>立地ガイド2022（PDF：7,031KB）.",
+                    "cacheId": "d0jvJE2pwMkJ",
+                    "formattedUrl": "https://www.pref.toyama.jp/1307/sangyou/.../kigyouricchi/.../download.html",
+                    "htmlFormattedUrl": "https://www.pref.toyama.jp/1307/sangyou/.../kigyouricchi/.../download.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTiVl5311zc6ilXrPsOxkFSVo0rLxJHdl0viOkh0lYPsZY9Jh0iNEzQ0rPr",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.pref.toyama.jp/shared/images/sns/ogp.png",
+                                "page_id": "25060",
+                                "og:type": "article",
+                                "og:site_name": "富山県",
+                                "viewport": "width=device-width, maximum-scale=3.0",
+                                "author": "富山県",
+                                "og:title": "資料ダウンロード",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.pref.toyama.jp/1307/sangyou/shoukoukensetsu/kigyouricchi/top/shiryootoiawase/download.html",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.pref.toyama.jp/shared/images/sns/ogp.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロード ｜ 企業のご担当者様 ｜ 未経験からエンジニア ...",
+                    "htmlTitle": "<b>資料ダウンロード</b> ｜ <b>企業</b>のご担当者様 ｜ 未経験からエンジニア ...",
+                    "link": "https://www.rs-is.co.jp/client-dl_001/",
+                    "displayLink": "www.rs-is.co.jp",
+                    "snippet": "リクルートスタッフィング情報サービス（RSIS）のご紹介から、人材派遣業界の基本情報まで幅広く資料をご用意しております。ぜひ、一度ご覧ください。",
+                    "htmlSnippet": "リクルートスタッフィング情報サービス（RSIS）のご紹介から、人材派遣業界の基本情報まで幅広く<b>資料</b>をご用意しております。ぜひ、一度ご覧ください。",
+                    "cacheId": "KygcBsW5034J",
+                    "formattedUrl": "https://www.rs-is.co.jp/client-dl_001/",
+                    "htmlFormattedUrl": "https://www.rs-is.co.jp/client-dl_001/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width",
+                                "author": "RSIS"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 企業 資料ダウンロード",
+                        "totalResults": "135000000",
+                        "searchTerms": "企業 資料ダウンロード",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 企業 資料ダウンロード",
+                        "totalResults": "135000000",
+                        "searchTerms": "企業 資料ダウンロード",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 企業 資料ダウンロード",
+                        "totalResults": "135000000",
+                        "searchTerms": "企業 資料ダウンロード",
+                        "count": 10,
+                        "startIndex": 31,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.199142,
+                "formattedSearchTime": "0.20",
+                "totalResults": "135000000",
+                "formattedTotalResults": "135,000,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロード ｜ 企業のご担当者様 ｜ 未経験からエンジニア ...",
+                    "htmlTitle": "<b>資料ダウンロード</b> ｜ <b>企業</b>のご担当者様 ｜ 未経験からエンジニア ...",
+                    "link": "https://www.rs-is.co.jp/client-dl_001/",
+                    "displayLink": "www.rs-is.co.jp",
+                    "snippet": "リクルートスタッフィング情報サービス（RSIS）のご紹介から、人材派遣業界の基本情報まで幅広く資料をご用意しております。ぜひ、一度ご覧ください。",
+                    "htmlSnippet": "リクルートスタッフィング情報サービス（RSIS）のご紹介から、人材派遣業界の基本情報まで幅広く<b>資料</b>をご用意しております。ぜひ、一度ご覧ください。",
+                    "cacheId": "KygcBsW5034J",
+                    "formattedUrl": "https://www.rs-is.co.jp/client-dl_001/",
+                    "htmlFormattedUrl": "https://www.rs-is.co.jp/client-dl_001/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width",
+                                "author": "RSIS"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "各種資料ダウンロード | 企業情報 | 共英製鋼株式会社",
+                    "htmlTitle": "各種<b>資料ダウンロード</b> | <b>企業</b>情報 | 共英製鋼株式会社",
+                    "link": "https://www.kyoeisteel.co.jp/ja/company/download.html",
+                    "displayLink": "www.kyoeisteel.co.jp",
+                    "snippet": "表紙 （372KB）; 鉄筋コンクリート用棒鋼 （1,787KB）; タフネジバー （1,967KB）; 高強度タフネジバー （1,929KB）; 無機グラウト継手 （1,492KB）; エポキシグラウト ...",
+                    "htmlSnippet": "表紙 （372KB）; 鉄筋コンクリート用棒鋼 （1,787KB）; タフネジバー （1,967KB）; 高強度タフネジバー （1,929KB）; 無機グラウト継手 （1,492KB）; エポキシグラウト&nbsp;...",
+                    "cacheId": "EqCMeelHZ0kJ",
+                    "formattedUrl": "https://www.kyoeisteel.co.jp/ja/company/download.html",
+                    "htmlFormattedUrl": "https://www.kyoeisteel.co.jp/ja/company/download.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDSQ4kIfXQpWMhuuITYxhvhXjqMuQqiHoon8mUV51TbxPlxhaF8ire-1Y",
+                                "width": "436",
+                                "height": "115"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.kyoeisteel.co.jp/ja/company/promos1/0/binaryNodeName/mv.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【Webinar資料ダウンロード可】いかにして日本企業は米国訴訟 ...",
+                    "htmlTitle": "【Webinar<b>資料ダウンロード</b>可】いかにして日本<b>企業</b>は米国訴訟 ...",
+                    "link": "https://legal.fronteo.com/fllp/quinnemanuel/webinar003",
+                    "displayLink": "legal.fronteo.com",
+                    "snippet": "2023/06/14 ... FRONTEOは自社開発のAI（人工知能）エンジンを活用したeディスカバリ、デジタルフォレンジック調査を提供。企業の平時監査から有事対応までワンス ...",
+                    "htmlSnippet": "2023/06/14 <b>...</b> FRONTEOは自社開発のAI（人工知能）エンジンを活用したeディスカバリ、デジタルフォレンジック調査を提供。<b>企業</b>の平時監査から有事対応までワンス&nbsp;...",
+                    "cacheId": "9kCvI8c62Z4J",
+                    "formattedUrl": "https://legal.fronteo.com/fllp/quinnemanuel/webinar003",
+                    "htmlFormattedUrl": "https://legal.fronteo.com/fllp/quinnemanuel/webinar003",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq8xECc2cpS9pua_XLl5LC-ToCRhFMlEYg_utomxsr_lAxKfGOut_qZjUq",
+                                "width": "290",
+                                "height": "174"
+                            }
+                        ],
+                        "imageobject": [
+                            {
+                                "url": "/wp-content/themes/betheme-child/assets/img/logo_home_01.png"
+                            },
+                            {
+                                "width": "935",
+                                "url": "https://legal.fronteo.com/wp-content/uploads/2023/06/Quinn-Emanuel-Urquhart-Sullivan-LLP-_0622.png",
+                                "height": "562"
+                            }
+                        ],
+                        "person": [
+                            {
+                                "name": "hitomi_madokoro"
+                            }
+                        ],
+                        "organization": [
+                            {
+                                "name": "| AIでフォレンジック調査・eディスカバリを解決 | FRONTEO, Inc."
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://legal.fronteo.com/wp-content/uploads/2023/06/Quinn-Emanuel-Urquhart-Sullivan-LLP-_0622.png",
+                                "og:type": "article",
+                                "og:image:width": "1200",
+                                "article:published_time": "2023-06-14T07:59:03+00:00",
+                                "twitter:card": "summary",
+                                "twitter:title": "【Webinar資料ダウンロード可】いかにして日本企業は米国訴訟において有利に立つか。‐日本企業独自のメリットとデメリットの抑え方‐ | AIでフォレンジック調査・eディスカバリを解決 | FRONTEO, Inc.",
+                                "theme-color": "#ffffff",
+                                "og:site_name": "| AIでフォレンジック調査・eディスカバリを解決 | FRONTEO, Inc. | FRONTEOは自社開発のAI（人工知能）エンジンを活用したeディスカバリ、デジタルフォレンジック調査を提供。企業の平時監査から有事対応までワンストップで支援します。",
+                                "og:title": "【Webinar資料ダウンロード可】いかにして日本企業は米国訴訟において有利に立つか。‐日本企業独自のメリットとデメリットの抑え方‐",
+                                "og:image:height": "630",
+                                "og:description": "FRONTEOは自社開発のAI（人工知能）エンジンを活用したeディスカバリ、デジタルフォレンジック調査を提供。企業の平時監査から有事対応までワンストップで支援します。",
+                                "og:image:secure_url": "https://legal.fronteo.com/wp-content/uploads/2023/04/FRONTEO_logo_FB.png",
+                                "twitter:image": "https://legal.fronteo.com/wp-content/uploads/2023/04/FRONTEO_logo_TW.png",
+                                "article:modified_time": "2023-06-16T06:29:29+00:00",
+                                "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                                "twitter:description": "FRONTEOは自社開発のAI（人工知能）エンジンを活用したeディスカバリ、デジタルフォレンジック調査を提供。企業の平時監査から有事対応までワンストップで支援します。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://legal.fronteo.com/fllp/quinnemanuel/webinar003",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://legal.fronteo.com/wp-content/uploads/2023/06/Quinn-Emanuel-Urquhart-Sullivan-LLP-_0622.png"
+                            }
+                        ],
+                        "article": [
+                            {
+                                "datemodified": "2023-06-14T16:59:03+09:00",
+                                "datepublished": "2023-06-14T16:59:03+09:00"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入検討資料ダウンロード｜企業・官公庁のお客様｜デジタル ...",
+                    "htmlTitle": "導入検討<b>資料ダウンロード</b>｜<b>企業</b>・官公庁のお客様｜デジタル ...",
+                    "link": "https://www.daj.jp/bs/prmt/",
+                    "displayLink": "www.daj.jp",
+                    "snippet": "「i-FILTER」Ver.10 ・「m-FILTER」Ver.5 連携カタログ（ホワイト運用）, デジタルカタログ · ゼロ・トラスト・SASE・CARTAへのデジタルアーツ製品の対応について ...",
+                    "htmlSnippet": "「i-FILTER」Ver.10 ・「m-FILTER」Ver.5 連携カタログ（ホワイト運用）, デジタルカタログ &middot; ゼロ・トラスト・SASE・CARTAへのデジタルアーツ製品の対応について&nbsp;...",
+                    "cacheId": "02iE_mos0swJ",
+                    "formattedUrl": "https://www.daj.jp/bs/prmt/",
+                    "htmlFormattedUrl": "https://www.daj.jp/bs/prmt/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRd7NNLjpNmGO43dHwbYl2xgJD14d2FhGksyfT0FFl-vOXkm-lkzMrdVg",
+                                "width": "320",
+                                "height": "85"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "copyright": "Digital Arts Inc.",
+                                "viewport": "width=device-width, initial-scale=1.0"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.daj.jp/bs/lp/ict/common/images/banner_ict_320x85.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "必見！資料ダウンロードページの効果とCTA、フォーム設置の ...",
+                    "htmlTitle": "必見！<b>資料ダウンロード</b>ページの効果とCTA、フォーム設置の ...",
+                    "link": "https://nocoinc.co.jp/media/sales-materials/documentdownload",
+                    "displayLink": "nocoinc.co.jp",
+                    "snippet": "2021/10/23 ... 企業のサイトを見ていると、知りたいと思った情報が「資料ダウンロード」として用意されていたという経験はありません.",
+                    "htmlSnippet": "2021/10/23 <b>...</b> <b>企業</b>のサイトを見ていると、知りたいと思った情報が「<b>資料ダウンロード</b>」として用意されていたという経験はありません.",
+                    "cacheId": "MwT4YzRMZL8J",
+                    "formattedUrl": "https://nocoinc.co.jp/media/sales-materials/documentdownload",
+                    "htmlFormattedUrl": "https://nocoinc.co.jp/media/sales-materials/documentdownload",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "og:image": "https://nocoinc.co.jp/media/wp-content/uploads/sites/2/2021/10/AdobeStock_422221705-768x512.jpeg",
+                                "thumbnail": "https://nocoinc.co.jp/media/wp-content/uploads/sites/2/2021/10/AdobeStock_422221705.jpeg",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "fb:app_id": "717376999545089",
+                                "og:site_name": "noco can",
+                                "twitter:site": "@noco_sales",
+                                "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                                "og:title": "必見！資料ダウンロードページの効果とCTA、フォーム設置のポイントを解説",
+                                "msapplication-tileimage": "https://nocoinc.co.jp/media/wp-content/uploads/sites/2/2022/05/cropped-noco-logo-512x512-1-270x270.png",
+                                "og:url": "https://nocoinc.co.jp/media/sales-materials/documentdownload",
+                                "og:description": "企業のサイトを見ていると、知りたいと思った情報が「資料ダウンロード」として用意されていたという経験はありませんか。資料ダウンロードを活用すれば、顧客に有益な情報を与えられるでしょう。 資料ダウンロードは、顧客と企業の両方にメリットがある営業"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "みずほファクター：資料ダウンロード",
+                    "htmlTitle": "みずほファクター：<b>資料ダウンロード</b>",
+                    "link": "http://www.mizuho-factor.co.jp/dl/",
+                    "displayLink": "www.mizuho-factor.co.jp",
+                    "snippet": "代金回収. トータルネット. 共通. 個人・企業名称等データ入力基準（PDF/680KB） PDF.",
+                    "htmlSnippet": "代金回収. トータルネット. 共通. 個人・<b>企業</b>名称等データ入力基準（PDF/680KB） PDF.",
+                    "cacheId": "mjyxXH0pRV8J",
+                    "formattedUrl": "www.mizuho-factor.co.jp/dl/",
+                    "htmlFormattedUrl": "www.mizuho-factor.co.jp/dl/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "copyright": "Copyright (c) Mizuho Factors Co., Ltd.",
+                                "viewport": "width=1000",
+                                "author": "Mizuho Factors Co., Ltd."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "資料ダウンロード | 山田コンサルティンググループ",
+                    "htmlTitle": "<b>資料ダウンロード</b> | 山田コンサルティンググループ",
+                    "link": "https://www.ycg-advisory.jp/learning/download/",
+                    "displayLink": "www.ycg-advisory.jp",
+                    "snippet": "中小企業経営者向けに、IT補助金・優遇税制の活用漏れを確認するチェックリスト・内容を解説しています。 ダウンロード. マンガで ...",
+                    "htmlSnippet": "中小<b>企業</b>経営者向けに、IT補助金・優遇税制の活用漏れを確認するチェックリスト・内容を解説しています。 <b>ダウンロード</b>. マンガで&nbsp;...",
+                    "cacheId": "Ar-Q-PIFU7kJ",
+                    "formattedUrl": "https://www.ycg-advisory.jp/learning/download/",
+                    "htmlFormattedUrl": "https://www.ycg-advisory.jp/learning/download/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRoGYpYkppKCl_1bBQPRGho2Un-DiCmrjx_2xtj8A72DKhcyIlDV4BT5r2S",
+                                "width": "304",
+                                "height": "166"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.ycg-advisory.jp/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png",
+                                "og:type": "article",
+                                "article:published_time": "2020-08-27T10:05:43Z",
+                                "twitter:card": "summary",
+                                "twitter:title": "資料ダウンロード | 山田コンサルティンググループ",
+                                "og:site_name": "Ｍ＆Ａ・事業承継の専門家集団　山田コンサルティンググループ資本戦略本部",
+                                "og:title": "資料ダウンロード | 山田コンサルティンググループ",
+                                "msapplication-tileimage": "https://s3-ap-northeast-1.amazonaws.com/ybc/ma/wp-content/uploads/2017/02/02183438/cropped-yamada_BC_logotype-300x300.png",
+                                "twitter:image": "https://www.ycg-advisory.jp/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png",
+                                "article:modified_time": "2020-08-27T10:27:05Z",
+                                "viewport": "width=device-width",
+                                "og:url": "https://www.ycg-advisory.jp/learning/download/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://s3-ap-northeast-1.amazonaws.com/ybc/ma/wp-content/uploads/2020/09/04141411/pixta_50409964_M-510x279.jpg"
+                            }
+                        ],
+                        "article": [
+                            {
+                                "image": "https://www.ycg-advisory.jp/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "会社資料ダウンロード | JTウェブサイト",
+                    "htmlTitle": "会社<b>資料ダウンロード</b> | JTウェブサイト",
+                    "link": "https://www.jti.co.jp/corporate/data_download/",
+                    "displayLink": "www.jti.co.jp",
+                    "snippet": "主要な財務情報・非財務情報を掲載し、JTグループの持続的な企業価値向上に向けた取り組みについて紹介しています。また、過去のアニュアルレポート及びサステナビリティ ...",
+                    "htmlSnippet": "主要な財務情報・非財務情報を掲載し、JTグループの持続的な<b>企業</b>価値向上に向けた取り組みについて紹介しています。また、過去のアニュアルレポート及びサステナビリティ&nbsp;...",
+                    "cacheId": "ozlonh13qAoJ",
+                    "formattedUrl": "https://www.jti.co.jp/corporate/data_download/",
+                    "htmlFormattedUrl": "https://www.jti.co.jp/corporate/data_download/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOSJs7rsySsuiFM7lYmQQJElWWSSOEEVMaUbwnJiCU28pnU4V71pgeJmDq",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.jti.co.jp/assets/img/share/ogp.png",
+                                "og:type": "article",
+                                "og:site_name": "JTウェブサイト",
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=3.0",
+                                "og:title": "会社資料ダウンロード | JTウェブサイト",
+                                "og:url": "https://www.jti.co.jp/corporate/data_download/index.html",
+                                "og:description": "JT(日本たばこ産業株式会社)の会社案内ならびに統合報告書（サステナビリティレポート＋アニュアルレポート）のデータをダウンロードできます。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.jti.co.jp/assets/img/share/ogp.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "BtoB企業の資料ダウンロード数を増やす方法は？資料制作の ...",
+                    "htmlTitle": "BtoB<b>企業</b>の<b>資料ダウンロード</b>数を増やす方法は？資料制作の ...",
+                    "link": "https://btob.medix-inc.co.jp/blog/document-download",
+                    "displayLink": "btob.medix-inc.co.jp",
+                    "snippet": "2021/09/27 ... BtoB企業のマーケティング担当者で、このような悩みを抱えてる方はいませんか？ 手間と時間をかけて、顧客に向けて有益なダウンロード資料を制作しても、 ...",
+                    "htmlSnippet": "2021/09/27 <b>...</b> BtoB<b>企業</b>のマーケティング担当者で、このような悩みを抱えてる方はいませんか？ 手間と時間をかけて、顧客に向けて有益な<b>ダウンロード資料</b>を制作しても、&nbsp;...",
+                    "cacheId": "IZOiQPFkWOoJ",
+                    "formattedUrl": "https://btob.medix-inc.co.jp/blog/document-download",
+                    "htmlFormattedUrl": "https://btob.medix-inc.co.jp/blog/document-download",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTp7VfDPYVBmi0dImcGfzQ0OeMeB95NvpIqJrBG7-I1A4QUW0qihKS9t-2b",
+                                "width": "318",
+                                "height": "159"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://btob.medix-inc.co.jp/hubfs/BM_SITE/blog/detail/shutterstock/shutterstock_1544079911.jpg#keepProtocol",
+                                "twitter:title": "BtoB企業の資料ダウンロード数を増やす方法は？資料制作のポイントも解説",
+                                "og:image:width": "820",
+                                "og:image:alt": "document-download",
+                                "twitter:card": "summary_large_image",
+                                "og:type": "article",
+                                "twitter:domain": "btob.medix-inc.co.jp",
+                                "author": "メディックスBtoBマーケティング編集部",
+                                "og:title": "BtoB企業の資料ダウンロード数を増やす方法は？資料制作のポイントも解説",
+                                "og:image:height": "410",
+                                "og:description": "「資料ダウンロード数が、なかなか増えずに困っている」「どうやったら資料ダウンロード数を増やせるのか知りたい」BtoBのマーケ担当者で、このような悩みを抱えてる方はいませんか？本記事では、資料ダウンロード数を増やすメリットを解説した上で、ダウンロードを促進する方法を3つ紹介しますので、ぜひ、参考にしてください。",
+                                "twitter:image": "https://btob.medix-inc.co.jp/hubfs/BM_SITE/blog/detail/shutterstock/shutterstock_1544079911.jpg#keepProtocol",
+                                "twitter:image:alt": "document-download",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "「資料ダウンロード数が、なかなか増えずに困っている」「どうやったら資料ダウンロード数を増やせるのか知りたい」BtoBのマーケ担当者で、このような悩みを抱えてる方はいませんか？本記事では、資料ダウンロード数を増やすメリットを解説した上で、ダウンロードを促進する方法を3つ紹介しますので、ぜひ、参考にしてください。",
+                                "og:url": "https://btob.medix-inc.co.jp/blog/document-download"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://btob.medix-inc.co.jp/hubfs/BM_SITE/blog/detail/shutterstock/shutterstock_1544079911.jpg#keepProtocol"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【資料ダウンロード】中堅中小企業における中計策定状況と ...",
+                    "htmlTitle": "【<b>資料ダウンロード</b>】中堅中小<b>企業</b>における中計策定状況と ...",
+                    "link": "https://www.murc.jp/small_business_strategy_documet_dl_smb/",
+                    "displayLink": "www.murc.jp",
+                    "snippet": "三菱UFJリサーチ＆コンサルティング（MURC）の「 【資料ダウンロード】中堅中小企業における中計策定状況とトレンド反映型中計の必要性 」のページです。",
+                    "htmlSnippet": "三菱UFJリサーチ＆コンサルティング（MURC）の「 【<b>資料ダウンロード</b>】中堅中小<b>企業</b>における中計策定状況とトレンド反映型中計の必要性 」のページです。",
+                    "cacheId": "TAxgporyYHIJ",
+                    "formattedUrl": "https://www.murc.jp/small_business_strategy_documet_dl_smb/",
+                    "htmlFormattedUrl": "https://www.murc.jp/small_business_strategy_documet_dl_smb/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2peSEBML9tTLrL37z28q_ZRmV6c7MJ-pVJOy7NkKJd69NxX2IAVg8Ebc",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.murc.jp/assets/img/common/ogp.jpg",
+                                "twitter:card": "summary_large_image",
+                                "mf:lastmodified": "2022-10-11T19:36:14.000+09:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "【資料ダウンロード】中堅中小企業における中計策定状況とトレンド反映型中計の必要性 | 三菱UFJリサーチ&コンサルティング",
+                                "og:url": "https://www.murc.jp/small_business_strategy_documet_dl_smb/",
+                                "og:description": "三菱UFJリサーチ＆コンサルティング（MURC）の「 【資料ダウンロード】中堅中小企業における中計策定状況とトレンド反映型中計の必要性  」のページです。当社のサービス、レポート、セミナー・イベント、採用情報などを掲載しています。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.murc.jp/assets/img/common/ogp.jpg"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

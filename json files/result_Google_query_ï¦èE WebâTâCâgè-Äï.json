@@ -1,0 +1,1309 @@
+{
+    "query": "業界 Webサイト監視",
+    "links": [
+        [
+            "https://www.solarwinds.com/ja/web-performance-monitor",
+            "https://www.emsc.meti.go.jp/",
+            "https://www.shikoku.meti.go.jp/",
+            "https://www.meti.go.jp/",
+            "https://www.fsa.go.jp/sesc/",
+            "https://appmill.work/",
+            "https://www.thk.com/omniedge/jp/",
+            "https://www.denkishimbun.com/",
+            "https://pig-data.jp/blog_news/news/towarelease/",
+            "https://jp.indeed.com/q-%E3%82%B5%E3%82%A4%E3%83%88%E7%9B%A3%E8%A6%96-l-%E5%8C%97%E6%B5%B7%E9%81%93-%E6%9C%AD%E5%B9%8C%E5%B8%82-%E6%B1%82%E4%BA%BA.html"
+        ],
+        [
+            "https://www.gomez.co.jp/",
+            "https://www.pref.miyagi.jp/soshiki/yakumu/",
+            "https://www.site24x7.jp/case-studies.html",
+            "https://www.pref.miyagi.jp/soshiki/shoku-k/20kekka.html",
+            "https://www.green-japan.com/company/5332/job/187327",
+            "https://www.toshiba-teli.co.jp/",
+            "https://www.site24x7.jp/help/internet-service-metrics/website-monitor.html",
+            "https://newrelic.com/jp/press-release/20230329",
+            "https://www.jsda.or.jp/",
+            "https://www.hkd.meti.go.jp/hokse/eg_serveillance/index.htm"
+        ],
+        [
+            "https://www.bbsec.co.jp/",
+            "https://www.ms-ins.com/personal/car/gk/mimamoru-dr.html",
+            "https://www.khk.or.jp/",
+            "https://www.tcs.com/jp-ja/Cargo_Monitoring",
+            "https://www.enecho.meti.go.jp/category/electricity_and_gas/electric/electricity_liberalization/",
+            "https://www.scft-recruit.com/keyword.html",
+            "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/haccp/index.html",
+            "https://zeromedical-web.com/blog/advertisement/",
+            "https://www.green-japan.com/company/5332/job/178986",
+            "https://www.fujielectric.co.jp/"
+        ]
+    ],
+    "snapshot_ymd": "D2023-06-23",
+    "snapshot_timestamp": "D2023-06-23T01-27-17",
+    "responses": [
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "request": [
+                    {
+                        "title": "Google Custom Search - 業界 Webサイト監視",
+                        "totalResults": "13400000",
+                        "searchTerms": "業界 Webサイト監視",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 業界 Webサイト監視",
+                        "totalResults": "13400000",
+                        "searchTerms": "業界 Webサイト監視",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.347486,
+                "formattedSearchTime": "0.35",
+                "totalResults": "13400000",
+                "formattedTotalResults": "13,400,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "Webサイト監視ソフトウェア | SolarWinds",
+                    "htmlTitle": "<b>Webサイト監視</b>ソフトウェア | SolarWinds",
+                    "link": "https://www.solarwinds.com/ja/web-performance-monitor",
+                    "displayLink": "www.solarwinds.com",
+                    "snippet": "SolarWindsのWebサイト監視ソフトウェアを活用して、Webアプリケーション パフォーマンスを管理して ... Web Performance Monitorは業界でも人気の高い製品です。",
+                    "htmlSnippet": "SolarWindsの<b>Webサイト監視</b>ソフトウェアを活用して、Webアプリケーション パフォーマンスを管理して ... Web Performance Monitorは<b>業界</b>でも人気の高い製品です。",
+                    "cacheId": "hqjS2sMbEvAJ",
+                    "formattedUrl": "https://www.solarwinds.com/ja/web-performance-monitor",
+                    "htmlFormattedUrl": "https://www.solarwinds.com/ja/<b>web</b>-performance-monitor",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8VQltSvMaCOs03TXHPzRVXpNZDms2x_XzTqZnz_boNep59P-Ts-ATJd4",
+                                "width": "300",
+                                "height": "168"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "dc.description": "SolarWindsのWebサイト監視ソフトウェアを活用して、Webアプリケーション パフォーマンスを管理してください。Web Performance Monitor無料トライアルをダウンロード",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "msvalidate.01": "6BAF2EFDAC8719FD91494A916D13582C",
+                                "dc.title": "Webサイト監視ソフトウェア | SolarWinds"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://play.vidyard.com/qR6VAXUW2o2fJLg1r4hRDy.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "電力・ガス取引監視等委員会",
+                    "htmlTitle": "電力・ガス取引<b>監視</b>等委員会",
+                    "link": "https://www.emsc.meti.go.jp/",
+                    "displayLink": "www.emsc.meti.go.jp",
+                    "snippet": "電力・ガス取引監視等委員会のホームページです。",
+                    "htmlSnippet": "電力・ガス取引<b>監視</b>等委員会のホームページです。",
+                    "cacheId": "xidWuiRFdSAJ",
+                    "formattedUrl": "https://www.emsc.meti.go.jp/",
+                    "htmlFormattedUrl": "https://www.emsc.meti.go.jp/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXVkeIdLwUYFauIB5LmD3MqaFh9tSnoMiPsGu_yBd9Qj3ABSSpOTlJ9unq",
+                                "width": "284",
+                                "height": "162"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,user-scalable=yes",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.emsc.meti.go.jp/images/logo2.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "四国経済産業局ウェブサイト",
+                    "htmlTitle": "四国経済産業局<b>ウェブサイト</b>",
+                    "link": "https://www.shikoku.meti.go.jp/",
+                    "displayLink": "www.shikoku.meti.go.jp",
+                    "snippet": "四国経済産業局のウェブサイトです。報道発表、政策、統計、申請手続きなどに関する情報を掲載しています。広範な経済産業政策を積極的に展開し、四国が元気になるため ...",
+                    "htmlSnippet": "四国経済産業局の<b>ウェブサイト</b>です。報道発表、政策、統計、申請手続きなどに関する情報を掲載しています。広範な経済産業政策を積極的に展開し、四国が元気になるため&nbsp;...",
+                    "cacheId": "yPBhd3QzSm0J",
+                    "formattedUrl": "https://www.shikoku.meti.go.jp/",
+                    "htmlFormattedUrl": "https://www.shikoku.meti.go.jp/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcReEL4MWP82cmwvwA-WoeStoSfbtkesrTZ93_5djNR0nj2T5GrwmkrSYmFj",
+                                "width": "224",
+                                "height": "224"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.shikoku.meti.go.jp/shikokubito/interview/72/image/top.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "経済産業省のWEBサイト（METI/経済産業省） （METI/経済産業省）",
+                    "htmlTitle": "経済産業省の<b>WEBサイト</b>（METI/経済産業省） （METI/経済産業省）",
+                    "link": "https://www.meti.go.jp/",
+                    "displayLink": "www.meti.go.jp",
+                    "snippet": "経済産業省のホームページです。経済産業省の組織、大臣会見、報道発表、政策、審議会・研究会、所管法令、予算・税制、統計、申請手続きなどに関する情報を掲載してい ...",
+                    "htmlSnippet": "経済産業省のホームページです。経済産業省の組織、大臣会見、報道発表、政策、審議会・研究会、所管法令、予算・税制、統計、申請手続きなどに関する情報を掲載してい&nbsp;...",
+                    "cacheId": "v2DxOnIzGgMJ",
+                    "formattedUrl": "https://www.meti.go.jp/",
+                    "htmlFormattedUrl": "https://www.meti.go.jp/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgbc5slduA6qG__ZgKDHWJVSR48v8sqlPtNtk9cHtMVAUXAXi8l5TDSQ_z",
+                                "width": "248",
+                                "height": "203"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.meti.go.jp/img_2017/top/saigai_jsp.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "証券取引等監視委員会",
+                    "htmlTitle": "証券取引等<b>監視</b>委員会",
+                    "link": "https://www.fsa.go.jp/sesc/",
+                    "displayLink": "www.fsa.go.jp",
+                    "snippet": "証券監視委の公表文を装った文書が一部ネット上で認められていますが、証券監視委の公表文につきましては直接証券監視委のウェブサイトにてご確認をお願いいたします。",
+                    "htmlSnippet": "証券<b>監視</b>委の公表文を装った文書が一部ネット上で認められていますが、証券<b>監視</b>委の公表文につきましては直接証券<b>監視</b>委の<b>ウェブサイト</b>にてご確認をお願いいたします。",
+                    "cacheId": "dKP-2QfX7uUJ",
+                    "formattedUrl": "https://www.fsa.go.jp/sesc/",
+                    "htmlFormattedUrl": "https://www.fsa.go.jp/sesc/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width",
+                                "format-detection": "telephone=no"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Webサイト監視ツール「Appmill」| 無料で100URLを自動監視",
+                    "htmlTitle": "<b>Webサイト監視</b>ツール「Appmill」| 無料で100URLを自動監視",
+                    "link": "https://appmill.work/",
+                    "displayLink": "appmill.work",
+                    "snippet": "アプミルは100URLものURL監視が無料。簡単・無料で使えるから登録～監視開始まで1分で完了。ドメイン、SSL証明書の有効期限を一括で管理。ページの表示速度、死活 ...",
+                    "htmlSnippet": "アプミルは100URLものURL<b>監視</b>が無料。簡単・無料で使えるから登録～<b>監視</b>開始まで1分で完了。ドメイン、SSL証明書の有効期限を一括で管理。ページの表示速度、死活&nbsp;...",
+                    "cacheId": "jFGXlc95X6AJ",
+                    "formattedUrl": "https://appmill.work/",
+                    "htmlFormattedUrl": "https://appmill.work/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuKmLe7XDRSUxYnALLGdmDOwdsk_Mmf88Pj8JWZ4fbC2KXUkab6w-H4VQ",
+                                "width": "324",
+                                "height": "156"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:type": "website",
+                                "og:site_name": "Webサイト監視ツール「Appmill」| 無料で100URLを自動監視",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "Webサイト監視ツール「Appmill」| 無料で100URLを自動監視",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://appmill.work/assets/img/top_mock_en-v2.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "OMNIedge 製造業向けIoTサービス | THKオフィシャルウェブサイト",
+                    "htmlTitle": "OMNIedge 製造<b>業</b>向けIoTサービス | THKオフィシャル<b>ウェブサイト</b>",
+                    "link": "https://www.thk.com/omniedge/jp/",
+                    "displayLink": "www.thk.com",
+                    "snippet": "THKによる「現場ですぐに使えるIoT」はじまります。まずは、LMガイドの異常予兆を見える化しませんか？",
+                    "htmlSnippet": "THKによる「現場ですぐに使えるIoT」はじまります。まずは、LMガイドの異常予兆を見える化しませんか？",
+                    "cacheId": "QWoOWVZqgfgJ",
+                    "formattedUrl": "https://www.thk.com/omniedge/jp/",
+                    "htmlFormattedUrl": "https://www.thk.com/omniedge/jp/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTS4YTiXc8QloHcKUNP4b9zsKFjZ2EM21HF_iSa_T8p2cd9Fp4oLucszt4",
+                                "width": "254",
+                                "height": "199"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=375, user-scalable=no, target-densitydpi=device-dpi",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.thk.com/omniedge/jp/img/mainvisual01_sp.png?1124"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "電気新聞ウェブサイト",
+                    "htmlTitle": "電気新聞<b>ウェブサイト</b>",
+                    "link": "https://www.denkishimbun.com/",
+                    "displayLink": "www.denkishimbun.com",
+                    "snippet": "日本電気協会新聞部が発行する電気新聞のホームページ。電力・エネルギーを中心に電機、通信、電設、建設･工事の最新ニュースを提供。電力業界の人事情報も充実。",
+                    "htmlSnippet": "日本電気協会新聞部が発行する電気新聞のホームページ。電力・エネルギーを中心に電機、通信、電設、建設･工事の最新ニュースを提供。電力<b>業界</b>の人事情報も充実。",
+                    "cacheId": "-p5nGrHrjqoJ",
+                    "formattedUrl": "https://www.denkishimbun.com/",
+                    "htmlFormattedUrl": "https://www.denkishimbun.com/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2k57OJf1pRHAGeaZu6muaWVTVK_kcPJUX6AwkQCV4PK0lzE_x7jswdDl7",
+                                "width": "273",
+                                "height": "184"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.denkishimbun.com/pb5012h/wp-content/uploads/2017/07/c173d6c4944a67f9d4a4a887277c31c9-1.jpg",
+                                "og:type": "website",
+                                "og:image:width": "1024",
+                                "twitter:card": "summary",
+                                "twitter:title": "電気新聞ウェブサイト",
+                                "theme-color": "#ffffff",
+                                "og:site_name": "電気新聞ウェブサイト",
+                                "og:title": "電気新聞ウェブサイト",
+                                "og:image:height": "691",
+                                "msapplication-tileimage": "https://www.denkishimbun.com/pb5012h/wp-content/uploads/2016/07/cropped-favicon_512-270x270.png",
+                                "og:description": "日本電気協会新聞部が発行する電気新聞のホームページ。電力・エネルギーを中心に電機、通信、電設、建設･工事の最新ニュースを提供。電力業界の人事情報も充実。",
+                                "og:image:secure_url": "https://www.denkishimbun.com/pb5012h/wp-content/uploads/2017/07/c173d6c4944a67f9d4a4a887277c31c9-1.jpg",
+                                "twitter:image": "https://www.denkishimbun.com/pb5012h/wp-content/uploads/2017/07/c173d6c4944a67f9d4a4a887277c31c9-1.jpg",
+                                "viewport": "initial-scale=1.0, maximum-scale=3.0, user-scalable=yes, width=device-width",
+                                "twitter:description": "日本電気協会新聞部が発行する電気新聞のホームページ。電力・エネルギーを中心に電機、通信、電設、建設･工事の最新ニュースを提供。電力業界の人事情報も充実。",
+                                "og:url": "https://www.denkishimbun.com/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.denkishimbun.com/pb5012h/wp-content/uploads/2017/07/c173d6c4944a67f9d4a4a887277c31c9-1.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【限定10社無料】Webサイト監視ツール『TOWA』β版ついに ...",
+                    "htmlTitle": "【限定10社無料】<b>Webサイト監視</b>ツール『TOWA』β版ついに ...",
+                    "link": "https://pig-data.jp/blog_news/news/towarelease/",
+                    "displayLink": "pig-data.jp",
+                    "snippet": "2022/10/04 ... タスクカードでタスク漏れなし！ 自社サイトモニタリングでエラーを瞬時に対応！ 具体的にどんな業務に使えるの？ TOWAは業界 ...",
+                    "htmlSnippet": "2022/10/04 <b>...</b> タスクカードでタスク漏れなし！ 自社<b>サイト</b>モニタリングでエラーを瞬時に対応！ 具体的にどんな業務に使えるの？ TOWAは<b>業界</b>&nbsp;...",
+                    "cacheId": "Kd0Ery3UCpoJ",
+                    "formattedUrl": "https://pig-data.jp/blog_news/news/towarelease/",
+                    "htmlFormattedUrl": "https://pig-data.jp/blog_news/news/towarelease/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyqyIzLbx6YuijzGTmoKe_JJmkeTNn09aQG74z4wvDO2KyfeAuGtaEjlU",
+                                "width": "362",
+                                "height": "139"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://pig-data.jp/wp-content/uploads/TOWAトップ画像大.png",
+                                "og:type": "article",
+                                "og:image:width": "1516",
+                                "article:published_time": "2022-10-04T09:42:22+00:00",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "【限定10社無料】Webサイト監視ツール『TOWA』β版ついにリリース！ – PigData | ビッグデータ収集・分析・活用ソリューション",
+                                "og:site_name": "PigData | ビッグデータ収集・分析・活用ソリューション – PigDataは、お客様のデータ活用に対する課題を丁寧にヒアリングし、 最適なデータ活用ソリューションをご提供します。",
+                                "og:title": "【限定10社無料】Webサイト監視ツール『TOWA』β版ついにリリース！ – PigData | ビッグデータ収集・分析・活用ソリューション",
+                                "og:image:height": "583",
+                                "msapplication-tileimage": "https://pig-data.jp/wp-content/uploads/cropped-favicon-1-270x270.png",
+                                "og:description": "知りたい変化を自動で検知できるWebサイト監視ツール「TOWA」がリリースされました！TOWAは、競合企業のサービスや採用情報などをキャッチし、経営企画、マーケティング、営業部門へ通知することで、最善の対策をいち早く取るサポートをするサービスです。",
+                                "og:image:secure_url": "https://pig-data.jp/wp-content/uploads/TOWAトップ画像大.png",
+                                "twitter:image": "https://pig-data.jp/wp-content/uploads/TOWAトップ画像大.png",
+                                "article:modified_time": "2022-10-05T01:14:36+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "知りたい変化を自動で検知できるWebサイト監視ツール「TOWA」がリリースされました！TOWAは、競合企業のサービスや採用情報などをキャッチし、経営企画、マーケティング、営業部門へ通知することで、最善の対策をいち早く取るサポートをするサービスです。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://pig-data.jp/blog_news/news/towarelease/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://pig-data.jp/wp-content/uploads/TOWA%E3%83%88%E3%83%83%E3%83%97%E7%94%BB%E5%83%8F%E5%A4%A7.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "サイト監視の求人 - 北海道 札幌市 | Indeed (インディード)",
+                    "htmlTitle": "<b>サイト監視</b>の求人 - 北海道 札幌市 | Indeed (インディード)",
+                    "link": "https://jp.indeed.com/q-%E3%82%B5%E3%82%A4%E3%83%88%E7%9B%A3%E8%A6%96-l-%E5%8C%97%E6%B5%B7%E9%81%93-%E6%9C%AD%E5%B9%8C%E5%B8%82-%E6%B1%82%E4%BA%BA.html",
+                    "displayLink": "jp.indeed.com",
+                    "snippet": "【WEB広告会社】広告チェックチームの管理職候補. ＜業界未経験OK＞Web広告のチェック業務◎20～30代活躍中！／完全 ...",
+                    "htmlSnippet": "【<b>WEB</b>広告会社】広告チェックチームの管理職候補. ＜<b>業界</b>未経験OK＞<b>Web</b>広告のチェック業務◎20～30代活躍中！／完全&nbsp;...",
+                    "formattedUrl": "https://jp.indeed.com/q-サイト監視-l-北海道-札幌市-求人.html",
+                    "htmlFormattedUrl": "https://jp.indeed.com/q-<b>サイト監視</b>-l-北海道-札幌市-求人.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGxD9zcAMgI4ZILMQycEs5XH9aW8YU2Kbh_mJjc2FEDxc3NrHudT5uS1E",
+                                "width": "259",
+                                "height": "194"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "referrer": "origin-when-cross-origin",
+                                "viewport": "width=device-width,initial-scale=1.0",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://d23zm5r1n38khq.cloudfront.net/thumbnail_02d10767-4221-4ff6-bc78-ecd4527e415d.JPG"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 業界 Webサイト監視",
+                        "totalResults": "13400000",
+                        "searchTerms": "業界 Webサイト監視",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 業界 Webサイト監視",
+                        "totalResults": "13400000",
+                        "searchTerms": "業界 Webサイト監視",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 業界 Webサイト監視",
+                        "totalResults": "13400000",
+                        "searchTerms": "業界 Webサイト監視",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.208598,
+                "formattedSearchTime": "0.21",
+                "totalResults": "13400000",
+                "formattedTotalResults": "13,400,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "ゴメス・コンサルティング | Webサイトランキング・評価・構築 ...",
+                    "htmlTitle": "ゴメス・コンサルティング | <b>Webサイト</b>ランキング・評価・構築 ...",
+                    "link": "https://www.gomez.co.jp/",
+                    "displayLink": "www.gomez.co.jp",
+                    "snippet": "Gomezはウェブサイトの客観的な調査・分析を通じて、消費者と企業の双方にメリットとなるコンサルティングおよびサイト構築サービスをご提供しています。",
+                    "htmlSnippet": "Gomezは<b>ウェブサイト</b>の客観的な調査・分析を通じて、消費者と企業の双方にメリットとなるコンサルティングおよびサイト構築サービスをご提供しています。",
+                    "cacheId": "oZpC5OUw1W8J",
+                    "formattedUrl": "https://www.gomez.co.jp/",
+                    "htmlFormattedUrl": "https://www.gomez.co.jp/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRP_bVX0-8HbZegZJ3C4UlKjLZyYcrwfOsNKeZVFH1oKhyuqEPJ71nzi2E",
+                                "width": "526",
+                                "height": "96"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.gomez.co.jp/assets/img/common/hero.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "薬務課 - 宮城県公式ウェブサイト",
+                    "htmlTitle": "薬務課 - 宮城県公式<b>ウェブサイト</b>",
+                    "link": "https://www.pref.miyagi.jp/soshiki/yakumu/",
+                    "displayLink": "www.pref.miyagi.jp",
+                    "snippet": "022-211-2653[監視麻薬班] ... 外部サイトへリンク） ... 薬局、医薬品販売業、医療機器販売業・貸与業、再生医療等製品販売業における法令遵守体制の整備（R5.2.17).",
+                    "htmlSnippet": "022-211-2653[<b>監視</b>麻薬班] ... 外部<b>サイト</b>へリンク） ... 薬局、医薬品販売<b>業</b>、医療機器販売<b>業</b>・貸与<b>業</b>、再生医療等製品販売<b>業</b>における法令遵守体制の整備（R5.2.17).",
+                    "cacheId": "xA_vfnvIWS0J",
+                    "formattedUrl": "https://www.pref.miyagi.jp/soshiki/yakumu/",
+                    "htmlFormattedUrl": "https://www.pref.miyagi.jp/soshiki/yakumu/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2T6N7xCwLZWAstv4zh9m1sw7eyMTm4xDd4HJc0_5D0Uxt30denZUP6NFN",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.pref.miyagi.jp/shared/images/sns/logo.jpg",
+                                "page_id": "28854",
+                                "og:type": "article",
+                                "og:site_name": "宮城県",
+                                "viewport": "width=device-width, maximum-scale=3.0",
+                                "author": "宮城県",
+                                "og:title": "薬務課",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.pref.miyagi.jp/soshiki/yakumu/index.html",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.pref.miyagi.jp/shared/images/sns/logo.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例：Site24x7",
+                    "htmlTitle": "導入事例：Site24x7",
+                    "link": "https://www.site24x7.jp/case-studies.html",
+                    "displayLink": "www.site24x7.jp",
+                    "snippet": "業界 :IT. Site24x7 : ITAZ technologiesはwebサイトパフォーマンスに重要な洞察 ... Site24x7 : Warehouse Stationeryはwebサイトの可用性を効果的に監視して計測し、 ...",
+                    "htmlSnippet": "<b>業界</b> :IT. Site24x7 : ITAZ technologiesは<b>webサイト</b>パフォーマンスに重要な洞察 ... Site24x7 : Warehouse Stationeryは<b>webサイト</b>の可用性を効果的に<b>監視</b>して計測し、&nbsp;...",
+                    "cacheId": "xOwGBhgIVLAJ",
+                    "formattedUrl": "https://www.site24x7.jp/case-studies.html",
+                    "htmlFormattedUrl": "https://www.site24x7.jp/case-studies.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvf3WkI9VYCXpDwK7yNShJtJ1kYGFu0rDcpTtqmJiHfHxaT3cCHSbFNV0",
+                                "width": "311",
+                                "height": "162"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.site24x7.jp/sites/default/files/ogp-image-toppage.png",
+                                "fb:app_id": "248953049610560",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "導入事例：Site24x7",
+                                "og:site_name": "Site24x7",
+                                "twitter:site": "https://www.site24x7.jp/",
+                                "og:image:url": "https://www.site24x7.jp/sites/default/files/ogp-image-toppage.png",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "og:title": "導入事例：Site24x7",
+                                "og:url": "https://www.site24x7.jp/case-studies.html",
+                                "og:description": "  導入事例 Site24x7の各種ケーススタディを公開しています。ぜひお読みください。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.site24x7.jp/sites/default/files/ogp-image-toppage.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "平成20年度 食品衛生法許可対象施設の監視指導結果 - 宮城県公式 ...",
+                    "htmlTitle": "平成20年度 食品衛生法許可対象施設の<b>監視</b>指導結果 - 宮城県公式 ...",
+                    "link": "https://www.pref.miyagi.jp/soshiki/shoku-k/20kekka.html",
+                    "displayLink": "www.pref.miyagi.jp",
+                    "snippet": "平成20年度監視指導の状況指導結果 ... 魚介類販売業, 2,629, 4,826, 5,149, 106.7% ... より良いウェブサイトにするためにみなさまのご意見をお聞かせください.",
+                    "htmlSnippet": "平成20年度<b>監視</b>指導の状況指導結果 ... 魚介類販売<b>業</b>, 2,629, 4,826, 5,149, 106.7% ... より良い<b>ウェブサイト</b>にするためにみなさまのご意見をお聞かせください.",
+                    "cacheId": "l9kte9Ij1gAJ",
+                    "formattedUrl": "https://www.pref.miyagi.jp/soshiki/shoku-k/20kekka.html",
+                    "htmlFormattedUrl": "https://www.pref.miyagi.jp/soshiki/shoku-k/20kekka.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2T6N7xCwLZWAstv4zh9m1sw7eyMTm4xDd4HJc0_5D0Uxt30denZUP6NFN",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.pref.miyagi.jp/shared/images/sns/logo.jpg",
+                                "page_id": "23160",
+                                "og:type": "article",
+                                "og:site_name": "宮城県",
+                                "viewport": "width=device-width, maximum-scale=3.0",
+                                "author": "宮城県",
+                                "og:title": "平成20年度　食品衛生法許可対象施設の監視指導結果",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.pref.miyagi.jp/soshiki/shoku-k/20kekka.html",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.pref.miyagi.jp/shared/images/sns/logo.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "株式会社フォースリー | プロジェクトマネージャー | IT/Web業界の ...",
+                    "htmlTitle": "株式会社フォースリー | プロジェクトマネージャー | IT/<b>Web業界</b>の ...",
+                    "link": "https://www.green-japan.com/company/5332/job/187327",
+                    "displayLink": "www.green-japan.com",
+                    "snippet": "株式会社フォースリーの募集情報。「【プロジェクトマネージャー】□77名で131億達成□Webサイト監視・分析システム『LOGRIZa』のエンジニア組織構築をお任せします！",
+                    "htmlSnippet": "株式会社フォースリーの募集情報。「【プロジェクトマネージャー】□77名で131億達成□<b>Webサイト監視</b>・分析システム『LOGRIZa』のエンジニア組織構築をお任せします！",
+                    "cacheId": "Ja_7mmMh9sQJ",
+                    "formattedUrl": "https://www.green-japan.com/company/5332/job/187327",
+                    "htmlFormattedUrl": "https://www.green-japan.com/company/5332/job/187327",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjVrtoLT1RfBAZL_3vOpc2XhUMIhiO3zEaKBMg8RMbhiwViWiSbw0jnXFl",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.green-japan.com/photo/270463",
+                                "next-head-count": "13",
+                                "twitter:card": "summary_large_image",
+                                "viewport": "width=device-width",
+                                "og:title": "株式会社フォースリーの求人情報 | 転職サイトGreen（グリーン）",
+                                "og:url": "https://www.green-japan.com/company/5332/job/187327",
+                                "og:description": "【プロジェクトマネージャー】■77名で131億達成■Webサイト監視・分析システム『LOGRIZa』のエンジニア組織構築をお任せします！／自社サービス／ハイブリッドワーク・副業可\\n■お任せしたい業務内容\r\n・『LOGRIZa』の新規機能の企画、要件定義、設計（ユーザーからの要求整理等も行っていただきます）\r\n・チーム全体が早いサイクルで開発・リリースを行うためのプロセス改善・品質向上施策の検討と実行\r\n・メンバーやパートナー企業の進捗管理、品質管理や成果物に対するレビュー\r\n・チームの文化醸成等エンジニア組織づくり\r\n\r\n大きな裁量を持ってシステム開発、サービス成長に取り組んでいただけます。\r\n\r\n■担当いただくプロダクト\r\n私たちが目指しているのは広告業界に厳然と存在する“勘”や“思い込み”を数値化し、クリエイティブの最適化 "
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.green-japan.com/photo/270463"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "東芝テリー株式会社 : 産業用カメラ・監視カメラ・無線伝送装置",
+                    "htmlTitle": "東芝テリー株式会社 : 産業用カメラ・<b>監視</b>カメラ・無線伝送装置",
+                    "link": "https://www.toshiba-teli.co.jp/",
+                    "displayLink": "www.toshiba-teli.co.jp",
+                    "snippet": "東芝テリー株式会社は「映像の専門会社」として産業用カメラ、監視カメラ、管内 ... 弊社では、ウェブサイトの内容やご提供するサービスを向上させ、また、サイトを ...",
+                    "htmlSnippet": "東芝テリー株式会社は「映像の専門会社」として産業用カメラ、<b>監視</b>カメラ、管内 ... 弊社では、<b>ウェブサイト</b>の内容やご提供するサービスを向上させ、また、サイトを&nbsp;...",
+                    "cacheId": "_0BFvLCYeYsJ",
+                    "formattedUrl": "https://www.toshiba-teli.co.jp/",
+                    "htmlFormattedUrl": "https://www.toshiba-teli.co.jp/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbT5Q3MU97phYHc9F1bQte18g8KueLWWbtQTLd5h122TPbyC029GV2iMM",
+                                "width": "344",
+                                "height": "146"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "/images/ogp-image.png",
+                                "og:type": "website",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "東芝テリー株式会社 : 産業用カメラ・監視カメラ・無線伝送装置",
+                                "og:url": "https://www.toshiba-teli.co.jp/index_j.htm",
+                                "og:description": "東芝テリー株式会社は「映像の専門会社」として産業用カメラ、監視カメラ、管内検査用カメラ、無線操縦装置を通してお客様の価値向上に迅速に貢献いたします。",
+                                "format-detection": "telephone=no, email=no, address=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.toshiba-teli.co.jp/images/kv/TC7000/front_sp_ja.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Webサイト監視 | Site24x7のヘルプ",
+                    "htmlTitle": "<b>Webサイト監視</b> | Site24x7のヘルプ",
+                    "link": "https://www.site24x7.jp/help/internet-service-metrics/website-monitor.html",
+                    "displayLink": "www.site24x7.jp",
+                    "snippet": "任意のWebサイト監視をクリックすると、パフォーマンス分析に役立つ監視情報が、グラフ、 ... 業界標準のApdexを使用して、アプリケーションやサービスを利用している ...",
+                    "htmlSnippet": "任意の<b>Webサイト監視</b>をクリックすると、パフォーマンス分析に役立つ監視情報が、グラフ、 ... <b>業界</b>標準のApdexを使用して、アプリケーションやサービスを利用している&nbsp;...",
+                    "cacheId": "KDZ4pGDSwtIJ",
+                    "formattedUrl": "https://www.site24x7.jp/help/internet-service-metrics/website-monitor.html",
+                    "htmlFormattedUrl": "https://www.site24x7.jp/help/internet-service-metrics/<b>web</b>site-monitor.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKY89xKuSvDl4Me8rvZQu7icVVPzBxmDir0gbE8DrcPrF0gavu35L0r7w",
+                                "width": "331",
+                                "height": "152"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.site24x7.jp/help/images/website-metrics1.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "New Relic、業界初*1のOpenAI GPTとのオブザーバビリティ連携 ...",
+                    "htmlTitle": "New Relic、<b>業界</b>初*1のOpenAI GPTとのオブザーバビリティ連携 ...",
+                    "link": "https://newrelic.com/jp/press-release/20230329",
+                    "displayLink": "newrelic.com",
+                    "snippet": "2023/03/29 ... New RelicのOpenAI監視「OpenAI オブザーバビリティ」は、すばやく、使い ... 関連の主要パフォーマンスメトリクスに関するインサイトを可視化する ...",
+                    "htmlSnippet": "2023/03/29 <b>...</b> New RelicのOpenAI<b>監視</b>「OpenAI オブザーバビリティ」は、すばやく、使い ... 関連の主要パフォーマンスメトリクスに関するイン<b>サイト</b>を可視化する&nbsp;...",
+                    "cacheId": "hdjJodiVlZAJ",
+                    "formattedUrl": "https://newrelic.com/jp/press-release/20230329",
+                    "htmlFormattedUrl": "https://newrelic.com/jp/press-release/20230329",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAvbt-uV13rcHvd7--9tSfR3cgk6FMB2NDiY2OeNCk7ahMy-EMVn8Z1tYI",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "msapplication-tilecolor": "#008c99",
+                                "og:image": "https://newrelic.com/sites/default/files/styles/og_image/public/2022-12/Brand%20Graphic%2024.jpg?h=af53702d&itok=umZLt0Is",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "New Relic",
+                                "twitter:site": "@newrelic",
+                                "handheldfriendly": "true",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "New Relic、業界初*1のOpenAI GPTとのオブザーバビリティ連携 「OpenAI Observability（OpenAI オブザーバビリティ）」提供開始",
+                                "mobileoptimized": "width",
+                                "og:description": "GPTアプリケーションを構築するすべてのエンジニアはわずか数行のコード追加で、パフォーマンスの最適化、コスト削減、結果の質の向上を実現可能に"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://newrelic.com/sites/default/files/styles/og_image/public/2022-12/Brand%20Graphic%2024.jpg?h=af53702d&itok=umZLt0Is"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "日本証券業協会",
+                    "htmlTitle": "日本証券<b>業</b>協会",
+                    "link": "https://www.jsda.or.jp/",
+                    "displayLink": "www.jsda.or.jp",
+                    "snippet": "証券業界のSDGs · slider_impactmmtool.PNG · NISA特設サイト · 投資の時間 · 金融・証券インストラクター募集中 · つみたてNISAのTVCMをご紹介.",
+                    "htmlSnippet": "証券<b>業界</b>のSDGs &middot; slider_impactmmtool.PNG &middot; NISA特設<b>サイト</b> &middot; 投資の時間 &middot; 金融・証券インストラクター募集中 &middot; つみたてNISAのTVCMをご紹介.",
+                    "cacheId": "ZeodfEGL5rYJ",
+                    "formattedUrl": "https://www.jsda.or.jp/",
+                    "htmlFormattedUrl": "https://www.jsda.or.jp/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYivctvQvr_X7onsLmjYYwkNy5wiMdzkI3EuHku88DI_ZLbGKBYvIPXXs",
+                                "width": "300",
+                                "height": "98"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,initial-scale=1",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.jsda.or.jp/img/home/slider_nisa.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "電力・ガス取引の監視｜経済産業省北海道経済産業局",
+                    "htmlTitle": "電力・ガス取引の<b>監視</b>｜経済産業省北海道経済産業局",
+                    "link": "https://www.hkd.meti.go.jp/hokse/eg_serveillance/index.htm",
+                    "displayLink": "www.hkd.meti.go.jp",
+                    "snippet": "2016年（平成28年）4月1日に、電気の小売業への参入が全面自由化されたことにより、家庭 ... 事業者の定期報告（ガス）（電力・ガス取引監視等委員会のウェブサイト） ...",
+                    "htmlSnippet": "2016年（平成28年）4月1日に、電気の小売<b>業</b>への参入が全面自由化されたことにより、家庭 ... 事業者の定期報告（ガス）（電力・ガス取引<b>監視</b>等委員会の<b>ウェブサイト</b>）&nbsp;...",
+                    "cacheId": "x7K5z6wukoIJ",
+                    "formattedUrl": "https://www.hkd.meti.go.jp/hokse/eg_serveillance/index.htm",
+                    "htmlFormattedUrl": "https://www.hkd.meti.go.jp/hokse/eg_serveillance/index.htm",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS69fEWqRkzmLVxE7a2YIR90HNiDAnH2SEzrVnobdn0yzrxTHAZgR8KpdA",
+                                "width": "200",
+                                "height": "107"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1.0"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.hkd.meti.go.jp/hokse/eg_serveillance/graphic/logo.gif"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 業界 Webサイト監視",
+                        "totalResults": "12600000",
+                        "searchTerms": "業界 Webサイト監視",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 業界 Webサイト監視",
+                        "totalResults": "12600000",
+                        "searchTerms": "業界 Webサイト監視",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 業界 Webサイト監視",
+                        "totalResults": "12600000",
+                        "searchTerms": "業界 Webサイト監視",
+                        "count": 10,
+                        "startIndex": 31,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.356096,
+                "formattedSearchTime": "0.36",
+                "totalResults": "12600000",
+                "formattedTotalResults": "12,600,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "総合セキュリティサービス企業 (株)ブロードバンドセキュリティ",
+                    "htmlTitle": "総合セキュリティサービス企業 (株)ブロードバンドセキュリティ",
+                    "link": "https://www.bbsec.co.jp/",
+                    "displayLink": "www.bbsec.co.jp",
+                    "snippet": "WEB上のセキュリティ対策を中心に、セキュリティ診断やコンサルティングサービスなどを行う、総合セキュリティ会社。",
+                    "htmlSnippet": "<b>WEB</b>上のセキュリティ対策を中心に、セキュリティ診断やコンサルティングサービスなどを行う、総合セキュリティ会社。",
+                    "cacheId": "w0Kp8V9rBtMJ",
+                    "formattedUrl": "https://www.bbsec.co.jp/",
+                    "htmlFormattedUrl": "https://www.bbsec.co.jp/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5XHTTgrhNHGEoAtsJUKHyITNlK5ic9biF5yQdWDOBcxtySSlkIyCiUH0",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.bbsec.co.jp/img/bbsec_logo.jpg",
+                                "og:type": "article",
+                                "og:site_name": "株式会社ブロードバンドセキュリティ",
+                                "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                                "author": "株式会社ブロードバンドセキュリティ BroadBand Security, Inc.",
+                                "og:title": "総合セキュリティサービス企業 (株)ブロードバンドセキュリティ",
+                                "og:url": "https://www.bbsec.co.jp/",
+                                "og:description": "WEB上のセキュリティ対策を中心に、セキュリティ診断やコンサルティングサービスなどを行う、総合セキュリティ会社",
+                                "twitter:image:src": "https://www.bbsec.co.jp/img/bbsec_logo.jpg"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.bbsec.co.jp/img/bbsec_logo.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "ドライブレコーダー付き自動車保険｜見守るクルマの保険｜個人の ...",
+                    "htmlTitle": "ドライブレコーダー付き自動車保険｜見守るクルマの保険｜個人の ...",
+                    "link": "https://www.ms-ins.com/personal/car/gk/mimamoru-dr.html",
+                    "displayLink": "www.ms-ins.com",
+                    "snippet": "三井住友海上オフィシャルサイト。 ... 業界初!360°全方位撮影可能 ... 等が、『見守るクルマの保険』をさらに安心・便利にご利用いただくための専用WEBサイトです。",
+                    "htmlSnippet": "三井住友海上オフィシャルサイト。 ... <b>業界</b>初!360°全方位撮影可能 ... 等が、『見守るクルマの保険』をさらに安心・便利にご利用いただくための専用<b>WEBサイト</b>です。",
+                    "cacheId": "9XA0AD6GhnUJ",
+                    "formattedUrl": "https://www.ms-ins.com/personal/car/gk/mimamoru-dr.html",
+                    "htmlFormattedUrl": "https://www.ms-ins.com/personal/car/gk/mimamoru-dr.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7LZeDnFnvpgd50Rd2ELbB9jVIeAU2-lWwYa_orXehJfFLUohcHZu0wzrA",
+                                "width": "231",
+                                "height": "218"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "referrer": "no-referrer-when-downgrade",
+                                "viewport": "width=device-width",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://cdn-blocks.karte.io/cf4d6268a3ff20155d6fa81823202a93/entity/ded3c6c4-99b3-4493-9289-2011ca1cbaba"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "高圧ガス保安協会: ホーム",
+                    "htmlTitle": "高圧ガス保安協会: ホーム",
+                    "link": "https://www.khk.or.jp/",
+                    "displayLink": "www.khk.or.jp",
+                    "snippet": "【令和5年度上期】移動監視者講習（2／4回次）追加受付 ... 産業保安; LPガス保安技術者向けWebサイト; LPガス安全委員会; セーフティー・マネージメント・ ...",
+                    "htmlSnippet": "【令和5年度上期】移動<b>監視</b>者講習（2／4回次）追加受付 ... 産業保安; LPガス保安技術者向け<b>Webサイト</b>; LPガス安全委員会; セーフティー・マネージメント・&nbsp;...",
+                    "cacheId": "kIWWBWOP7W4J",
+                    "formattedUrl": "https://www.khk.or.jp/",
+                    "htmlFormattedUrl": "https://www.khk.or.jp/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7g0-FIwJpAixveQbbfZm_VYkPf3_fMFlxb2zN1jadxfybdeffaFGSSSE",
+                                "width": "376",
+                                "height": "134"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.khk.or.jp/Portals/0/images/index/kv/kv_20230101.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "貨物監視ソリューション - 旅客・運輸業界向けサービス | 日本タタ ...",
+                    "htmlTitle": "貨物<b>監視</b>ソリューション - 旅客・運輸<b>業界</b>向けサービス | 日本タタ ...",
+                    "link": "https://www.tcs.com/jp-ja/Cargo_Monitoring",
+                    "displayLink": "www.tcs.com",
+                    "snippet": "そのため、サプライチェーン全体で商品の鮮度を管理することは至難の業と ... TCSのWebサイトでは、お客様により快適にご利用いただくためにcookieを使用しています。",
+                    "htmlSnippet": "そのため、サプライチェーン全体で商品の鮮度を管理することは至難の<b>業</b>と ... TCSの<b>Webサイト</b>では、お客様により快適にご利用いただくためにcookieを使用しています。",
+                    "cacheId": "Bro9ohQVDRsJ",
+                    "formattedUrl": "https://www.tcs.com/jp-ja/Cargo_Monitoring",
+                    "htmlFormattedUrl": "https://www.tcs.com/jp-ja/Cargo_Monitoring",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlzzN8_Fo0G6KAQtjjmT5K2ezOe9M5yYjqt-m-rRzehTxiUKVRgaiOn2A",
+                                "width": "230",
+                                "height": "219"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "template": "Multiselect Language News Template",
+                                "path": "/content/tcs/jp-ja/Industries/TTH/Cargo_Monitoring",
+                                "og:image": "https://www.tcs.com/content/dam/tcs_japan/images/Industries/TTH/solutions/Cargo/Cargo_card.jpg/jcr:content/renditions/tcs_1x.jpeg",
+                                "theme-color": "#313131",
+                                "og:type": "website",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "貨物監視ソリューション - 旅客・運輸業界向けサービス | 日本タタ・コンサルタンシー・サービシズ",
+                                "title": "貨物監視ソリューション - 旅客・運輸業界向けサービス | 日本タタ・コンサルタンシー・サービシズ",
+                                "og:url": "https://www.tcs.com/jp-ja/Cargo_Monitoring",
+                                "og:description": "<p>生鮮貨物の鮮度を管理</p>",
+                                "tags": "TCS JAPAN"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.tcs.com/content/dam/tcs_japan/images/Industries/TTH/solutions/Cargo/Cargo_card.jpg/jcr:content/renditions/tcs_1x.jpeg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "電力小売全面自由化｜資源エネルギー庁",
+                    "htmlTitle": "電力小売全面自由化｜資源エネルギー庁",
+                    "link": "https://www.enecho.meti.go.jp/category/electricity_and_gas/electric/electricity_liberalization/",
+                    "displayLink": "www.enecho.meti.go.jp",
+                    "snippet": "経済産業省・資源エネルギー庁 電力小売全面自由化についての情報サイトです。制度の概要や一般消費者の暮らしへのメリット、今さら聞けない電力自由化5つの質問などを ...",
+                    "htmlSnippet": "経済産業省・資源エネルギー庁 電力小売全面自由化についての情報<b>サイト</b>です。制度の概要や一般消費者の暮らしへのメリット、今さら聞けない電力自由化5つの質問などを&nbsp;...",
+                    "cacheId": "PKbg6FiXZkMJ",
+                    "formattedUrl": "https://www.enecho.meti.go.jp/category/...and.../electricity_liberalization/",
+                    "htmlFormattedUrl": "https://www.enecho.meti.go.jp/category/...and.../electricity_liberalization/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrmsUL6VAx8qzFUawrDxd1wSM0W1aEL0pu_FOB3UYJQ6wuBj_Egg3Ur4GF",
+                                "width": "321",
+                                "height": "157"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.enecho.meti.go.jp/category/electricity_and_gas/electric/electricity_liberalization/img/main.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "SocioFuture 新卒採用Webサイト",
+                    "htmlTitle": "SocioFuture 新卒採用<b>Webサイト</b>",
+                    "link": "https://www.scft-recruit.com/keyword.html",
+                    "displayLink": "www.scft-recruit.com",
+                    "snippet": "メガバンク、地方銀行、流通系銀行など多数の金融機関のATM監視業務に携わり、業界トップシェアを誇ります。 Keyword03. 金融に強い。だけじゃない？",
+                    "htmlSnippet": "メガバンク、地方銀行、流通系銀行など多数の金融機関のATM<b>監視</b>業務に携わり、<b>業界</b>トップシェアを誇ります。 Keyword03. 金融に強い。だけじゃない？",
+                    "cacheId": "J0WrjdIX2UwJ",
+                    "formattedUrl": "https://www.scft-recruit.com/keyword.html",
+                    "htmlFormattedUrl": "https://www.scft-recruit.com/keyword.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwzM4Wuc48UP7wl817-x9ARpR8frf2WjL4SLL7hMEPlGWGnedPrzpFpJk",
+                                "width": "350",
+                                "height": "144"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.scft-recruit.com/images/keyword/p1.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "HACCP（ハサップ）｜厚生労働省",
+                    "htmlTitle": "HACCP（ハサップ）｜厚生労働省",
+                    "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/haccp/index.html",
+                    "displayLink": "www.mhlw.go.jp",
+                    "snippet": "農業及び水産業における食品の採取業はHACCPに沿った衛生管理の制度化の対象外です。 ... 各都道府県等の食品衛生監視員を対象に、HACCPの導入支援・検証を適切に実施 ...",
+                    "htmlSnippet": "農業及び水産業における食品の採取<b>業</b>はHACCPに沿った衛生管理の制度化の対象外です。 ... 各都道府県等の食品衛生<b>監視</b>員を対象に、HACCPの導入支援・検証を適切に実施&nbsp;...",
+                    "cacheId": "xh8FotSw-WoJ",
+                    "formattedUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou.../index.html",
+                    "htmlFormattedUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou.../index.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK512Q5vCntUE7POpwnXmbK_xN6K0HpMkmugMbYZsjm5XUr45mOwlv45M",
+                                "width": "333",
+                                "height": "152"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:type": "website",
+                                "viewport": "width=device-width,initial-scale=1",
+                                "og:title": "HACCP（ハサップ）",
+                                "og:url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/haccp/index.html",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.mhlw.go.jp/content/11130500/000970366.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "item": "政策について",
+                                "name": "政策について",
+                                "position": "2"
+                            },
+                            {
+                                "item": "分野別の政策一覧",
+                                "name": "分野別の政策一覧",
+                                "position": "3"
+                            },
+                            {
+                                "item": "健康・医療",
+                                "name": "健康・医療",
+                                "position": "4"
+                            },
+                            {
+                                "item": "食品",
+                                "name": "食品",
+                                "position": "5"
+                            },
+                            {
+                                "name": "HACCP（ハサップ）",
+                                "position": "6"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "医療広告ガイドライン違反を調査・監視する業者が変更に！医療 ...",
+                    "htmlTitle": "医療広告ガイドライン違反を調査・<b>監視</b>する業者が変更に！医療 ...",
+                    "link": "https://zeromedical-web.com/blog/advertisement/",
+                    "displayLink": "zeromedical-web.com",
+                    "snippet": "2019/07/26 ... 医療広告ガイドラインに歯科医院やクリニックのホームページが対応しているかどうか。 その監視・調査を行っているのが、厚生労働省より委託を受けた ...",
+                    "htmlSnippet": "2019/07/26 <b>...</b> 医療広告ガイドラインに歯科医院やクリニックのホームページが対応しているかどうか。 その<b>監視</b>・調査を行っているのが、厚生労働省より委託を受けた&nbsp;...",
+                    "cacheId": "rMfFBLGdAU8J",
+                    "formattedUrl": "https://zeromedical-web.com/blog/advertisement/",
+                    "htmlFormattedUrl": "https://zeromedical-<b>web</b>.com/blog/advertisement/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIo5YPXaP17qv6AM6RzU_HLh3M4oWhbk21ZDs7KenVn5K54zYjPB6ziIIx",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "application-name": "ゼロメディカルブランディングサイト",
+                                "og:image": "https://zeromedical-web.com/wp-content/uploads/2019/07/27b922a1e10ba857449223c50b0be892.png",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "theme-color": "#D5E0EB",
+                                "og:site_name": "ゼロメディカルブランディングサイト",
+                                "og:title": "医療広告ガイドライン違反を調査・監視する委託業者が変更！厳しい医療ホームページの現状",
+                                "apple-mobile-web-app-title": "ゼロメディカルブランディングサイト",
+                                "pwaforwp": "wordpress-plugin",
+                                "og:description": "医療広告ガイドラインに歯科医院やクリニックのホームページが対応しているかどうか。 その監視・調査を行っているのが、厚生労働省より委託を受けた外部業者だということはあまり知られていません。 2019年6",
+                                "facebook-domain-verification": "kej9yx5iwhvtxefuuzwc5p3cfv3i1t",
+                                "twitter:site": "@zeromedicalweb",
+                                "apple-mobile-web-app-status-bar-style": "default",
+                                "viewport": "width=device-width, initial-scale=1, minimum-scale=1, shrink-to-fit=no",
+                                "apple-mobile-web-app-capable": "yes",
+                                "og:locale": "ja_JP",
+                                "mobile-web-app-capable": "yes",
+                                "og:url": "https://zeromedical-web.com/blog/advertisement/",
+                                "apple-touch-fullscreen": "yes",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://zeromedical-web.com/wp-content/uploads/2019/07/27b922a1e10ba857449223c50b0be892.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "株式会社フォースリー | バックエンドエンジニア | IT/Web業界の求人 ...",
+                    "htmlTitle": "株式会社フォースリー | バックエンドエンジニア | IT/<b>Web業界</b>の求人 ...",
+                    "link": "https://www.green-japan.com/company/5332/job/178986",
+                    "displayLink": "www.green-japan.com",
+                    "snippet": "株式会社フォースリーの募集情報。「□77名で131億達成□Webサイト監視・分析システム『LOGRIZa』のバックエンドエンジニア募集！／自社サービス／ハイブリッド ...",
+                    "htmlSnippet": "株式会社フォースリーの募集情報。「□77名で131億達成□<b>Webサイト監視</b>・分析システム『LOGRIZa』のバックエンドエンジニア募集！／自社サービス／ハイブリッド&nbsp;...",
+                    "cacheId": "oL1MGAIXXf0J",
+                    "formattedUrl": "https://www.green-japan.com/company/5332/job/178986",
+                    "htmlFormattedUrl": "https://www.green-japan.com/company/5332/job/178986",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjVrtoLT1RfBAZL_3vOpc2XhUMIhiO3zEaKBMg8RMbhiwViWiSbw0jnXFl",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.green-japan.com/photo/270463",
+                                "next-head-count": "14",
+                                "twitter:card": "summary_large_image",
+                                "viewport": "width=device-width",
+                                "og:title": "株式会社フォースリーの求人情報 | 転職サイトGreen（グリーン）",
+                                "og:url": "https://www.green-japan.com/company/5332/job/178986",
+                                "og:description": "■77名で131億達成■Webサイト監視・分析システム『LOGRIZa』のバックエンドエンジニア募集！／自社サービス／ハイブリッドワーク・副業可／モダンな技術や開発手法を積極的に取り入れています★\\n■お任せしたい業務内容\r\n『LOGRIZa』の企画・開発・運用をお任せいたします。\r\n・新規機能の要件定義、設計、開発、テスト\r\n・ワンタグサービス『QUORIZa』とのデータ連携\r\n・パフォーマンスチューニング\r\n・クローラー開発、運用\r\n\r\n大きな裁量を持ってシステム開発、サービス成長に取り組んでいただけます。\r\n\r\n■担当いただくプロダクト\r\n私たちが目指しているのは広告業界に厳然と存在する“勘”や“思い込み”を数値化し、クリエイティブの最適化を実現すること。 \r\nそうすることでインターネット広告に信頼性を取り戻し、透明で堅実な産業としての再 "
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.green-japan.com/photo/270463"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "富士電機",
+                    "htmlTitle": "富士電機",
+                    "link": "https://www.fujielectric.co.jp/",
+                    "displayLink": "www.fujielectric.co.jp",
+                    "snippet": "富士電機はパワエレ、半導体、発電プラント、食品流通の4つのエネルギー・環境事業で持続可能な社会の実現に貢献しています。",
+                    "htmlSnippet": "富士電機はパワエレ、半導体、発電プラント、食品流通の4つのエネルギー・環境事業で持続可能な社会の実現に貢献しています。",
+                    "cacheId": "3AmFE9CY9kwJ",
+                    "formattedUrl": "https://www.fujielectric.co.jp/",
+                    "htmlFormattedUrl": "https://www.fujielectric.co.jp/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSD5_B4BGJq23I74ZZULSSIziyItxyJ5f0t7f-Welf3RLtW0qK2kWYEfBs",
+                                "width": "150",
+                                "height": "150"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.fujielectric.co.jp/common/img/logo_fujielectric_og.png",
+                                "og:type": "website",
+                                "twitter:card": "summary",
+                                "og:site_name": "富士電機",
+                                "viewport": "width=device-width",
+                                "og:title": "富士電機",
+                                "og:url": "https://www.fujielectric.co.jp/",
+                                "og:description": "富士電機はパワエレ、半導体、発電プラント、食品流通の4つのエネルギー・環境事業で持続可能な社会の実現に貢献しています。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.fujielectric.co.jp/common/img/logo_fujielectric_og.png"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1829 @@
+{
+    "query": "商品・サービス 営業リスト作成",
+    "links": [
+        [
+            "https://www.tdb.co.jp/lineup/listup/index.html",
+            "https://val-works.com/bowned/sales_list_recommended/",
+            "https://boxil.jp/mag/a7879/",
+            "https://meibo-engine.com/column/how-to-make-sales-lists.html",
+            "https://salestech.studio/sales-relation/p-btob-saleslist-create/",
+            "https://sairu.co.jp/method/2601/",
+            "https://ad-lp.news.mynavi.jp/blog/sales-list",
+            "https://help.salesforce.com/s/articleView?id=sf.assets_create.htm&language=ja&type=5",
+            "http://www.tsr-net.co.jp/service/index.html?purpose=%E5%8F%96%E5%BC%95%E5%85%88%E3%82%92%E6%96%B0%E8%A6%8F%E9%96%8B%E6%8B%93%E3%81%97%E3%81%9F%E3%81%84",
+            "https://saleshacks.digima.com/buying-a-sales-lead-list/"
+        ],
+        [
+            "https://www.zenrin.co.jp/product/category/gis/package/ss-pack/index.html",
+            "https://saleshacks.digima.com/how-to-build-sales-prospect-list/",
+            "https://insidesales-support.com/attracting-customers/",
+            "https://product-senses.mazrica.com/senseslab/business-efficiency/how-to-make-sales-lead-list",
+            "https://dm.nexway.co.jp/blog/24",
+            "https://kaitak-sales.com/",
+            "https://surpass-star.com/blog/174/",
+            "https://www.sunbridge.com/blog/column/how_to_create_sales_list/",
+            "https://imitsu.jp/list/sales-agent/sales-list/",
+            "https://hrog.net/knowhow/development/96357/"
+        ],
+        [
+            "https://www.tsr-net.co.jp/service/detail/tsr-van2.html",
+            "https://risin.co.jp/remote-sales/",
+            "https://www.interviewz.io/blog/readlist-howto-make/",
+            "https://ppp2018.jp/blog/contact-form-recommend/",
+            "https://dream-up.co.jp/sakusaku/media/sales-list-mail/",
+            "https://ferret-one.com/blog/customer-list",
+            "https://www.hai2mail.jp/column/sales-method/20230501.php",
+            "https://dmplus.jp/column/how-to-create-a-list-for-corporate-dm/",
+            "https://sales-marker.jp/",
+            "https://saas-search.jp/saas-services/sales/create-sales-list/"
+        ]
+    ],
+    "snapshot_ymd": "D2023-06-23",
+    "snapshot_timestamp": "D2023-06-23T01-28-24",
+    "responses": [
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "request": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 営業リスト作成",
+                        "totalResults": "20900000",
+                        "searchTerms": "商品・サービス 営業リスト作成",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 営業リスト作成",
+                        "totalResults": "20900000",
+                        "searchTerms": "商品・サービス 営業リスト作成",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.308726,
+                "formattedSearchTime": "0.31",
+                "totalResults": "20900000",
+                "formattedTotalResults": "20,900,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "営業ターゲットリスト| 商品・サービス| 株式会社 帝国データバンク ...",
+                    "htmlTitle": "<b>営業</b>ターゲット<b>リスト</b>| <b>商品</b>・<b>サービス</b>| 株式会社 帝国データバンク ...",
+                    "link": "https://www.tdb.co.jp/lineup/listup/index.html",
+                    "displayLink": "www.tdb.co.jp",
+                    "snippet": "売上、利益の拡大のための新規取引先獲得に欠かせない営業ターゲットリスト、新 ... 任意のキーワードなどさまざまな条件で御社オリジナルのリストを作成できます。",
+                    "htmlSnippet": "売上、利益の拡大のための新規取引先獲得に欠かせない<b>営業</b>ターゲット<b>リスト</b>、新 ... 任意のキーワードなどさまざまな条件で御社オリジナルの<b>リスト</b>を<b>作成</b>できます。",
+                    "cacheId": "OHIlIw5ShN8J",
+                    "formattedUrl": "https://www.tdb.co.jp/lineup/listup/index.html",
+                    "htmlFormattedUrl": "https://www.tdb.co.jp/lineup/listup/index.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxJofWPnXzQEbhKHlyGiardJRBkMQg6eDisTtaE5Tq1sP-I1yD5_khrWE",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.tdb.co.jp/resource/img/tdb_ogp.png",
+                                "og:type": "website",
+                                "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=yes",
+                                "og:title": "株式会社 帝国データバンク[TDB] | TEIKOKU DATABANK, LTD.",
+                                "og:url": "https://www.tdb.co.jp/index.html",
+                                "og:description": "国内最大級の企業情報データベースを保有する帝国データバンクが、あなたのビジネスを強力にサポート。企業信用調査、マーケティング、取引先状況の把握や与信管理の業務効率化をご提案します。倒産情報や独自調査レポート、分析データも公開。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.tdb.co.jp/resource/img/tdb_ogp.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "質の高い営業リストが作成できるおすすめツール5つを徹底比較 ...",
+                    "htmlTitle": "質の高い<b>営業リスト</b>が<b>作成</b>できるおすすめツール5つを徹底比較 ...",
+                    "link": "https://val-works.com/bowned/sales_list_recommended/",
+                    "displayLink": "val-works.com",
+                    "snippet": "2022/11/17 ... この記事では、おすすめの営業リスト作成ツールを厳選して紹介します。 ... Musubuを活用すれば、成約情報などをもとに、自社の商品やサービスに興味 ...",
+                    "htmlSnippet": "2022/11/17 <b>...</b> この記事では、おすすめの<b>営業リスト作成</b>ツールを厳選して紹介します。 ... Musubuを活用すれば、成約情報などをもとに、自社の<b>商品</b>や<b>サービス</b>に興味&nbsp;...",
+                    "cacheId": "UlM6wFQZv0sJ",
+                    "formattedUrl": "https://val-works.com/bowned/sales_list_recommended/",
+                    "htmlFormattedUrl": "https://val-works.com/bowned/sales_list_recommended/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUN9BoJbMTMogIdfBYYizndBnwMfoZ1PzzBQC-yhhnzGKKfbJoNjkdoqZX",
+                                "width": "310",
+                                "height": "162"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://val-works.com/bowned/wp-content/uploads/2021/10/sales_list_recommended-1024x536.png"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "msapplication-tilecolor": "#6bb6ff",
+                                "og:image": "https://val-works.com/bowned/wp-content/uploads/2021/10/sales_list_recommended-1024x536.png",
+                                "theme-color": "#6bb6ff",
+                                "og:type": "article",
+                                "thumbnail": "https://val-works.com/bowned/wp-content/uploads/2021/10/sales_list_recommended-1024x536.png",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "Bowned",
+                                "handheldfriendly": "True",
+                                "og:title": "質の高い営業リストが作成できるおすすめツール5つを徹底比較！",
+                                "og:description": "質の高い営業リストを作成することで、営業活動をスムーズに進められます。AIが企業を自動で分類してくれる、メールを自動的に配信できるなど、さまざまなツールがあるため、自社に合ったものを導入しましょう。この記事では、おすすめ ...",
+                                "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                                "mobileoptimized": "320",
+                                "og:url": "https://val-works.com/bowned/sales_list_recommended/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://val-works.com/bowned/wp-content/uploads/2021/10/sales_list_recommended-1024x536.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "item": "営業支援",
+                                "name": "営業支援",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "営業リスト作成ツールおすすめ比較20選！選び方を目的別に紹介 ...",
+                    "htmlTitle": "<b>営業リスト作成</b>ツールおすすめ比較20選！選び方を目的別に紹介 ...",
+                    "link": "https://boxil.jp/mag/a7879/",
+                    "displayLink": "boxil.jp",
+                    "snippet": "2022/12/09 ... BOXILおすすめの営業リスト作成ツールを、選び方とともに比較します。 ... 意欲の高い企業をリスト化; 商品やサービスへの興味関心の高まりを可視化 ...",
+                    "htmlSnippet": "2022/12/09 <b>...</b> BOXILおすすめの<b>営業リスト作成</b>ツールを、選び方とともに比較します。 ... 意欲の高い企業をリスト化; <b>商品</b>や<b>サービス</b>への興味関心の高まりを可視化&nbsp;...",
+                    "cacheId": "UmoSASabq94J",
+                    "formattedUrl": "https://boxil.jp/mag/a7879/",
+                    "htmlFormattedUrl": "https://boxil.jp/mag/a7879/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRXiPG8ZfTTgX7hafCgskZ1Wa_xbmS_eaheyM5JNepUYwKWUKKsf3Sbyc7",
+                                "width": "310",
+                                "height": "162"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "msapplication-tilecolor": "#fff",
+                                "og:image": "https://store.boxil.jp/media/images/uploads/media_image/media_image/52037/large.jpg",
+                                "theme-color": "#ffffff",
+                                "twitter:title": "営業リスト作成ツールおすすめ比較20選！選び方を目的別に紹介 | BOXIL Magazine",
+                                "og:type": "article",
+                                "article:section": "営業リスト作成ツール",
+                                "article:published_time": "2023-06-08T11:17:55+09:00",
+                                "msapplication-square70x70logo": "/mag/site-tile-70x70.png",
+                                "og:site_name": "【ボクシル】法人向けITサービスの比較・検索・資料請求サイト",
+                                "og:title": "営業リスト作成ツールおすすめ比較20選！選び方を目的別に紹介 | BOXIL Magazine",
+                                "msapplication-wide310x150logo": "/mag/site-tile-310x150.png",
+                                "csrf-param": "authenticity_token",
+                                "msapplication-square150x150logo": "/mag/site-tile-150x150.png",
+                                "twitter:image": "https://store.boxil.jp/media/images/uploads/media_image/media_image/52037/large.jpg",
+                                "viewport": "width=device-width, user-scalable=no",
+                                "msapplication-square310x310logo": "/mag/site-tile-310x310.png",
+                                "csrf-token": "gzAVl3f9lRqA+hoPjKxzTwftjkM/2RriITli8flRebORxun1TFPqrNFZSYC8Ehwdl3GlGulYsOPN8VnAYtirkA==",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://boxil.jp/mag/a7879/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://store.boxil.jp/media/images/uploads/media_image/media_image/52037/large.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "営業リストを作成する5つのコツ！優れた営業リストに共通すること ...",
+                    "htmlTitle": "<b>営業リスト</b>を<b>作成</b>する5つのコツ！優れた<b>営業リスト</b>に共通すること ...",
+                    "link": "https://meibo-engine.com/column/how-to-make-sales-lists.html",
+                    "displayLink": "meibo-engine.com",
+                    "snippet": "2022/02/27 ... 自社の商品やサービスを売り込むわけですから、自社の商品・サービスに興味を持ってくれそうな顧客をターゲットとして、リストに組み込むようにしましょう ...",
+                    "htmlSnippet": "2022/02/27 <b>...</b> 自社の商品やサービスを売り込むわけですから、自社の<b>商品</b>・<b>サービス</b>に興味を持ってくれそうな顧客をターゲットとして、<b>リスト</b>に組み込むようにしましょう&nbsp;...",
+                    "cacheId": "TF1dmy-KT7EJ",
+                    "formattedUrl": "https://meibo-engine.com/column/how-to-make-sales-lists.html",
+                    "htmlFormattedUrl": "https://meibo-engine.com/column/how-to-make-sales-lists.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTai92yMh59CNRZdI3s1xO_v5yrocdajJ07gc4D3Q-_JZ1rkV-8z0hWGrA",
+                                "width": "262",
+                                "height": "192"
+                            }
+                        ],
+                        "BreadcrumbList": [
+                            {}
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width",
+                                "position": "1",
+                                "msapplication-tileimage": "https://meibo-engine.com/wp-content/uploads/2021/12/cropped-meibo-engine-icon4-1-270x270.png"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://meibo-engine.com/wp-content/uploads/2022/02/how-to-make-sales-lists_eyecatch-660x485.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "成果の高い法人向け営業リストの作成方法とは",
+                    "htmlTitle": "成果の高い法人向け<b>営業リスト</b>の<b>作成</b>方法とは",
+                    "link": "https://salestech.studio/sales-relation/p-btob-saleslist-create/",
+                    "displayLink": "salestech.studio",
+                    "snippet": "2019/01/22 ... 商談のアポイントを取り付け（アポ取り）、顧客の抱えている課題を聞き取って引き出し（ヒアリング）、その解決に役立つ自社の商品・サービスを提案します ...",
+                    "htmlSnippet": "2019/01/22 <b>...</b> 商談のアポイントを取り付け（アポ取り）、顧客の抱えている課題を聞き取って引き出し（ヒアリング）、その解決に役立つ自社の<b>商品</b>・<b>サービス</b>を提案します&nbsp;...",
+                    "cacheId": "og29bdPINicJ",
+                    "formattedUrl": "https://salestech.studio/sales-relation/p-btob-saleslist-create/",
+                    "htmlFormattedUrl": "https://salestech.studio/sales-relation/p-btob-saleslist-create/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRSC22TUE12PJcoBk6woMzEGmM3OX9ZHJBlxeHmyXgeuBBxv3bB8V3f0wt",
+                                "width": "282",
+                                "height": "179"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://salestech.studio/wp-content/uploads/2019/01/null-6.jpeg",
+                                "og:type": "article",
+                                "article:published_time": "2019-01-22T13:48:53+00:00",
+                                "og:image:width": "600",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "APOLLO SALES",
+                                "og:title": "成果の高い法人向け営業リストの作成方法とは",
+                                "og:image:height": "380",
+                                "og:description": "企業の営業先が法人であるか個人であるかによって、営業手法は全く異なります。 営業の前段階で市場にアクセスするマ […]",
+                                "twitter:image": "https://salestech.studio/wp-content/uploads/2019/01/null-6.jpeg?w=640",
+                                "twitter:text:title": "成果の高い法人向け営業リストの作成方法とは",
+                                "article:modified_time": "2023-05-19T07:23:50+00:00",
+                                "viewport": "width=device-width,initial-scale=1.0",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://salestech.studio/sales-relation/p-btob-saleslist-create/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://salestech.studio/wp-content/uploads/2019/01/null-6.jpeg"
+                            }
+                        ],
+                        "article": [
+                            {
+                                "about": "営業関連",
+                                "name": "成果の高い法人向け営業リストの作成方法とは",
+                                "datepublished": "2019-01-22"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "営業資料の作成・改善に使える62のチェックリスト【テンプレート ...",
+                    "htmlTitle": "<b>営業</b>資料の<b>作成</b>・改善に使える62のチェック<b>リスト</b>【テンプレート ...",
+                    "link": "https://sairu.co.jp/method/2601/",
+                    "displayLink": "sairu.co.jp",
+                    "snippet": "そこで資料は、決裁者をはじめとする、顧客社内にいる会えない人たちにアピールできる数少ない手段となるのです。 また、資料の内容や体裁を見て企業や商品・サービスへの ...",
+                    "htmlSnippet": "そこで資料は、決裁者をはじめとする、顧客社内にいる会えない人たちにアピールできる数少ない手段となるのです。 また、資料の内容や体裁を見て企業や<b>商品</b>・<b>サービス</b>への&nbsp;...",
+                    "cacheId": "hwjSJ7N27n8J",
+                    "formattedUrl": "https://sairu.co.jp/method/2601/",
+                    "htmlFormattedUrl": "https://sairu.co.jp/method/2601/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "og:image": "https://sairu.co.jp/wp-content/uploads/images/5f842597bd5b5b25b3758c07-scaled.png",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "株式会社才流（サイル） ｜ メソッドカンパニー",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "営業資料の作成・改善に使える62のチェックリスト【テンプレートあり】 | メソッド | 才流",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://sairu.co.jp/method/2601/",
+                                "og:description": "才流（サイル）のメソッド「営業資料の作成・改善に使える62のチェックリスト【テンプレートあり】」です。数百の成功事例から導き出した「成功の型」を、貴社のビジネスにお役立てください。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://sairu.co.jp/wp-content/uploads/images/5f842597bd5b5b25b3758c07-scaled.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "営業リストとは｜収集・管理方法や作成のポイント、おすすめ ...",
+                    "htmlTitle": "<b>営業リスト</b>とは｜収集・管理方法や<b>作成</b>のポイント、おすすめ ...",
+                    "link": "https://ad-lp.news.mynavi.jp/blog/sales-list",
+                    "displayLink": "ad-lp.news.mynavi.jp",
+                    "snippet": "2022/12/22 ... ターゲットを設定する際は以下のポイントを意識してみてください。 自社の商品・サービスの需要があるのはどの業界か; アプローチする企業はどんな課題や ...",
+                    "htmlSnippet": "2022/12/22 <b>...</b> ターゲットを設定する際は以下のポイントを意識してみてください。 自社の<b>商品</b>・<b>サービス</b>の需要があるのはどの業界か; アプローチする企業はどんな課題や&nbsp;...",
+                    "cacheId": "XjUBHtVQQIQJ",
+                    "formattedUrl": "https://ad-lp.news.mynavi.jp/blog/sales-list",
+                    "htmlFormattedUrl": "https://ad-lp.news.mynavi.jp/blog/sales-list",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnAaO8SCJlHxVL6xXugNR6gngyelOKdbX6gUI8QF83hmOHEocpx57rgWnL",
+                                "width": "300",
+                                "height": "168"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://ad-lp.news.mynavi.jp/hubfs/%E5%96%B6%E6%A5%AD%E3%83%AA%E3%82%B9%E3%83%88.webp#keepProtocol",
+                                "twitter:title": "営業リストとは｜収集・管理方法や作成のポイント、おすすめツールをご紹介",
+                                "og:image:alt": "営業リストとは｜収集・管理方法や作成のポイント、おすすめツールをご紹介",
+                                "twitter:card": "summary",
+                                "og:type": "article",
+                                "twitter:domain": "ad-lp.news.mynavi.jp",
+                                "og:title": "営業リストとは｜収集・管理方法や作成のポイント、おすすめツールをご紹介",
+                                "og:description": "営業リストはアプローチすべき見込み顧客をまとめたもので、テレアポや新規開拓など営業活動に活用されています。営業の効率や成約率を高めるためには、質の高い営業リストを作成することが重要です。今回の記事では営業リストの概要、収集・管理方法や作成のポイント、おすすめツールを紹介していきます。",
+                                "twitter:image": "https://ad-lp.news.mynavi.jp/hubfs/%E5%96%B6%E6%A5%AD%E3%83%AA%E3%82%B9%E3%83%88.webp#keepProtocol",
+                                "twitter:image:alt": "営業リストとは｜収集・管理方法や作成のポイント、おすすめツールをご紹介",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "営業リストはアプローチすべき見込み顧客をまとめたもので、テレアポや新規開拓など営業活動に活用されています。営業の効率や成約率を高めるためには、質の高い営業リストを作成することが重要です。今回の記事では営業リストの概要、収集・管理方法や作成のポイント、おすすめツールを紹介していきます。",
+                                "og:url": "https://ad-lp.news.mynavi.jp/blog/sales-list"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://ad-lp.news.mynavi.jp/hubfs/%E5%96%B6%E6%A5%AD%E3%83%AA%E3%82%B9%E3%83%88.webp#keepProtocol"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "納入商品の作成",
+                    "htmlTitle": "納入<b>商品</b>の<b>作成</b>",
+                    "link": "https://help.salesforce.com/s/articleView?id=sf.assets_create.htm&language=ja&type=5",
+                    "displayLink": "help.salesforce.com",
+                    "snippet": "納入商品を作成し、顧客が購入した商品を追跡します。必要なエディションとユーザ権限 使用可能なインターフェース: Salesforce Classic および Lightning Experience ...",
+                    "htmlSnippet": "納入<b>商品</b>を<b>作成</b>し、顧客が購入した<b>商品</b>を追跡します。必要なエディションとユーザ権限 使用可能なインターフェース: Salesforce Classic および Lightning Experience&nbsp;...",
+                    "formattedUrl": "https://help.salesforce.com/s/articleView?id=sf.assets_create.htm...5",
+                    "htmlFormattedUrl": "https://help.salesforce.com/s/articleView?id=sf.assets_create.htm...5",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "salesforce-mask-redirects": "true",
+                                "salesforce-redirect-uri": "https://help.salesforce.com/services/authcallback/trailblazerloginCommunity",
+                                "salesforce-brand": "Help_Community",
+                                "og:site_name": "Salesforce",
+                                "salesforce-login-handler": "onLogin",
+                                "viewport": "initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0, minimal-ui",
+                                "salesforce-mode": "authprovider",
+                                "salesforce-authprovider-login": "https://help.salesforce.com/services/auth/sso/trailblazerloginCommunity",
+                                "salesforce-init-handler": "onInit",
+                                "salesforce-logout-handler": "onLogout",
+                                "salesforce-authprovider-signup": "https://help.salesforce.com/services/auth/sso/trailblazersignupCommunity",
+                                "salesforce-community": "https://trailblazer.me"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "商品・サービス | 東京商工リサーチ",
+                    "htmlTitle": "<b>商品</b>・<b>サービス</b> | 東京商工リサーチ",
+                    "link": "http://www.tsr-net.co.jp/service/index.html?purpose=%E5%8F%96%E5%BC%95%E5%85%88%E3%82%92%E6%96%B0%E8%A6%8F%E9%96%8B%E6%8B%93%E3%81%97%E3%81%9F%E3%81%84",
+                    "displayLink": "www.tsr-net.co.jp",
+                    "snippet": "営業リスト作成、見込み顧客抽出、市場動向など取引先の新規開拓はこちら. 様々な悩みをプロに依頼・相談する. 市場調査、M&Aなど、ビジネスに関するご依頼・ご相談は ...",
+                    "htmlSnippet": "<b>営業リスト作成</b>、見込み顧客抽出、市場動向など取引先の新規開拓はこちら. 様々な悩みをプロに依頼・相談する. 市場調査、M&amp;Aなど、ビジネスに関するご依頼・ご相談は&nbsp;...",
+                    "cacheId": "5pxtE6i5LeIJ",
+                    "formattedUrl": "www.tsr-net.co.jp/service/index.html?purpose=取引先を新規開拓したい",
+                    "htmlFormattedUrl": "www.tsr-net.co.jp/service/index.html?purpose=取引先を新規開拓したい",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFIsZapM8iMWC4o3Nh7zhf6P-8wG7uQD3BrzjV6OVvzHlVGjXpLx5CS_M",
+                                "width": "277",
+                                "height": "182"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.tsr-net.co.jp/common/img/ogp.jpg",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "株式会社東京商工リサーチ",
+                                "pf:attributes": "category_url:https://www.tsr-net.co.jp/service/index.html",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "og:title": "商品・サービス | 東京商工リサーチ",
+                                "og:url": "https://www.tsr-net.co.jp/service/",
+                                "og:description": "国内・海外の企業調査、与信管理、営業・マーケティング強化、データベースサービスなど、東京商工リサーチは世界最大2億件を超える国内最大級の企業情報を活用してソリューション・サービスをご提供しています。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.tsr-net.co.jp/common/img/ogp.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "営業リストを購入する前に考えるべきこと【BtoB向け】",
+                    "htmlTitle": "<b>営業リスト</b>を購入する前に考えるべきこと【BtoB向け】",
+                    "link": "https://saleshacks.digima.com/buying-a-sales-lead-list/",
+                    "displayLink": "saleshacks.digima.com",
+                    "snippet": "営業リストとは、自社商品・サービスを販売したい見込み客の社名や住所、 ... 見込み客のターゲット像が明確ならば、地道に質の高い営業リストを作成できるでしょう。",
+                    "htmlSnippet": "<b>営業リスト</b>とは、自社<b>商品</b>・<b>サービス</b>を販売したい見込み客の社名や住所、 ... 見込み客のターゲット像が明確ならば、地道に質の高い<b>営業リスト</b>を<b>作成</b>できるでしょう。",
+                    "cacheId": "892x3uou17MJ",
+                    "formattedUrl": "https://saleshacks.digima.com/buying-a-sales-lead-list/",
+                    "htmlFormattedUrl": "https://saleshacks.digima.com/buying-a-sales-lead-list/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_v0SUjbyWu_uLvCSoe5N5WGnlAo5s6k50Gh2YmXhq1lkhpyVKpkJqm2I",
+                                "width": "377",
+                                "height": "134"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://saleshacks.digima.com/wp-content/uploads/2021/01/buying-a-sales-lead-lists.jpg",
+                                "og:type": "article",
+                                "article:published_time": "2021-01-07T02:32:21+00:00",
+                                "og:image:width": "1320",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "セールスハックス",
+                                "author": "佐原 業平（さはら なりひら）",
+                                "og:title": "営業リストを購入する前に考えるべきこと【BtoB向け】",
+                                "og:image:height": "470",
+                                "twitter:label1": "執筆者",
+                                "og:image:type": "image/jpeg",
+                                "og:description": "営業リストとは、自社商品・サービスを販売したい見込み客の社名や住所、メールアドレスなどが一覧になっているリストです。効率的に営業を進める上で、営業リストは不可欠です。BtoBビジネスを行う上で、営業リストを購入する前に考えるべきことを解説します。",
+                                "twitter:creator": "@Narihira_Sahara",
+                                "article:publisher": "https://www.facebook.com/saleshacks.digima/",
+                                "article:author": "https://www.facebook.com/narihira.sahara.7",
+                                "twitter:data1": "佐原 業平（さはら なりひら）",
+                                "twitter:site": "@saleshacks_dm",
+                                "article:modified_time": "2021-01-27T05:33:40+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://saleshacks.digima.com/buying-a-sales-lead-list/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://saleshacks.digima.com/wp-content/uploads/2021/01/buying-a-sales-lead-lists.jpg"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 営業リスト作成",
+                        "totalResults": "20900000",
+                        "searchTerms": "商品・サービス 営業リスト作成",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 営業リスト作成",
+                        "totalResults": "20900000",
+                        "searchTerms": "商品・サービス 営業リスト作成",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 営業リスト作成",
+                        "totalResults": "20900000",
+                        "searchTerms": "商品・サービス 営業リスト作成",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.164943,
+                "formattedSearchTime": "0.16",
+                "totalResults": "20900000",
+                "formattedTotalResults": "20,900,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "ZENRIN GISパッケージ セールスサポート | 株式会社ゼンリン",
+                    "htmlTitle": "ZENRIN GISパッケージ セールスサポート | 株式会社ゼンリン",
+                    "link": "https://www.zenrin.co.jp/product/category/gis/package/ss-pack/index.html",
+                    "displayLink": "www.zenrin.co.jp",
+                    "snippet": "ZENRIN GISパッケージ セールスサポートは、新規開拓の営業リスト作成から訪問先の ... 販売する商品がある程度の大きい面積などが必要で、建物に関する情報を含めて ...",
+                    "htmlSnippet": "ZENRIN GISパッケージ セールスサポートは、新規開拓の<b>営業リスト作成</b>から訪問先の ... 販売する<b>商品</b>がある程度の大きい面積などが必要で、建物に関する情報を含めて&nbsp;...",
+                    "cacheId": "mw4UwBaKtA4J",
+                    "formattedUrl": "https://www.zenrin.co.jp/product/category/gis/package/ss.../index.html",
+                    "htmlFormattedUrl": "https://www.zenrin.co.jp/product/category/gis/package/ss.../index.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTn1v6dSwS2Z9qnJzTmkEbQL8Mywq-EH5Y1WlBbVGB4OBUUJeRx0yRV3sI",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.zenrin.co.jp/product/category/img/gispkg-ss_ogp.png",
+                                "twitter:card": "summary_large_image",
+                                "og:type": "article",
+                                "og:site_name": "株式会社ゼンリン",
+                                "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+                                "twitter:domain": "www.zenrin.co.jp",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "ZENRIN GISパッケージ セールスサポート",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.zenrin.co.jp/product/category/gis/package/ss-pack/index.html",
+                                "og:description": "ZENRIN GISパッケージ セールスサポートは、新規開拓の営業リスト作成から訪問先の特定、営業情報の管理・共有まで営業マネージャー・営業マンのお悩みを解消し、法人営業を強化する営業支援ツールです。",
+                                "format-detection": "telephone=no, address=no, email=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.zenrin.co.jp/product/category/img/gispkg-ss_ogp.png"
+                            }
+                        ],
+                        "thing": [
+                            {
+                                "name": "商品・サービス"
+                            },
+                            {
+                                "name": "商品・サービス"
+                            },
+                            {
+                                "name": "ZENRIN GISパッケージ"
+                            },
+                            {
+                                "name": "ZENRIN GISパッケージ セールスサポート"
+                            }
+                        ],
+                        "sitenavigationelement": [
+                            {
+                                "name": "商品TOP",
+                                "url": "商品TOP"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "position": "1"
+                            },
+                            {
+                                "position": "2"
+                            },
+                            {
+                                "position": "3"
+                            },
+                            {
+                                "position": "4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "営業リストの作成方法と効果的な営業活動を実現するための管理術",
+                    "htmlTitle": "<b>営業リスト</b>の<b>作成</b>方法と効果的な<b>営業</b>活動を実現するための管理術",
+                    "link": "https://saleshacks.digima.com/how-to-build-sales-prospect-list/",
+                    "displayLink": "saleshacks.digima.com",
+                    "snippet": "そもそも自社の商品・サービスを活用してもらえる可能性が低いお客様にアプローチしても、営業マンの労力の無駄になってしまいますし、アプローチを受けるお客様にとっても ...",
+                    "htmlSnippet": "そもそも自社の<b>商品</b>・<b>サービス</b>を活用してもらえる可能性が低いお客様にアプローチしても、<b>営業</b>マンの労力の無駄になってしまいますし、アプローチを受けるお客様にとっても&nbsp;...",
+                    "cacheId": "GOLNqGOwkCcJ",
+                    "formattedUrl": "https://saleshacks.digima.com/how-to-build-sales-prospect-list/",
+                    "htmlFormattedUrl": "https://saleshacks.digima.com/how-to-build-sales-prospect-list/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcQXZHMI3x2MyMgfU94U9v5cGeW7b9JuPo8f7iVzRetKHK7PEb6sdnxUI",
+                                "width": "376",
+                                "height": "134"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://saleshacks.digima.com/wp-content/uploads/2020/05/how-to-build-a-sales-prospect-list.jpg",
+                                "og:type": "article",
+                                "article:published_time": "2020-05-05T01:00:00+00:00",
+                                "og:image:width": "1320",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "セールスハックス",
+                                "author": "佐原 業平（さはら なりひら）",
+                                "og:title": "営業リストの作成方法と効果的な営業活動を実現するための管理術",
+                                "og:image:height": "471",
+                                "twitter:label1": "執筆者",
+                                "og:image:type": "image/jpeg",
+                                "og:description": "営業を行う上で欠かせない「営業リスト」。お客様とのコミュニケーションの中での営業トークが、営業マンとしての腕の見せ所だと思われがちですが、質・量ともに優良な営業リストがなければ、どんなにスキルがあっても成果には反映されにくい可能性が高いです。",
+                                "twitter:creator": "@Narihira_Sahara",
+                                "article:publisher": "https://www.facebook.com/saleshacks.digima/",
+                                "article:author": "https://www.facebook.com/narihira.sahara.7",
+                                "twitter:data1": "佐原 業平（さはら なりひら）",
+                                "twitter:site": "@saleshacks_dm",
+                                "article:modified_time": "2020-05-08T21:27:27+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://saleshacks.digima.com/how-to-build-sales-prospect-list/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://saleshacks.digima.com/wp-content/uploads/2020/05/how-to-build-a-sales-prospect-list.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "集客支援 - インサイドセールス営業効率化サービス｜株式会社すけっと",
+                    "htmlTitle": "集客支援 - インサイドセールス<b>営業</b>効率化<b>サービス</b>｜株式会社すけっと",
+                    "link": "https://insidesales-support.com/attracting-customers/",
+                    "displayLink": "insidesales-support.com",
+                    "snippet": "自社で保有されているリストからのアポイント獲得はもちろんどのような業界でも御社の商品、サービスを訴求したいターゲットをお聞きし営業リスト作成からお手伝いし ...",
+                    "htmlSnippet": "自社で保有されているリストからのアポイント獲得はもちろんどのような業界でも御社の<b>商品</b>、<b>サービス</b>を訴求したいターゲットをお聞きし<b>営業リスト作成</b>からお手伝いし&nbsp;...",
+                    "cacheId": "Sl67X6BbGlIJ",
+                    "formattedUrl": "https://insidesales-support.com/attracting-customers/",
+                    "htmlFormattedUrl": "https://insidesales-support.com/attracting-customers/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgMwwXB8lf6GvMwZkhUnLGXQAIAj35BbbdYJyMYg2QwPLksr5eOFadQd0",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "msapplication-tilecolor": "#da532c",
+                                "og:image": "https://insidesales-support.com/wp-content/themes/insidesales-support/sales-support/images/ogp.jpg",
+                                "theme-color": "#ffffff",
+                                "og:type": "article",
+                                "article:published_time": "2022-05-10T03:08:49+00:00",
+                                "twitter:card": "summary",
+                                "twitter:title": "集客支援 - インサイドセールス営業効率化サービス｜株式会社すけっと",
+                                "og:site_name": "リモート営業・集客支援サービス",
+                                "og:title": "リモート営業・集客支援サービス｜豊富なリストへメール・FAX・郵送DM代行致します！",
+                                "og:description": "企業の存続・発展のために販売促進、営業活動は止めることができません。そんな中、在宅率が増えていることが幸いしてメールＤＭやＦＡＸＤＭの反響率が上がっているのはご存知ですか？そこで、当社ではwithコロナ状況下でも営業活動が行えるよう、各種営業支援サービスをご用意いたしました！",
+                                "article:modified_time": "2022-05-10T03:08:49+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://risin.co.jp/lp01/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://insidesales-support.com/wp-content/themes/insidesales-support/sales-support/images/ogp.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "営業リスト作成ツール8選！優れた営業リストに共通する3つの条件 ...",
+                    "htmlTitle": "<b>営業リスト作成</b>ツール8選！優れた営業リストに共通する3つの条件 ...",
+                    "link": "https://product-senses.mazrica.com/senseslab/business-efficiency/how-to-make-sales-lead-list",
+                    "displayLink": "product-senses.mazrica.com",
+                    "snippet": "2023/06/04 ... 営業リストとは、営業やテレアポが新規営業の際に使用する、見込み客・案件の一覧表のことをさします。 Webなどで、自社サービスの需要がたかそうな企業を ...",
+                    "htmlSnippet": "2023/06/04 <b>...</b> <b>営業リスト</b>とは、<b>営業</b>やテレアポが新規<b>営業</b>の際に使用する、見込み客・案件の一覧表のことをさします。 Webなどで、自社<b>サービス</b>の需要がたかそうな企業を&nbsp;...",
+                    "cacheId": "PoXJIMlKZR8J",
+                    "formattedUrl": "https://product-senses.mazrica.com/senseslab/.../how-to-make-sales-lead-list",
+                    "htmlFormattedUrl": "https://product-senses.mazrica.com/senseslab/.../how-to-make-sales-lead-list",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRM1MwyJbww10_hC5lG5iOauAw-vfUFBoEkg8yAhIf2f2xTpPL4pfJDHU15",
+                                "width": "255",
+                                "height": "198"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://product-senses.mazrica.com/wp-content/uploads/2019/07/95347f4980669e98437b19ef8f1c41e5-e1579239800830.png",
+                                "og:type": "article",
+                                "og:image:width": "1500",
+                                "article:published_time": "2020-07-30T10:53:12+00:00",
+                                "twitter:card": "summary",
+                                "twitter:title": "営業リスト作成ツール8選！優れた営業リストに共通する3つの条件と活用方法解説",
+                                "og:site_name": "Senses | 成果を自動的に最大化するSFA",
+                                "og:title": "営業リスト作成ツール8選！優れた営業リストに共通する3つの条件と活用方法解説",
+                                "og:image:height": "1163",
+                                "msapplication-tileimage": "https://product-senses.mazrica.com/wp-content/uploads/2018/05/cropped-mstile-144x144-270x270.png",
+                                "og:description": "営業パーソンに必需品の営業リスト。 単純な業務の効率化だけではなく、売り上げ倍増を実現させる営業リストの作り方についてご紹介していきたいと思います。質の高い営業リストで、効率的な営業活動を行いましょう！",
+                                "twitter:creator": "@senses_mazrica",
+                                "og:image:secure_url": "https://product-senses.mazrica.com/wp-content/uploads/2019/07/95347f4980669e98437b19ef8f1c41e5-e1579239800830.png",
+                                "twitter:image": "https://product-senses.mazrica.com/wp-content/uploads/2019/07/95347f4980669e98437b19ef8f1c41e5-e1579239800830.png",
+                                "twitter:site": "@senses_mazrica",
+                                "article:modified_time": "2023-06-04T09:02:40+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "営業パーソンに必需品の営業リスト。 単純な業務の効率化だけではなく、売り上げ倍増を実現させる営業リストの作り方についてご紹介していきたいと思います。質の高い営業リストで、効率的な営業活動を行いましょう！",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://product-senses.mazrica.com/senseslab/business-efficiency/how-to-make-sales-lead-list"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://product-senses.mazrica.com/wp-content/uploads/2019/07/95347f4980669e98437b19ef8f1c41e5-e1579239800830.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "DMの成果はターゲットリスト（企業リスト）で決まる？質の高い ...",
+                    "htmlTitle": "DMの成果はターゲット<b>リスト</b>（企業<b>リスト</b>）で決まる？質の高い ...",
+                    "link": "https://dm.nexway.co.jp/blog/24",
+                    "displayLink": "dm.nexway.co.jp",
+                    "snippet": "2022/07/28 ... DM（ダイレクトメール）の成果を上げるためには、効果的な顧客リストの作成が必要です。リストは自社の商品・サービスのターゲットに絞ったもので ...",
+                    "htmlSnippet": "2022/07/28 <b>...</b> DM（ダイレクトメール）の成果を上げるためには、効果的な顧客<b>リスト</b>の<b>作成</b>が必要です。<b>リスト</b>は自社の<b>商品</b>・<b>サービス</b>のターゲットに絞ったもので&nbsp;...",
+                    "cacheId": "9330OQn4idMJ",
+                    "formattedUrl": "https://dm.nexway.co.jp/blog/24",
+                    "htmlFormattedUrl": "https://dm.nexway.co.jp/blog/24",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1OfPJZM1YCVxLwyRBnymUgormLTHdPPyCbBsdgGtbLvOhbt8sF5flN2pf",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://ferret-one.akamaized.net/images/62d8be5154cc5a004b1691a6/large.jpeg?utime=1658371665",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "DMの成果はターゲットリスト（企業リスト）で決まる？質の高いリストの作り方",
+                                "og:site_name": "郵送DMサービス【NEXLINKオンデマンド便】/ネクスウェイ",
+                                "og:title": "DMの成果はターゲットリスト（企業リスト）で決まる？質の高いリストの作り方",
+                                "og:description": "DM（ダイレクトメール）の成果を上げるためには、効果的な顧客リストの作成が必要です。リストは自社の商品・サービスのターゲットに絞ったものでなければなりません。\n本記事では、ターゲットリストを作成するメリットや作成方法、適切に管理する方法などを紹介します。",
+                                "twitter:image": "https://ferret-one.akamaized.net/images/62d8be5154cc5a004b1691a6/large.jpeg?utime=1658371665",
+                                "next-head-count": "27",
+                                "viewport": "width=device-width",
+                                "twitter:description": "DM（ダイレクトメール）の成果を上げるためには、効果的な顧客リストの作成が必要です。リストは自社の商品・サービスのターゲットに絞ったものでなければなりません。\n本記事では、ターゲットリストを作成するメリットや作成方法、適切に管理する方法などを紹介します。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://dm.nexway.co.jp/blog/24"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://ferret-one.akamaized.net/images/62d8be5154cc5a004b1691a6/large.jpeg?utime=1658371665"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "BtoB向けフルサポート伴走型の営業支援サービスならカイタク",
+                    "htmlTitle": "BtoB向けフルサポート伴走型の<b>営業</b>支援<b>サービス</b>ならカイタク",
+                    "link": "https://kaitak-sales.com/",
+                    "displayLink": "kaitak-sales.com",
+                    "snippet": "カイタクはBtoB向けの伴走型営業支援サービスです。 ... 良い商品に、 ... AIによる自動化と複数データベースを結合した個別の新規顧客リストを作成し、一般的な営業 ...",
+                    "htmlSnippet": "カイタクはBtoB向けの伴走型<b>営業</b>支援<b>サービス</b>です。 ... 良い<b>商品</b>に、 ... AIによる自動化と複数データベースを結合した個別の新規顧客<b>リスト</b>を<b>作成</b>し、一般的な<b>営業</b>&nbsp;...",
+                    "cacheId": "eL4142CdEv8J",
+                    "formattedUrl": "https://kaitak-sales.com/",
+                    "htmlFormattedUrl": "https://kaitak-sales.com/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcReFa_y1_YkJIm-N7TBEBYrD6jK0LYhLDn6tdcM5zxzTTWJFoTOcSOc2Ss",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "question": [
+                            {
+                                "name": "カイタクの特長は何ですか？"
+                            },
+                            {
+                                "name": "どんな商材でも販促できるのですか？"
+                            },
+                            {
+                                "name": "地方の企業も狙えますか？"
+                            },
+                            {
+                                "name": "「アタック」とは何ですか？"
+                            },
+                            {
+                                "name": "「アタックリスト」とは何ですか？"
+                            },
+                            {
+                                "name": "「文案」や「セールスレター」とは何ですか？"
+                            },
+                            {
+                                "name": "アタック開始まではどのくらいかかりますか？"
+                            },
+                            {
+                                "name": "到達は保証してくれるのですか？"
+                            },
+                            {
+                                "name": "商談の獲得や成約を保証してくれますか？"
+                            },
+                            {
+                                "name": "問い合わせフォームに送信をしてクレームになることはないのですか？"
+                            },
+                            {
+                                "name": "成果報酬型プランは無いのですか？"
+                            },
+                            {
+                                "name": "一般の営業代行とどう違うの?"
+                            }
+                        ],
+                        "answer": [
+                            {
+                                "text": "刺さる訴求を伝える「文案」のライティング、反応率が高い法人営業先リスト作成のターゲティング、フォームや決済者アポに強い手紙などの媒..."
+                            },
+                            {
+                                "text": "カイタクはBtoB（法人向け）商材の営業支援サービスですので、BtoC（消費者向け）の商材についてはサービス対象外です。 また、公序良俗に反す..."
+                            },
+                            {
+                                "text": "はい。可能です。 カイタクは、フォーム送信、テレアポ、手紙などの営業チャネルを組み合わせ、訪問しないでアポイントを獲得するサービスで..."
+                            },
+                            {
+                                "text": "貴社の製品やサービスを紹介する文章を、ターゲット企業へアプローチ（フォーム送信、電話架電、手紙発送など）する作業のことです。弊社で..."
+                            },
+                            {
+                                "text": "アタックする対象となる企業の連絡先リストです。CS（カスタマーサクセス）担当者とのヒアリング打ち合わせを経てからご提案します。先入観で..."
+                            },
+                            {
+                                "text": "アタック時に、各企業へアプローチする営業メッセージです。セールスライティングの実績のあるプロのライターが、フォーム用の送信文案や手..."
+                            },
+                            {
+                                "text": "お申し込みと契約完了後に「ヒアリングシート」をご記入いただき次第、CS（カスタマーサクセス）担当者と打ち合わせを実施します。このCS打ち..."
+                            },
+                            {
+                                "text": "恐れ入りますが、サービスの性質上、到達を保証することは原理的にできません。 フォーム送信の場合はアタックが開始されると、ほとんどの場..."
+                            },
+                            {
+                                "text": "恐れ入りますが、成果をお約束することはできません。ご了承ください。 プロセスが見えない成果保証型サービスや部分的な活動を単に代行する..."
+                            },
+                            {
+                                "text": "正直に申し上げれば、一定の割合であります（1,000通に1社など）。 ただ、過去に数万通単位で送信実績がありますが深刻なクレームとなったこと..."
+                            },
+                            {
+                                "text": "申し訳ございませんが、弊社では成果報酬型プランは取り扱っておりません。ご了承ください。"
+                            },
+                            {
+                                "text": "営業代行会社は、御社の営業方針や営業戦略をもとにテレアポやフォーム営業などの営業活動を代わりに代行します。 カイタクは、御社の商品の..."
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "application-name": "kaitak",
+                                "og:image": "https://kaitak-sales.com/kaitak-ogp-lp6-220123.e8873fc6f804c772d18b.jpg",
+                                "twitter:card": "カイタクはBtoB向けの伴走型営業支援サービスです。”良いサービス・製品を作っているのに全然知ってもらえない”。そんな課題に対して、継続的な仮説検証を通じた勝ちパターン探しをしながら、新規顧客開拓のノウハウを持ち帰っていただくことを主眼に置いています。",
+                                "theme-color": "#fff",
+                                "og:title": "BtoB向けフルサポート伴走型の営業支援サービスならカイタク",
+                                "apple-mobile-web-app-title": "kaitak",
+                                "og:description": "カイタクはBtoB向けの伴走型営業支援サービスです。”良いサービス・製品を作っているのに全然知ってもらえない”。そんな課題に対して、継続的な仮説検証を通じた勝ちパターン探しをしながら、新規顧客開拓のノウハウを持ち帰っていただくことを主眼に置いています。",
+                                "apple-mobile-web-app-status-bar-style": "black-translucent",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "apple-mobile-web-app-capable": "yes",
+                                "mobile-web-app-capable": "yes",
+                                "og:url": "https://kaitak-sales.com",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://kaitak-sales.com/kaitak-ogp-lp6-220123.e8873fc6f804c772d18b.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "寄せ集めは飛び込みと一緒?良い営業リストの作り方 | 女性の営業 ...",
+                    "htmlTitle": "寄せ集めは飛び込みと一緒?良い<b>営業リスト</b>の作り方 | 女性の<b>営業</b> ...",
+                    "link": "https://surpass-star.com/blog/174/",
+                    "displayLink": "surpass-star.com",
+                    "snippet": "そんな営業活動の基盤であるリストを、なんとなくで作っていませんか？ リストの質は、商品・サービスの良し悪しや担当営業のスキルと合わせて、売り上げに大きな影響 ...",
+                    "htmlSnippet": "そんな<b>営業</b>活動の基盤である<b>リスト</b>を、なんとなくで作っていませんか？ <b>リスト</b>の質は、<b>商品</b>・<b>サービス</b>の良し悪しや担当<b>営業</b>のスキルと合わせて、売り上げに大きな影響&nbsp;...",
+                    "cacheId": "Wa8P8UipVVwJ",
+                    "formattedUrl": "https://surpass-star.com/blog/174/",
+                    "htmlFormattedUrl": "https://surpass-star.com/blog/174/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9ol_0n37cuDTOqlx5xEUv1W2iPSzn7z0LpG7orqnLmP6Nhlhyt41ETxTl",
+                                "width": "324",
+                                "height": "155"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://surpass-star.com/wp-content/uploads/2020/01/サムネイル.jpeg",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "女性の営業代行・営業アウトソーシングならSurpass",
+                                "viewport": "width=device-width, initial-scale=1, minimum-scale=1.0",
+                                "og:title": "寄せ集めは飛び込みと一緒?良い営業リストの作り方 | 女性の営業代行・営業アウトソーシングのSurpass",
+                                "og:url": "https://surpass-star.com/blog/174/",
+                                "og:description": "営業をする上で重要なもの、それは「リスト」です。営業部員はリストをもとに営業活動をしていくため、リストには将来のクライアントがたくさん詰まっています。母数は多ければ多いほど良いと言われている「リスト」。ですが、ただ集めたリストを使用すればい...",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://surpass-star.com/wp-content/uploads/2020/01/%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB.jpeg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "営業リストとは？必要性やメリット、効果的な作成方法を紹介 | 株式 ...",
+                    "htmlTitle": "<b>営業リスト</b>とは？必要性やメリット、効果的な<b>作成</b>方法を紹介 | 株式 ...",
+                    "link": "https://www.sunbridge.com/blog/column/how_to_create_sales_list/",
+                    "displayLink": "www.sunbridge.com",
+                    "snippet": "2021/01/12 ... Twitter、Facebook、InstagramといったSNSを活用すれば、自社の商品・サービスに興味を持つ顧客を見つけることができます。 SNSには拡散力があるため、 ...",
+                    "htmlSnippet": "2021/01/12 <b>...</b> Twitter、Facebook、InstagramといったSNSを活用すれば、自社の<b>商品</b>・<b>サービス</b>に興味を持つ顧客を見つけることができます。 SNSには拡散力があるため、&nbsp;...",
+                    "cacheId": "wW09BHY9bRUJ",
+                    "formattedUrl": "https://www.sunbridge.com/blog/column/how_to_create_sales_list/",
+                    "htmlFormattedUrl": "https://www.sunbridge.com/blog/column/how_to_create_sales_list/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyCmf495qws4UoopBcRnrSo9o1aix8Vlij2XWhovNeocLkV0ikTxoZOKE",
+                                "width": "309",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.sunbridge.com/wp-content/uploads/056f2ab658f0d94c67c5dc33258598f5.jpg",
+                                "og:type": "article",
+                                "article:published_time": "2021-01-12T12:33:33Z",
+                                "twitter:card": "summary",
+                                "twitter:title": "営業リストとは？必要性やメリット、効果的な作成方法を紹介 | 株式会社サンブリッジ",
+                                "og:site_name": "株式会社サンブリッジ（SunBridge Inc.）",
+                                "og:title": "営業リストとは？必要性やメリット、効果的な作成方法を紹介 | 株式会社サンブリッジ",
+                                "og:description": "営業リストとは、顧客の名前や連絡先といった営業活動に必要な情報を記載したリストのこと。営業リストを活用すれば営業活動を効率化することが可能です。営業リストを作成するメリットや、効果的な営業リストの作成方法を紹介します。",
+                                "og:image:secure_url": "https://www.sunbridge.com/wp-content/uploads/056f2ab658f0d94c67c5dc33258598f5.jpg",
+                                "twitter:image": "https://www.sunbridge.com/wp-content/uploads/056f2ab658f0d94c67c5dc33258598f5.jpg",
+                                "article:modified_time": "2021-01-12T12:33:33Z",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "twitter:description": "営業リストとは、顧客の名前や連絡先といった営業活動に必要な情報を記載したリストのこと。営業リストを活用すれば営業活動を効率化することが可能です。営業リストを作成するメリットや、効果的な営業リストの作成方法を紹介します。",
+                                "og:url": "https://www.sunbridge.com/blog/column/how_to_create_sales_list/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.sunbridge.com/wp-content/uploads/056f2ab658f0d94c67c5dc33258598f5.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "営業リスト作成でおすすめの営業代行会社7選【2023年最新版 ...",
+                    "htmlTitle": "<b>営業リスト作成</b>でおすすめの営業代行会社7選【2023年最新版 ...",
+                    "link": "https://imitsu.jp/list/sales-agent/sales-list/",
+                    "displayLink": "imitsu.jp",
+                    "snippet": "また、お客様の商品・サービスと同業界でアポイント獲得実績のあるオペレーターを専任配置する人材の豊富さや、今後取引が成立する可能性のある見込み顧客に関する報告が ...",
+                    "htmlSnippet": "また、お客様の<b>商品</b>・<b>サービス</b>と同業界でアポイント獲得実績のあるオペレーターを専任配置する人材の豊富さや、今後取引が成立する可能性のある見込み顧客に関する報告が&nbsp;...",
+                    "cacheId": "qjuPF0vSMXYJ",
+                    "formattedUrl": "https://imitsu.jp/list/sales-agent/sales-list/",
+                    "htmlFormattedUrl": "https://imitsu.jp/list/sales-agent/sales-list/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCfGMhYI-hbJ6P0vey1D2w1GffLcYBuHub6Xbma4e_dgkg5PPmH8W8XLXI",
+                                "width": "253",
+                                "height": "199"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://imitsu.jp/img_p/lgc/category_suppliers_content_part/44/22/462244/CZhVmj2O"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://imitsu.jp/img_p/lgc/category_suppliers_content_part/44/22/462244/CZhVmj2O",
+                                "thumbnail": "https://imitsu.jp/img_p/lgc/category_suppliers_content_part/44/22/462244/CZhVmj2O",
+                                "og:type": "website",
+                                "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                                "og:title": "営業リスト作成でおすすめの営業代行会社7選【2023年最新版】｜アイミツ",
+                                "og:url": "https://imitsu.jp/list/sales-agent/sales-list/",
+                                "og:description": "営業リスト作成でおすすめの営業代行会社をご紹介！営業リスト作成に強い営業代行会社探しでお悩みの方はぜひ参考にしてください！"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://cdn-au.onetrust.com/logos/b9ac2f8e-029a-4c2e-8566-c0e6d7d7b8bb/861ad83e-c329-4f3c-a145-e68e01a1379f/7ff2ee09-af71-407e-8c31-c9ed463ed395/%E3%83%AD%E3%82%B4%E7%A9%BA%E7%99%BD.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "アタックリストとは？意味や作り方、営業成果アップの秘訣を紹介 ...",
+                    "htmlTitle": "アタック<b>リスト</b>とは？意味や作り方、<b>営業</b>成果アップの秘訣を紹介 ...",
+                    "link": "https://hrog.net/knowhow/development/96357/",
+                    "displayLink": "hrog.net",
+                    "snippet": "2020/08/12 ... 営業戦略とは「自社の商品・サービスがマッチする市場を見つけ、その市場におけるリード（見込み顧客）を定めていくこと」を指します。効率的な営業を行う ...",
+                    "htmlSnippet": "2020/08/12 <b>...</b> <b>営業</b>戦略とは「自社の<b>商品</b>・<b>サービス</b>がマッチする市場を見つけ、その市場におけるリード（見込み顧客）を定めていくこと」を指します。効率的な<b>営業</b>を行う&nbsp;...",
+                    "cacheId": "kDCZR56S5J4J",
+                    "formattedUrl": "https://hrog.net/knowhow/development/96357/",
+                    "htmlFormattedUrl": "https://hrog.net/knowhow/development/96357/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ22c8ThYqHb3Um8Svhj_z-kCErRD5AD8Y0RAfx1FpGNDCrCNP0ziYDbBvt",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://hrog.net/wp-content/uploads/2021/08/image8-1024x538.png"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://hrog.net/wp-content/uploads/2021/08/image8.png",
+                                "theme-color": "#2aae9d",
+                                "og:image:width": "1200",
+                                "article:published_time": "2020-08-11T19:00:00+00:00",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "HRog | 人材業界の一歩先を照らすメディア",
+                                "msapplication-tileimage": "https://hrog.net/wp-content/uploads/2019/08/cropped-favicon-270x270.png",
+                                "twitter:creator": "@HRognet",
+                                "og:description": "「アタックリストの意味とは？」「具体的な作り方を知りたい」という営業担当者もいるでしょう。アタックリストは、効率よく営業活動を行うために必要不可欠なツールです。今回はアタックリストを用いて、高い営業成果を上げるためのコツと、質の高いアタックリストを作成できる有料ツールのご紹介をします。",
+                                "og:image:secure_url": "https://hrog.net/wp-content/uploads/2021/08/image8.png",
+                                "twitter:image": "https://hrog.net/wp-content/uploads/2021/08/image8.png",
+                                "twitter:site": "@HRognet",
+                                "article:modified_time": "2022-02-07T17:44:07+00:00",
+                                "msapplication-tilecolor": "#2aae9d",
+                                "og:type": "article",
+                                "twitter:title": "アタックリストとは？意味や作り方、営業成果アップの秘訣を紹介 | HRog | 人材業界の一歩先を照らすメディア",
+                                "thumbnail": "https://hrog.net/wp-content/uploads/2021/08/image8-1024x538.png",
+                                "handheldfriendly": "True",
+                                "og:title": "アタックリストとは？意味や作り方、営業成果アップの秘訣を紹介 | HRog | 人材業界の一歩先を照らすメディア",
+                                "og:image:height": "630",
+                                "fb:app_id": "109485039543953",
+                                "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                                "mobileoptimized": "320",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://hrog.net/knowhow/development/96357/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://hrog.net/wp-content/uploads/2021/08/image8-1024x538.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "item": "営業ノウハウ",
+                                "name": "営業ノウハウ",
+                                "position": "2"
+                            },
+                            {
+                                "item": "見込み顧客開拓",
+                                "name": "見込み顧客開拓",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 営業リスト作成",
+                        "totalResults": "20900000",
+                        "searchTerms": "商品・サービス 営業リスト作成",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 営業リスト作成",
+                        "totalResults": "20900000",
+                        "searchTerms": "商品・サービス 営業リスト作成",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 営業リスト作成",
+                        "totalResults": "20900000",
+                        "searchTerms": "商品・サービス 営業リスト作成",
+                        "count": 10,
+                        "startIndex": 31,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.185303,
+                "formattedSearchTime": "0.19",
+                "totalResults": "20900000",
+                "formattedTotalResults": "20,900,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "インターネット企業情報サービス（tsr-van2） | 商品・サービス ...",
+                    "htmlTitle": "インターネット企業情報サービス（tsr-van2） | <b>商品</b>・<b>サービス</b> ...",
+                    "link": "https://www.tsr-net.co.jp/service/detail/tsr-van2.html",
+                    "displayLink": "www.tsr-net.co.jp",
+                    "snippet": "基本的な企業情報はもちろん、業界・マーケティングレポート、営業リスト作成ツール、記事検索、リスク情報、倒産情報など豊富なメニューをご用意。",
+                    "htmlSnippet": "基本的な企業情報はもちろん、業界・マーケティングレポート、<b>営業リスト作成</b>ツール、記事検索、リスク情報、倒産情報など豊富なメニューをご用意。",
+                    "cacheId": "L-xMkwdlKVkJ",
+                    "formattedUrl": "https://www.tsr-net.co.jp/service/detail/tsr-van2.html",
+                    "htmlFormattedUrl": "https://www.tsr-net.co.jp/service/detail/tsr-van2.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFIsZapM8iMWC4o3Nh7zhf6P-8wG7uQD3BrzjV6OVvzHlVGjXpLx5CS_M",
+                                "width": "277",
+                                "height": "182"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.tsr-net.co.jp/common/img/ogp.jpg",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "株式会社東京商工リサーチ",
+                                "pf:attributes": "category_url:https://www.tsr-net.co.jp/service/index.html",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "og:title": "インターネット企業情報サービス（tsr-van2） | 商品・サービス | 東京商工リサーチ",
+                                "og:url": "https://www.tsr-net.co.jp/service/detail/tsr-van2.html",
+                                "og:description": "「tsr-van2」はいつでもどこでも簡単に企業情報を取得できるインターネット企業情報サービスです。600万件超の国内企業、全世界5億件超の海外企業を収録した圧倒的な情報量が特徴です。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.tsr-net.co.jp/common/img/ogp.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "withコロナ-営業支援パック｜豊富なリストへメール・FAX・郵送DM ...",
+                    "htmlTitle": "withコロナ-<b>営業</b>支援パック｜豊富な<b>リスト</b>へメール・FAX・郵送DM ...",
+                    "link": "https://risin.co.jp/remote-sales/",
+                    "displayLink": "risin.co.jp",
+                    "snippet": "リソースが無くても即座に営業活動が可能. どんな業界でも、営業開拓を希望するリストを作成することできます。御社の商品、サービスを訴求したいターゲットをお ...",
+                    "htmlSnippet": "リソースが無くても即座に<b>営業</b>活動が可能. どんな業界でも、<b>営業</b>開拓を希望する<b>リスト</b>を<b>作成</b>することできます。御社の<b>商品</b>、<b>サービス</b>を訴求したいターゲットをお&nbsp;...",
+                    "cacheId": "RTD8J3jWRF0J",
+                    "formattedUrl": "https://risin.co.jp/remote-sales/",
+                    "htmlFormattedUrl": "https://risin.co.jp/remote-sales/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjJztySraVi-tig1vR_4JTBYVDezmXpkOnOwx67rplzz2rbA3cwwEDgAs",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "msapplication-tilecolor": "#da532c",
+                                "og:image": "./images/ogp.jpg",
+                                "theme-color": "#ffffff",
+                                "og:type": "article",
+                                "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+                                "og:site_name": "withコロナ-営業支援パック",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "withコロナ-営業支援パック｜豊富なリストへメール・FAX・郵送DM代行致します！",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://risin.co.jp/lp01/",
+                                "og:description": "企業の存続・発展のために販売促進、営業活動は止めることができません。そんな中、在宅率が増えていることが幸いしてメールＤＭやＦＡＸＤＭの反響率が上がっているのはご存知ですか？そこで、当社ではwithコロナ状況下でも営業活動が行えるよう、各種営業支援サービスをご用意いたしました！",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://risin.co.jp/remote-sales/images/header04-09.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "見込み（リード）顧客リストの作り方を徹底解説｜有効的な活用例 ...",
+                    "htmlTitle": "見込み（リード）顧客<b>リスト</b>の作り方を徹底解説｜有効的な活用例 ...",
+                    "link": "https://www.interviewz.io/blog/readlist-howto-make/",
+                    "displayLink": "www.interviewz.io",
+                    "snippet": "2022/09/04 ... 見込み顧客のリスト作成は、法人営業において大切な作業の一つです。 ... 商品やサービスについて興味や欲求を示しているだけでなく、商品やサービス ...",
+                    "htmlSnippet": "2022/09/04 <b>...</b> 見込み顧客の<b>リスト作成</b>は、法人<b>営業</b>において大切な作業の一つです。 ... <b>商品</b>や<b>サービス</b>について興味や欲求を示しているだけでなく、<b>商品</b>や<b>サービス</b>&nbsp;...",
+                    "cacheId": "GgRI3ghOvUMJ",
+                    "formattedUrl": "https://www.interviewz.io/blog/readlist-howto-make/",
+                    "htmlFormattedUrl": "https://www.interviewz.io/blog/readlist-howto-make/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqWcPyjct7pz-3DDg_X-9CwUXlY3LTWMUp2I_z-NrEfg9ErlDV-6I2koQ",
+                                "width": "318",
+                                "height": "159"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.interviewz.io/images/asset/ogp.png",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "見込み（リード）顧客リストの作り方を徹底解説｜有効的な活用例も紹介 | ヒアリングDXブログ",
+                                "og:site_name": "ヒアリングDXブログ",
+                                "twitter:domain": "www.interviewz.io",
+                                "author": "@learnerz",
+                                "og:title": "Interviewz - インタビューズ | 診断型カスタマーサービスツール | ヒアリングツール",
+                                "og:description": "見込み（リード）顧客リストの作り方を徹底解説｜有効的な活用例も紹介：見込み顧客のリスト作成は、法人営業において大切な作業の一つです。目的に応じた精度の高い見込み顧客リストを作ることで、行う...。Interviewz - インタビューズ 質問にタップで答えるだけで情報収集可能なストレスフリーで収益アップとコスト削減を実現するヒアリング/カスタマーサポートツール。利用後CV数268%、CVR2.7倍、サポートコスト半減を実現。企業システムへのデータ連携も可能。最短3日で始められるクラウドベースの診断型サポート/ヒアリングソリューション。無料トライアル30日間可能",
+                                "twitter:image": "https://www.interviewz.io/images/asset/ogp.png",
+                                "facebook-domain-verification": "e5mwfi4tff3djzymwb6v24mhklgo6c",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "見込み（リード）顧客リストの作り方を徹底解説｜有効的な活用例も紹介：見込み顧客のリスト作成は、法人営業において大切な作業の一つです。目的に応じた精度の高い見込み顧客リストを作ることで、行う...。Interviewz - インタビューズ 質問にタップで答えるだけで情報収集可能なストレスフリーで収益アップとコスト削減を実現するヒアリング/カスタマーサポートツール。利用後CV数268%、CVR2.7倍、サポートコスト半減を実現。企業システムへのデータ連携も可能。最短3日で始められるクラウドベースの診断型サポート/ヒアリングソリューション。無料トライアル30日間可能",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.interviewz.io/blog/readlist-howto-make/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.interviewz.io/images/asset/ogp.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "お問い合わせフォーム営業代行サービスおすすめ10選｜選び方や ...",
+                    "htmlTitle": "お問い合わせフォーム<b>営業</b>代行<b>サービス</b>おすすめ10選｜選び方や ...",
+                    "link": "https://ppp2018.jp/blog/contact-form-recommend/",
+                    "displayLink": "ppp2018.jp",
+                    "snippet": "2022/04/26 ... 特徴, 目視でリスト作成と人力でのフォーム営業を実現！ ... 企業のお問い合わせフォームから、貴社商品・サービスを効率的に営業し、成果に繋げるB2B ...",
+                    "htmlSnippet": "2022/04/26 <b>...</b> 特徴, 目視で<b>リスト作成</b>と人力でのフォーム<b>営業</b>を実現！ ... 企業のお問い合わせフォームから、貴社<b>商品</b>・<b>サービス</b>を効率的に<b>営業</b>し、成果に繋げるB2B&nbsp;...",
+                    "cacheId": "B4UEwep4akYJ",
+                    "formattedUrl": "https://ppp2018.jp/blog/contact-form-recommend/",
+                    "htmlFormattedUrl": "https://ppp2018.jp/blog/contact-form-recommend/",
+                    "pagemap": {
+                        "hcard": [
+                            {
+                                "fn": "小原 一樹"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3IcXnnBMHDwlyHEhOG2C72TsvSENkUvlo08s46iAqGyiv7Zm7WhKIt5vQ",
+                                "width": "300",
+                                "height": "168"
+                            }
+                        ],
+                        "imageobject": [
+                            {
+                                "width": "640",
+                                "url": "https://ppp2018.jp/wp-content/uploads/2021/09/2df32d047ad724ea9908410d5b991936-1.jpg",
+                                "height": "273"
+                            },
+                            {
+                                "width": "640",
+                                "url": "https://ppp2018.jp/wp-content/uploads/2022/04/recommend-fom-640x360.png",
+                                "height": "360"
+                            },
+                            {
+                                "width": "640",
+                                "url": "https://ppp2018.jp/wp-content/uploads/2021/11/e64d1c99b28e2c5dbf79d7978f889829-640x320.jpg",
+                                "height": "320"
+                            },
+                            {
+                                "width": "640",
+                                "url": "https://ppp2018.jp/wp-content/uploads/2021/10/db27bb2df139f5f1a874d01649a80913-640x320.jpg",
+                                "height": "320"
+                            },
+                            {
+                                "width": "640",
+                                "url": "https://ppp2018.jp/wp-content/uploads/2022/02/f4205a7fc8c643dc3b86b8c5b1e653d7-640x360.png",
+                                "height": "360"
+                            }
+                        ],
+                        "person": [
+                            {
+                                "name": "小原 一樹"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://ppp2018.jp/wp-content/uploads/2022/04/recommend-fom.png",
+                                "og:type": "blog",
+                                "twitter:card": "summary",
+                                "og:site_name": "PPP株式会社",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "お問い合わせフォーム営業代行サービスおすすめ10選｜選び方やメリットデメリットについても徹底解説｜PPP株式会社",
+                                "og:url": "https://ppp2018.jp/blog/contact-form-recommend/",
+                                "msapplication-tileimage": "https://ppp2018.jp/wp-content/uploads/2020/01/cropped-fabicon-270x270.png",
+                                "og:description": "営業人員や営業ノウハウの不足問題を解決したい。リソースを営業以外の商品開発や品質向上に使いたい。このような営業に関する悩みを持っている方のために、おすすめなお問い合わせフォーム営業代行サービスを9つ紹介します。さらに、営業代行サービスの選び方やメリットデメリットについても解説します。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://ppp2018.jp/wp-content/uploads/2022/04/recommend-fom.png"
+                            }
+                        ],
+                        "thing": [
+                            {
+                                "name": "HOME"
+                            },
+                            {
+                                "name": "セールス"
+                            },
+                            {
+                                "name": "お問い合わせフォーム営業代行サービスおすすめ10選｜選び方やメリットデメリットについても徹底解説"
+                            }
+                        ],
+                        "wpsidebar": [
+                            {
+                                "headline": "【2023年】大手Webコンサルティング会社5社をプロが比較..."
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "position": "1"
+                            },
+                            {
+                                "name": "ブログ",
+                                "position": "2"
+                            },
+                            {
+                                "position": "3"
+                            },
+                            {
+                                "position": "4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "メール営業リストを効率よく集める方法｜メール前に知っておき ...",
+                    "htmlTitle": "メール<b>営業リスト</b>を効率よく集める方法｜メール前に知っておき ...",
+                    "link": "https://dream-up.co.jp/sakusaku/media/sales-list-mail/",
+                    "displayLink": "dream-up.co.jp",
+                    "snippet": "2022/02/27 ... リスト作成サービスを上手に使えば、自力で行うよりも短い時間でメールアドレスを取得できます。効率よくリストを作成し、あなたの提供する商品やサービス ...",
+                    "htmlSnippet": "2022/02/27 <b>...</b> <b>リスト作成サービス</b>を上手に使えば、自力で行うよりも短い時間でメールアドレスを取得できます。効率よく<b>リスト</b>を<b>作成</b>し、あなたの提供する<b>商品</b>や<b>サービス</b>&nbsp;...",
+                    "cacheId": "F25_2VKeRzYJ",
+                    "formattedUrl": "https://dream-up.co.jp/sakusaku/media/sales-list-mail/",
+                    "htmlFormattedUrl": "https://dream-up.co.jp/sakusaku/media/sales-list-mail/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQg7Uosg62PHsgnKlbWCu1Pf1blUNWaI4Yr_PQZgwiYSLgwnjzjVAlr7LQ",
+                                "width": "288",
+                                "height": "175"
+                            }
+                        ],
+                        "BreadcrumbList": [
+                            {}
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://dream-up.co.jp/sakusaku/wp-content/themes/sakusaku/img/common/ogp.png",
+                                "og:type": "website",
+                                "twitter:card": "summary",
+                                "twitter:title": "メール営業リストを効率よく集める方法｜メール前に知っておきたい3つの注意点も紹介 - 問い合わせフォーム営業代行はSakuSaku問い合わせフォーム営業代行はSakuSaku",
+                                "article:published_time": "2022-02-27T11:01:54+00:00",
+                                "og:site_name": "問い合わせフォーム営業代行はSakuSaku",
+                                "twitter:domain": "dream-up.co.jp",
+                                "og:title": "メール営業リストを効率よく集める方法｜メール前に知っておきたい3つの注意点も紹介 - 問い合わせフォーム営業代行はSakuSaku問い合わせフォーム営業代行はSakuSaku",
+                                "og:description": "メール営業リストを効率よく集める方法のひとつに、業者からのリスト購入という選択肢があります。しかし、入手経路によっては違法となる場合もあります。この記事では、メール営業の前に知っておきたい注意事項や、おすすめリスト作成サービスを紹介します。",
+                                "twitter:image": "https://dream-up.co.jp/sakusaku/wp-content/themes/sakusaku/img/common/ogp.png",
+                                "article:modified_time": "2023-05-01T14:55:27+00:00",
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0",
+                                "twitter:description": "メール営業は、新規顧客獲得には欠かせない営業手法の一つです。訪問や電話営業とは異なり、相手方の時間を奪わずにアプローチできることが魅力です。\r\rしかし、相手方へ望まない営業をしてしまうと、貴社のイメージダウンにつながるなどの注意点もあります…",
+                                "og:locale": "ja_JP",
+                                "position": "1",
+                                "og:url": "https://dream-up.co.jp/sakusaku/media/sales-list-mail/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://dream-up.co.jp/sakusaku/wp-content/themes/sakusaku/img/common/ogp.png"
+                            }
+                        ],
+                        "sitenavigationelement": [
+                            {
+                                "name": "特徴"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "顧客リストの作成手順とは？必要性や管理方法を解説 | Web ...",
+                    "htmlTitle": "顧客<b>リスト</b>の<b>作成</b>手順とは？必要性や管理方法を解説 | Web ...",
+                    "link": "https://ferret-one.com/blog/customer-list",
+                    "displayLink": "ferret-one.com",
+                    "snippet": "2022/04/10 ... 顧客リストをマーケティングや営業に活用できれば、商品・サービスの成約数の向上や売上増加などにも影響してくるでしょう。",
+                    "htmlSnippet": "2022/04/10 <b>...</b> 顧客<b>リスト</b>をマーケティングや<b>営業</b>に活用できれば、<b>商品</b>・<b>サービス</b>の成約数の向上や売上増加などにも影響してくるでしょう。",
+                    "cacheId": "08fTAspBqJkJ",
+                    "formattedUrl": "https://ferret-one.com/blog/customer-list",
+                    "htmlFormattedUrl": "https://ferret-one.com/blog/customer-list",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKgTb2g51H4tZOt8dvHJZ2I3hJl9SHcRbVeHhz1pw0aDvjNHTH83kNvPD9",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://ferret-one.akamaized.net/images/624d899fe3c7c91112d6594f/large.jpeg?utime=1649248671",
+                                "next-head-count": "28",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "Webマーケティングツール『ferret One』",
+                                "viewport": "width=device-width",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://ferret-one.com/blog/customer-list",
+                                "twitter:image": "https://ferret-one.akamaized.net/images/624d899fe3c7c91112d6594f/large.jpeg?utime=1649248671"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://ferret-one.akamaized.net/images/624d899fe3c7c91112d6594f/large.jpeg?utime=1649248671"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "テレアポリストの作り方！営業に役立つリスト作成のコツも紹介 ...",
+                    "htmlTitle": "テレアポ<b>リスト</b>の作り方！<b>営業</b>に役立つ<b>リスト作成</b>のコツも紹介 ...",
+                    "link": "https://www.hai2mail.jp/column/sales-method/20230501.php",
+                    "displayLink": "www.hai2mail.jp",
+                    "snippet": "2023/05/17 ... また、自社商品・サービス専用のLP（ランディングページ）やECサイトを運営している場合も、アクセス状況を分析することで、見込み客が見つかることも ...",
+                    "htmlSnippet": "2023/05/17 <b>...</b> また、自社<b>商品</b>・<b>サービス</b>専用のLP（ランディングページ）やECサイトを運営している場合も、アクセス状況を分析することで、見込み客が見つかることも&nbsp;...",
+                    "cacheId": "IoBE6wSmYB4J",
+                    "formattedUrl": "https://www.hai2mail.jp/column/sales-method/20230501.php",
+                    "htmlFormattedUrl": "https://www.hai2mail.jp/column/sales-method/20230501.php",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTlT2ZPq1A2eloDvnhhapZ537SQr7sBuOV_dWRxEC1Xzm16qgWfQbMrJDT",
+                                "width": "318",
+                                "height": "159"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://www.hai2mail.jp/asset/images/logo-ogp.png",
+                                "width": "1071",
+                                "height": "535"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.hai2mail.jp/asset/images/logo-ogp.png",
+                                "og:type": "article",
+                                "twitter:card": "summary",
+                                "thumbnail": "https://www.hai2mail.jp/asset/images/logo-ogp.png",
+                                "twitter:site": "@haihaimail",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "og:site_title": "メルマガ配信・一斉メール配信サービス「配配メール」",
+                                "og:title": "テレアポリストの作り方！営業に役立つリスト作成のコツも紹介 - メルマガ・メール配信サービスの配配メール",
+                                "og:local": "ja_JP",
+                                "og:url": "https://www.hai2mail.jp/column/sales-method/20230501.php",
+                                "og:description": "テレアポをするときは、テレアポリストを作ることが必要です。リストを事前に作っておくことで、営業効率を高めるだけでなく、営業にかかる時間も短縮できます。6通りの作り方とコツを紹介します。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.hai2mail.jp/asset/images/logo-ogp.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "法人向けDMのリストの作成方法は？ 収集方法や質を上げるポイント ...",
+                    "htmlTitle": "法人向けDMの<b>リスト</b>の<b>作成</b>方法は？ 収集方法や質を上げるポイント ...",
+                    "link": "https://dmplus.jp/column/how-to-create-a-list-for-corporate-dm/",
+                    "displayLink": "dmplus.jp",
+                    "snippet": "2023/05/01 ... チラシ状やはがきサイズなど多種多様なタイプのものがありますが、顧客に対して訴求するために重要なのが「キャッチコピー」です。商品やサービスへの興味 ...",
+                    "htmlSnippet": "2023/05/01 <b>...</b> チラシ状やはがきサイズなど多種多様なタイプのものがありますが、顧客に対して訴求するために重要なのが「キャッチコピー」です。<b>商品</b>や<b>サービス</b>への興味&nbsp;...",
+                    "cacheId": "tUGvQ56V5IUJ",
+                    "formattedUrl": "https://dmplus.jp/column/how-to-create-a-list-for-corporate-dm/",
+                    "htmlFormattedUrl": "https://dmplus.jp/column/how-to-create-a-list-for-corporate-dm/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTK-3Rc0uIXMGFKjn1UQbsLe0fMLEkxT1hth_yiJHdQQ8pF0wYDbmhLO_0",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "website": [
+                            {
+                                "name": "DMのお役立ちコラム",
+                                "about": "DMのお役立ちコラム",
+                                "url": "DMのお役立ちコラム"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://dmplus.jp/column/wp-content/uploads/2023/05/pixta_81117485_M.jpg"
+                            }
+                        ],
+                        "imageobject": [
+                            {
+                                "width": "2000",
+                                "url": "https://dmplus.jp/column/wp-content/uploads/2023/05/pixta_81117485_M.jpg",
+                                "height": "1333"
+                            },
+                            {
+                                "width": "206",
+                                "url": "https://dmplus.jp/column/wp-content/themes/cocoon-master/images/no-amp-logo.png",
+                                "height": "60"
+                            }
+                        ],
+                        "person": [
+                            {
+                                "name": "DMのお役立ちコラム",
+                                "url": "https://dmplus.jp/column"
+                            }
+                        ],
+                        "organization": [
+                            {
+                                "name": "DMのお役立ちコラム"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://dmplus.jp/column/wp-content/uploads/2023/05/pixta_81117485_M.jpg",
+                                "og:type": "article",
+                                "article:published_time": "2023-05-01T10:48:21+09:00",
+                                "article:section": "DMのお役立ちコラム",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "法人向けDMのリストの作成方法は？　収集方法や質を上げるポイントを解説",
+                                "thumbnail": "https://dmplus.jp/column/wp-content/uploads/2023/05/pixta_81117485_M.jpg",
+                                "og:site_name": "DMのお役立ちコラム",
+                                "twitter:domain": "dmplus.jp",
+                                "twitter:url": "https://dmplus.jp/column/how-to-create-a-list-for-corporate-dm/",
+                                "og:title": "法人向けDMのリストの作成方法は？　収集方法や質を上げるポイントを解説",
+                                "msapplication-tileimage": "https://dmplus.jp/column/wp-content/themes/cocoon-master/images/site-icon270x270.png",
+                                "og:description": "紙のDM（ダイレクトメール）は個人向け・法人向けを問わず、リアルの媒体として直接送り先の手元に届くため高い訴求力を持っています。宛先が記された現物の「手紙」であることから、開封して中身を読むという行動を喚起しやすいツールであるともいえます。",
+                                "twitter:image": "https://dmplus.jp/column/wp-content/uploads/2023/05/pixta_81117485_M.jpg",
+                                "referrer": "no-referrer-when-downgrade",
+                                "article:modified_time": "2023-06-22T11:28:24+09:00",
+                                "viewport": "width=device-width,initial-scale=1",
+                                "twitter:description": "紙のDM（ダイレクトメール）は個人向け・法人向けを問わず、リアルの媒体として直接送り先の手元に届くため高い訴求力を持っています。宛先が記された現物の「手紙」であることから、開封して中身を読むという行動を喚起しやすいツールであるともいえます。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://dmplus.jp/column/how-to-create-a-list-for-corporate-dm/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://dmplus.jp/column/wp-content/uploads/2023/05/pixta_81117485_M.jpg"
+                            }
+                        ],
+                        "hatomfeed": [
+                            {}
+                        ],
+                        "blogposting": [
+                            {
+                                "datemodified": "2023-06-22T11:28:24+09:00",
+                                "headline": "法人向けDMのリストの作成方法は？ 収集方法や質を上げるポイントを解説",
+                                "datepublished": "2023-05-01T10:48:21+09:00",
+                                "mainentityofpage": "紙のDM（ダイレクトメール）は個人向け・法人向けを問わず、リアルの媒体として直接送り先の手元に届くため高い訴求力を持っています。..."
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "item": "DMのお役立ちコラム",
+                                "name": "DMのお役立ちコラム",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "SalesMarker(セールスマーカー)｜AIを活用し、あなたの商品 ...",
+                    "htmlTitle": "SalesMarker(セールスマーカー)｜AIを活用し、あなたの<b>商品</b> ...",
+                    "link": "https://sales-marker.jp/",
+                    "displayLink": "sales-marker.jp",
+                    "snippet": "SalesMarker(セールスマーカー)は、購買意欲の高い企業リストを30秒で制作ができる営業ツール。営業部署やマーケティング部署に導入され、営業リソースが80％削減、ア ...",
+                    "htmlSnippet": "SalesMarker(セールスマーカー)は、購買意欲の高い企業<b>リスト</b>を30秒で制作ができる<b>営業</b>ツール。<b>営業</b>部署やマーケティング部署に導入され、<b>営業</b>リソースが80％削減、ア&nbsp;...",
+                    "cacheId": "UNLVcA4V-BMJ",
+                    "formattedUrl": "https://sales-marker.jp/",
+                    "htmlFormattedUrl": "https://sales-marker.jp/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeOaMB_oFqCHwZDQ1vR7A_RN9onudiHVodv9IBmQF-QaVDe7_tOW1bReg",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://sales-marker.jp/wp-content/themes/wp-sales-marker/assets/images/common/salesmaker_ogp.jpeg",
+                                "theme-color": "#ffffff",
+                                "twitter:card": "summary_large_image",
+                                "og:type": "article",
+                                "article:published_time": "2022-10-31T10:06:20+00:00",
+                                "twitter:title": "SalesMarker(セールスマーカー)｜AIを活用し、あなたの商品・サービスを欲しい購買意欲の高い企業を見つけます。",
+                                "og:site_name": "SalesMarker(セールスマーカー) |",
+                                "og:title": "SalesMarker(セールスマーカー)｜AIを活用し、あなたの商品・サービスを欲しい購買意欲の高い企業を見つけます。",
+                                "msapplication-tileimage": "https://sales-marker.jp/wp-content/themes/wp-sales-marker/assets/images/common/fav-icon.png",
+                                "og:description": "SalesMarker(セールスマーカー)は、購買意欲の高い企業リストを30秒で制作ができる営業ツール。営業部署やマーケティング部署に導入され、営業リソースが80％削減、アポイント獲得数が9倍に。AIを駆使した最新の営業方法をご提案します。",
+                                "og:image:secure_url": "https://sales-marker.jp/wp-content/themes/wp-sales-marker/assets/images/common/salesmaker_ogp.jpeg",
+                                "twitter:image": "https://sales-marker.jp/wp-content/themes/wp-sales-marker/assets/images/common/salesmaker_ogp.jpeg",
+                                "article:modified_time": "2023-04-20T03:08:22+00:00",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "twitter:description": "SalesMarker(セールスマーカー)は、購買意欲の高い企業リストを30秒で制作ができる営業ツール。営業部署やマーケティング部署に導入され、営業リソースが80％削減、アポイント獲得数が9倍に。AIを駆使した最新の営業方法をご提案します。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://sales-marker.jp",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://sales-marker.jp/wp-content/themes/wp-sales-marker/assets/images/common/salesmaker_ogp.jpeg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "質の高い営業リストの作成・更新を効率化！営業をラクにする便利 ...",
+                    "htmlTitle": "質の高い<b>営業リスト</b>の<b>作成</b>・更新を効率化！<b>営業</b>をラクにする便利 ...",
+                    "link": "https://saas-search.jp/saas-services/sales/create-sales-list/",
+                    "displayLink": "saas-search.jp",
+                    "snippet": "2019/12/05 ... 今回の記事では、営業リストとはなにか、また営業リスト作成を効率化する ... 作成する際には、自社の商品・サービスの顧客となる可能性が高い企業に ...",
+                    "htmlSnippet": "2019/12/05 <b>...</b> 今回の記事では、営業リストとはなにか、また<b>営業リスト作成</b>を効率化する ... 作成する際には、自社の<b>商品</b>・<b>サービス</b>の顧客となる可能性が高い企業に&nbsp;...",
+                    "cacheId": "KcJOl4k-2g8J",
+                    "formattedUrl": "https://saas-search.jp/saas-services/sales/create-sales-list/",
+                    "htmlFormattedUrl": "https://saas-search.jp/saas-services/sales/create-sales-list/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTK2buO4GVuVsRe9rUoK25dJDAnNLH-LKV8CfcsRs6OH_xrDKQkO2pf_kQ",
+                                "width": "300",
+                                "height": "168"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://saas-search.jp/wp/wp-content/uploads/2019/12/create-sales-list-1-730x410.jpeg",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "SaaSサーチ",
+                                "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                                "og:title": "質の高い営業リストの作成・更新を効率化！営業をラクにする便利なツールとは？",
+                                "og:url": "https://saas-search.jp/saas-services/sales/create-sales-list/",
+                                "og:description": "営業活動の基本となる営業リスト作成には手間や時間が多くかかっていませんか？ 営業活動の準備として、多くの場合でリストの作成が必要となります。しかし、現場では営業 […]"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://saas-search.jp/wp/wp-content/uploads/2019/12/create-sales-list-1-730x410.jpeg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "title": "HOME",
+                                "url": "HOME"
+                            },
+                            {
+                                "title": "SaaSサービス",
+                                "url": "SaaSサービス"
+                            },
+                            {
+                                "title": "営業・セールス",
+                                "url": "営業・セールス"
+                            },
+                            {
+                                "title": "HOME",
+                                "url": "HOME"
+                            },
+                            {
+                                "title": "SaaSサービス",
+                                "url": "SaaSサービス"
+                            },
+                            {
+                                "title": "営業・セールス",
+                                "url": "営業・セールス"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

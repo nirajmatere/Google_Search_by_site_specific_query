@@ -1,0 +1,1578 @@
+{
+    "query": "企業 導入事例",
+    "links": [
+        [
+            "https://kintone-sol.cybozu.co.jp/cases/",
+            "https://smarthr.jp/case",
+            "https://jp.sansan.com/case/",
+            "https://aws.amazon.com/jp/solutions/case-studies/",
+            "https://www.comptia.jp/merit/company_casestudy/",
+            "https://legalforce-cloud.com/customer",
+            "https://hodai.globis.co.jp/corporation/case/",
+            "https://www.ntt.com/business/case-studies.html",
+            "https://asana.com/ja/customers",
+            "https://circu.co.jp/pro-sharing/cases/"
+        ],
+        [
+            "https://www.sailpoint.com/ja/customers/",
+            "https://explore.zoom.us/ja/customer/all/",
+            "https://www.it-hojo.jp/applicant/casestudies.html",
+            "https://circu.co.jp/pro-sharing/cases/",
+            "https://plus.spool.co.jp/case/",
+            "https://enterprise.newspicks.com/case",
+            "https://line.worksmobile.com/jp/cases/",
+            "https://cloud.google.com/customers?hl=ja",
+            "https://k-locationanalyzer.com/case/",
+            "https://www.salesforce.com/jp/customer-success-stories/"
+        ],
+        [
+            "https://vaio.com/magazine-cat/casestudies/",
+            "https://schoo.jp/biz/casestudy/",
+            "https://www.salesforce.com/jp/customer-success-stories/",
+            "https://k-locationanalyzer.com/case/",
+            "https://www.domo.com/jp/customers",
+            "https://www.forcas.com/case/",
+            "https://www.databricks.com/jp/customers",
+            "https://workspace.google.co.jp/intl/ja/customers/",
+            "https://www.epson.jp/products/textile/casestudy/",
+            "https://business.kuronekoyamato.co.jp/case/"
+        ]
+    ],
+    "snapshot_ymd": "D2023-06-23",
+    "snapshot_timestamp": "D2023-06-23T01-26-49",
+    "responses": [
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "request": [
+                    {
+                        "title": "Google Custom Search - 企業 導入事例",
+                        "totalResults": "70500000",
+                        "searchTerms": "企業 導入事例",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 企業 導入事例",
+                        "totalResults": "70500000",
+                        "searchTerms": "企業 導入事例",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.374429,
+                "formattedSearchTime": "0.37",
+                "totalResults": "70500000",
+                "formattedTotalResults": "70,500,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例 | サイボウズの業務改善プラットフォーム",
+                    "htmlTitle": "<b>導入事例</b> | サイボウズの業務改善プラットフォーム",
+                    "link": "https://kintone-sol.cybozu.co.jp/cases/",
+                    "displayLink": "kintone-sol.cybozu.co.jp",
+                    "snippet": "導入企業. あらゆる業種の、あらゆる人の、あらゆる仕事がキントーンによって変わりました。",
+                    "htmlSnippet": "<b>導入企業</b>. あらゆる業種の、あらゆる人の、あらゆる仕事がキントーンによって変わりました。",
+                    "cacheId": "X_myrRFaT-QJ",
+                    "formattedUrl": "https://kintone-sol.cybozu.co.jp/cases/",
+                    "htmlFormattedUrl": "https://kintone-sol.cybozu.co.jp/cases/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfL8DUA1Wj_y2JmeGo-Q-gIM9mUZHqpTdsn0w1m1LP0KM_QxCJTYNCxxdc",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://kintone.cybozu.co.jp/assets/image/ogp.jpg",
+                                "og:type": "article",
+                                "og:site_name": "kintone（キントーン）導入実績20,000社 - 導入事例 | サイボウズの業務改善プラットフォーム",
+                                "viewport": "width=device-width, initial-scale=1, user-scalable=no",
+                                "og:title": "kintone（キントーン）導入実績20,000社 - 導入事例 | サイボウズの業務改善プラットフォーム",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://kintone-sol.cybozu.co.jp/cases/",
+                                "og:description": "導入実績20,000社。kintone（キントーン）を使って、仕事が変わったチームの事例をご紹介します。業務効率アップ、生産性向上、会議の時間削減、リモートワークの実現、売上アップ、などあらゆる業種の、あらゆる人の、あらゆる仕事にキントーンを活用した事例を100近く掲載しています。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://kintone.cybozu.co.jp/assets/image/ogp.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例 | SmartHR｜シェアNo.1のクラウド人事労務ソフト",
+                    "htmlTitle": "<b>導入事例</b> | SmartHR｜シェアNo.1のクラウド人事労務ソフト",
+                    "link": "https://smarthr.jp/case",
+                    "displayLink": "smarthr.jp",
+                    "snippet": "導入企業. 三菱重工業株式会社; JFEホールディングス株式会社; 株式会社デンソー; 日清食品株式会社; ダイドードリンコ株式会社; ライオン株式会社; イオン株式会社; 株式 ...",
+                    "htmlSnippet": "<b>導入企業</b>. 三菱重工業株式会社; JFEホールディングス株式会社; 株式会社デンソー; 日清食品株式会社; ダイドードリンコ株式会社; ライオン株式会社; イオン株式会社; 株式&nbsp;...",
+                    "cacheId": "7geUQGgfBa0J",
+                    "formattedUrl": "https://smarthr.jp/case",
+                    "htmlFormattedUrl": "https://smarthr.jp/case",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbmx4cGyKe9zQl1c0kfC9Gnw1PIu5XT1_IgIQuCZK4tAR_BVV5tH-DOiCk",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "msapplication-tilecolor": "#2d88ef",
+                                "og:image": "https://smarthr.jp/wp-content/uploads/2017/08/logo_grad_OGP_vertical.png",
+                                "twitter:card": "summary",
+                                "og:type": "website",
+                                "og:image:width": "1200",
+                                "og:site_name": "SmartHR｜シェアNo.1のクラウド人事労務ソフト",
+                                "og:title": "導入事例 | SmartHR｜シェアNo.1のクラウド人事労務ソフト",
+                                "og:image:height": "630",
+                                "og:image:type": "image/png",
+                                "msapplication-tileimage": "/favicons/mstile-144x144.png",
+                                "og:description": "SmartHRをご利用いただいているお客様の実際の声を紹介します。",
+                                "twitter:site": "@smarthr_jp",
+                                "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://smarthr.jp/case"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://smarthr.jp/wp-content/uploads/2017/08/logo_grad_OGP_vertical.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例 - Sansan - 営業DXサービス",
+                    "htmlTitle": "<b>導入事例</b> - Sansan - 営業DXサービス",
+                    "link": "https://jp.sansan.com/case/",
+                    "displayLink": "jp.sansan.com",
+                    "snippet": "Sansanを導入し、顧客情報の有効活用を促進することで、ビジネスチャンスの拡大につながった事例を紹介します。",
+                    "htmlSnippet": "Sansanを<b>導入</b>し、顧客情報の有効活用を促進することで、ビジネスチャンスの拡大につながった<b>事例</b>を紹介します。",
+                    "cacheId": "u4GzkAJNWeQJ",
+                    "formattedUrl": "https://jp.sansan.com/case/",
+                    "htmlFormattedUrl": "https://jp.sansan.com/case/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRIHes6WxYLH67KTXorShZ-v5HTKZGSaUSLdmtyWIAImeJQxR7VTrzj8-g",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://jp.sansan.com/wp-content/uploads/2022/03/ogp_20221024.png",
+                                "og:type": "website",
+                                "og:image:width": "1200",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "Sansan - 営業DXサービス",
+                                "og:title": "導入事例 - Sansan - 営業DXサービス",
+                                "og:image:height": "630",
+                                "og:image:type": "image/png",
+                                "og:description": "Sansanを導入し、顧客情報の有効活用を促進することで、ビジネスチャンスの拡大につながった事例を紹介します。",
+                                "viewport": "width=device-width,initial-scale=1",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://jp.sansan.com/case/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://jp.sansan.com/wp-content/uploads/2022/03/ogp_20221024.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "home",
+                                "name": "home",
+                                "position": "1"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "AWS クラウド導入事例 | AWS",
+                    "htmlTitle": "AWS クラウド<b>導入事例</b> | AWS",
+                    "link": "https://aws.amazon.com/jp/solutions/case-studies/",
+                    "displayLink": "aws.amazon.com",
+                    "snippet": "現在はさまざまな部門から集まった人材が、アマゾン ウェブ サービス（AWS）が実施するトレーニングを活用してシステム内製スキルを高め、現場のさまざまな課題解消に ...",
+                    "htmlSnippet": "現在はさまざまな部門から集まった人材が、アマゾン ウェブ サービス（AWS）が実施するトレーニングを活用してシステム内製スキルを高め、現場のさまざまな課題解消に&nbsp;...",
+                    "cacheId": "XQkT6lPAAgcJ",
+                    "formattedUrl": "https://aws.amazon.com/jp/solutions/case-studies/",
+                    "htmlFormattedUrl": "https://aws.amazon.com/jp/solutions/case-studies/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSp5HPWn8V5ECfH7SCra5frHu0UHU6E_WROkaw5fS7SUfstMRB1oAIiSew",
+                                "width": "150",
+                                "height": "79"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png",
+                                "twitter:title": "AWS クラウド導入事例 | AWS",
+                                "twitter:card": "summary",
+                                "og:type": "company",
+                                "og:site_name": "Amazon Web Services, Inc.",
+                                "msvalidate.01": "6F92E52A288E266E30C2797ECB5FCCF3",
+                                "og:title": "AWS クラウド導入事例 | AWS",
+                                "shenma-site-verification": "79b94bb338f010af876605819a332e19_1617844070",
+                                "fb:pages": "153063591397681",
+                                "twitter:image": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_179x109.png",
+                                "360-site-verification": "cbe5c6f0249e273e71fffd6d6580ce09",
+                                "baidu-site-verification": "pjxJUyWxae",
+                                "twitter:site": "@awscloud",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "sogou_site_verification": "Ow8cCy3Hgq",
+                                "twitter:description": "さまざまな規模のお客様が AWS を使用して、アジリティの向上、コストの削減、そしてイノベーションの推進をクラウドで実現した方法を紹介します。",
+                                "og:url": "https://aws.amazon.com/jp/solutions/case-studies/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "企業導入事例 | 資格活用事例｜CompTIA JAPAN (コンプティア 日本 ...",
+                    "htmlTitle": "<b>企業導入事例</b> | 資格活用事例｜CompTIA JAPAN (コンプティア 日本 ...",
+                    "link": "https://www.comptia.jp/merit/company_casestudy/",
+                    "displayLink": "www.comptia.jp",
+                    "snippet": "導入企業事例：導入で見るCompTIA認定資格/スキル診断の役割. CompTIA認定資格は、ある業務において、「現在」利用・活用されている資源のメリット・デメリットを理解 ...",
+                    "htmlSnippet": "<b>導入企業事例</b>：<b>導入</b>で見るCompTIA認定資格/スキル診断の役割. CompTIA認定資格は、ある業務において、「現在」利用・活用されている資源のメリット・デメリットを理解&nbsp;...",
+                    "cacheId": "Z09xK4X5ipcJ",
+                    "formattedUrl": "https://www.comptia.jp/merit/company_casestudy/",
+                    "htmlFormattedUrl": "https://www.comptia.jp/merit/company_casestudy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn748sSNG5MuPJi3Wf3p1wD-v00af45B5uC838T9tIodFPEew29F2jnfz3",
+                                "width": "352",
+                                "height": "143"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.comptia.jp/images/main.jpg",
+                                "og:type": "article",
+                                "fb:app_id": "4044009542348050",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "CompTIA JAPAN (コンプティア 日本支局)",
+                                "twitter:site": "@CompTIA_JP",
+                                "viewport": "initial-scale=1.0, width=device-width",
+                                "og:title": "企業導入事例",
+                                "og:url": "https://www.comptia.jp/merit/company_casestudy/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.comptia.jp/images/main.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入企業一覧 | LegalForce（リーガルフォース）- AI契約審査 ...",
+                    "htmlTitle": "<b>導入企業</b>一覧 | LegalForce（リーガルフォース）- AI契約審査 ...",
+                    "link": "https://legalforce-cloud.com/customer",
+                    "displayLink": "legalforce-cloud.com",
+                    "snippet": "導入実績 2,500 社 突破! さまざまな規模の企業・法律事務所で活用されています. 株式会社うるる. 導入事例を見る.",
+                    "htmlSnippet": "導入実績 2,500 社 突破! さまざまな規模の<b>企業</b>・法律事務所で活用されています. 株式会社うるる. <b>導入事例</b>を見る.",
+                    "cacheId": "xfCfeijNFQsJ",
+                    "formattedUrl": "https://legalforce-cloud.com/customer",
+                    "htmlFormattedUrl": "https://legalforce-cloud.com/customer",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3_3MkCz5J6m91BxjhOoUXnSxR9vQQ1qM_d_2eXASel21x-uWCise4poJM",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://legalforce-cloud.com/img/legalforce/ogp_cm.jpg",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "導入企業一覧 | LegalForce（リーガルフォース）-  AI契約審査プラットフォーム",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "導入企業一覧。LegalForce導入企業の一部をご紹介します。ベンチャー企業から大手企業まで幅広くご導入いただいております。",
+                                "og:title": "導入企業一覧 | LegalForce（リーガルフォース）-  AI契約審査プラットフォーム",
+                                "og:url": "https://legalforce-cloud.com/customer",
+                                "og:description": "導入企業一覧。LegalForce導入企業の一部をご紹介します。ベンチャー企業から大手企業まで幅広くご導入いただいております。",
+                                "twitter:image": "https://legalforce-cloud.com/img/legalforce/ogp_cm.jpg",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://legalforce-cloud.com/img/legalforce/ogp_cm.jpg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "トップ",
+                                "name": "トップ",
+                                "position": "1"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "企業様のeラーニング導入事例 | グロービス学び放題",
+                    "htmlTitle": "<b>企業</b>様のeラーニング<b>導入事例</b> | グロービス学び放題",
+                    "link": "https://hodai.globis.co.jp/corporation/case/",
+                    "displayLink": "hodai.globis.co.jp",
+                    "snippet": "グロービス学び放題法人向けサービスを導入いただいている企業様の事例をインタビュー形式でご紹介いたします。",
+                    "htmlSnippet": "グロービス学び放題法人向けサービスを<b>導入</b>いただいている<b>企業</b>様の<b>事例</b>をインタビュー形式でご紹介いたします。",
+                    "cacheId": "rCx-VCJHhXUJ",
+                    "formattedUrl": "https://hodai.globis.co.jp/corporation/case/",
+                    "htmlFormattedUrl": "https://hodai.globis.co.jp/corporation/case/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSU5Fa7r0nVSZi-1bi-wXydbx-NipVES9puFGI0nv9ryzqjaLf2jcNBQ8rB",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://hodai.globis.co.jp/corporation/ogp.png?v210302",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "グロービス学び放題",
+                                "viewport": "width=device-width,initial-scale=1.0",
+                                "og:title": "法人向けサービスの導入事例紹介 | グロービス学び放題",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://hodai.globis.co.jp/corporation/",
+                                "og:description": "グロービス学び放題法人向けサービスを導入いただいている企業様の事例をインタビュー形式でご紹介いたします。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://hodai.globis.co.jp/corporation/ogp.png?v210302"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例 | NTTコミュニケーションズ 法人のお客さま",
+                    "htmlTitle": "<b>導入事例</b> | NTTコミュニケーションズ 法人のお客さま",
+                    "link": "https://www.ntt.com/business/case-studies.html",
+                    "displayLink": "www.ntt.com",
+                    "snippet": "「業種」「企業規模」「サービスカテゴリ」「キーワード」「導入目的・効果」からの絞り込み検索も可能です。",
+                    "htmlSnippet": "「業種」「<b>企業</b>規模」「サービスカテゴリ」「キーワード」「<b>導入</b>目的・効果」からの絞り込み検索も可能です。",
+                    "cacheId": "oPgZthVufQ8J",
+                    "formattedUrl": "https://www.ntt.com/business/case-studies.html",
+                    "htmlFormattedUrl": "https://www.ntt.com/business/case-studies.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZ-iT6dc3cIeffO56hehasoQBsvYlu-T_tUGFyznZWha-GIH90gkBRaVE",
+                                "width": "369",
+                                "height": "137"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+                                "title": "導入事例 | NTTコミュニケーションズ 法人のお客さま"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.ntt.com/content/dam/nttcom/hq/jp/business/case-studies/img/slider/img_casestudy_main_sojitz.jpg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "name": "導入事例",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "お客様紹介: Asana 導入企業および事例 • Asana",
+                    "htmlTitle": "お客様紹介: Asana <b>導入企業</b>および<b>事例</b> • Asana",
+                    "link": "https://asana.com/ja/customers",
+                    "displayLink": "asana.com",
+                    "snippet": "Uber、Pinterest、Airbnb など、Asana は世界の名だたる企業で導入されています。各チームの Asana 活用法をご紹介します。",
+                    "htmlSnippet": "Uber、Pinterest、Airbnb など、Asana は世界の名だたる<b>企業</b>で<b>導入</b>されています。各チームの Asana 活用法をご紹介します。",
+                    "formattedUrl": "https://asana.com/ja/customers",
+                    "htmlFormattedUrl": "https://asana.com/ja/customers",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_unYAHg9FN0FL3FKxdbl-sCrvndAJVQVbRxgvkL2twl6jR3qP_kPMPMM_",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://luna1.co/de89fa.png",
+                                "apple-itunes-app": "app-id=489969512",
+                                "twitter:app:id:googleplay": "com.asana.app",
+                                "theme-color": "#2e3c54",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "Asana",
+                                "twitter:url": "https://asana.com/ja/customers",
+                                "twitter:app:name:googleplay": "Asana モバイル",
+                                "twitter:app:id:iphone": "489969512",
+                                "og:description": "Uber、Pinterest、Airbnb など、Asana は世界の名だたる企業で導入されています。各チームの Asana 活用法をご紹介します。",
+                                "twitter:creator": "@asana",
+                                "zd-site-verification": "oywgyiggh7v8kawrvgcr",
+                                "twitter:image": "https://luna1.co/de89fa.png",
+                                "next-head-count": "69",
+                                "naver-site-verification": "5c6fd36e7d95d9f0d1ecb0ca29f9834d56b3cec3",
+                                "twitter:site": "@asana",
+                                "twitter:title": "お客様紹介: Asana 導入企業および事例 • Asana",
+                                "og:type": "article",
+                                "author": "Asana",
+                                "og:title": "お客様紹介: Asana 導入企業および事例 • Asana",
+                                "twitter:app:id:ipad": "489969512",
+                                "yandex-verification": "e3482b364e00d0a0",
+                                "msapplication-navbutton-color": "#2e3c54",
+                                "twitter:image:src": "https://luna1.co/de89fa.png",
+                                "fb:app_id": "444494130454",
+                                "twitter:app:name:ipad": "Asana: チームのタスクと会話",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "twitter:description": "Uber、Pinterest、Airbnb など、Asana は世界の名だたる企業で導入されています。各チームの Asana 活用法をご紹介します。",
+                                "og:url": "https://asana.com/ja/customers",
+                                "twitter:app:name:iphone": "Asana: チームのタスクと会話"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://luna1.co/de89fa.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入企業事例 | ProSharing Consulting(プロシェアリング ...",
+                    "htmlTitle": "<b>導入企業事例</b> | ProSharing Consulting(プロシェアリング ...",
+                    "link": "https://circu.co.jp/pro-sharing/cases/",
+                    "displayLink": "circu.co.jp",
+                    "snippet": "導入事例一覧. 新着事例. 新規事業開発 キリンホールディングス株式会社様. 社員発案 ... 活用事例集が欲しい方はこちら · 自社にあった活用方法はこちら. ProSharing ...",
+                    "htmlSnippet": "<b>導入事例</b>一覧. 新着事例. 新規事業開発 キリンホールディングス株式会社様. 社員発案 ... 活用事例集が欲しい方はこちら &middot; 自社にあった活用方法はこちら. ProSharing&nbsp;...",
+                    "cacheId": "0o8_MDlKcPcJ",
+                    "formattedUrl": "https://circu.co.jp/pro-sharing/cases/",
+                    "htmlFormattedUrl": "https://circu.co.jp/pro-sharing/cases/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0kzEQgZVQCWte8pRLGFrk19ywkBy_-eFylBVD5v8YUDJRoSGkIAcd56lF",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://circu.co.jp/pro-sharing/wp-content/uploads/2021/02/psc_ogp_3.jpg",
+                                "og:type": "object",
+                                "og:image:width": "1200",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "導入企業事例 | ProSharing Consulting(プロシェアリングコンサルティング)",
+                                "og:site_name": "ProSharing Consulting(プロシェアリングコンサルティング)",
+                                "og:title": "導入企業事例 | ProSharing Consulting(プロシェアリングコンサルティング)",
+                                "og:image:height": "630",
+                                "og:image:secure_url": "https://circu.co.jp/pro-sharing/wp-content/uploads/2021/02/psc_ogp_3.jpg",
+                                "twitter:image": "https://circu.co.jp/pro-sharing/wp-content/uploads/2021/02/psc_ogp_3.jpg",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://circu.co.jp/pro-sharing/cases/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://circu.co.jp/pro-sharing/wp-content/uploads/2021/02/psc_ogp_3.jpg"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 企業 導入事例",
+                        "totalResults": "90800000",
+                        "searchTerms": "企業 導入事例",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 企業 導入事例",
+                        "totalResults": "90800000",
+                        "searchTerms": "企業 導入事例",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 企業 導入事例",
+                        "totalResults": "90800000",
+                        "searchTerms": "企業 導入事例",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.296714,
+                "formattedSearchTime": "0.30",
+                "totalResults": "90800000",
+                "formattedTotalResults": "90,800,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例 | SailPoint",
+                    "htmlTitle": "<b>導入事例</b> | SailPoint",
+                    "link": "https://www.sailpoint.com/ja/customers/",
+                    "displayLink": "www.sailpoint.com",
+                    "snippet": "SailPointのアイデンティティプラットフォームは、世界中のあらゆる業種の企業に採用されています。 SailPointはガートナー社のPeer Insights Customers' Choice部門を二年 ...",
+                    "htmlSnippet": "SailPointのアイデンティティプラットフォームは、世界中のあらゆる業種の<b>企業</b>に採用されています。 SailPointはガートナー社のPeer Insights Customers&#39; Choice部門を二年&nbsp;...",
+                    "cacheId": "jsb-sxDVHocJ",
+                    "formattedUrl": "https://www.sailpoint.com/ja/customers/",
+                    "htmlFormattedUrl": "https://www.sailpoint.com/ja/customers/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSH2ybCM0BT69kVE-gNErEbp-SA77_Cok5Mouz13Uayfc2BKrujx_0iLgQ",
+                                "width": "296",
+                                "height": "170"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.sailpoint.com/wp-content/uploads/2021/12/team-of-engineers.png",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "SailPoint",
+                                "article:modified_time": "2023-01-30T20:12:52+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "導入事例",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.sailpoint.com/ja/customers/",
+                                "msapplication-tileimage": "https://www.sailpoint.com/wp-content/uploads/2022/08/cropped-favicon-270x270.png",
+                                "og:description": "導入事例 あらゆる業種のアイデンティティ・ガバナンスを強化",
+                                "exclude_from_search": "true"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.sailpoint.com/wp-content/uploads/2021/12/team-of-engineers.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Zoom 導入事例とお客様の声 | Zoom",
+                    "htmlTitle": "Zoom <b>導入事例</b>とお客様の声 | Zoom",
+                    "link": "https://explore.zoom.us/ja/customer/all/",
+                    "displayLink": "explore.zoom.us",
+                    "snippet": "世界中の Zoom 導入企業がどのように Zoom を活用し、コミュニケーションの効率化を行い、ビジネスを拡大しているかをご覧ください。",
+                    "htmlSnippet": "世界中の Zoom <b>導入企業</b>がどのように Zoom を活用し、コミュニケーションの効率化を行い、ビジネスを拡大しているかをご覧ください。",
+                    "cacheId": "j0pprT5rzLQJ",
+                    "formattedUrl": "https://explore.zoom.us/ja/customer/all/",
+                    "htmlFormattedUrl": "https://explore.zoom.us/ja/customer/all/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvdVVCcS0PXOZdxbTIpuYm3H07ax0082IFcb__idRtZMTcV6CqVp5sXXc",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://explore.zoom.us/media/zoom-customer-stories.jpg",
+                                "og:type": "article",
+                                "og:image:width": "1200",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "Zoom",
+                                "og:title": "Zoom 導入事例とお客様の声 | Zoom",
+                                "og:image:height": "630",
+                                "og:description": "世界中の Zoom 導入企業がどのように Zoom を活用し、コミュニケーションの効率化を行い、ビジネスを拡大しているかをご覧ください。",
+                                "article:publisher": "https://www.facebook.com/zoom",
+                                "twitter:site": "@zoom",
+                                "og:locale:alternate": "en_US",
+                                "article:modified_time": "2023-03-09T07:02:35+00:00",
+                                "viewport": "width=device-width,user-scalable=no,minimum-scale=1,maximum-scale=1",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://explore.zoom.us/ja/customer/all/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://explore.zoom.us/media/zoom-customer-stories.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "ITツール活用事例 | 中小企業・小規模事業者のみなさま | IT導入補助 ...",
+                    "htmlTitle": "ITツール活用<b>事例</b> | 中小<b>企業</b>・小規模事業者のみなさま | IT<b>導入</b>補助 ...",
+                    "link": "https://www.it-hojo.jp/applicant/casestudies.html",
+                    "displayLink": "www.it-hojo.jp",
+                    "snippet": "こちらでは先行して生産性向上に取り組む企業をご紹介します。 なお、過去の導入事例のご紹介となるため当年度のソフトウェア導入要件とは異なる場合があります。",
+                    "htmlSnippet": "こちらでは先行して生産性向上に取り組む<b>企業</b>をご紹介します。 なお、過去の<b>導入事例</b>のご紹介となるため当年度のソフトウェア導入要件とは異なる場合があります。",
+                    "cacheId": "2Pj1rD_8odIJ",
+                    "formattedUrl": "https://www.it-hojo.jp/applicant/casestudies.html",
+                    "htmlFormattedUrl": "https://www.it-hojo.jp/applicant/casestudies.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHFTfvZBxRUx5XHn7lsz-YzKAJYZyT1R4TiKLvznreuBQhFITRYyLHvQI",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.it-hojo.jp/sns.png",
+                                "og:type": "article",
+                                "og:site_name": "IT導入補助金ポータルサイト",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "ITツール活用事例 | 中小企業・小規模事業者のみなさま | IT導入補助金2023",
+                                "og:url": "https://www.it-hojo.jp/applicant/casestudies.html",
+                                "og:description": "ITツールを導入することでサービス品質の向上、業務の効率化を図り、稼働率の向上や営業利益率の向上等の成果を上げている企業が全国に多数いらっしゃいます。「ITツール活用事例」では先行して生産性向上に取り組む企業をご紹介します。",
+                                "format-detection": "telephone=no,address=no,email=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.it-hojo.jp/sns.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入企業事例 | ProSharing Consulting(プロシェアリング ...",
+                    "htmlTitle": "<b>導入企業事例</b> | ProSharing Consulting(プロシェアリング ...",
+                    "link": "https://circu.co.jp/pro-sharing/cases/",
+                    "displayLink": "circu.co.jp",
+                    "snippet": "導入事例一覧. 新着事例. 新規事業開発 キリンホールディングス株式会社様. 社員発案のビジネスアイデアの新規事業化を進め、高速でPoC準備を完了.",
+                    "htmlSnippet": "<b>導入事例</b>一覧. 新着事例. 新規事業開発 キリンホールディングス株式会社様. 社員発案のビジネスアイデアの新規事業化を進め、高速でPoC準備を完了.",
+                    "cacheId": "0o8_MDlKcPcJ",
+                    "formattedUrl": "https://circu.co.jp/pro-sharing/cases/",
+                    "htmlFormattedUrl": "https://circu.co.jp/pro-sharing/cases/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0kzEQgZVQCWte8pRLGFrk19ywkBy_-eFylBVD5v8YUDJRoSGkIAcd56lF",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://circu.co.jp/pro-sharing/wp-content/uploads/2021/02/psc_ogp_3.jpg",
+                                "og:type": "object",
+                                "og:image:width": "1200",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "導入企業事例 | ProSharing Consulting(プロシェアリングコンサルティング)",
+                                "og:site_name": "ProSharing Consulting(プロシェアリングコンサルティング)",
+                                "og:title": "導入企業事例 | ProSharing Consulting(プロシェアリングコンサルティング)",
+                                "og:image:height": "630",
+                                "og:image:secure_url": "https://circu.co.jp/pro-sharing/wp-content/uploads/2021/02/psc_ogp_3.jpg",
+                                "twitter:image": "https://circu.co.jp/pro-sharing/wp-content/uploads/2021/02/psc_ogp_3.jpg",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://circu.co.jp/pro-sharing/cases/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://circu.co.jp/pro-sharing/wp-content/uploads/2021/02/psc_ogp_3.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例｜障がい者雇用・就職支援の株式会社エスプールプラス",
+                    "htmlTitle": "<b>導入事例</b>｜障がい者雇用・就職支援の株式会社エスプールプラス",
+                    "link": "https://plus.spool.co.jp/case/",
+                    "displayLink": "plus.spool.co.jp",
+                    "snippet": "導入事例のページです。障がい者雇用・就職支援の株式会社エスプールプラスは、企業の法定雇用率の達成や、障害者手帳をお持ちの方の就職を応援します。",
+                    "htmlSnippet": "<b>導入事例</b>のページです。障がい者雇用・就職支援の株式会社エスプールプラスは、<b>企業</b>の法定雇用率の達成や、障害者手帳をお持ちの方の就職を応援します。",
+                    "cacheId": "_LwHEfWb9TgJ",
+                    "formattedUrl": "https://plus.spool.co.jp/case/",
+                    "htmlFormattedUrl": "https://plus.spool.co.jp/case/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgXlhXOzZF_zGEJUj4hpw4itWm6mZNJhD0cTN2ghv85p1tXFBbRGxTIYw",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "msapplication-tilecolor": "#000000",
+                                "og:image": "https://plus.spool.co.jp/common/img/ogp.png",
+                                "og:type": "article",
+                                "og:site_name": "障がい者雇用・就職支援の株式会社エスプールプラス",
+                                "viewport": "width=device-width,initial-scale=1.0,shrink-to-fit=no",
+                                "og:title": "導入事例｜障がい者雇用・就職支援の株式会社エスプールプラスは、企業の法定雇用率の達成や、障害者手帳をお持ちの方の就職を応援します。",
+                                "og:url": "https://plus.spool.co.jp/case/",
+                                "msapplication-tileimage": "/mstile-144x144.png",
+                                "og:description": "導入事例のページです。障がい者雇用・就職支援の株式会社エスプールプラスは、企業の法定雇用率の達成や、障害者手帳をお持ちの方の就職を応援します。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://plus.spool.co.jp/common/img/ogp.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例 | NewsPicks Enterprise",
+                    "htmlTitle": "<b>導入事例</b> | NewsPicks Enterprise",
+                    "link": "https://enterprise.newspicks.com/case",
+                    "displayLink": "enterprise.newspicks.com",
+                    "snippet": "大企業病を打破し、自律的人材を育てるプラットフォームの条件 · 社員のポテンシャルを解放したい！ 互いに学びを深め合い、つながる場として. 三菱重工業株式会社.",
+                    "htmlSnippet": "大<b>企業</b>病を打破し、自律的人材を育てるプラットフォームの条件 &middot; 社員のポテンシャルを解放したい！ 互いに学びを深め合い、つながる場として. 三菱重工業株式会社.",
+                    "cacheId": "3AoDie46b9EJ",
+                    "formattedUrl": "https://enterprise.newspicks.com/case",
+                    "htmlFormattedUrl": "https://enterprise.newspicks.com/case",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsfZh423BK8IGU6cSOxDr_JUmI_BSYAtPzKyLaAZq0AaXQuw-IdMa4fGBO",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:type": "website",
+                                "twitter:card": "summary",
+                                "twitter:title": "導入事例",
+                                "og:site_name": "NewsPicks Enterprise",
+                                "og:title": "導入事例",
+                                "msapplication-tileimage": "https://enterprise.newspicks.com/application/files/1116/0645/8901/favicon.png",
+                                "og:updated_time": "2021-03-26T19:03:37+09:00",
+                                "og:description": "NewsPicks Enterpriseをご利用いただいているお客様の実際の声を紹介します。",
+                                "facebook-domain-verification": "esf2w8cjnjgf60o7k3gr772i7i90im",
+                                "fb:app_id": "2028706157247863",
+                                "viewport": "width=device-width",
+                                "twitter:description": "NewsPicks Enterpriseをご利用いただいているお客様の実際の声を紹介します。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://enterprise.newspicks.com/case",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://enterprise.newspicks.com/application/files/8016/2155/6321/ogp_npe-jt.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例 - LINE WORKS",
+                    "htmlTitle": "<b>導入事例</b> - LINE WORKS",
+                    "link": "https://line.worksmobile.com/jp/cases/",
+                    "displayLink": "line.worksmobile.com",
+                    "snippet": "庁内全職員のグループウェアとしてLINE WORKSを選定。日常のコミュニケーションから安否確認、医療機関とのワクチン接種に関する密接な連携に活用しています。",
+                    "htmlSnippet": "庁内全職員のグループウェアとしてLINE WORKSを選定。日常のコミュニケーションから安否確認、医療機関とのワクチン接種に関する密接な連携に活用しています。",
+                    "cacheId": "czRLUdWgArYJ",
+                    "formattedUrl": "https://line.worksmobile.com/jp/cases/",
+                    "htmlFormattedUrl": "https://line.worksmobile.com/jp/cases/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxNdMy9WdOdgVONm9-sqwnN6-JjeLqTTNhEOLBnf4DeKoUrFu7x4twkA",
+                                "width": "289",
+                                "height": "174"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://line.worksmobile.com/jp/wp-content/uploads/2023/04/case_banner_image1.png",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "LINE WORKS",
+                                "og:title": "導入事例 - LINE WORKS",
+                                "twitter:label1": "Est. reading time",
+                                "msapplication-tileimage": "https://line.worksmobile.com/jp/wp-content/uploads/2019/11/cropped-login_512x512-1-270x270.png",
+                                "og:description": "ビジネス版LINE「LINE WORKS(ラインワークス)」ならチャット機能はもちろん、メール、カレンダー、ファイル管理など、グループウェア機能も使えます。PCだけでなくスマホでもフル機能が使えるので、働き方改革に有効です。",
+                                "twitter:data1": "38分",
+                                "article:modified_time": "2023-05-25T11:11:59+00:00",
+                                "viewport": "user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://line.worksmobile.com/jp/cases/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://line.worksmobile.com/jp/wp-content/uploads/2023/04/case_banner_image1.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例 | Google Cloud",
+                    "htmlTitle": "<b>導入事例</b> | Google Cloud",
+                    "link": "https://cloud.google.com/customers?hl=ja",
+                    "displayLink": "cloud.google.com",
+                    "snippet": "株式会社ぐるなび. BigQuery を中心にデータ収集からデータの可視化や活用まで Google Cloud でデータ分析基盤を刷新. 導入事例を読む. ヤマハ株式会社 logo ...",
+                    "htmlSnippet": "株式会社ぐるなび. BigQuery を中心にデータ収集からデータの可視化や活用まで Google Cloud でデータ分析基盤を刷新. <b>導入事例</b>を読む. ヤマハ株式会社 logo&nbsp;...",
+                    "cacheId": "ntU1MCibHE8J",
+                    "formattedUrl": "https://cloud.google.com/customers?hl=ja",
+                    "htmlFormattedUrl": "https://cloud.google.com/customers?hl=ja",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS40JXGpVlzpnNLOC8rcR3yr8keeY3zCnK9_T03hLWooe3VgRyXSuyWtQ",
+                                "width": "150",
+                                "height": "79"
+                            }
+                        ],
+                        "document": [
+                            {}
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png?hl=ja",
+                                "og:type": "website",
+                                "theme-color": "#039be5",
+                                "og:image:width": "1200",
+                                "twitter:card": "summary_large_image",
+                                "google-signin-client-id": "721724668570-nbkv1cfusk7kk4eni4pjvepaus73b13t.apps.googleusercontent.com",
+                                "og:site_name": "Google Cloud",
+                                "og:title": "導入事例  |  Google Cloud",
+                                "og:image:height": "630",
+                                "og:description": "世界有数の革新的組織が次の時代を築くために Google Cloud Platform を選ぶ理由を説明します。",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:locale": "ja",
+                                "google-signin-scope": "profile email https://www.googleapis.com/auth/developerprofiles https://www.googleapis.com/auth/developerprofiles.award https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/webhistory",
+                                "og:url": "https://cloud.google.com/customers?hl=ja"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png?hl=ja"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例(民間企業) | 商圏分析・位置情報分析ツール KDDI Location ...",
+                    "htmlTitle": "<b>導入事例</b>(民間<b>企業</b>) | 商圏分析・位置情報分析ツール KDDI Location ...",
+                    "link": "https://k-locationanalyzer.com/case/",
+                    "displayLink": "k-locationanalyzer.com",
+                    "snippet": "商圏分析‧位置情報分析ツール KDDI Location Analyzerの民間企業導入事例ページ。KDDIの持つスマホでのGPS位置情報通⾏‧滞在⼈⼝の分析、来訪者属性‧居住地分析、主要 ...",
+                    "htmlSnippet": "商圏分析‧位置情報分析ツール KDDI Location Analyzerの民間<b>企業導入事例</b>ページ。KDDIの持つスマホでのGPS位置情報通⾏‧滞在⼈⼝の分析、来訪者属性‧居住地分析、主要&nbsp;...",
+                    "cacheId": "MjMO3UV-Nv0J",
+                    "formattedUrl": "https://k-locationanalyzer.com/case/",
+                    "htmlFormattedUrl": "https://k-locationanalyzer.com/case/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_a884f0ouY2n1l4zHjIVEeaw7iKe86u0BV1xtKaZrqG3en0ia7PZoRURc",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://k-locationanalyzer.com/wp-content/themes/klaforkddi/assets/img/ogp.jpg",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "KDDI Location Analyzer",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "導入事例(民間企業) | 商圏分析・位置情報分析ツール KDDI Location Analyzer",
+                                "og:url": "https://k-locationanalyzer.com/case/meitetsu",
+                                "og:description": "商圏分析‧位置情報分析ツール KDDI Location Analyzerの民間企業導入事例ページ。KDDIの持つスマホでのGPS位置情報通⾏‧滞在⼈⼝の分析、来訪者属性‧居住地分析、主要動線分析などの分析機能があります。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://k-locationanalyzer.com/wp-content/themes/klaforkddi/assets/img/ogp.jpg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "商圏分析‧位置情報分析ツール KDDI Location Analyzer",
+                                "name": "商圏分析‧位置情報分析ツール KDDI Location Analyzer",
+                                "position": "1"
+                            },
+                            {
+                                "item": "民間企業 導入事例",
+                                "name": "民間企業 導入事例",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "お客様事例 | セールスフォース・ジャパン",
+                    "htmlTitle": "お客様<b>事例</b> | セールスフォース・ジャパン",
+                    "link": "https://www.salesforce.com/jp/customer-success-stories/",
+                    "displayLink": "www.salesforce.com",
+                    "snippet": "Salesforceを活用するお客様の成功事例をご紹介。",
+                    "htmlSnippet": "Salesforceを活用するお客様の成功<b>事例</b>をご紹介。",
+                    "formattedUrl": "https://www.salesforce.com/jp/customer-success-stories/",
+                    "htmlFormattedUrl": "https://www.salesforce.com/jp/customer-success-stories/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWQLPWG6bRDX4tmjZyOLGilc-38y8MJaX1qN-1ssS6NcJCmiMDiCQp8Zk",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.salesforce.com/etc/designs/blogsRedesign/images/default.jpg",
+                                "og:type": "website",
+                                "twitter:card": "summary",
+                                "og:site_name": "Salesforce",
+                                "twitter:domain": "www.salesforce.com",
+                                "twitter:url": "https://www.salesforce.com/jp/customer-success-stories/",
+                                "og:title": "お客様事例",
+                                "og:description": "Salesforceを活用するお客様の成功事例をご紹介。",
+                                "fb:app_id": "149533758430156",
+                                "twitter:site": "@salesforce",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "og:locale": "ja_jp",
+                                "og:url": "https://www.salesforce.com/jp/customer-success-stories/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.salesforce.com/etc/designs/blogsRedesign/images/default.jpg"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 企業 導入事例",
+                        "totalResults": "70500000",
+                        "searchTerms": "企業 導入事例",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 企業 導入事例",
+                        "totalResults": "70500000",
+                        "searchTerms": "企業 導入事例",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 企業 導入事例",
+                        "totalResults": "70500000",
+                        "searchTerms": "企業 導入事例",
+                        "count": 10,
+                        "startIndex": 31,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.195581,
+                "formattedSearchTime": "0.20",
+                "totalResults": "70500000",
+                "formattedTotalResults": "70,500,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "法人導入事例 - VAIO公式サイト",
+                    "htmlTitle": "法人<b>導入事例</b> - VAIO公式サイト",
+                    "link": "https://vaio.com/magazine-cat/casestudies/",
+                    "displayLink": "vaio.com",
+                    "snippet": "STORY ; 法人導入事例 株式会社アイム様 · 2021年8月6日 ; 法人導入事例 NISSHA株式会社様 · 2021年1月22日 ; 法人導入事例 株式会社ツクイホールディングス様 · 2020年12月7日.",
+                    "htmlSnippet": "STORY ; 法人<b>導入事例</b> 株式会社アイム様 &middot; 2021年8月6日 ; 法人<b>導入事例</b> NISSHA株式会社様 &middot; 2021年1月22日 ; 法人<b>導入事例</b> 株式会社ツクイホールディングス様 &middot; 2020年12月7日.",
+                    "cacheId": "BKdgXs8FEpUJ",
+                    "formattedUrl": "https://vaio.com/magazine-cat/casestudies/",
+                    "htmlFormattedUrl": "https://vaio.com/magazine-cat/casestudies/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeR9M9xkFP_3-2c4f6BXvuXZTCXFWULCADPLV3NF51D0juyZZY3AQJgcTs",
+                                "width": "300",
+                                "height": "135"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1",
+                                "msapplication-tileimage": "https://vaio.com/wp-content/uploads/2022/01/vaio_favicon.png"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://vaio.com/wp-content/uploads/2021/12/pic-m-tukui.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例 | オンライン研修・人材育成 - Schoo（スクー）法人・企業 ...",
+                    "htmlTitle": "<b>導入事例</b> | オンライン研修・人材育成 - Schoo（スクー）法人・<b>企業</b> ...",
+                    "link": "https://schoo.jp/biz/casestudy/",
+                    "displayLink": "schoo.jp",
+                    "snippet": "ビジネスプランをご活用いただいている企業様の事例をご紹介します。",
+                    "htmlSnippet": "ビジネスプランをご活用いただいている<b>企業</b>様の<b>事例</b>をご紹介します。",
+                    "cacheId": "MuonGGd1gaoJ",
+                    "formattedUrl": "https://schoo.jp/biz/casestudy/",
+                    "htmlFormattedUrl": "https://schoo.jp/biz/casestudy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvKyCqhjfiPII1kpnBZvOFWNNp5OwFBSgmyMjZZjKkPSohbO_jJTu5vPAv",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "apple-itunes-app": "app-id=903311774",
+                                "og:image": "https://s3-ap-northeast-1.amazonaws.com/i.schoo/images/biz/og_image_v4.png",
+                                "og:type": "website",
+                                "twitter:card": "summary",
+                                "twitter:title": "導入事例 | オンライン研修・人材育成 - Schoo（スクー）法人・企業向けサービス",
+                                "og:title": "導入事例 | オンライン研修・人材育成 - Schoo（スクー）法人・企業向けサービス",
+                                "og:description": "ビジネスプランをご活用いただいている企業様の事例をご紹介します。",
+                                "twitter:image:src": "https://s3-ap-northeast-1.amazonaws.com/i.schoo/images/biz/og_image_v4.png",
+                                "fb:app_id": "155430651192949",
+                                "twitter:site": "@schoo_inc",
+                                "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                                "twitter:description": "ビジネスプランをご活用いただいている企業様の事例をご紹介します。",
+                                "og:url": "https://schoo.jp/biz/casestudy/",
+                                "google-play-app": "app-id=jp.schoo.android.app"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://s3-ap-northeast-1.amazonaws.com/i.schoo/images/biz/og_image_v4.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "Schoo（スクー）",
+                                "name": "Schoo（スクー）",
+                                "position": "1"
+                            },
+                            {
+                                "item": "法人向けサービス TOP",
+                                "name": "法人向けサービス TOP",
+                                "position": "2"
+                            },
+                            {
+                                "name": "導入事例",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "お客様事例 | セールスフォース・ジャパン",
+                    "htmlTitle": "お客様<b>事例</b> | セールスフォース・ジャパン",
+                    "link": "https://www.salesforce.com/jp/customer-success-stories/",
+                    "displayLink": "www.salesforce.com",
+                    "snippet": "Salesforceを活用するお客様の成功事例をご紹介。",
+                    "htmlSnippet": "Salesforceを活用するお客様の成功<b>事例</b>をご紹介。",
+                    "formattedUrl": "https://www.salesforce.com/jp/customer-success-stories/",
+                    "htmlFormattedUrl": "https://www.salesforce.com/jp/customer-success-stories/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWQLPWG6bRDX4tmjZyOLGilc-38y8MJaX1qN-1ssS6NcJCmiMDiCQp8Zk",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.salesforce.com/etc/designs/blogsRedesign/images/default.jpg",
+                                "og:type": "website",
+                                "twitter:card": "summary",
+                                "og:site_name": "Salesforce",
+                                "twitter:domain": "www.salesforce.com",
+                                "twitter:url": "https://www.salesforce.com/jp/customer-success-stories/",
+                                "og:title": "お客様事例",
+                                "og:description": "Salesforceを活用するお客様の成功事例をご紹介。",
+                                "fb:app_id": "149533758430156",
+                                "twitter:site": "@salesforce",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "og:locale": "ja_jp",
+                                "og:url": "https://www.salesforce.com/jp/customer-success-stories/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.salesforce.com/etc/designs/blogsRedesign/images/default.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例(民間企業) | 商圏分析・位置情報分析ツール KDDI Location ...",
+                    "htmlTitle": "<b>導入事例</b>(民間<b>企業</b>) | 商圏分析・位置情報分析ツール KDDI Location ...",
+                    "link": "https://k-locationanalyzer.com/case/",
+                    "displayLink": "k-locationanalyzer.com",
+                    "snippet": "商圏分析‧位置情報分析ツール KDDI Location Analyzerの民間企業導入事例ページ。KDDIの持つスマホでのGPS位置情報通⾏‧滞在⼈⼝の分析、来訪者属性‧居住地分析、主要 ...",
+                    "htmlSnippet": "商圏分析‧位置情報分析ツール KDDI Location Analyzerの民間<b>企業導入事例</b>ページ。KDDIの持つスマホでのGPS位置情報通⾏‧滞在⼈⼝の分析、来訪者属性‧居住地分析、主要&nbsp;...",
+                    "cacheId": "MjMO3UV-Nv0J",
+                    "formattedUrl": "https://k-locationanalyzer.com/case/",
+                    "htmlFormattedUrl": "https://k-locationanalyzer.com/case/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_a884f0ouY2n1l4zHjIVEeaw7iKe86u0BV1xtKaZrqG3en0ia7PZoRURc",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://k-locationanalyzer.com/wp-content/themes/klaforkddi/assets/img/ogp.jpg",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "KDDI Location Analyzer",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "導入事例(民間企業) | 商圏分析・位置情報分析ツール KDDI Location Analyzer",
+                                "og:url": "https://k-locationanalyzer.com/case/meitetsu",
+                                "og:description": "商圏分析‧位置情報分析ツール KDDI Location Analyzerの民間企業導入事例ページ。KDDIの持つスマホでのGPS位置情報通⾏‧滞在⼈⼝の分析、来訪者属性‧居住地分析、主要動線分析などの分析機能があります。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://k-locationanalyzer.com/wp-content/themes/klaforkddi/assets/img/ogp.jpg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "商圏分析‧位置情報分析ツール KDDI Location Analyzer",
+                                "name": "商圏分析‧位置情報分析ツール KDDI Location Analyzer",
+                                "position": "1"
+                            },
+                            {
+                                "item": "民間企業 導入事例",
+                                "name": "民間企業 導入事例",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Domo 導入事例のご紹介",
+                    "htmlTitle": "Domo <b>導入事例</b>のご紹介",
+                    "link": "https://www.domo.com/jp/customers",
+                    "displayLink": "www.domo.com",
+                    "snippet": "企業内のあらゆるデータへのアクセスを可能にし、DX、データ活用を成功させている先進的な企業の事例をご紹介します。 2,000+. CUSTOMERS. 100T+. DATA ...",
+                    "htmlSnippet": "<b>企業</b>内のあらゆるデータへのアクセスを可能にし、DX、データ活用を成功させている先進的な<b>企業</b>の<b>事例</b>をご紹介します。 2,000+. CUSTOMERS. 100T+. DATA&nbsp;...",
+                    "cacheId": "tnNEYJ3duVAJ",
+                    "formattedUrl": "https://www.domo.com/jp/customers",
+                    "htmlFormattedUrl": "https://www.domo.com/jp/customers",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2JVeT-iz122PQ8sB-kv8Q66Oe8yIJqaoxKy_KA2-bY5jzFxhsq1wQnbpw",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://web-assets.domo.com/miyagi/images/product/product-google-og-customers-overview.png",
+                                "twitter:card": "summary",
+                                "og:type": "website",
+                                "twitter:title": "Domoのお客様",
+                                "be:sdk": "php_sdk_1.5.3",
+                                "og:title": "Domoのお客様",
+                                "twitter:creator": "@domotalk",
+                                "og:description": "Domoは、世界のトップ企業のための選り抜きのビジネスインテリジェンスソフトウェアです。Domoのケーススタディとお客様の声をお読みいただくと、Domoが選ばれる理由がお分かりいただけます。",
+                                "twitter:image": "https://web-assets.domo.com/miyagi/images/product/product-google-og-customers-overview.png",
+                                "be:norm_url": "https%3A%2F%2Fwww.domo.com%2Fjp%2Fcustomers",
+                                "fb:app_id": "228211194029279",
+                                "be:capsule_url": "https%3A%2F%2Fixfd1-api.bc0a.com%2Fapi%2Fixf%2F1.0.0%2Fget_capsule%2Ff00000000283357%2F809502709",
+                                "twitter:site": "@domotalk",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "Domoは、世界のトップ企業のための選り抜きのビジネスインテリジェンスソフトウェアです。Domoのケーススタディとお客様の声をお読みいただくと、Domoが選ばれる理由がお分かりいただけます。",
+                                "be:api_dt": "py_2023;pm_03;pd_22;ph_10;pmh_17;p_epoch:1679501841366",
+                                "be:mod_dt": "py_2023;pm_03;pd_22;ph_10;pmh_17;p_epoch:1679501841366",
+                                "be:timer": "42ms",
+                                "og:url": "https://www.domo.com/jp/customers",
+                                "be:orig_url": "https%3A%2F%2Fwww.domo.com%2Fjp%2Fcustomers",
+                                "be:diag": "Ser5n3ZB2QOnYoaKnpSub6YeTs2zthNR8tOyYTr7GbYj8IML0+cARqB4Sjs+RVjodS50BKaL0S4H1O0TUF8etY/6cWVO73aUI/X8s9ewkpHVPVAnpOlD2AZ+KY2hdTdYnO+cgEYBHMK8609XGzZXE1YM59CpgYkhDjiV+oYcU96myeEt6JNWcf7oCBFksghe0yuKbgXBLiS6vis9ihbTHngqkBGtSdG+TwQn5gszWlvNHtn8ceCA2Q1X5kLdMMq5s1MxXrjS8HtAp0+CgLJQy6dl7aQWFW/EyaNvg1JdrxFY99l2EaTyHdRAWqIglP1ePhx0iWkqEnyvAa4YcFfDM5EmehwBxHskm5j1GYVNswkZ+cJAJUaTZth9FCnLK389sRmICiBUSI6l20UuBuVP8SoWEWxz9jELL+H8Yo3cXf5EWSaotJvp1goTgK/l8oKAp9fjKXxjkF8YszZ3yAo+VrPfAMxQVdHIntYIYs/n/5iQXScdQ9lnQXaHKHLWPG/a4pjiZ8prWDA6RthoeALEb6OlladK4b84l8BFennulz8slkU06L434c8+qwJ6FVVZI/5CH9kUnTpCEviReAg/r54m1lIPAPy/e23DozGwuzD+eUOhsmijh/ZgjB8qL9U92dp5LU8MNsmJJYbeLprSZS6Lcys/qDEA3eCVUrg1BOEOe6R99LzQd3ufEJh/F8DSynxM3By2SmcNwYAI4V5w6HPu+V/onUr81Tq7W93qfg7rRpNSuzfXulKnswAHo1vI4WglKK2McuqdoyK5/xq15l3NVOtbgeeuJziHXnWhOW01b9kcC+L/3y7njBwL5Dy/MA7tBCTAamO/cxJd13WmxH/VqHTMUwajPX1ob3IekMjPrWh3lNnBzUWKtw8GQ5iW+0h3fgtNFc1/DupvderYcez/UQKAQauSYJddqELvUcug9IW/NUgPlhP4X8/7cCZ87TW1t12OV7JyH+cihF6Oy8+sqtptJ6RHrfcyOgZkRVAlf74Ezwia4X2u+8WnjtPt",
+                                "be:messages": "false",
+                                "twitter:account_id": "188352302"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://web-assets.domo.com/miyagi/images/product/product-google-og-customers-overview.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例 | FORCAS（フォーカス）｜営業DXソリューション｜企業 ...",
+                    "htmlTitle": "<b>導入事例</b> | FORCAS（フォーカス）｜営業DXソリューション｜<b>企業</b> ...",
+                    "link": "https://www.forcas.com/case/",
+                    "displayLink": "www.forcas.com",
+                    "snippet": "FORCASの導入事例や、ABMをはじめとした最新B2Bマーケティングの実践事例を紹介します。",
+                    "htmlSnippet": "FORCASの<b>導入事例</b>や、ABMをはじめとした最新B2Bマーケティングの実践事例を紹介します。",
+                    "cacheId": "y9_pE8j9XpMJ",
+                    "formattedUrl": "https://www.forcas.com/case/",
+                    "htmlFormattedUrl": "https://www.forcas.com/case/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmtMnhgR6Lu-rzwDDqXHc8ylEwkIa-bR7u8som7JAOF2iecKbcggEKgGBK",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.forcas.com/images/forcas-ogp-2023.jpg",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "FORCAS（フォーカス）｜営業DXソリューション｜企業データベースと顧客分析",
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=6.0",
+                                "og:title": "導入事例 | FORCAS（フォーカス）｜営業DXソリューション｜企業データベースと顧客分析",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.forcas.com/case/",
+                                "og:description": "FORCASの導入事例や、ABMをはじめとした最新B2Bマーケティングの実践事例を紹介します。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.forcas.com/images/forcas-ogp-2023.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例 | Databricks",
+                    "htmlTitle": "<b>導入事例</b> | Databricks",
+                    "link": "https://www.databricks.com/jp/customers",
+                    "displayLink": "www.databricks.com",
+                    "snippet": "あらゆる業界の企業が Databricks Lakehouse プラットフォームの有効性をどのように活用しているかをご覧ください。",
+                    "htmlSnippet": "あらゆる業界の<b>企業</b>が Databricks Lakehouse プラットフォームの有効性をどのように活用しているかをご覧ください。",
+                    "cacheId": "K81GwfX8xksJ",
+                    "formattedUrl": "https://www.databricks.com/jp/customers",
+                    "htmlFormattedUrl": "https://www.databricks.com/jp/customers",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5zrx3o_YqIJNNFFa7SyXnowcVHPpVvr9PrjYgOp9jQoDlkWmfFJX412Y",
+                                "width": "150",
+                                "height": "79"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "p:domain_verify": "e0c70fe08ba27888b8abee84a0f866b3",
+                                "image": "https://www.databricks.com/en-website-assets/static/og-databricks-58419d0d868b05ddb057830066961ebe.png",
+                                "og:image": "https://www.databricks.com/en-website-assets/static/og-databricks-58419d0d868b05ddb057830066961ebe.png",
+                                "article:published_time": "2022/12/08(Thu) - 18:46",
+                                "og:image:width": "1200",
+                                "og:site_name": "Databricks",
+                                "og:title": "導入事例 | Databricks",
+                                "og:image:height": "630",
+                                "title": "導入事例 | Databricks",
+                                "twitter:creator": "@databricks",
+                                "og:description": "あらゆる業界の企業が Databricks Lakehouse プラットフォームの有効性をどのように活用しているかをご覧ください。",
+                                "twitter:image": "https://www.databricks.com/en-website-assets/static/og-databricks-58419d0d868b05ddb057830066961ebe.png",
+                                "twitter:site": "@databricks",
+                                "article:modified_time": "2023/05/15(Mon) - 21:14",
+                                "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.databricks.com/jp/customers"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.databricks.com/en-website-assets/static/og-databricks-58419d0d868b05ddb057830066961ebe.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Google Workspace の導入事例",
+                    "htmlTitle": "Google Workspace の<b>導入事例</b>",
+                    "link": "https://workspace.google.co.jp/intl/ja/customers/",
+                    "displayLink": "workspace.google.co.jp",
+                    "snippet": "導入事例. さまざまな規模の企業において、Google Workspace が業務環境の改善や業務の効率化にどのように活用されているかご覧ください。",
+                    "htmlSnippet": "<b>導入事例</b>. さまざまな規模の<b>企業</b>において、Google Workspace が業務環境の改善や業務の効率化にどのように活用されているかご覧ください。",
+                    "cacheId": "6sl3VV85L68J",
+                    "formattedUrl": "https://workspace.google.co.jp/intl/ja/customers/",
+                    "htmlFormattedUrl": "https://workspace.google.co.jp/intl/ja/customers/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSS96BgqCCOo15RtXRDNm7ddFwLXp39tPsJ7J9u6T4YuqJb5KcFGXYRtpR0",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://lh3.googleusercontent.com/wZQCaQrSWMtfsI1l8JGBb8293-fl3CgugMKV6jo_NNdxYKOzMi28G-qaQktF7CXN4wOd8jWtruu75Kqd_65GweDZ2_x5PRXfL3o8PQ",
+                                "og:type": "website",
+                                "twitter:card": "summary",
+                                "twitter:title": "Google Workspace の導入事例",
+                                "msvalidate.01": "D93199779C0B5EE436644DE888FCC272",
+                                "twitter:url": "https://twitter.com/workspacejp",
+                                "og:title": "Google Workspace の導入事例",
+                                "og:description": "Google Workspace の導入事例では、お客様の声をご紹介します。お客様が Google Workspace ソフトウェア ソリューションで業務をどのように変革しているかご覧ください。",
+                                "twitter:creator": "@workspacejp",
+                                "twitter:image": "https://lh3.googleusercontent.com/wZQCaQrSWMtfsI1l8JGBb8293-fl3CgugMKV6jo_NNdxYKOzMi28G-qaQktF7CXN4wOd8jWtruu75Kqd_65GweDZ2_x5PRXfL3o8PQ",
+                                "viewport": "initial-scale=1, minimum-scale=1, width=device-width",
+                                "twitter:description": "Google Workspace の導入事例では、お客様の声をご紹介します。お客様が Google Workspace ソフトウェア ソリューションで業務をどのように変革しているかご覧ください。",
+                                "og:url": "https://workspace.google.co.jp/intl/ja/customers/"
+                            }
+                        ],
+                        "webpage": [
+                            {
+                                "image": "https://lh3.googleusercontent.com/wZQCaQrSWMtfsI1l8JGBb8293-fl3CgugMKV6jo_NNdxYKOzMi28G-qaQktF7CXN4wOd8jWtruu75Kqd_65GweDZ2_x5PRXfL3o8PQ",
+                                "name": "Google Workspace の導入事例",
+                                "description": "Google Workspace の導入事例では、お客様の声をご紹介します。お客様が Google Workspace ソフトウェア ソリューションで業務をどのように変革している..."
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://lh3.googleusercontent.com/wZQCaQrSWMtfsI1l8JGBb8293-fl3CgugMKV6jo_NNdxYKOzMi28G-qaQktF7CXN4wOd8jWtruu75Kqd_65GweDZ2_x5PRXfL3o8PQ"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "デジタル捺染機 導入企業・導入事例｜製品情報｜エプソン",
+                    "htmlTitle": "デジタル捺染機 導入<b>企業</b>・<b>導入事例</b>｜製品情報｜エプソン",
+                    "link": "https://www.epson.jp/products/textile/casestudy/",
+                    "displayLink": "www.epson.jp",
+                    "snippet": "デジタル捺染機Monna Lisaの導入企業・導入事例紹介ページです。匠の技と最先端印捺技術が融合した新世代捺染で、高品質な印捺を実現します。",
+                    "htmlSnippet": "デジタル捺染機Monna Lisaの導入<b>企業</b>・<b>導入事例</b>紹介ページです。匠の技と最先端印捺技術が融合した新世代捺染で、高品質な印捺を実現します。",
+                    "cacheId": "C-iUm9c_lSYJ",
+                    "formattedUrl": "https://www.epson.jp/products/textile/casestudy/",
+                    "htmlFormattedUrl": "https://www.epson.jp/products/textile/casestudy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_qwPT2n9fdtIwoVHJOzphUwQCiPC2kJUMtT7DOSrt2b45d4yS_L0vD08",
+                                "width": "200",
+                                "height": "200"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.epson.jp/images/ogp_img.png",
+                                "og:type": "article",
+                                "twitter:card": "summary",
+                                "og:site_name": "エプソン",
+                                "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=2,user-scalable=yes",
+                                "og:title": "デジタル捺染機 導入企業・導入事例｜製品情報｜エプソン",
+                                "og:url": "https://www.epson.jp/products/textile/casestudy/",
+                                "og:description": "デジタル捺染機Monna Lisaの導入企業・導入事例紹介ページです。匠の技と最先端印捺技術が融合した新世代捺染で、高品質な印捺を実現します。日本国内のEPSON（エプソン）製品に関する公式サイト。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.epson.jp/images/ogp_img.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "https://www.epson.jp/",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "item": "製品情報",
+                                "name": "製品情報",
+                                "position": "2"
+                            },
+                            {
+                                "item": "デジタル捺染機",
+                                "name": "デジタル捺染機",
+                                "position": "3"
+                            },
+                            {
+                                "name": "導入企業・導入事例",
+                                "position": "4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "導入事例 | ヤマト運輸のサービスを導入された企業様の事例をご紹介",
+                    "htmlTitle": "<b>導入事例</b> | ヤマト運輸のサービスを導入された<b>企業</b>様の事例をご紹介",
+                    "link": "https://business.kuronekoyamato.co.jp/case/",
+                    "displayLink": "business.kuronekoyamato.co.jp",
+                    "snippet": "ヤマト運輸のサービスを導入された企業様に、導入前の課題や導入によって得られた効果について、お話をうかがいました。",
+                    "htmlSnippet": "ヤマト運輸のサービスを<b>導入</b>された<b>企業</b>様に、<b>導入</b>前の課題や<b>導入</b>によって得られた効果について、お話をうかがいました。",
+                    "cacheId": "nNYffNcXIzkJ",
+                    "formattedUrl": "https://business.kuronekoyamato.co.jp/case/",
+                    "htmlFormattedUrl": "https://business.kuronekoyamato.co.jp/case/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQS84rFIMB-TD_MwvYMtmdunfjINrdTcSc2RUUClgE-Aij_Nj0_J7fi5aY",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://business.kuronekoyamato.co.jp/assets/img/ogimage.png",
+                                "og:type": "article",
+                                "og:site_name": "ヤマト運輸株式会社",
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=5.0",
+                                "og:title": "導入事例 | ヤマト運輸のサービスを導入された企業様の事例をご紹介 | ヤマト運輸",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://business.kuronekoyamato.co.jp/case/",
+                                "og:description": "ヤマト運輸のサービスを導入された企業様に、導入前の課題や導入によって得られた効果について、お話をうかがいました。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://business.kuronekoyamato.co.jp/assets/img/ogimage.png"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

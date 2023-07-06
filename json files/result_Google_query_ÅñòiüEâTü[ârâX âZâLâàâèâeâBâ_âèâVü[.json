@@ -1,0 +1,429 @@
+{
+    "query": "商品・サービス セキュリティポリシー",
+    "links": [
+        [
+            "https://jp.ricoh.com/security/management/outline",
+            "https://group.ntt/jp/g_policy/",
+            "https://pxvalue.com/securitypolicy/",
+            "https://group.kadokawa.co.jp/security_policy/",
+            "https://www.kcs.co.jp/securitypolicy/",
+            "https://www.netztochigi.co.jp/corporate/infosec",
+            "https://www.kcs.co.jp/service/datacenter/detail_2966.html",
+            "https://www.admatechs.co.jp/security.html",
+            "https://www.kcs.co.jp/managementpolicy/",
+            "https://www.aoyoshi.co.jp/security_policy/"
+        ]
+    ],
+    "snapshot_ymd": "D2023-06-23",
+    "snapshot_timestamp": "D2023-06-23T01-28-57",
+    "responses": [
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "request": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス セキュリティポリシー",
+                        "totalResults": "65300000",
+                        "searchTerms": "商品・サービス セキュリティポリシー",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス セキュリティポリシー",
+                        "totalResults": "65300000",
+                        "searchTerms": "商品・サービス セキュリティポリシー",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.414119,
+                "formattedSearchTime": "0.41",
+                "totalResults": "65300000",
+                "formattedTotalResults": "65,300,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "情報セキュリティ全体像 | リコーグループ 企業・IR | RICOH",
+                    "htmlTitle": "情報<b>セキュリティ</b>全体像 | リコーグループ 企業・IR | RICOH",
+                    "link": "https://jp.ricoh.com/security/management/outline",
+                    "displayLink": "jp.ricoh.com",
+                    "snippet": "各組織は、保有する情報資産の価値に応じたセキュリティポリシーを策定すると共に、 ... 自らが活用し、その有用性を確認するとともに商品・サービスの改良に反映し、 ...",
+                    "htmlSnippet": "各組織は、保有する情報資産の価値に応じた<b>セキュリティポリシー</b>を策定すると共に、 ... 自らが活用し、その有用性を確認するとともに<b>商品</b>・<b>サービス</b>の改良に反映し、&nbsp;...",
+                    "cacheId": "8an5geX534UJ",
+                    "formattedUrl": "https://jp.ricoh.com/security/management/outline",
+                    "htmlFormattedUrl": "https://jp.ricoh.com/security/management/outline",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4fgS697cM2TFT_qyzrcsvRHtreBsXvXN9415Px8Tc03GYFBWa-QCN-bg",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "vicurrentdatetime": "638231262341197080",
+                                "og:image": "https://www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/og-image.gif",
+                                "og:type": "website",
+                                "viewport": "width=device-width,initial-scale=1.0",
+                                "og:title": "情報セキュリティ全体像 | リコーグループ 企業・IR | リコー",
+                                "og:url": "https://jp.ricoh.com/security/management/outline",
+                                "og:description": "【リコー公式サイト】リコーグループは、社会全体から成長・発展を望まれる企業を目指すとともに、経営のあらゆる側面からグローバルな視点で「企業の社会的責任」を果たすことを宣言しています。リコーグループの考える情報セキュリティの姿と、情報セキュリティマネジメントの取り組みをご紹介します。",
+                                "og:country-name": "japan",
+                                "virtualfolder": "/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/og-image.gif"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "NTTグループ情報セキュリティポリシー | NTT",
+                    "htmlTitle": "NTTグループ情報<b>セキュリティポリシー</b> | NTT",
+                    "link": "https://group.ntt/jp/g_policy/",
+                    "displayLink": "group.ntt",
+                    "snippet": "デジタル経済・リモート社会における情報セキュリティの重要性を深く認識し、 安心・安全で便利なICT関連サービス環境の構築に努め、 情報セキュリティの確保に ...",
+                    "htmlSnippet": "デジタル経済・リモート社会における情報<b>セキュリティ</b>の重要性を深く認識し、 安心・安全で便利なICT関連<b>サービス</b>環境の構築に努め、 情報<b>セキュリティ</b>の確保に&nbsp;...",
+                    "cacheId": "szM-G8nOekkJ",
+                    "formattedUrl": "https://group.ntt/jp/g_policy/",
+                    "htmlFormattedUrl": "https://group.ntt/jp/g_policy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHDETN9XSCp554D_16iDU7Q4LyllzE9dLJHOLtOlhIleo712GdzpNvRo0",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://group.ntt/common/img/ogp.jpg",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "NTT | 日本電信電話株式会社",
+                                "viewport": "width=device-width",
+                                "og:title": "NTTグループ情報セキュリティポリシー | NTT",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://group.ntt/jp/g_policy/",
+                                "og:description": "NTTの公式サイトです。NTTグループ情報セキュリティポリシーについて掲載してます。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://group.ntt/common/img/ogp.jpg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "トップページ",
+                                "position": "1"
+                            },
+                            {
+                                "name": "NTTグループ情報セキュリティポリシー",
+                                "position": "2"
+                            },
+                            {
+                                "item": "トップページ",
+                                "position": "1"
+                            },
+                            {
+                                "name": "NTTグループ情報セキュリティポリシー",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "情報セキュリティポリシー | 自社商品・サービスのPRができる ...",
+                    "htmlTitle": "情報<b>セキュリティポリシー</b> | 自社<b>商品</b>・<b>サービス</b>のPRができる ...",
+                    "link": "https://pxvalue.com/securitypolicy/",
+                    "displayLink": "pxvalue.com",
+                    "snippet": "交換.jpの情報セキュリティポリシーページです。交換.jpは有名カード会社などのポイント保有しているユーザー様と商品をPRしたい企業様をつなぐプラットフォームです。",
+                    "htmlSnippet": "交換.jpの情報<b>セキュリティポリシー</b>ページです。交換.jpは有名カード会社などのポイント保有しているユーザー様と<b>商品</b>をPRしたい企業様をつなぐプラットフォームです。",
+                    "cacheId": "qeaB25qoTs0J",
+                    "formattedUrl": "https://pxvalue.com/securitypolicy/",
+                    "htmlFormattedUrl": "https://pxvalue.com/securitypolicy/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "og:type": "article",
+                                "article:published_time": "2022-08-13T04:15:26+00:00",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "情報セキュリティポリシー | 自社商品・サービスのPRができるプラットフォーム | 交換.jp",
+                                "og:site_name": "交換.jp | 自社商品・サービスのPRができるプラットフォーム",
+                                "article:modified_time": "2022-09-16T06:23:10+00:00",
+                                "viewport": "width=device-width",
+                                "twitter:description": "交換.jpの情報セキュリティポリシーページです。交換.jpは有名カード会社などのポイント保有しているユーザー様と商品をPRしたい企業様をつなぐプラットフォームです。商品やサービスが申し込まれたら費用が発生する”成果報酬”型の料金体系となっていますので、実質のリスクがゼロの状態で商品PRをいただけます。",
+                                "og:title": "情報セキュリティポリシー | 自社商品・サービスのPRができるプラットフォーム | 交換.jp",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://pxvalue.com/securitypolicy/",
+                                "og:description": "交換.jpの情報セキュリティポリシーページです。交換.jpは有名カード会社などのポイント保有しているユーザー様と商品をPRしたい企業様をつなぐプラットフォームです。商品やサービスが申し込まれたら費用が発生する”成果報酬”型の料金体系となっていますので、実質のリスクがゼロの状態で商品PRをいただけます。"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "情報セキュリティポリシー | KADOKAWAグループ ポータルサイト",
+                    "htmlTitle": "情報<b>セキュリティポリシー</b> | KADOKAWAグループ ポータルサイト",
+                    "link": "https://group.kadokawa.co.jp/security_policy/",
+                    "displayLink": "group.kadokawa.co.jp",
+                    "snippet": "またサービス内容や環境に適合するよう、継続的に規定類の見直しを行い、改善に努めます。 3. 情報セキュリティを確保するシステムの実現. 情報資産に対する不正アクセス、 ...",
+                    "htmlSnippet": "また<b>サービス</b>内容や環境に適合するよう、継続的に規定類の見直しを行い、改善に努めます。 3. 情報<b>セキュリティ</b>を確保するシステムの実現. 情報資産に対する不正アクセス、&nbsp;...",
+                    "cacheId": "P5ipxpUHWrMJ",
+                    "formattedUrl": "https://group.kadokawa.co.jp/security_policy/",
+                    "htmlFormattedUrl": "https://group.kadokawa.co.jp/security_policy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmINPappRrMfHXRm3DS0V_jK6cpFua-RkoG798uwJyYs5-HRgZfKh55H_T",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://group.kadokawa.co.jp/archives/001/202301/adde20686e4b7034f9f194140da0ed4bbccc6a6edb5e7765341ae448152b177d.jpg",
+                                "og:type": "article",
+                                "msapplication-tap-highlight": "no",
+                                "og:site_name": "KADOKAWAグループ ポータルサイト",
+                                "viewport": "width=device-width,initial-scale=1",
+                                "og:title": "情報セキュリティポリシー | KADOKAWAグループ ポータルサイト",
+                                "csrf-token": "defd1e50700573bebca9168f275c02c427fe36e03561b45b2d5f33d036404d7f",
+                                "og:url": "https://group.kadokawa.co.jp/security_policy/",
+                                "og:description": "KADOKAWAの情報セキュリティポリシーとなります。",
+                                "format-detection": "telephone=no,address=no,email=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://group.kadokawa.co.jp/archives/001/202301/adde20686e4b7034f9f194140da0ed4bbccc6a6edb5e7765341ae448152b177d.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "情報セキュリティポリシー さくらケーシーエス",
+                    "htmlTitle": "情報<b>セキュリティポリシー</b>  さくらケーシーエス",
+                    "link": "https://www.kcs.co.jp/securitypolicy/",
+                    "displayLink": "www.kcs.co.jp",
+                    "snippet": "商品・サービス · イベント・セミナー · サステナビリティ ... 情報セキュリティポリシーの対象: 当社が保護の対象とする情報資産は、当社の事業活動において入手した ...",
+                    "htmlSnippet": "<b>商品</b>・<b>サービス</b> &middot; イベント・セミナー &middot; サステナビリティ ... 情報<b>セキュリティポリシー</b>の対象: 当社が保護の対象とする情報資産は、当社の事業活動において入手した&nbsp;...",
+                    "cacheId": "cmWpwgEdQHoJ",
+                    "formattedUrl": "https://www.kcs.co.jp/securitypolicy/",
+                    "htmlFormattedUrl": "https://www.kcs.co.jp/securitypolicy/"
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "情報セキュリティポリシー | ネッツトヨタ栃木",
+                    "htmlTitle": "情報<b>セキュリティポリシー</b> | ネッツトヨタ栃木",
+                    "link": "https://www.netztochigi.co.jp/corporate/infosec",
+                    "displayLink": "www.netztochigi.co.jp",
+                    "snippet": "（3）安全な商品・サービスの提供当社は、商品・サービスの開発・設計・製造等、自社の事業活動において、情報セキュリティの対策を講じることにより、お客様や社会に ...",
+                    "htmlSnippet": "（3）安全な<b>商品</b>・<b>サービス</b>の提供当社は、<b>商品</b>・<b>サービス</b>の開発・設計・製造等、自社の事業活動において、情報<b>セキュリティ</b>の対策を講じることにより、お客様や社会に&nbsp;...",
+                    "cacheId": "7Nw_U3QNlTcJ",
+                    "formattedUrl": "https://www.netztochigi.co.jp/corporate/infosec",
+                    "htmlFormattedUrl": "https://www.netztochigi.co.jp/corporate/infosec",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLJJSrNDk3ILIl3AZvpwv5PjsrmDKRvCSWk9ZyzI7L2DnjujhZHr5zMGYh",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.netztochigi.co.jp/file/cms/43201/3980691/image.png",
+                                "og:type": "website",
+                                "og:site_name": "ネッツトヨタ栃木株式会社",
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+                                "og:title": "情報セキュリティポリシー | ネッツトヨタ栃木",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.netztochigi.co.jp/corporate/infosec",
+                                "og:description": "ページ説明文",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.netztochigi.co.jp/file/cms/43201/3980691/image.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "トップページ",
+                                "name": "トップページ",
+                                "position": "1"
+                            },
+                            {
+                                "item": "会社情報・採用情報",
+                                "name": "会社情報・採用情報",
+                                "position": "2"
+                            },
+                            {
+                                "name": "情報セキュリティポリシー",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "さくらUTOPIAゲートウェイ プリント発送 | 商品・サービス",
+                    "htmlTitle": "さくらUTOPIAゲートウェイ プリント発送 | <b>商品</b>・<b>サービス</b>",
+                    "link": "https://www.kcs.co.jp/service/datacenter/detail_2966.html",
+                    "displayLink": "www.kcs.co.jp",
+                    "snippet": "安心の品質と高いセキュリティ. データ編集からプリント、各種加工、発送までをワンストップで行います。 お預かりするデータは高セキュリティ環境において最大 ...",
+                    "htmlSnippet": "安心の品質と高い<b>セキュリティ</b>. データ編集からプリント、各種加工、発送までをワンストップで行います。 お預かりするデータは高<b>セキュリティ</b>環境において最大&nbsp;...",
+                    "cacheId": "j_wY-FWoZMMJ",
+                    "formattedUrl": "https://www.kcs.co.jp/service/datacenter/detail_2966.html",
+                    "htmlFormattedUrl": "https://www.kcs.co.jp/service/datacenter/detail_2966.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQju1qHK_gzGnP57RB7Iap0vxGQ5qneu4qKFvI2WrlLR8wrUIdm37ANKZ5e",
+                                "width": "288",
+                                "height": "175"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.kcs.co.jp/getimg.php?pn=page&code=397182&imgname=pag_image1"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "情報セキュリティポリシー | 株式会社アドマテックス",
+                    "htmlTitle": "情報<b>セキュリティポリシー</b> | 株式会社アドマテックス",
+                    "link": "https://www.admatechs.co.jp/security.html",
+                    "displayLink": "www.admatechs.co.jp",
+                    "snippet": "当社は、情報資産を適切に管理・保護することにより、競争力及び事業継続性の確保など安定した経営基盤の維持に努める。 【 3.安全な商品・サービスの提供 】: 当社は、 ...",
+                    "htmlSnippet": "当社は、情報資産を適切に管理・保護することにより、競争力及び事業継続性の確保など安定した経営基盤の維持に努める。 【 3.安全な<b>商品</b>・<b>サービス</b>の提供 】: 当社は、&nbsp;...",
+                    "cacheId": "no551sfJEfIJ",
+                    "formattedUrl": "https://www.admatechs.co.jp/security.html",
+                    "htmlFormattedUrl": "https://www.admatechs.co.jp/security.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKLAqM0vsIam5HtmramjKyFJGw6djCwhOvvui2dtnXTin_WF815RTrSVpP",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.admatechs.co.jp/common/img/img_btn_gotop.svg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "ITサービスマネジメントポリシー さくらケーシーエス",
+                    "htmlTitle": "IT<b>サービス</b>マネジメント<b>ポリシー</b>  さくらケーシーエス",
+                    "link": "https://www.kcs.co.jp/managementpolicy/",
+                    "displayLink": "www.kcs.co.jp",
+                    "snippet": "当社は、別途定める情報セキュリティ基本方針に則り、ITサービスに関わるセキュリティを確保いたします。 制定日：2012年3月1日改定日：2018年4月1日. 株式会社さくら ...",
+                    "htmlSnippet": "当社は、別途定める情報<b>セキュリティ</b>基本方針に則り、IT<b>サービス</b>に関わる<b>セキュリティ</b>を確保いたします。 制定日：2012年3月1日改定日：2018年4月1日. 株式会社さくら&nbsp;...",
+                    "cacheId": "n4HrBZo0C0QJ",
+                    "formattedUrl": "https://www.kcs.co.jp/managementpolicy/",
+                    "htmlFormattedUrl": "https://www.kcs.co.jp/managementpolicy/"
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "セキュリティポリシー",
+                    "htmlTitle": "<b>セキュリティポリシー</b>",
+                    "link": "https://www.aoyoshi.co.jp/security_policy/",
+                    "displayLink": "www.aoyoshi.co.jp",
+                    "snippet": "株式会社青芳（以下、当社）は、当社が記録・管理・保管するすべての情報資産を、事故・災害・犯罪等の脅威から守り、お客様ならびに社会の信頼に応えるべく、以下の方針に ...",
+                    "htmlSnippet": "株式会社青芳（以下、当社）は、当社が記録・管理・保管するすべての情報資産を、事故・災害・犯罪等の脅威から守り、お客様ならびに社会の信頼に応えるべく、以下の方針に&nbsp;...",
+                    "cacheId": "FbcnKFcdqWoJ",
+                    "formattedUrl": "https://www.aoyoshi.co.jp/security_policy/",
+                    "htmlFormattedUrl": "https://www.aoyoshi.co.jp/security_policy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoF3ueY9StL6pFZUu77PTjRHOHWQS_dm-nEsE_Y6Pkj59szFNLJISLEUrd",
+                                "width": "375",
+                                "height": "134"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:type": "article",
+                                "og:site_name": "株式会社 青芳",
+                                "viewport": "width=device-width,initial-scale=1.0",
+                                "og:title": "セキュリティポリシー",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.aoyoshi.co.jp/security_policy/",
+                                "msapplication-tileimage": "https://www.aoyoshi.co.jp/company/wp-content/uploads/2022/12/cropped-favi-270x270.gif",
+                                "og:description": "株式会社青芳　情報セキュリティ基本方針\n\n\n\n株式会社青芳（以下、当社）は、当社が記録・管理・保管するすべての情報資産を、事故・災害・犯罪等の脅威から守り、お客様ならびに社会の信頼に応えるべく、以下の方針に基づき全社で情報セキュリティに取"
+                            }
+                        ],
+                        "creativework": [
+                            {
+                                "text": "株式会社青芳 情報セキュリティ基本方針 株式会社青芳（以下、当社）は、当社が記録・管理・保管するすべての情報資産を、事故・災害・犯罪等...",
+                                "headline": "セキュリティポリシー"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.aoyoshi.co.jp/company/wp-content/uploads/2022/11/logo.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "name": "セキュリティポリシー",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

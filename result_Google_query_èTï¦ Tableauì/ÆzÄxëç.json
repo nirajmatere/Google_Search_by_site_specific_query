@@ -1,0 +1,1577 @@
+{
+    "query": "企業 Tableau構築支援",
+    "links": [
+        [
+            "https://www.tableau.com/ja-jp/partners",
+            "https://data-viz-lab.com/tableausupport",
+            "https://www.tableau.com/ja-jp/pricing/teams-orgs",
+            "https://www.principle-c.com/service/visualze-by-tableau/",
+            "https://help.tableau.com/current/blueprint/ja-jp/bp_peer_to_peer_assistance.htm",
+            "https://www.intage-technosphere.co.jp/pickup/tableau/",
+            "https://help.tableau.com/current/guides/enterprise-deployment/ja-jp/edg_intro.htm",
+            "https://www.keywalker.co.jp/tableau/tableau_consulting.html",
+            "https://persol-innovation.co.jp/news/2023/0104/",
+            "https://www.nttdata-bizsys.co.jp/imforcemedia/insight/004/"
+        ],
+        [
+            "https://www.glassdoor.com/Job/tokyo-tableau-jobs-SRCH_IL.0,5_IC2851580_KO6,13.htm",
+            "https://www.nec-solutioninnovators.co.jp/sl/tableau/menu.html",
+            "https://prtimes.jp/main/html/rd/p/000000013.000013637.html",
+            "https://frogwell.co.jp/tableau/",
+            "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3008066733/",
+            "https://kaho-enterprise.co.jp/",
+            "https://www.qsolcorp.co.jp/news/14/",
+            "https://www.webtanguide.jp/reports/s0085/",
+            "https://www.hitachi-solutions.co.jp/tableau/",
+            "https://en-gage.net/nextfortune_career/work_5233327/?via_recruit_page=1"
+        ],
+        [
+            "https://jp.indeed.com/q-tableau-%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88-%E6%B1%82%E4%BA%BA.html",
+            "https://presswalker.jp/press/6629",
+            "https://kb.tableau.com/articles/howto/getting-started-with-the-customer-portal?lang=ja-jp",
+            "https://hcproduce.co.jp/pages/iso-30414%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E8%AA%8D%E8%A8%BC%E8%AC%9B%E5%BA%A7%EF%BC%94%E6%9C%9F%E7%94%9F-23",
+            "https://web-kaizen.co.jp/2017/09/26/%E3%83%93%E3%83%83%E3%82%B0%E3%83%87%E3%83%BC%E3%82%BF%E8%A7%A3%E6%9E%90%E5%9F%BA%E7%9B%A4%E6%A7%8B%E7%AF%89%EF%BC%86%E3%83%87%E3%83%BC%E3%82%BF%E8%A7%A3%E6%9E%90/",
+            "https://atsumel.jp/service/tableau",
+            "https://pig-data.jp/service/tableau_customize/",
+            "https://wakuwaku.cresco.co.jp/solution/tableau-start-package",
+            "https://www.e-stat.go.jp/bigdataportal/case?area=kanto",
+            "http://www.e-stat.go.jp/bigdataportal/case/164"
+        ]
+    ],
+    "snapshot_ymd": "D2023-06-23",
+    "snapshot_timestamp": "D2023-06-23T01-26-39",
+    "responses": [
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "request": [
+                    {
+                        "title": "Google Custom Search - 企業 Tableau構築支援",
+                        "totalResults": "157000",
+                        "searchTerms": "企業 Tableau構築支援",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 企業 Tableau構築支援",
+                        "totalResults": "157000",
+                        "searchTerms": "企業 Tableau構築支援",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.249232,
+                "formattedSearchTime": "0.25",
+                "totalResults": "157000",
+                "formattedTotalResults": "157,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "Tableau（タブロー）のパートナー｜Tableau",
+                    "htmlTitle": "<b>Tableau</b>（<b>タブロー</b>）のパートナー｜<b>Tableau</b>",
+                    "link": "https://www.tableau.com/ja-jp/partners",
+                    "displayLink": "www.tableau.com",
+                    "snippet": "データにおける最も難しい課題の解決に必要な支援を得る ... Tableau プラットフォーム上でのカスタマイズされたソリューションの構築をサポートし、お客様が Tableau ...",
+                    "htmlSnippet": "データにおける最も難しい課題の解決に必要な<b>支援</b>を得る ... <b>Tableau</b> プラットフォーム上でのカスタマイズされたソリューションの<b>構築</b>をサポートし、お客様が <b>Tableau</b>&nbsp;...",
+                    "cacheId": "5oepFFOJRqgJ",
+                    "formattedUrl": "https://www.tableau.com/ja-jp/partners",
+                    "htmlFormattedUrl": "https://www.<b>tableau</b>.com/ja-jp/partners",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKph_3AkAWlCUNLL8m802c-SIlD1IfXFEYyUQ-JtIUexyVLJ2FQI9PKvfp",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "WebPage": [
+                            {
+                                "name": "Tableau（タブロー）のパートナー｜Tableau"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:type": "article",
+                                "twitter:card": "summary",
+                                "twitter:title": "Tableau（タブロー）のパートナー｜Tableau",
+                                "datamodel:campaign_topic": "dm_campaign_topic_partner_enablement",
+                                "og:site_name": "Tableau",
+                                "handheldfriendly": "true",
+                                "twitter:url": "https://www.tableau.com/ja-jp/partners",
+                                "datamodel:audience_role": "dm_audience_role_partner",
+                                "og:title": "Tableau（タブロー）のパートナー｜Tableau",
+                                "datamodel:department": "dm_department_channel_partner",
+                                "twitter:creator": "@tableau",
+                                "datamodel:language": "ja-JP",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "mobileoptimized": "width",
+                                "breadcrumb_l1_text": "Tableau（タブロー）のパートナー｜Tableau",
+                                "og:url": "https://www.tableau.com/ja-jp/partners",
+                                "datamodel:industry": "dm_industry_partner"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.tableau.com/sites/default/files/3_free_now_stock_image_1_3.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Tableau（タブロー）導入支援サービス",
+                    "htmlTitle": "<b>Tableau</b>（<b>タブロー</b>）導入<b>支援</b>サービス",
+                    "link": "https://data-viz-lab.com/tableausupport",
+                    "displayLink": "data-viz-lab.com",
+                    "snippet": "具体的に以下のお悩みをお持ちの企業様へ支援を行なっています。 ... 導入前検証（PoC）/サンプルダッシュボード作成支援; Tableau Server導入/構築支援 ...",
+                    "htmlSnippet": "具体的に以下のお悩みをお持ちの<b>企業</b>様へ<b>支援</b>を行なっています。 ... 導入前検証（PoC）/サンプルダッシュボード作成<b>支援</b>; <b>Tableau</b> Server導入/<b>構築支援</b>&nbsp;...",
+                    "cacheId": "8XfSf3lRbRYJ",
+                    "formattedUrl": "https://data-viz-lab.com/tableausupport",
+                    "htmlFormattedUrl": "https://data-viz-lab.com/<b>tableau</b>support",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR202HdJhdpRv2V-vr9r8jDYstuJ3gMXTMBzUA8AHp4e4SWARg9fsIXRw",
+                                "width": "492",
+                                "height": "102"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://data-viz-lab.com/wp-content/uploads/2021/06/TableauLogo_RGB.png",
+                                "twitter:card": "summary_large_image",
+                                "og:type": "article",
+                                "og:site_name": "DATA VIZ LAB|データビズラボ",
+                                "og:title": "Tableau（タブロー）導入支援サービス",
+                                "msapplication-tileimage": "https://data-viz-lab.com/wp-content/uploads/2021/03/favicon.ico",
+                                "og:description": "データビズラボが提供する高いクオリティのTableau導入支援サービスをご紹介します。",
+                                "facebook-domain-verification": "2dwsoikt2bv6mmgnvwn8goqmyvvdws",
+                                "fb:app_id": "2760146377406724",
+                                "twitter:site": "@DataVizLabsPath",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:locale": "ja_JP",
+                                "fb:admins": "100034537481926",
+                                "og:url": "https://data-viz-lab.com/tableausupport"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://data-viz-lab.com/wp-content/uploads/2021/06/TableauLogo_RGB.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "HOME",
+                                "name": "HOME",
+                                "position": "1"
+                            },
+                            {
+                                "item": "Tableau（タブロー）導入支援サービス",
+                                "name": "Tableau（タブロー）導入支援サービス",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Tableau の価格 (チーム & 組織向け)",
+                    "htmlTitle": "<b>Tableau</b> の価格 (チーム &amp; 組織向け)",
+                    "link": "https://www.tableau.com/ja-jp/pricing/teams-orgs",
+                    "displayLink": "www.tableau.com",
+                    "snippet": "エンドツーエンドの分析ワークフローを支援するパワフルな Tableau 製品 ... また、企業向けの価格やその他の情報については、営業チームにお問い合わせください。",
+                    "htmlSnippet": "エンドツーエンドの分析ワークフローを<b>支援</b>するパワフルな <b>Tableau</b> 製品 ... また、<b>企業</b>向けの価格やその他の情報については、営業チームにお問い合わせください。",
+                    "cacheId": "B-9D0tJKWgAJ",
+                    "formattedUrl": "https://www.tableau.com/ja-jp/pricing/teams-orgs",
+                    "htmlFormattedUrl": "https://www.<b>tableau</b>.com/ja-jp/pricing/teams-orgs",
+                    "pagemap": {
+                        "WebPage": [
+                            {
+                                "name": "データ活用を支援する価格体系"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "breadcrumb_l1_url": "https://www.tableau.com/ja-jp/pricing",
+                                "og:type": "article",
+                                "twitter:card": "summary",
+                                "twitter:title": "データ活用を支援する価格体系",
+                                "breadcrumb_l2_text": "データ活用を支援する価格体系",
+                                "og:site_name": "Tableau",
+                                "handheldfriendly": "true",
+                                "twitter:url": "https://www.tableau.com/ja-jp/pricing/teams-orgs",
+                                "og:title": "データ活用を支援する価格体系",
+                                "twitter:creator": "@tableau",
+                                "datamodel:language": "ja-JP",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "mobileoptimized": "width",
+                                "datamodel:promo_campaign_id": "dm_promo_campaign_id_role_based_pricing",
+                                "breadcrumb_l1_text": "価格",
+                                "og:url": "https://www.tableau.com/ja-jp/pricing/teams-orgs"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Tableauコンサルティング／ダッシュボード導入支援 | 株式会社 ...",
+                    "htmlTitle": "<b>Tableau</b>コンサルティング／ダッシュボード導入<b>支援</b> | 株式会社 ...",
+                    "link": "https://www.principle-c.com/service/visualze-by-tableau/",
+                    "displayLink": "www.principle-c.com",
+                    "snippet": "Tableau導入支援 やダッシュボード作成だけでなく、データの精査、統合、加工、 ... 多くの企業様がプリンシプルのTableauコンサルティング／ダッシュボード導入支援 ...",
+                    "htmlSnippet": "<b>Tableau</b>導入<b>支援</b> やダッシュボード作成だけでなく、データの精査、統合、加工、 ... 多くの<b>企業</b>様がプリンシプルの<b>Tableau</b>コンサルティング／ダッシュボード導入<b>支援</b>&nbsp;...",
+                    "cacheId": "WAkBsjUfcmMJ",
+                    "formattedUrl": "https://www.principle-c.com/service/visualze-by-tableau/",
+                    "htmlFormattedUrl": "https://www.principle-c.com/service/visualze-by-<b>tableau</b>/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSr6cc6QcTHllg1ubFNRUX-OhEFr3CV_NBaCAA-Co1Vhp7yz2iCM_5ctk8",
+                                "width": "320",
+                                "height": "157"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.principle-c.com/wp_cp/wp-content/uploads/2021/02/eyecatch-visualze-by-tableau-scaled.jpg",
+                                "og:type": "article",
+                                "og:image:width": "2560",
+                                "article:published_time": "2021-01-29T01:16:20+00:00",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "Tableauコンサルティング／ダッシュボード導入支援 | 株式会社プリンシプル",
+                                "og:site_name": "株式会社プリンシプル",
+                                "handheldfriendly": "True",
+                                "og:title": "Tableauコンサルティング／ダッシュボード導入支援 | 株式会社プリンシプル",
+                                "og:image:height": "1261",
+                                "google": "nositelinkssearchbox",
+                                "msapplication-tileimage": "https://www.principle-c.com/wp_cp/wp-content/uploads/2017/11/cropped-cropped-logo-270x270.png",
+                                "og:description": "プリンシプルのTableauコンサルティング／ダッシュボード導入支援は、高いスキルを持ったTableauコンサルタントがワンストップでデータ活用を支援します。 Tableau導入支援 やダッシュボード作成だけでなく、データの精査、統合、加工、データマートの設計、レポートの社内連携、データ更新の自動化など全面的に支援します。",
+                                "og:image:secure_url": "https://www.principle-c.com/wp_cp/wp-content/uploads/2021/02/eyecatch-visualze-by-tableau-scaled.jpg",
+                                "twitter:image": "https://www.principle-c.com/wp_cp/wp-content/uploads/2021/02/eyecatch-visualze-by-tableau-scaled.jpg",
+                                "article:modified_time": "2022-06-17T02:42:34+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "プリンシプルのTableauコンサルティング／ダッシュボード導入支援は、高いスキルを持ったTableauコンサルタントがワンストップでデータ活用を支援します。 Tableau導入支援 やダッシュボード作成だけでなく、データの精査、統合、加工、データマートの設計、レポートの社内連携、データ更新の自動化など全面的に支援します。",
+                                "mobileoptimized": "320",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.principle-c.com/service/visualze-by-tableau/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.principle-c.com/wp_cp/wp-content/uploads/2021/02/eyecatch-visualze-by-tableau-scaled.jpg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "TOP",
+                                "name": "TOP",
+                                "position": "1"
+                            },
+                            {
+                                "item": "サービス",
+                                "name": "サービス",
+                                "position": "2"
+                            },
+                            {
+                                "name": "Tableauコンサルティング／ダッシュボード導入支援",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "1 対 1 のサポート - Tableau",
+                    "htmlTitle": "1 対 1 のサポート - <b>Tableau</b>",
+                    "link": "https://help.tableau.com/current/blueprint/ja-jp/bp_peer_to_peer_assistance.htm",
+                    "displayLink": "help.tableau.com",
+                    "snippet": "... 能力を高めるためのこのプログラムや Tableau 製品に対しても信頼が構築されます。 ... スポンサー: 組織で Data Doctor を支えて広めるとともに有志募集の支援を ...",
+                    "htmlSnippet": "... 能力を高めるためのこのプログラムや <b>Tableau</b> 製品に対しても信頼が<b>構築</b>されます。 ... スポンサー: 組織で Data Doctor を支えて広めるとともに有志募集の<b>支援</b>を&nbsp;...",
+                    "cacheId": "8Rgo9nK1AmsJ",
+                    "formattedUrl": "https://help.tableau.com/current/blueprint/.../bp_peer_to_peer_assistance.htm",
+                    "htmlFormattedUrl": "https://help.<b>tableau</b>.com/current/blueprint/.../bp_peer_to_peer_assistance.htm",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgIQCJA1qkHCoHagZE2euH0KSVSJGZ-fgDR3OKB1u6H0iUHawLFGSRAxw",
+                                "width": "492",
+                                "height": "102"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "breadcrumb_l1_url": "http://www.tableau.com/ja-jp/support",
+                                "og:image": "https://help.tableau.com/tableau_logo.png",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "1 対 1 のサポート",
+                                "subsection": "Product Help",
+                                "breadcrumb_l2_text": "Product Help",
+                                "og:title": "1 対 1 のサポート",
+                                "section": "Support",
+                                "og:description": "1 対 1 のサポートとは、ユーザーが Tableau の知識を他のユーザーと共有し移転することを促すものです。これにより、ユーザーコミュニティは組織全体の知識を活用できるようになります。1 対 1 のサポートプログラムは、組織内での人材の育成と共有の奨励に役立ちます。1 対 1 のサポートプログラムで迅速に知識を共有し技術スキルを活用すると、ユーザー間でも、そしてユーザーの能力を高めるためのこのプログラムや Tableau 製品に対しても信頼が構築されます。また、関わりのあるトピックや例を使った社会的学習の場となるうえ、コラボレーション、全体への貢献、組織内の問題解決も促されます。1 対 1 のサポートを導入している組織では継続的な学習が促進されるほか、データカルチャーへの取り組みが見られ、中心的なプロジェクトチームへの ",
+                                "breadcrumb_l2_url": "http://www.tableau.com/ja-jp/support/help",
+                                "twitter:image": "https://help.tableau.com/tableau_logo_large.png",
+                                "twitter:site": "@tableau",
+                                "viewport": "width=device-width,initial-scale=1",
+                                "twitter:description": "1 対 1 のサポートとは、ユーザーが Tableau の知識を他のユーザーと共有し移転することを促すものです。これにより、ユーザーコミュニティは組織全体の知識を活用できるようになります。1 対 1 のサポートプログラムは、組織内での人材の育成と共有の奨励に役立ちます。1 対 1 のサポートプログラムで迅速に知識を共有し技術スキルを活用すると、ユーザー間でも、そしてユーザーの能力を高めるためのこのプログラムや Tableau 製品に対しても信頼が構築されます。また、関わりのあるトピックや例を使った社会的学習の場となるうえ、コラボレーション、全体への貢献、組織内の問題解決も促されます。1 対 1 のサポートを導入している組織では継続的な学習が促進されるほか、データカルチャーへの取り組みが見られ、中心的なプロジェクトチームへの ",
+                                "breadcrumb_l1_text": "Support"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://help.tableau.com/tableau_logo.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Tableauによるデータ分析基盤構築支援",
+                    "htmlTitle": "<b>Tableau</b>によるデータ分析基盤<b>構築支援</b>",
+                    "link": "https://www.intage-technosphere.co.jp/pickup/tableau/",
+                    "displayLink": "www.intage-technosphere.co.jp",
+                    "snippet": "「Tableauによるデータ分析基盤構築支援」私たちは、システムインテグレーターとしてマーケティングの現場に特化したITソリューションを提供する企業、インテージ ...",
+                    "htmlSnippet": "「<b>Tableau</b>によるデータ分析基盤<b>構築支援</b>」私たちは、システムインテグレーターとしてマーケティングの現場に特化したITソリューションを提供する<b>企業</b>、インテージ&nbsp;...",
+                    "cacheId": "RYbqqPrNTtQJ",
+                    "formattedUrl": "https://www.intage-technosphere.co.jp/pickup/tableau/",
+                    "htmlFormattedUrl": "https://www.intage-technosphere.co.jp/pickup/<b>tableau</b>/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfOtKBRNA-9047xQLBDcmGk0ZCRUsrO3W7vCgYwOvbk_ILWA7PfLIEkQM",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.intage-technosphere.co.jp/pickup/tableau/img/ogp_image_tableau.png",
+                                "og:type": "article",
+                                "twitter:card": "summary",
+                                "og:site_name": "株式会社インテージテクノスフィア",
+                                "twitter:site": "@INTAGE_ITSP",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "データ分析に基づく経営PDCAを実現するソリューション「Tableauによるデータ分析基盤構築支援」 | ピックアップ | 株式会社インテージテクノスフィア",
+                                "og:url": "https://www.intage-technosphere.co.jp/pickup/tableau/",
+                                "og:description": "「Tableauによるデータ分析基盤構築支援」私たちは、システムインテグレーターとしてマーケティングの現場に特化したITソリューションを提供する企業、インテージテクノスフィアです。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.intage-technosphere.co.jp/pickup/tableau/img/ogp_image_tableau.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "item": "ピックアップ",
+                                "name": "ピックアップ",
+                                "position": "2"
+                            },
+                            {
+                                "name": "データ分析に基づく経営PDCAを実現するソリューション「Tableauによるデータ分析基盤構築支援」",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "企業環境への Tableau Server の導入を始める - Tableau",
+                    "htmlTitle": "<b>企業</b>環境への <b>Tableau</b> Server の導入を始める - <b>Tableau</b>",
+                    "link": "https://help.tableau.com/current/guides/enterprise-deployment/ja-jp/edg_intro.htm",
+                    "displayLink": "help.tableau.com",
+                    "snippet": "このガイドで説明しているリファレンス アーキテクチャは、Tableau クライアント (互換性のあるブラウザーを使用した Web 作成、Tableau Mobile、および Tableau Desktop ...",
+                    "htmlSnippet": "このガイドで説明しているリファレンス アーキテクチャは、<b>Tableau</b> クライアント (互換性のあるブラウザーを使用した Web 作成、<b>Tableau</b> Mobile、および <b>Tableau</b> Desktop&nbsp;...",
+                    "cacheId": "18hts515cIkJ",
+                    "formattedUrl": "https://help.tableau.com/current/guides/enterprise.../ja-jp/edg_intro.htm",
+                    "htmlFormattedUrl": "https://help.<b>tableau</b>.com/current/guides/enterprise.../ja-jp/edg_intro.htm",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgIQCJA1qkHCoHagZE2euH0KSVSJGZ-fgDR3OKB1u6H0iUHawLFGSRAxw",
+                                "width": "492",
+                                "height": "102"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "breadcrumb_l1_url": "http://www.tableau.com/ja-jp/support",
+                                "og:image": "https://help.tableau.com/tableau_logo.png",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "企業環境への Tableau Server の導入を始める",
+                                "subsection": "Product Help",
+                                "breadcrumb_l2_text": "Product Help",
+                                "og:title": "企業環境への Tableau Server の導入を始める",
+                                "section": "Support",
+                                "og:description": "企業環境への Tableau Server 導入ガイド (EDG) は、Tableau Server をオンプレミスまたはクラウドで導入する際に手引きとなるガイドです。このガイドでは、参照アーキテクチャを引用しながら、企業環境へ導入する場合のガイダンスを提供します。参照アーキテクチャは、業界標準のベスト プラクティスに準拠したものであり、セキュリティ、拡張性、パフォーマンスなどのベンチマークに適合していることを検証済みです。",
+                                "breadcrumb_l2_url": "http://www.tableau.com/ja-jp/support/help",
+                                "twitter:image": "https://help.tableau.com/tableau_logo_large.png",
+                                "twitter:site": "@tableau",
+                                "viewport": "width=device-width,initial-scale=1",
+                                "twitter:description": "企業環境への Tableau Server 導入ガイド (EDG) は、Tableau Server をオンプレミスまたはクラウドで導入する際に手引きとなるガイドです。このガイドでは、参照アーキテクチャを引用しながら、企業環境へ導入する場合のガイダンスを提供します。参照アーキテクチャは、業界標準のベスト プラクティスに準拠したものであり、セキュリティ、拡張性、パフォーマンスなどのベンチマークに適合していることを検証済みです。",
+                                "breadcrumb_l1_text": "Support"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://help.tableau.com/tableau_logo.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Tableauコンサルティングサービス | keywalker",
+                    "htmlTitle": "<b>Tableau</b>コンサルティングサービス | keywalker",
+                    "link": "https://www.keywalker.co.jp/tableau/tableau_consulting.html",
+                    "displayLink": "www.keywalker.co.jp",
+                    "snippet": "優れたビジュアライゼーション構築を支援します。 ビジュアルベストプラクティスが組み込まれたTableauの機能を最大限に活用することで、データドリブンな企業文化の構築 ...",
+                    "htmlSnippet": "優れたビジュアライゼーション<b>構築</b>を<b>支援</b>します。 ビジュアルベストプラクティスが組み込まれた<b>Tableau</b>の機能を最大限に活用することで、データドリブンな<b>企業</b>文化の<b>構築</b>&nbsp;...",
+                    "cacheId": "IVQRWUEu6ewJ",
+                    "formattedUrl": "https://www.keywalker.co.jp/tableau/tableau_consulting.html",
+                    "htmlFormattedUrl": "https://www.keywalker.co.jp/<b>tableau</b>/<b>tableau</b>_consulting.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhI8IYOOMiErlG-3ZaPmtZAwVTKLPJVELAkrcrqGG0p09V_D2LNmImAfsy",
+                                "width": "365",
+                                "height": "138"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.keywalker.co.jp/wp-content/uploads/2019/08/tableau-training-course.jpg",
+                                "og:type": "article",
+                                "article:section": "Tableau",
+                                "article:published_time": "2020-10-21T20:31:44+09:00",
+                                "og:image:width": "1920",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "Tableauコンサルティングサービス | keywalker",
+                                "og:site_name": "ビッグデータ収集・分析の株式会社キーウォーカー",
+                                "og:title": "Tableauコンサルティングサービス | keywalker",
+                                "og:image:height": "729",
+                                "og:updated_time": "2023-04-25T17:36:46+09:00",
+                                "og:description": "キーウォーカーでは、Tableauコンサルティングサービスを通して、Tableauの効果を最大化し、データドリブンな企業文化を実現する支援をしています。",
+                                "twitter:creator": "@keywalkerinc",
+                                "article:publisher": "https://www.facebook.com/KeywalkerInc/",
+                                "twitter:image": "https://www.keywalker.co.jp/wp-content/uploads/2019/08/tableau-training-course.jpg",
+                                "article:tag": "Tableauソリューション",
+                                "fb:app_id": "165000123634047",
+                                "twitter:site": "@keywalkerinc",
+                                "article:modified_time": "2023-04-25T17:36:46+09:00",
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+                                "twitter:description": "キーウォーカーでは、Tableauコンサルティングサービスを通して、Tableauの効果を最大化し、データドリブンな企業文化を実現する支援をしています。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.keywalker.co.jp/tableau/tableau_consulting.html"
+                            }
+                        ],
+                        "Breadcrumb": [
+                            {
+                                "title": "ホーム",
+                                "url": "ホーム"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.keywalker.co.jp/wp-content/uploads/2019/08/tableau-training-course.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "『TECH PLAY』、「Tableau企業分析AWARD2022」 に協賛 ...",
+                    "htmlTitle": "『TECH PLAY』、「<b>Tableau企業</b>分析AWARD2022」 に協賛 ...",
+                    "link": "https://persol-innovation.co.jp/news/2023/0104/",
+                    "displayLink": "persol-innovation.co.jp",
+                    "snippet": "2023/01/05 ... 総合人材サービス、パーソルグループにて、テクノロジー人材のエンパワーメントと企業のDX組織構築の支援サービスを提供する『TECH PLAY（テック ...",
+                    "htmlSnippet": "2023/01/05 <b>...</b> 総合人材サービス、パーソルグループにて、テクノロジー人材のエンパワーメントと<b>企業</b>のDX組織<b>構築</b>の<b>支援</b>サービスを提供する『TECH PLAY（テック&nbsp;...",
+                    "cacheId": "53ZOH7i5xJ0J",
+                    "formattedUrl": "https://persol-innovation.co.jp/news/2023/0104/",
+                    "htmlFormattedUrl": "https://persol-innovation.co.jp/news/2023/0104/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdFVGTm-6b089TUpKOPH46tJje1Vmo1LXUIKwHQaw2F458zPomDikiEHh3",
+                                "width": "378",
+                                "height": "133"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://persol-innovation.co.jp/wpsys/wp-content/uploads/2023/01/75c140d3601436d9bf49d9f8aa3af58a.png",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "『TECH PLAY』、「Tableau企業分析AWARD2022」 に協賛",
+                                "og:site_name": "パーソルイノベーション – PERSOL INNOVATION",
+                                "twitter:url": "https://persol-innovation.co.jp/news/2023/0104/",
+                                "og:title": "『TECH PLAY』、「Tableau企業分析AWARD2022」 に協賛",
+                                "og:description": "総合人材サービス、パーソルグループにて、テクノロジー人材のエンパワーメントと企業のDX組織構築の支援サービスを提供する『TECH PLAY（テック プレイ）』 （運営：パーソルイノベーション株式会社 TECH PLAY COMPANY 所在地：東京都港区、責任者：武藤竜耶）は、エンジニアコミュニティや非営利団体のIT関連イベント開催を支援する取り組みの一環として、2022年12月17日（土）に開催された企業分析AWARD2022実行委員会主催の学生向けコンテスト「Tableau企業分析AWARD2022」に協賛いたしました。",
+                                "twitter:image": "https://persol-innovation.co.jp/wpsys/wp-content/uploads/2023/01/75c140d3601436d9bf49d9f8aa3af58a.png",
+                                "viewport": "width=device-width,initial-scale=1",
+                                "twitter:description": "総合人材サービス、パーソルグループにて、テクノロジー人材のエンパワーメントと企業のDX組織構築の支援サービスを提供する『TECH PLAY（テック プレイ）』 （運営：パーソルイノベーション株式会社 TECH PLAY COMPANY 所在地：東京都港区、責任者：武藤竜耶）は、エンジニアコミュニティや非営利団体のIT関連イベント開催を支援する取り組みの一環として、2022年12月17日（土）に開催された企業分析AWARD2022実行委員会主催の学生向けコンテスト「Tableau企業分析AWARD2022」に協賛いたしました。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://persol-innovation.co.jp/news/2023/0104/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://persol-innovation.co.jp/wpsys/wp-content/uploads/2023/01/75c140d3601436d9bf49d9f8aa3af58a.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Tableauとは？選ばれる理由とユースケース紹介｜インサイト ...",
+                    "htmlTitle": "<b>Tableau</b>とは？選ばれる理由とユースケース紹介｜インサイト ...",
+                    "link": "https://www.nttdata-bizsys.co.jp/imforcemedia/insight/004/",
+                    "displayLink": "www.nttdata-bizsys.co.jp",
+                    "snippet": "Tableauとは、企業内外の膨大なデータを分析・可視化し、データドリブン経営に役立つ ... を活用したTableauセルフ分析環境の構築・習熟支援（集合研修、個別研修）",
+                    "htmlSnippet": "<b>Tableau</b>とは、<b>企業</b>内外の膨大なデータを分析・可視化し、データドリブン経営に役立つ ... を活用した<b>Tableau</b>セルフ分析環境の<b>構築</b>・習熟<b>支援</b>（集合研修、個別研修）",
+                    "cacheId": "BU3yJkx05qQJ",
+                    "formattedUrl": "https://www.nttdata-bizsys.co.jp/imforcemedia/insight/004/",
+                    "htmlFormattedUrl": "https://www.nttdata-bizsys.co.jp/imforcemedia/insight/004/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "format-detection": "telephone=no"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 企業 Tableau構築支援",
+                        "totalResults": "288000",
+                        "searchTerms": "企業 Tableau構築支援",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 企業 Tableau構築支援",
+                        "totalResults": "288000",
+                        "searchTerms": "企業 Tableau構築支援",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 企業 Tableau構築支援",
+                        "totalResults": "288000",
+                        "searchTerms": "企業 Tableau構築支援",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.443032,
+                "formattedSearchTime": "0.44",
+                "totalResults": "288000",
+                "formattedTotalResults": "288,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "4700 Tableau Jobs in Tokyo, June 2023 | Glassdoor",
+                    "htmlTitle": "4700 <b>Tableau</b> Jobs in Tokyo, June 2023 | Glassdoor",
+                    "link": "https://www.glassdoor.com/Job/tokyo-tableau-jobs-SRCH_IL.0,5_IC2851580_KO6,13.htm",
+                    "displayLink": "www.glassdoor.com",
+                    "snippet": "今回、大手企業様からの実行支援の依頼が重なり、マーケティング業務をお手伝い担っていただける ... 仕事内容: * 【案件】 Tableauダッシュボード構築・運用 【内容】 ...",
+                    "htmlSnippet": "今回、大手<b>企業</b>様からの実行<b>支援</b>の依頼が重なり、マーケティング業務をお手伝い担っていただける ... 仕事内容: * 【案件】 <b>Tableau</b>ダッシュボード<b>構築</b>・運用 【内容】&nbsp;...",
+                    "cacheId": "UzN2t9poOVIJ",
+                    "formattedUrl": "https://www.glassdoor.com/.../tokyo-tableau-jobs-SRCH_IL.0,5_IC2851580_ KO6,13.htm",
+                    "htmlFormattedUrl": "https://www.glassdoor.com/.../tokyo-<b>tableau</b>-jobs-SRCH_IL.0,5_IC2851580_ KO6,13.htm",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "apple-itunes-app": "app-id=589698942",
+                                "og:image": "https://www-qa.glassdoor.com:8443/jobs-ux-app/static/img/partners/fb/logo-1200x630.png?v=721f9cswl",
+                                "theme-color": "#0caa41",
+                                "decorator": "undecorated",
+                                "og:type": "website",
+                                "og:site_name": "Glassdoor",
+                                "al:ios:app_name": "Glassdoor",
+                                "og:title": "Tableau Jobs in Tokyo | Glassdoor",
+                                "msapplication-navbutton-color": "#0caa41",
+                                "og:description": "Search Tableau jobs in Tokyo with company ratings & salaries. 4,700 open jobs for Tableau in Tokyo.",
+                                "al:ios:app_store_id": "589698942",
+                                "referrer": "origin",
+                                "fb:app_id": "169673973089895",
+                                "apple-mobile-web-app-status-bar-style": "#0caa41",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "apple-mobile-web-app-capable": "yes",
+                                "og:url": "https://www.glassdoor.com/Job/tokyo-tableau-jobs-SRCH_IL.0,5_IC2851580_KO6,13.htm",
+                                "google-play-app": "app-id=com.glassdoor.app"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www-qa.glassdoor.com:8443/jobs-ux-app/static/img/partners/fb/logo-1200x630.png?v=721f9cswl"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "支援メニュー : Tableau(タブロー) | NECソリューションイノベータ",
+                    "htmlTitle": "<b>支援</b>メニュー : <b>Tableau</b>(<b>タブロー</b>) | NECソリューションイノベータ",
+                    "link": "https://www.nec-solutioninnovators.co.jp/sl/tableau/menu.html",
+                    "displayLink": "www.nec-solutioninnovators.co.jp",
+                    "snippet": "お客様データを使用してサンプルダッシュボードを作成します。 -. スキル修得. 2-1. Desktopハンズオン教育 -基本編-. Tableau ...",
+                    "htmlSnippet": "お客様データを使用してサンプルダッシュボードを作成します。 -. スキル修得. 2-1. Desktopハンズオン教育 -基本編-. <b>Tableau</b>&nbsp;...",
+                    "cacheId": "nhUIuv7v71MJ",
+                    "formattedUrl": "https://www.nec-solutioninnovators.co.jp/sl/tableau/menu.html",
+                    "htmlFormattedUrl": "https://www.nec-solutioninnovators.co.jp/sl/<b>tableau</b>/menu.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKMTWoyd14nXzgEnqrIiAgojeAL0TlSYyLSAuQjgfxV48HciGADBtC460",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.nec-solutioninnovators.co.jp/jpn/img/ogp.jpg",
+                                "og:site_name": "NECソリューションイノベータ",
+                                "viewport": "width=device-width,initial-scale=1",
+                                "og:title": "NECソリューションイノベータ",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.nec-solutioninnovators.co.jp/",
+                                "og:description": "NECソリューションイノベータは、時代をリードする先進技術、幅広い業種や地域のお客様と向き合い培ってきた知見、全国に広がるネットワーク力を強みとしています。私たちは、高い技術力とイノベータの目線で社会価値を創造するソフトウェア＆サービス・カンパニーを目指し、挑戦していきます。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.nec-solutioninnovators.co.jp/jpn/img/ogp.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "キーウォーカー、Tableau Softwareとのパートナー契約締結の ...",
+                    "htmlTitle": "キーウォーカー、<b>Tableau</b> Softwareとのパートナー契約締結の ...",
+                    "link": "https://prtimes.jp/main/html/rd/p/000000013.000013637.html",
+                    "displayLink": "prtimes.jp",
+                    "snippet": "2021/03/11 ... お客様の課題に応じたオーダーメイドでのコンサルティングにより、データドリブンな企業文化の構築を支援しています。 要件定義作成支援, Tableauを用いた ...",
+                    "htmlSnippet": "2021/03/11 <b>...</b> お客様の課題に応じたオーダーメイドでのコンサルティングにより、データドリブンな<b>企業</b>文化の<b>構築</b>を<b>支援</b>しています。 要件定義作成<b>支援</b>, <b>Tableau</b>を用いた&nbsp;...",
+                    "cacheId": "Sf165bCjdpIJ",
+                    "formattedUrl": "https://prtimes.jp/main/html/rd/p/000000013.000013637.html",
+                    "htmlFormattedUrl": "https://prtimes.jp/main/html/rd/p/000000013.000013637.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSk3_b1i4UOdTOWlXMXJoN2rwSdFUWvzsjPEjUlFQDkG0QOFZ2eXmtAwQVY",
+                                "width": "276",
+                                "height": "183"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://prtimes.jp/i/13637/13/resize/d13637-13-127725-0.png"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://prtimes.jp/i/13637/13/ogp/d13637-13-127725-0.png",
+                                "og:type": "article",
+                                "twitter:title": "キーウォーカー、Tableau Softwareとのパートナー契約締結のお知らせ",
+                                "twitter:card": "summary_large_image",
+                                "thumbnail": "https://prtimes.jp/i/13637/13/resize/d13637-13-127725-0.png",
+                                "og:site_name": "プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES",
+                                "twitter:url": "https://prtimes.jp/main/html/rd/p/000000013.000013637.html",
+                                "og:title": "キーウォーカー、Tableau Softwareとのパートナー契約締結のお知らせ",
+                                "twitter:image:height": "300",
+                                "release:company": "株式会社キーウォーカー",
+                                "release:image": "https://prtimes.jp/i/13637/13/resize/d13637-13-127725-0.png",
+                                "release:date": "2021年3月11日 11時56分",
+                                "og:description": "株式会社キーウォーカーのプレスリリース（2021年3月11日 11時56分）キーウォーカー、Tableau Softwareとのパートナー契約締結のお知らせ",
+                                "twitter:creator": "@PRTIMES_JP",
+                                "twitter:image": "https://prtimes.jp/i/13637/13/ogp/d13637-13-127725-0.png",
+                                "fb:app_id": "1495958567142613",
+                                "twitter:site": "@PRTIMES_JP",
+                                "twitter:image:width": "300",
+                                "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                                "twitter:description": "株式会社キーウォーカーのプレスリリース（2021年3月11日 11時56分）キーウォーカー、Tableau Softwareとのパートナー契約締結のお知らせ",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://prtimes.jp/main/html/rd/p/000000013.000013637.html"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://prtimes.jp/i/13637/13/resize/d13637-13-127725-0.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Tableauコンサルティングサービス - フロッグウェル株式会社",
+                    "htmlTitle": "<b>Tableau</b>コンサルティングサービス - フロッグウェル株式会社",
+                    "link": "https://frogwell.co.jp/tableau/",
+                    "displayLink": "frogwell.co.jp",
+                    "snippet": "モダンBI市場で多くの企業に選ばれているTableauでのデータ活用の支援を行います。 データソースの検討からダッシュボード作成、運用サポートなど、企業の課題に沿った ...",
+                    "htmlSnippet": "モダンBI市場で多くの<b>企業</b>に選ばれている<b>Tableau</b>でのデータ活用の<b>支援</b>を行います。 データソースの検討からダッシュボード作成、運用サポートなど、<b>企業</b>の課題に沿った&nbsp;...",
+                    "cacheId": "qZ_0yCFkGTEJ",
+                    "formattedUrl": "https://frogwell.co.jp/tableau/",
+                    "htmlFormattedUrl": "https://frogwell.co.jp/<b>tableau</b>/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8ULdssUfUhlm5OBtacqrYmGLxMbsgZDi6dlztZdh2hvyFhlcNAbjiXbfH",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "BreadcrumbList": [
+                            {}
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://frogwell.co.jp/wp-content/uploads/2023/01/ogp_frogwell.jpg",
+                                "og:type": "article",
+                                "og:image:width": "1200",
+                                "article:published_time": "2022-10-11T07:59:56+00:00",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "Tableauコンサルティングサービス - フロッグウェル株式会社",
+                                "og:site_name": "フロッグウェル株式会社 - FROGWELLは、ビジネスを加速させる プロセス・システム構築を支援し、 企業の収益拡大や社会の発展に貢献します。",
+                                "og:title": "Tableauコンサルティングサービス - フロッグウェル株式会社",
+                                "og:image:height": "630",
+                                "msapplication-tileimage": "https://frogwell.co.jp/wp-content/uploads/2023/01/cropped-android-chrome-512x512-1-270x270.png",
+                                "og:description": "業務プロセスをより円滑にし、成果を最大化するためのTableauの活用支援 サービス概要 モダンBI市場で多く",
+                                "twitter:creator": "@frogwell3",
+                                "og:image:secure_url": "https://frogwell.co.jp/wp-content/uploads/2023/01/ogp_frogwell.jpg",
+                                "article:publisher": "https://www.facebook.com/frogwell.co.jp",
+                                "twitter:image": "https://frogwell.co.jp/wp-content/uploads/2023/01/ogp_frogwell.jpg",
+                                "url": "https://frogwell.co.jp/tableau/",
+                                "twitter:site": "@frogwell3",
+                                "article:modified_time": "2023-01-20T05:42:27+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "業務プロセスをより円滑にし、成果を最大化するためのTableauの活用支援 サービス概要 モダンBI市場で多く",
+                                "og:locale": "ja_JP",
+                                "position": "1",
+                                "og:url": "https://frogwell.co.jp/tableau/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://frogwell.co.jp/wp-content/uploads/2023/01/ogp_frogwell.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "株式会社Prazto／【Tableauコンサルタント】フルリモート ...",
+                    "htmlTitle": "株式会社Prazto／【<b>Tableau</b>コンサルタント】フルリモート ...",
+                    "link": "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3008066733/",
+                    "displayLink": "doda.jp",
+                    "snippet": "SaaS導入支援事業部…20代～40代の幅広いメンバーが活躍中！成長意欲と上昇志向を持っ ... □SIer企業やユーザー企業(事業会社)でのTableau設定・構築経験（1年半以上）",
+                    "htmlSnippet": "SaaS導入<b>支援</b>事業部…20代～40代の幅広いメンバーが活躍中！成長意欲と上昇志向を持っ ... □SIer<b>企業</b>やユーザー<b>企業</b>(事業会社)での<b>Tableau</b>設定・<b>構築</b>経験（1年半以上）",
+                    "cacheId": "B8JFub83sw8J",
+                    "formattedUrl": "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3008066733/",
+                    "htmlFormattedUrl": "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3008066733/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvaHba-fs-ti-n893K1iXX5MQWx5BD2-NKfGLyLVadJ07JZFuVhHT2ROE",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://doda.jp/cmn_web/img/icon_fb.png",
+                                "og:type": "article",
+                                "og:site_name": "doda",
+                                "viewport": "width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no",
+                                "og:title": "株式会社Ｐｒａｚｔｏ／【Tableauコンサルタント】フルリモート・居住地不問／著名な企業や新進気鋭の名だたる企業の取引の求人情報 － 転職ならdoda（デューダ）",
+                                "keyword": "株式会社Ｐｒａｚｔｏ,【Tableauコンサルタント】フルリモート・居住地不問／著名な企業や新進気鋭の名だたる企業の取引,転職,求人,求人情報",
+                                "og:url": "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3008066733/",
+                                "og:description": "株式会社Ｐｒａｚｔｏ／【Tableauコンサルタント】フルリモート・居住地不問／著名な企業や新進気鋭の名だたる企業の取引の求人・求人情報ならdoda（デューダ）。仕事内容など詳しい採用情報や職場の雰囲気が伝わる情報が満載。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://doda.jp/cmn_web/img/icon_fb.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "株式会社カホエンタープライズ",
+                    "htmlTitle": "株式会社カホエンタープライズ",
+                    "link": "https://kaho-enterprise.co.jp/",
+                    "displayLink": "kaho-enterprise.co.jp",
+                    "snippet": "Tableau／Google Workspace 導入・活用支援; データ分析基盤（DWH）の構築・ ... Tableau/Google Workspace 操作トレーニング; 企業のデータリテラシー向上人材教育.",
+                    "htmlSnippet": "<b>Tableau</b>／Google Workspace 導入・活用<b>支援</b>; データ分析基盤（DWH）の<b>構築</b>・ ... <b>Tableau</b>/Google Workspace 操作トレーニング; <b>企業</b>のデータリテラシー向上人材教育.",
+                    "cacheId": "dyZ9glGXjvkJ",
+                    "formattedUrl": "https://kaho-enterprise.co.jp/",
+                    "htmlFormattedUrl": "https://kaho-enterprise.co.jp/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKge2dhoBQt6cYv9KJMtD2_DTTFbDGbrCqPh0zdgdGe7lqUiAiiqhMND26",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://kaho-enterprise.co.jp/assets/img/ogp.png",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "株式会社カホエンタープライズ",
+                                "og:site_name": "株式会社カホエンタープライズ",
+                                "viewport": "width=device-width, initial-scale=1, user-scalable=no",
+                                "twitter:url": "https://kaho-enterprise.co.jp/",
+                                "twitter:description": "データと向き合えば、気付く未来がある。株式会社カホエンタープライズ",
+                                "og:title": "株式会社カホエンタープライズ",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://kaho-enterprise.co.jp/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://kaho-enterprise.co.jp/assets/img/ogp.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "分析ソフトウェアTableauの導入・利用支援サービスに新メニューを ...",
+                    "htmlTitle": "分析ソフトウェア<b>Tableau</b>の導入・利用<b>支援</b>サービスに新メニューを ...",
+                    "link": "https://www.qsolcorp.co.jp/news/14/",
+                    "displayLink": "www.qsolcorp.co.jp",
+                    "snippet": "2023/04/10 ... セルフサービスBIツールで企業のデータドリブン化を促進 ― Tableauの ... 活用をねらいとしてAWSを活用した基盤構築などのサービスを拡充しています。",
+                    "htmlSnippet": "2023/04/10 <b>...</b> セルフサービスBIツールで<b>企業</b>のデータドリブン化を促進 ― <b>Tableau</b>の ... 活用をねらいとしてAWSを活用した基盤<b>構築</b>などのサービスを拡充しています。",
+                    "cacheId": "aDffvfxm7vYJ",
+                    "formattedUrl": "https://www.qsolcorp.co.jp/news/14/",
+                    "htmlFormattedUrl": "https://www.qsolcorp.co.jp/news/14/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIjIeanl0NpHxQF8wYjDufUeY_0Kqxrv8dTodxjpdp62PX9fMBayOIFT8",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "msapplication-tilecolor": "#ffffff",
+                                "og:image": "https://www.qsolcorp.co.jp/resource/img/common/ogp.jpg",
+                                "msapplication-square70x70logo": "/resource/img/common/ico/site-tile-70x70.png",
+                                "theme-color": "#ffffff",
+                                "og:type": "website",
+                                "og:site_name": "Qsol株式会社のコーポレートブランド",
+                                "og:title": "Qsol株式会社のコーポレートブランド",
+                                "msapplication-wide310x150logo": "/resource/img/common/ico/site-tile-310x150.png",
+                                "msapplication-tileimage": "/resource/img/common/ico/apple-touch-icon-144x144.png",
+                                "msapplication-square150x150logo": "/resource/img/common/ico/site-tile-150x150.png",
+                                "og:description": "Qsol(キューソル)は、Qsol株式会社のコーポレートブランドです。既存システムや業務の分析・企画から開発、インフラ構築、運用・保守、監視まで、ICTのチカラで、様々な課題を解決します。",
+                                "viewport": "width=device-width,user-scalable=no,minimum-scale=1,maximum-scale=1",
+                                "msapplication-square310x310logo": "/resource/img/common/ico/site-tile-310x310.png",
+                                "og:url": "https://www.qsolcorp.co.jp"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.qsolcorp.co.jp/resource/img/common/ogp.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Tableau導入支援の最新相場調査：2019年10月 - Web担当者のため ...",
+                    "htmlTitle": "<b>Tableau</b>導入<b>支援</b>の最新相場調査：2019年10月 - Web担当者のため ...",
+                    "link": "https://www.webtanguide.jp/reports/s0085/",
+                    "displayLink": "www.webtanguide.jp",
+                    "snippet": "2019/10/24 ... 本記事では、Tableauの導入支援を行っている主要な企業とその特徴を調査 ... 分析基盤構築：データ活用のためのプロセス・基盤環境構築、企業規模に ...",
+                    "htmlSnippet": "2019/10/24 <b>...</b> 本記事では、<b>Tableau</b>の導入<b>支援</b>を行っている主要な<b>企業</b>とその特徴を調査 ... 分析基盤<b>構築</b>：データ活用のためのプロセス・基盤環境<b>構築</b>、<b>企業</b>規模に&nbsp;...",
+                    "cacheId": "Y3o6ZgIWNB0J",
+                    "formattedUrl": "https://www.webtanguide.jp/reports/s0085/",
+                    "htmlFormattedUrl": "https://www.webtanguide.jp/reports/s0085/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4fMqZjBUC3qStjEXse_4rxddKxEP9zMn6wY_Nw1YmmphtnCcpfXDK4G9G",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://www.webtanguide.jp/wp-content/uploads/2019/10/AdobeStock_290160879.jpeg"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.webtanguide.jp/wp-content/uploads/2019/10/AdobeStock_290160879.jpeg",
+                                "og:image:width": "1000",
+                                "article:published_time": "2019-10-24T03:00:00+00:00",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "Web担当者のための集客ノウハウガイド - Web担当者のための集客ノウハウガイド",
+                                "msapplication-tileimage": "https://i0.wp.com/www.webtanguide.jp/wp-content/uploads/2018/07/twitter_prof.png?fit=270%2C270&ssl=1",
+                                "og:description": "世界的に利用されているBIツール「Tableau（タブロー）」。企業の経営に関わるあらゆるデータを集計・分析し、管理・共有でき、業務の効率化や売上・利益の向上に貢献します。本記事では、Tableauの導入支援を行っている主要な企業とその特徴を調査しました。相場については、価格を公表していない企業が多く、相場感は出ていませんが、企業選びの参考にしてみてください。",
+                                "og:image:secure_url": "https://www.webtanguide.jp/wp-content/uploads/2019/10/AdobeStock_290160879.jpeg",
+                                "twitter:image": "https://www.webtanguide.jp/wp-content/uploads/2019/10/AdobeStock_290160879.jpeg",
+                                "article:publisher": "https://www.facebook.com/webtanguide/",
+                                "twitter:site": "@webtanguide",
+                                "article:modified_time": "2019-10-24T00:55:53+00:00",
+                                "og:type": "article",
+                                "twitter:title": "Tableau導入支援の最新相場調査：2019年10月",
+                                "thumbnail": "https://www.webtanguide.jp/wp-content/uploads/2019/10/AdobeStock_290160879.jpeg",
+                                "og:title": "Tableau導入支援の最新相場調査：2019年10月",
+                                "og:image:height": "666",
+                                "article:author": "i.kawamura",
+                                "referrer": "no-referrer-when-downgrade",
+                                "fb:app_id": "262024104251043",
+                                "viewport": "width=device-width,initial-scale=1.0,user-scalable=no,viewport-fit=cover",
+                                "twitter:description": "世界的に利用されているBIツール「Tableau（タブロー）」。企業の経営に関わるあらゆるデータを集計・分析し、管理・共有でき、業務の効率化や売上・利益の向上に貢献します。本記事では、Tableauの導入支援を行っている主要な企業とその特徴を調査しました。相場については、価格を公表していない企業が多く、相場感は出ていませんが、企業選びの参考にしてみてください。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.webtanguide.jp/reports/s0085/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.webtanguide.jp/wp-content/uploads/2019/10/AdobeStock_290160879.jpeg"
+                            }
+                        ],
+                        "hatomfeed": [
+                            {}
+                        ],
+                        "listitem": [
+                            {
+                                "item": "HOME",
+                                "name": "HOME",
+                                "position": "1"
+                            },
+                            {
+                                "item": "Webマーケ施策の相場レポート",
+                                "name": "Webマーケ施策の相場レポート",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Tableau｜日立ソリューションズ『Tableau』とは？価格・システム ...",
+                    "htmlTitle": "<b>Tableau</b>｜日立ソリューションズ『<b>Tableau</b>』とは？価格・システム ...",
+                    "link": "https://www.hitachi-solutions.co.jp/tableau/",
+                    "displayLink": "www.hitachi-solutions.co.jp",
+                    "snippet": "2022/09/26 ... 企業のデータ活用における豊富なノウハウ. 当社では、PoC、データ分析システム構想策定支援、Tableau環境の構築、既存システムからの必要なデータの ...",
+                    "htmlSnippet": "2022/09/26 <b>...</b> <b>企業</b>のデータ活用における豊富なノウハウ. 当社では、PoC、データ分析システム構想策定<b>支援</b>、<b>Tableau</b>環境の<b>構築</b>、既存システムからの必要なデータの&nbsp;...",
+                    "cacheId": "u-aDH9pNxqcJ",
+                    "formattedUrl": "https://www.hitachi-solutions.co.jp/tableau/",
+                    "htmlFormattedUrl": "https://www.hitachi-solutions.co.jp/<b>tableau</b>/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJtPVeObu42XqiJX1sUNejU1_UkyWW6VvlVHFT1zhqqcByfdXPq9JHroY",
+                                "width": "218",
+                                "height": "231"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "/-/media/Project/DefaultSite/Products/Default/CS_J_Color_1280x720.ashx",
+                                "og:type": "article",
+                                "viewport": "width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0",
+                                "author": "Hitachi Solutions, Ltd.",
+                                "og:title": "Tableau｜日立ソリューションズ『Tableau』とは？価格・システム・サービス概要や、解決できる課題についてご紹介",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.hitachi-solutions.co.jp/tableau/",
+                                "og:description": "日立ソリューションズが提供する【Tableau】についてご紹介いたします。日立ソリューションズは、コンサルティングからシステム開発・構築、運用・保守サポート、商品・サービスを提供するソリューションプロバイダーです。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.hitachi-solutions.co.jp/-/media/Project/DefaultSite/Products/t/tableau/tableau_overview.ashx?h=613&la=ja-JP&w=580&hash=867D7BE8A4714246980EF46A47D24CDA"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【SQL/ Tableau】 自動車メーカー向けデータ基盤構築支援&Tableau ...",
+                    "htmlTitle": "【SQL/ <b>Tableau</b>】 自動車メーカー向けデータ基盤<b>構築支援</b>&amp;Tableau ...",
+                    "link": "https://en-gage.net/nextfortune_career/work_5233327/?via_recruit_page=1",
+                    "displayLink": "en-gage.net",
+                    "snippet": "8 日前 ... 株式会社Next Fortuneは様々な受託開発案件,フリーランス向け案件を抱えているWeb企業です。 下記の3つのポイントで、フリーランス や正社員の方の業務を ...",
+                    "htmlSnippet": "8 日前 <b>...</b> 株式会社Next Fortuneは様々な受託開発案件,フリーランス向け案件を抱えているWeb<b>企業</b>です。 下記の3つのポイントで、フリーランス や正社員の方の業務を&nbsp;...",
+                    "cacheId": "maHeTfsQwesJ",
+                    "formattedUrl": "https://en-gage.net/nextfortune_career/work_5233327/?via_recruit...1",
+                    "htmlFormattedUrl": "https://en-gage.net/nextfortune_career/work_5233327/?via_recruit...1",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSGdB2MlXxOYA9Hh82njnsDCFg37daMcaktLZ-xn_O-fLIdsM_Rru9RjPl",
+                                "width": "274",
+                                "height": "184"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://en-gage.net/og_image/main_panel/618154/2116822/",
+                                "twitter:card": "summary_large_image",
+                                "og:type": "website",
+                                "theme-color": "#4dccd5",
+                                "og:site_name": "engage",
+                                "apple-mobile-web-app-status-bar-style": "default",
+                                "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+                                "apple-mobile-web-app-capable": "yes",
+                                "og:title": "【SQL/ Tableau】 自動車メーカー向けデータ基盤構築支援&Tableau可視化 株式会社Next Fortune（5233327）-engage",
+                                "apple-mobile-web-app-title": "engage",
+                                "og:url": "https://en-gage.net/nextfortune_career/work_5233327/",
+                                "og:description": "【SQL/ Tableau】 自動車メーカー向けデータ基盤構築支援&Tableau可視化のページです。自動車会社の社内用のデータ基盤構築および可視化案件になります。\n車両物流および部品物流に関する在庫管理システムをSnowflakeを用いてク…"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://en-gage.net/og_image/main_panel/618154/2116822/"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 企業 Tableau構築支援",
+                        "totalResults": "288000",
+                        "searchTerms": "企業 Tableau構築支援",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 企業 Tableau構築支援",
+                        "totalResults": "288000",
+                        "searchTerms": "企業 Tableau構築支援",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 企業 Tableau構築支援",
+                        "totalResults": "288000",
+                        "searchTerms": "企業 Tableau構築支援",
+                        "count": 10,
+                        "startIndex": 31,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.212553,
+                "formattedSearchTime": "0.21",
+                "totalResults": "288000",
+                "formattedTotalResults": "288,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "Tableau リモートの求人 | Indeed (インディード)",
+                    "htmlTitle": "<b>Tableau</b> リモートの求人 | Indeed (インディード)",
+                    "link": "https://jp.indeed.com/q-tableau-%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88-%E6%B1%82%E4%BA%BA.html",
+                    "displayLink": "jp.indeed.com",
+                    "snippet": "フルリモート可能/【Tableau】分析支援/経験者のみ/週3以上OK. 企業名 レバテックフリーランス. 7件のクチコミ ... 【リモート】Tableauエンジニア サーバー構築支援.",
+                    "htmlSnippet": "フルリモート可能/【<b>Tableau</b>】分析<b>支援</b>/経験者のみ/週3以上OK. <b>企業</b>名 レバテックフリーランス. 7件のクチコミ ... 【リモート】<b>Tableau</b>エンジニア サーバー<b>構築支援</b>.",
+                    "formattedUrl": "https://jp.indeed.com/q-tableau-リモート-求人.html",
+                    "htmlFormattedUrl": "https://jp.indeed.com/q-<b>tableau</b>-リモート-求人.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRczHaqJ04HjEU68Ma9FvBMYPZ02AcI3Hr8KtN3fNBdVysX3GiiQQtm4Jxd",
+                                "width": "256",
+                                "height": "171"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "referrer": "origin-when-cross-origin",
+                                "viewport": "width=device-width,initial-scale=1.0",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://indeed-labs-jp-baito.s3.amazonaws.com/thumbnails/aHR0cHM6Ly9mcmVlbGFuY2UubGV2dGVjaC5qcC9maWxlcy9pbWcvcHJvbW90aW9uL2Jhbm5lci9pbWdfMDA0OC5qcGc"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "『TECH PLAY』、「Tableau企業分析AWARD2022」 に ...",
+                    "htmlTitle": "『TECH PLAY』、「<b>Tableau企業</b>分析AWARD2022」 に ...",
+                    "link": "https://presswalker.jp/press/6629",
+                    "displayLink": "presswalker.jp",
+                    "snippet": "2023/01/05 ... 総合人材サービス、パーソルグループにて、テクノロジー人材のエンパワーメントと企業のDX組織構築の支援サービスを提供する『TECH PLAY（テック ...",
+                    "htmlSnippet": "2023/01/05 <b>...</b> 総合人材サービス、パーソルグループにて、テクノロジー人材のエンパワーメントと<b>企業</b>のDX組織<b>構築</b>の<b>支援</b>サービスを提供する『TECH PLAY（テック&nbsp;...",
+                    "cacheId": "FVXvHmCSQJMJ",
+                    "formattedUrl": "https://presswalker.jp/press/6629",
+                    "htmlFormattedUrl": "https://presswalker.jp/press/6629",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRucoZgXy4zVmA1zwPToBsGlyZgyimGSGh9rPNMftYB4m8QeOW4k1Kbfi0D",
+                                "width": "379",
+                                "height": "133"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://presswalker.jp/thumbnail/4a4d7ee17ee208ae1672804263.png",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "PressWalker",
+                                "twitter:site": "@PressWalker_JP",
+                                "twitter:domain": "https://presswalker.jp",
+                                "viewport": "target-densitydpi=device-dpi, width=device-width,  user-scalable=yes",
+                                "author": "Themesbrand",
+                                "csrf-token": "fPGogFqZdqDekF82TqxFCPUyQ8HTkJgsqvZyGFwV",
+                                "og:title": "『TECH PLAY』、「Tableau企業分析AWARD2022」 に｜PressWalker",
+                                "og:url": "https://presswalker.jp/press/6629"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://presswalker.jp/thumbnail/4a4d7ee17ee208ae1672804263.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "カスタマー ポータルの概要 | Tableau Software",
+                    "htmlTitle": "カスタマー ポータルの概要 | <b>Tableau</b> Software",
+                    "link": "https://kb.tableau.com/articles/howto/getting-started-with-the-customer-portal?lang=ja-jp",
+                    "displayLink": "kb.tableau.com",
+                    "snippet": "カスタマー ポータルの問題について追加の支援が必要な場合は、Tableau アカウント担当者または customerservice@tableau.com に連絡して考えられる最高のサポートを ...",
+                    "htmlSnippet": "カスタマー ポータルの問題について追加の<b>支援</b>が必要な場合は、<b>Tableau</b> アカウント担当者または customerservice@<b>tableau</b>.com に連絡して考えられる最高のサポートを&nbsp;...",
+                    "cacheId": "49AuUoSHA2IJ",
+                    "formattedUrl": "https://kb.tableau.com/articles/.../getting-started-with-the-customer-portal?...",
+                    "htmlFormattedUrl": "https://kb.<b>tableau</b>.com/articles/.../getting-started-with-the-customer-portal?...",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "breadcrumb_l1_url": "https://www.tableau.com/ja-jp/support",
+                                "breadcrumb_l2_text": "ナレッジベース",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "breadcrumb_l1_text": "サポート",
+                                "breadcrumb_l2_url": "http://kb.tableau.com?lang=ja-jp/"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "ISO 30414プロフェッショナル認証講座4期生 – HC Produce Inc.",
+                    "htmlTitle": "ISO 30414プロフェッショナル認証講座4期生 – HC Produce Inc.",
+                    "link": "https://hcproduce.co.jp/pages/iso-30414%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E8%AA%8D%E8%A8%BC%E8%AC%9B%E5%BA%A7%EF%BC%94%E6%9C%9F%E7%94%9F-23",
+                    "displayLink": "hcproduce.co.jp",
+                    "snippet": "＜主な実績＞ 【IT大手企業】中途採用業務に関する運用・企画支援、業務効率化支援、 ... ブランディング構築支援【IT企業】人事労務～人員管理におけるtableau構築・ ...",
+                    "htmlSnippet": "＜主な実績＞ 【IT大手<b>企業</b>】中途採用業務に関する運用・企画<b>支援</b>、業務効率化<b>支援</b>、 ... ブランディング<b>構築支援</b>【IT<b>企業</b>】人事労務～人員管理における<b>tableau構築</b>・&nbsp;...",
+                    "cacheId": "_MKZKlt3qWEJ",
+                    "formattedUrl": "https://hcproduce.co.jp/.../iso-30414プロフェッショナル認証講座４期生-23",
+                    "htmlFormattedUrl": "https://hcproduce.co.jp/.../iso-30414プロフェッショナル認証講座４期生-23",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS50uVg8w6xP9jTI709QZmNr1LI1LvOdDKzdPSSkxNi_COPaW-PY8J2tb0",
+                                "width": "311",
+                                "height": "162"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "http://cdn.shopify.com/s/files/1/0602/3430/1613/files/1200_628_b53dd714-648a-4fd6-abd2-9315356de951.png?v=1646992307",
+                                "theme-color": "#0d1d41",
+                                "og:type": "website",
+                                "og:image:width": "1200",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "ISO 30414プロフェッショナル認証講座４期生",
+                                "og:site_name": "HC Produce Inc.",
+                                "og:title": "ISO 30414プロフェッショナル認証講座４期生",
+                                "og:image:height": "628",
+                                "shopify-checkout-api-token": "7cc05be901636a68ea72fc234985c312",
+                                "og:description": "　 根路銘　梢　Nerome, Kozue パーソルプロセス＆テクノロジー株式会社ワークスイッチ事業部　コンサルティング第1統括部/部長 2007年より採用広告メディア事業会社の顧客フロント部署にて営業・マネージャーとして従事。 2018年よりパーソルプロセス＆テクノロジー（株）にてコンサルタントとして人事業務改善(BPR)、人事制度構築、BIツール構築・活用支援、ERM等に従事し、現在部長職として人事企画領域の部門責任者を務める。 ＜主な実績＞ 【IT大手企業】中途採用業務に関する運用・企画支援、業務効率化支援、福利厚生調査支援 【エンターテインメント企業】大型施設設立における新たな人事制度設計、採用ブランディング構築支援【IT企",
+                                "og:image:secure_url": "https://cdn.shopify.com/s/files/1/0602/3430/1613/files/1200_628_b53dd714-648a-4fd6-abd2-9315356de951.png?v=1646992307",
+                                "twitter:site": "@Hcproduce",
+                                "viewport": "width=device-width,initial-scale=1",
+                                "twitter:description": "　 根路銘　梢　Nerome, Kozue パーソルプロセス＆テクノロジー株式会社ワークスイッチ事業部　コンサルティング第1統括部/部長 2007年より採用広告メディア事業会社の顧客フロント部署にて営業・マネージャーとして従事。 2018年よりパーソルプロセス＆テクノロジー（株）にてコンサルタントとして人事業務改善(BPR)、人事制度構築、BIツール構築・活用支援、ERM等に従事し、現在部長職として人事企画領域の部門責任者を務める。 ＜主な実績＞ 【IT大手企業】中途採用業務に関する運用・企画支援、業務効率化支援、福利厚生調査支援 【エンターテインメント企業】大型施設設立における新たな人事制度設計、採用ブランディング構築支援【IT企",
+                                "shopify-digital-wallet": "/60234301613/digital_wallets/dialog",
+                                "og:url": "https://hcproduce.co.jp/pages/iso-30414%e3%83%97%e3%83%ad%e3%83%95%e3%82%a7%e3%83%83%e3%82%b7%e3%83%a7%e3%83%8a%e3%83%ab%e8%aa%8d%e8%a8%bc%e8%ac%9b%e5%ba%a7%ef%bc%94%e6%9c%9f%e7%94%9f-23"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "http://cdn.shopify.com/s/files/1/0602/3430/1613/files/1200_628_b53dd714-648a-4fd6-abd2-9315356de951.png?v=1646992307"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "ビッグデータ解析基盤構築＆データ解析 ワンストップサービス ...",
+                    "htmlTitle": "ビッグデータ解析基盤<b>構築</b>＆データ解析 ワンストップサービス ...",
+                    "link": "https://web-kaizen.co.jp/2017/09/26/%E3%83%93%E3%83%83%E3%82%B0%E3%83%87%E3%83%BC%E3%82%BF%E8%A7%A3%E6%9E%90%E5%9F%BA%E7%9B%A4%E6%A7%8B%E7%AF%89%EF%BC%86%E3%83%87%E3%83%BC%E3%82%BF%E8%A7%A3%E6%9E%90/",
+                    "displayLink": "web-kaizen.co.jp",
+                    "snippet": "2017/09/26 ... ・経営人材育成コンサルティング企業 マーケティングデータ可視化対応におけるアーキテクト設計＆基盤構築支援 New!! 上記に関するお問い合わせは、下記 ...",
+                    "htmlSnippet": "2017/09/26 <b>...</b> ・経営人材育成コンサルティング<b>企業</b> マーケティングデータ可視化対応におけるアーキテクト設計＆基盤<b>構築支援</b> New!! 上記に関するお問い合わせは、下記&nbsp;...",
+                    "cacheId": "1am9ch5qxYQJ",
+                    "formattedUrl": "https://web-kaizen.co.jp/2017/09/.../ビッグデータ解析基盤構築＆データ解析/",
+                    "htmlFormattedUrl": "https://web-kaizen.co.jp/2017/09/.../ビッグデータ解析基盤<b>構築</b>＆データ解析/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3RueUTWcXUDdiLq3oSkR4wA_H7Wr6-JcGD0Wx6dq2voU-YKrFTkWCWpA",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://i0.wp.com/web-kaizen.co.jp/wp-content/uploads/2017/09/iStock-640026090.jpg?fit=1920%2C1280&ssl=1",
+                                "og:type": "article",
+                                "og:image:width": "1920",
+                                "twitter:card": "summary",
+                                "twitter:title": "ビッグデータ解析基盤構築＆データ解析 ワンストップサービス | 株式会社ウェブ改善・分析企画開発リサーチ",
+                                "og:site_name": "株式会社ウェブ改善・分析企画開発リサーチ",
+                                "og:title": "ビッグデータ解析基盤構築＆データ解析 ワンストップサービス | 株式会社ウェブ改善・分析企画開発リサーチ",
+                                "og:image:height": "1280",
+                                "google": "nositelinkssearchbox",
+                                "msapplication-tileimage": "https://i0.wp.com/web-kaizen.co.jp/wp-content/uploads/2019/08/logo500-500.png?fit=270%2C270&ssl=1",
+                                "og:description": "|ビッグデータとビジュアライズ（可視化）について&nbsp;ビッグデータの活用は身近なものになってきました。従来はデータドリブン文化が定着した一部の先進的な企業にのみ許された取り組みでした。",
+                                "twitter:creator": "web-kaizen",
+                                "og:image:secure_url": "https://i0.wp.com/web-kaizen.co.jp/wp-content/uploads/2017/09/iStock-640026090.jpg?fit=1920%2C1280&ssl=1",
+                                "twitter:image:src": "https://i0.wp.com/web-kaizen.co.jp/wp-content/uploads/2017/09/iStock-640026090.jpg?resize=740%2C440&ssl=1",
+                                "facebook-domain-verification": "7o10ica6iwyy0ht0mt0bly0ph81uam",
+                                "twitter:site": "@web-kaizen",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "|ビッグデータとビジュアライズ（可視化）について&nbsp;ビッグデータの活用は身近なものになってきました。従来はデータドリブン文化が定着した一部の先進的な企業にのみ許された取り組みでした。",
+                                "og:url": "https://web-kaizen.co.jp/2017/09/26/%E3%83%93%E3%83%83%E3%82%B0%E3%83%87%E3%83%BC%E3%82%BF%E8%A7%A3%E6%9E%90%E5%9F%BA%E7%9B%A4%E6%A7%8B%E7%AF%89%EF%BC%86%E3%83%87%E3%83%BC%E3%82%BF%E8%A7%A3%E6%9E%90/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://i0.wp.com/web-kaizen.co.jp/wp-content/uploads/2017/09/iStock-640026090.jpg?fit=1920%2C1280&ssl=1"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "HOME",
+                                "name": "HOME",
+                                "position": "1"
+                            },
+                            {
+                                "item": "ブログ",
+                                "name": "ブログ",
+                                "position": "2"
+                            },
+                            {
+                                "item": "ビジネス ロジック",
+                                "name": "ビジネス ロジック",
+                                "position": "3"
+                            },
+                            {
+                                "name": "ビッグデータ解析基盤構築＆データ解析 ワンストップサービス",
+                                "position": "4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "tableauで企業のデータ分析を進化させる | atsumel",
+                    "htmlTitle": "<b>tableau</b>で<b>企業</b>のデータ分析を進化させる | atsumel",
+                    "link": "https://atsumel.jp/service/tableau",
+                    "displayLink": "atsumel.jp",
+                    "snippet": "atsumelではBIツール「Tableau」や「CRM Analytics」の導入支援だけでなく、 データに基づいて顧客を深く理解し、 適切なアクションを実行するような文化構築の ...",
+                    "htmlSnippet": "atsumelではBIツール「<b>Tableau</b>」や「CRM Analytics」の導入<b>支援</b>だけでなく、 データに基づいて顧客を深く理解し、 適切なアクションを実行するような文化<b>構築</b>の&nbsp;...",
+                    "cacheId": "9yLUq8uh5MoJ",
+                    "formattedUrl": "https://atsumel.jp/service/tableau",
+                    "htmlFormattedUrl": "https://atsumel.jp/service/<b>tableau</b>",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                                "csrf-token": "aXqJJm4j16oTMsGd3NzYEjAoKGMvpJhlKesQuF14"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Tableau構築支援サービス – PigData | ビッグデータ収集・分析 ...",
+                    "htmlTitle": "<b>Tableau構築支援</b>サービス – PigData | ビッグデータ収集・分析 ...",
+                    "link": "https://pig-data.jp/service/tableau_customize/",
+                    "displayLink": "pig-data.jp",
+                    "snippet": "Tableauデータ分析基盤構築支援サービスは、データソースの準備・機能の選定・分析設定における不安を解消したサービスです。データ収集や分析、システム構築など、 ...",
+                    "htmlSnippet": "<b>Tableau</b>データ分析基盤<b>構築支援</b>サービスは、データソースの準備・機能の選定・分析設定における不安を解消したサービスです。データ収集や分析、システム<b>構築</b>など、&nbsp;...",
+                    "cacheId": "zgRFHyHSm3AJ",
+                    "formattedUrl": "https://pig-data.jp/service/tableau_customize/",
+                    "htmlFormattedUrl": "https://pig-data.jp/service/<b>tableau</b>_customize/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-JqqvGnw6ApgMMVTWQ-ZMt8P-4ffUGdD4kcr9lii0qgqHhZOvqn-pn0c",
+                                "width": "277",
+                                "height": "182"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:type": "article",
+                                "article:published_time": "2022-04-15T02:06:58+00:00",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "Tableau構築支援サービス – PigData | ビッグデータ収集・分析・活用ソリューション",
+                                "og:site_name": "PigData | ビッグデータ収集・分析・活用ソリューション – PigDataは、お客様のデータ活用に対する課題を丁寧にヒアリングし、 最適なデータ活用ソリューションをご提供します。",
+                                "og:title": "Tableau構築支援サービス – PigData | ビッグデータ収集・分析・活用ソリューション",
+                                "msapplication-tileimage": "https://pig-data.jp/wp-content/uploads/cropped-favicon-1-270x270.png",
+                                "og:description": "Tableau構築支援サービス PigData > サービス一覧 > Tableau構築支援サービ",
+                                "article:modified_time": "2023-01-31T06:40:55+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "Tableau構築支援サービス PigData > サービス一覧 > Tableau構築支援サービ",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://pig-data.jp/service/tableau_customize/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://pig-data.jp/wp-content/uploads/undraw_data_reports_706v.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "仕事で使えるデータ活用 | Tableau スタートパッケージ",
+                    "htmlTitle": "仕事で使えるデータ活用 | <b>Tableau</b> スタートパッケージ",
+                    "link": "https://wakuwaku.cresco.co.jp/solution/tableau-start-package",
+                    "displayLink": "wakuwaku.cresco.co.jp",
+                    "snippet": "ビジネス課題を解決するために、多くの企業でTableauをはじめとしたBIツールが導入され ... のインフラ環境へ、新たにTabelauを構築し、保守・運用をご支援します。",
+                    "htmlSnippet": "ビジネス課題を解決するために、多くの<b>企業</b>で<b>Tableau</b>をはじめとしたBIツールが導入され ... のインフラ環境へ、新たにTabelauを<b>構築</b>し、保守・運用をご<b>支援</b>します。",
+                    "cacheId": "3htqqQ9N7ycJ",
+                    "formattedUrl": "https://wakuwaku.cresco.co.jp/solution/tableau-start-package",
+                    "htmlFormattedUrl": "https://wakuwaku.cresco.co.jp/solution/<b>tableau</b>-start-package",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfaQDf9o5OGtUqiWnFZr-a4SCW7AwfErhQxRDMvp4P1IfFk_AOdI7EQk-t",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://ferret-one.akamaized.net/images/624554aff0342e0b2cdc9e33/large.png?utime=1648710832",
+                                "next-head-count": "26",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "CRESCO Solution",
+                                "viewport": "width=device-width",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://wakuwaku.cresco.co.jp/solution/tableau-start-package",
+                                "twitter:image": "https://ferret-one.akamaized.net/images/624554aff0342e0b2cdc9e33/large.png?utime=1648710832"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://ferret-one.akamaized.net/images/624554aff0342e0b2cdc9e33/large.png?utime=1648710832"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "事例紹介一覧 | ビッグデータ・ポータル",
+                    "htmlTitle": "事例紹介一覧 | ビッグデータ・ポータル",
+                    "link": "https://www.e-stat.go.jp/bigdataportal/case?area=kanto",
+                    "displayLink": "www.e-stat.go.jp",
+                    "snippet": "利活用者: 藤沢市; 利用支援企業: KDDI株式会社/技研商事インターナショナル株式会社; 利活用者の業種: ... オープンデータの可視化・分析に向けたTableau構築支援.",
+                    "htmlSnippet": "利活用者: 藤沢市; 利用支援<b>企業</b>: KDDI株式会社/技研商事インターナショナル株式会社; 利活用者の業種: ... オープンデータの可視化・分析に向けた<b>Tableau構築支援</b>.",
+                    "cacheId": "Id9uIAgijEAJ",
+                    "formattedUrl": "https://www.e-stat.go.jp/bigdataportal/case?area=kanto",
+                    "htmlFormattedUrl": "https://www.e-stat.go.jp/bigdataportal/case?area=kanto",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLLQPP-Jv-tiOwuN7yK5kuUVALIdMbIXMTV_Rw-Ze4poELCCKAQMH48Lg",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "msapplication-tilecolor": "#2e99e0",
+                                "og:image": "http://www.e-stat.go.jp/bigdataportal/ogp-twitter-image-800-800.jpg",
+                                "msapplication-config": "/bigdataportal/browserconfig.xml",
+                                "og:type": "website",
+                                "twitter:card": "summary",
+                                "twitter:title": "事例紹介一覧 | ビッグデータ・ポータル",
+                                "og:site_name": "ビッグデータ・ポータル",
+                                "og:image:url": "http://www.e-stat.go.jp/bigdataportal/ogp-twitter-image-800-800.jpg",
+                                "handheldfriendly": "true",
+                                "twitter:url": "http://www.e-stat.go.jp/bigdataportal/case",
+                                "og:title": "事例紹介一覧 | ビッグデータ・ポータル",
+                                "twitter:image": "http://www.e-stat.go.jp/bigdataportal/ogp-twitter-image-800-800.jpg",
+                                "twitter:image:alt": "BIGDATA PORTAL",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "mobileoptimized": "width"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "http://www.e-stat.go.jp/bigdataportal/ogp-twitter-image-800-800.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "オープンデータの可視化・分析に向けたTableau構築支援 | ビッグ ...",
+                    "htmlTitle": "オープンデータの可視化・分析に向けた<b>Tableau構築支援</b> | ビッグ ...",
+                    "link": "http://www.e-stat.go.jp/bigdataportal/case/164",
+                    "displayLink": "www.e-stat.go.jp",
+                    "snippet": "横浜コンベンション・ビューロー. 利活用支援企業: 株式会社ナイトレイ. 利活用者の業種:.",
+                    "htmlSnippet": "横浜コンベンション・ビューロー. 利活用<b>支援企業</b>: 株式会社ナイトレイ. 利活用者の業種:.",
+                    "cacheId": "lK2_TfHIpzIJ",
+                    "formattedUrl": "www.e-stat.go.jp/bigdataportal/case/164",
+                    "htmlFormattedUrl": "www.e-stat.go.jp/bigdataportal/case/164",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLLQPP-Jv-tiOwuN7yK5kuUVALIdMbIXMTV_Rw-Ze4poELCCKAQMH48Lg",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "msapplication-tilecolor": "#2e99e0",
+                                "og:image": "http://www.e-stat.go.jp/bigdataportal/ogp-twitter-image-800-800.jpg",
+                                "msapplication-config": "/bigdataportal/browserconfig.xml",
+                                "og:type": "website",
+                                "twitter:card": "summary",
+                                "twitter:title": "オープンデータの可視化・分析に向けたTableau構築支援 | ビッグデータ・ポータル",
+                                "og:site_name": "ビッグデータ・ポータル",
+                                "og:image:url": "http://www.e-stat.go.jp/bigdataportal/ogp-twitter-image-800-800.jpg",
+                                "handheldfriendly": "true",
+                                "twitter:url": "http://www.e-stat.go.jp/bigdataportal/case/164",
+                                "og:title": "オープンデータの可視化・分析に向けたTableau構築支援 | ビッグデータ・ポータル",
+                                "twitter:image": "http://www.e-stat.go.jp/bigdataportal/ogp-twitter-image-800-800.jpg",
+                                "twitter:image:alt": "BIGDATA PORTAL",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "mobileoptimized": "width"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "http://www.e-stat.go.jp/bigdataportal/ogp-twitter-image-800-800.jpg"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

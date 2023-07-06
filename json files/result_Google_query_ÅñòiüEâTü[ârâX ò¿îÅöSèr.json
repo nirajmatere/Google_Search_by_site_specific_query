@@ -1,0 +1,1552 @@
+{
+    "query": "商品・サービス 物件比較",
+    "links": [
+        [
+            "https://www.caa.go.jp/policies/policy/representation/fair_labeling/faq/representation/",
+            "https://www.fgl.co.jp/service/lease/",
+            "https://www.caa.go.jp/policies/policy/representation/fair_labeling/pdf/fair_labeling_160801_0001.pdf",
+            "https://pig-data.jp/blog_news/blog/scraping-crawling/competitive-research/",
+            "https://prtimes.jp/main/html/rd/p/000000045.000012645.html",
+            "https://home.adpark.co.jp/service/index_pamphletter.html",
+            "https://prtimes.jp/main/html/rd/p/000000008.000082819.html",
+            "https://www.zenrin.co.jp/product/category/gis/package/rep-pack/index.html",
+            "https://www.smbc-card.com/hojin/magazine/bizi-dora/general-affairs/lease-or-rental.jsp",
+            "https://flets.com/flets-hikari/"
+        ],
+        [
+            "https://www.es-life.jp/article/25284",
+            "https://my-best.com/4489",
+            "https://alterna-z.com/column/post-454/",
+            "https://my-best.com/11801",
+            "https://www.sekisui-lease.co.jp/product/comparison.html",
+            "https://my-best.com/14961",
+            "https://www.sfil.co.jp/service/faq/",
+            "https://www.hiroginlease.co.jp/syouhin/financelease/",
+            "https://www.sfil.co.jp/service/payment/",
+            "https://business.suumo.jp/chintai/lineup/ownerreport.html"
+        ],
+        [
+            "https://athome-inc.jp/news/release/services/athomeweb-renewal-200712/",
+            "https://www.nrg-houjin.jp/kaden/compare/index.html",
+            "https://store.f-mikata.jp/best-converter/",
+            "https://www.jecc.com/knowledge/compare/",
+            "https://www.azn.co.jp/column/detail.html?itemid=1513&dispmid=904",
+            "https://www.prime-strategy.co.jp/media/hikari-apartment/",
+            "https://www.eco-hatsu.com/management-company/",
+            "https://www.mansion-review.jp/company/",
+            "https://creal.jp/blogs/crowd-funding/1982/",
+            "https://www.do-lease.co.jp/service/lease-installment/"
+        ]
+    ],
+    "snapshot_ymd": "D2023-06-23",
+    "snapshot_timestamp": "D2023-06-23T01-28-10",
+    "responses": [
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "request": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 物件比較",
+                        "totalResults": "6390000",
+                        "searchTerms": "商品・サービス 物件比較",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 物件比較",
+                        "totalResults": "6390000",
+                        "searchTerms": "商品・サービス 物件比較",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.522035,
+                "formattedSearchTime": "0.52",
+                "totalResults": "6390000",
+                "formattedTotalResults": "6,390,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "表示に関するQ&A | 消費者庁",
+                    "htmlTitle": "表示に関するQ&amp;A | 消費者庁",
+                    "link": "https://www.caa.go.jp/policies/policy/representation/fair_labeling/faq/representation/",
+                    "displayLink": "www.caa.go.jp",
+                    "snippet": "... に関するQ&Aを掲載しております。 商品・サービスの表示内容を検討する場合の参考にしてください。 ... 比較広告に関する景品表示法上の考え方を教えてください。",
+                    "htmlSnippet": "... に関するQ&amp;Aを掲載しております。 <b>商品</b>・<b>サービス</b>の表示内容を検討する場合の参考にしてください。 ... <b>比較</b>広告に関する景品表示法上の考え方を教えてください。",
+                    "cacheId": "9maDlVikX2UJ",
+                    "formattedUrl": "https://www.caa.go.jp/policies/policy/representation/fair.../representation/",
+                    "htmlFormattedUrl": "https://www.caa.go.jp/policies/policy/representation/fair.../representation/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1, minimum-scale=0.5, maximum-scale=2, user-scalable=yes",
+                                "format-detection": "telephone=no"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "リースについて｜商品・サービス｜芙蓉総合リース株式会社",
+                    "htmlTitle": "リースについて｜<b>商品</b>・<b>サービス</b>｜芙蓉総合リース株式会社",
+                    "link": "https://www.fgl.co.jp/service/lease/",
+                    "displayLink": "www.fgl.co.jp",
+                    "snippet": "リースの基本となる、対象物件やレンタル・割賦販売との比較、適正リース期間などについてご覧いただけます。",
+                    "htmlSnippet": "リースの基本となる、対象<b>物件</b>やレンタル・割賦販売との<b>比較</b>、適正リース期間などについてご覧いただけます。",
+                    "cacheId": "BgqvlF1oZ0IJ",
+                    "formattedUrl": "https://www.fgl.co.jp/service/lease/",
+                    "htmlFormattedUrl": "https://www.fgl.co.jp/service/lease/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2m9s_dl2bZMn57eDO7s98FyjDAvR8SPO-I_3src3wOjr-xq_0ahhteA",
+                                "width": "425",
+                                "height": "119"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1.0"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.fgl.co.jp/service/lease/images/index-img-01.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "事例でわかる景品表示法",
+                    "htmlTitle": "事例でわかる景品表示法",
+                    "link": "https://www.caa.go.jp/policies/policy/representation/fair_labeling/pdf/fair_labeling_160801_0001.pdf",
+                    "displayLink": "www.caa.go.jp",
+                    "snippet": "品質や価格などは、消費者が商品・サービスを選ぶ重要な基準になりますから、その ... 販売されていた価格とはいえない価格を比較対照価格に ... 希望者に他の物件を勧.",
+                    "htmlSnippet": "品質や価格などは、消費者が<b>商品</b>・<b>サービス</b>を選ぶ重要な基準になりますから、その ... 販売されていた価格とはいえない価格を<b>比較</b>対照価格に ... 希望者に他の<b>物件</b>を勧.",
+                    "formattedUrl": "https://www.caa.go.jp/policies/policy/.../fair_labeling_160801_0001.pdf",
+                    "htmlFormattedUrl": "https://www.caa.go.jp/policies/policy/.../fair_labeling_160801_0001.pdf",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "moddate": "D:20161102113259+09'00'",
+                                "creationdate": "D:20160705185322+09'00'",
+                                "creator": "Adobe InDesign CS5.5_J (7.5)",
+                                "producer": "Adobe PDF Library 9.9"
+                            }
+                        ]
+                    },
+                    "mime": "application/pdf",
+                    "fileFormat": "PDF/Adobe Acrobat"
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "金額算出に最適な競合調査とは？メリットやデメリット、金額算出 ...",
+                    "htmlTitle": "金額算出に最適な競合調査とは？メリットやデメリット、金額算出 ...",
+                    "link": "https://pig-data.jp/blog_news/blog/scraping-crawling/competitive-research/",
+                    "displayLink": "pig-data.jp",
+                    "snippet": "2022/12/16 ... 競合調査とは、自社と競合する企業の商品・サービスの価格を調査・分析 ... 違うのか、ターゲット層は同一なのかなど、比較する要素はさまざまです。",
+                    "htmlSnippet": "2022/12/16 <b>...</b> 競合調査とは、自社と競合する企業の<b>商品</b>・<b>サービス</b>の価格を調査・分析 ... 違うのか、ターゲット層は同一なのかなど、<b>比較</b>する要素はさまざまです。",
+                    "cacheId": "0_zU5G3X02wJ",
+                    "formattedUrl": "https://pig-data.jp/blog_news/blog/scraping.../competitive-research/",
+                    "htmlFormattedUrl": "https://pig-data.jp/blog_news/blog/scraping.../competitive-research/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBNJti6ijtTtHQHCsRfHvwrPMYeq4U1YqrqE7V-6AwraaASdguXA-ekmKh",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://pig-data.jp/wp-content/uploads/6242692.jpg",
+                                "og:type": "article",
+                                "og:image:width": "1920",
+                                "article:published_time": "2022-12-16T01:31:12+00:00",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "金額算出に最適な競合調査とは？メリットやデメリット、金額算出の流れを解説 – PigData | ビッグデータ収集・分析・活用ソリューション",
+                                "og:site_name": "PigData | ビッグデータ収集・分析・活用ソリューション – PigDataは、お客様のデータ活用に対する課題を丁寧にヒアリングし、 最適なデータ活用ソリューションをご提供します。",
+                                "og:title": "金額算出に最適な競合調査とは？メリットやデメリット、金額算出の流れを解説 – PigData | ビッグデータ収集・分析・活用ソリューション",
+                                "og:image:height": "1280",
+                                "msapplication-tileimage": "https://pig-data.jp/wp-content/uploads/cropped-favicon-1-270x270.png",
+                                "og:description": "競合調査とは、自社と競合する企業の商品・サービスの価格を調査・分析することです。変化の激しい市場で生き残るため",
+                                "og:image:secure_url": "https://pig-data.jp/wp-content/uploads/6242692.jpg",
+                                "twitter:image": "https://pig-data.jp/wp-content/uploads/6242692.jpg",
+                                "article:modified_time": "2023-01-04T04:31:15+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "競合調査とは、自社と競合する企業の商品・サービスの価格を調査・分析することです。変化の激しい市場で生き残るため",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://pig-data.jp/blog_news/blog/scraping-crawling/competitive-research/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://pig-data.jp/wp-content/uploads/6242692.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【カウル】AIによる提案サービス「カウル」が地図上でマンションを ...",
+                    "htmlTitle": "【カウル】AIによる提案<b>サービス</b>「カウル」が地図上でマンションを ...",
+                    "link": "https://prtimes.jp/main/html/rd/p/000000045.000012645.html",
+                    "displayLink": "prtimes.jp",
+                    "snippet": "2019/06/03 ... 株式会社Housmartのプレスリリース（2019年6月3日 11時00分）【カウル】AIによる提案サービス「カウル」が地図上でマンションを比較できる新機能を ...",
+                    "htmlSnippet": "2019/06/03 <b>...</b> 株式会社Housmartのプレスリリース（2019年6月3日 11時00分）【カウル】AIによる提案<b>サービス</b>「カウル」が地図上でマンションを<b>比較</b>できる新機能を&nbsp;...",
+                    "cacheId": "xxRTPZAqtsQJ",
+                    "formattedUrl": "https://prtimes.jp/main/html/rd/p/000000045.000012645.html",
+                    "htmlFormattedUrl": "https://prtimes.jp/main/html/rd/p/000000045.000012645.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkjkOkI8UblP91gbI_qDMIjCt3_TqOu1_0Hc3LpZ66LZysKptAXoO1Blnh",
+                                "width": "248",
+                                "height": "204"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://prtimes.jp/i/12645/45/resize/d12645-45-715864-0.png"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://prtimes.jp/i/12645/45/ogp/d12645-45-715864-0.png",
+                                "og:type": "article",
+                                "twitter:title": "【カウル】AIによる提案サービス「カウル」が地図上でマンションを比較できる新機能を追加",
+                                "twitter:card": "summary_large_image",
+                                "thumbnail": "https://prtimes.jp/i/12645/45/resize/d12645-45-715864-0.png",
+                                "og:site_name": "プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES",
+                                "twitter:url": "https://prtimes.jp/main/html/rd/p/000000045.000012645.html",
+                                "og:title": "【カウル】AIによる提案サービス「カウル」が地図上でマンションを比較できる新機能を追加",
+                                "twitter:image:height": "300",
+                                "release:company": "株式会社Housmart",
+                                "release:image": "https://prtimes.jp/i/12645/45/resize/d12645-45-715864-0.png",
+                                "release:date": "2019年6月3日 11時00分",
+                                "og:description": "株式会社Housmartのプレスリリース（2019年6月3日 11時00分） カウル AIによる提案サービス[カウル]が地図上でマンションを比較できる新機能を追加",
+                                "twitter:creator": "@PRTIMES_JP",
+                                "twitter:image": "https://prtimes.jp/i/12645/45/ogp/d12645-45-715864-0.png",
+                                "fb:app_id": "1495958567142613",
+                                "twitter:site": "@PRTIMES_JP",
+                                "twitter:image:width": "300",
+                                "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                                "twitter:description": "株式会社Housmartのプレスリリース（2019年6月3日 11時00分） カウル AIによる提案サービス[カウル]が地図上でマンションを比較できる新機能を追加",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://prtimes.jp/main/html/rd/p/000000045.000012645.html"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://prtimes.jp/i/12645/45/resize/d12645-45-715864-0.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "物件ガイドブック作成なら「パンフレッター」！中古住宅の ...",
+                    "htmlTitle": "<b>物件</b>ガイドブック作成なら「パンフレッター」！中古住宅の ...",
+                    "link": "https://home.adpark.co.jp/service/index_pamphletter.html",
+                    "displayLink": "home.adpark.co.jp",
+                    "snippet": "アドパークでは、不動産会社様向けのサービスを多彩に取り揃えております。 ... 4物件同時に基本情報・設備・周辺施設等の比較が可能; 会社や担当営業が持つ地元の ...",
+                    "htmlSnippet": "アドパークでは、不動産会社様向けの<b>サービス</b>を多彩に取り揃えております。 ... 4<b>物件</b>同時に基本情報・設備・周辺施設等の<b>比較</b>が可能; 会社や担当営業が持つ地元の&nbsp;...",
+                    "formattedUrl": "https://home.adpark.co.jp/service/index_pamphletter.html",
+                    "htmlFormattedUrl": "https://home.adpark.co.jp/service/index_pamphletter.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR466SIeK6W6xzLw9S3Xo6fimP4rrMV3Ik9qW_swSHXrs0C-Z9NZ2V3rmAQ",
+                                "width": "266",
+                                "height": "190"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://home.adpark.co.jp/service/img/pamphletter/topimage_03.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "全ての皆さまがオンラインで物件の売買へ！不動産マッチング ...",
+                    "htmlTitle": "全ての皆さまがオンラインで<b>物件</b>の売買へ！不動産マッチング ...",
+                    "link": "https://prtimes.jp/main/html/rd/p/000000008.000082819.html",
+                    "displayLink": "prtimes.jp",
+                    "snippet": "2023/05/15 ... 不動産マッチングサービス『COCOURI（ココウリ）』が、住宅ローン比較 ... な金融機関”の中から商品選択ができるうえ、融資のお申込みから実行までの ...",
+                    "htmlSnippet": "2023/05/15 <b>...</b> 不動産マッチング<b>サービス</b>『COCOURI（ココウリ）』が、住宅ローン<b>比較</b> ... な金融機関”の中から<b>商品</b>選択ができるうえ、融資のお申込みから実行までの&nbsp;...",
+                    "cacheId": "GVupFnE4cnAJ",
+                    "formattedUrl": "https://prtimes.jp/main/html/rd/p/000000008.000082819.html",
+                    "htmlFormattedUrl": "https://prtimes.jp/main/html/rd/p/000000008.000082819.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0UiKcfFHnBcAtXCzktXnAlRibk9wTf8Rhf5xVzDFXLrt1b82yUYrFFQ4",
+                                "width": "385",
+                                "height": "131"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://prtimes.jp/i/82819/8/resize/d82819-8-8411d467c023761fb9ff-0.png"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://prtimes.jp/i/82819/8/ogp/d82819-8-8411d467c023761fb9ff-0.png",
+                                "og:type": "article",
+                                "twitter:title": "全ての皆さまがオンラインで物件の売買へ！不動産マッチングサービス『COCOURI（ココウリ）』が、住宅ローン比較サービス「モゲチェック」を運営する株式会社MFSと業務...",
+                                "twitter:card": "summary_large_image",
+                                "thumbnail": "https://prtimes.jp/i/82819/8/resize/d82819-8-8411d467c023761fb9ff-0.png",
+                                "og:site_name": "プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES",
+                                "twitter:url": "https://prtimes.jp/main/html/rd/p/000000008.000082819.html",
+                                "og:title": "全ての皆さまがオンラインで物件の売買へ！不動産マッチングサービス『COCOURI（ココウリ）』が、住宅ローン比較サービス「モゲチェック」を運営する株式会社MFSと業務...",
+                                "twitter:image:height": "300",
+                                "release:company": "株式会社ココウリ",
+                                "release:image": "https://prtimes.jp/i/82819/8/resize/d82819-8-8411d467c023761fb9ff-0.png",
+                                "release:date": "2023年5月15日 09時00分",
+                                "og:description": "株式会社ココウリのプレスリリース（2023年5月15日 09時00分）全ての皆さまがオンラインで物件の売買へ！不動産マッチングサービス『COCOURI（ココウリ）』が、住宅ローン比較サービス[モゲチェック]を運営する株式会社MFSと業務提携。",
+                                "twitter:creator": "@PRTIMES_JP",
+                                "twitter:image": "https://prtimes.jp/i/82819/8/ogp/d82819-8-8411d467c023761fb9ff-0.png",
+                                "fb:app_id": "1495958567142613",
+                                "twitter:site": "@PRTIMES_JP",
+                                "twitter:image:width": "300",
+                                "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                                "twitter:description": "株式会社ココウリのプレスリリース（2023年5月15日 09時00分）全ての皆さまがオンラインで物件の売買へ！不動産マッチングサービス『COCOURI（ココウリ）』が、住宅ローン比較サービス[モゲチェック]を運営する株式会社MFSと業務提携。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://prtimes.jp/main/html/rd/p/000000008.000082819.html"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://prcdn.freetls.fastly.net/release_image/82819/8/82819-8-dfe7fe60c41d394f6d7dee0b395990ca-812x276.png?format=jpeg&auto=webp&quality=85&width=1950&height=1350&fit=bounds"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "ZENRIN GISパッケージ 不動産 プレミアム | 株式会社ゼンリン",
+                    "htmlTitle": "ZENRIN GISパッケージ 不動産 プレミアム | 株式会社ゼンリン",
+                    "link": "https://www.zenrin.co.jp/product/category/gis/package/rep-pack/index.html",
+                    "displayLink": "www.zenrin.co.jp",
+                    "snippet": "住宅地図上に物件情報や営業情報などのデータを取り込むことができ、過去地図も閲覧が可能です。 ... 2020/05/11 商品・サービス ... 価格・商品比較.",
+                    "htmlSnippet": "住宅地図上に<b>物件</b>情報や営業情報などのデータを取り込むことができ、過去地図も閲覧が可能です。 ... 2020/05/11 <b>商品</b>・<b>サービス</b> ... 価格・商品<b>比較</b>.",
+                    "cacheId": "940hUJW6kT4J",
+                    "formattedUrl": "https://www.zenrin.co.jp/product/category/gis/package/rep.../index.html",
+                    "htmlFormattedUrl": "https://www.zenrin.co.jp/product/category/gis/package/rep.../index.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaGoVESirMsrh8BDLaNpzDvQJI6MDS-yagLEx4lR_gcpkpSVVdvrhFea-2",
+                                "width": "259",
+                                "height": "194"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.zenrin.co.jp/product/category/img/gis_package_rep-pack-thumb.jpg",
+                                "twitter:card": "summary",
+                                "og:type": "article",
+                                "og:site_name": "株式会社ゼンリン",
+                                "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+                                "twitter:domain": "www.zenrin.co.jp",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "ZENRIN GISパッケージ 不動産 プレミアム",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.zenrin.co.jp/product/category/gis/package/rep-pack/index.html",
+                                "og:description": "住宅地図上に物件情報や営業情報などのデータを取り込むことができます。必要な情報を可視化することで、物件調査業務・査定業務・営業活動業務の効率化が可能です。",
+                                "format-detection": "telephone=no, address=no, email=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.zenrin.co.jp/product/category/img/gis_package_rep-pack-thumb.jpg"
+                            }
+                        ],
+                        "thing": [
+                            {
+                                "name": "商品・サービス"
+                            },
+                            {
+                                "name": "商品・サービス"
+                            },
+                            {
+                                "name": "ZENRIN GISパッケージ"
+                            },
+                            {
+                                "name": "ZENRIN GISパッケージ 不動産 プレミアム"
+                            }
+                        ],
+                        "sitenavigationelement": [
+                            {
+                                "name": "商品TOP",
+                                "url": "商品TOP"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "position": "1"
+                            },
+                            {
+                                "position": "2"
+                            },
+                            {
+                                "position": "3"
+                            },
+                            {
+                                "position": "4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "リースとは？レンタルとの違いやメリット・デメリットを解説 ...",
+                    "htmlTitle": "リースとは？レンタルとの違いやメリット・デメリットを解説 ...",
+                    "link": "https://www.smbc-card.com/hojin/magazine/bizi-dora/general-affairs/lease-or-rental.jsp",
+                    "displayLink": "www.smbc-card.com",
+                    "snippet": "2022/11/17 ... これらすべての物件を購入しようとすると、コストがかかってしまいます。そんなときに活用したいのが、リース会社やレンタル会社のサービスです。",
+                    "htmlSnippet": "2022/11/17 <b>...</b> これらすべての<b>物件</b>を購入しようとすると、コストがかかってしまいます。そんなときに活用したいのが、リース会社やレンタル会社の<b>サービス</b>です。",
+                    "cacheId": "7L6n-4t1_l0J",
+                    "formattedUrl": "https://www.smbc-card.com/hojin/magazine/bizi-dora/.../lease-or-rental.jsp",
+                    "htmlFormattedUrl": "https://www.smbc-card.com/hojin/magazine/bizi-dora/.../lease-or-rental.jsp",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnqJNIJPAIzK8cWWTpjxbdHG1yELIjtIdnrVN8Gajsi_alnBes8yYLlhg",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.smbc-card.com/hojin/magazine/bizi-dora/general-affairs/img/lease-or-rental.jpg",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "リースとは？レンタルとの違いやメリット・デメリットを解説 | ビジドラ～起業家の経営をサポート～",
+                                "og:site_name": "クレジットカードの三井住友VISAカード",
+                                "viewport": "width=device-width,user-scalable=no",
+                                "twitter:description": "【税理士監修】オフィスのOA機器や事務用品は、リースやレンタルサービスを活用でコスト削減！リースとは、リースとレンタルの違い、契約期間やメリット・デメリット、割賦販売との比較まで徹底解説します。",
+                                "og:title": "リースとは？レンタルとの違いやメリット・デメリットを解説 | ビジドラ～起業家の経営をサポート～",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.smbc-card.com/hojin/magazine/bizi-dora/general-affairs/lease-or-rental.jsp?dk=sn_fcb_065_20120",
+                                "og:description": "【税理士監修】オフィスのOA機器や事務用品は、リースやレンタルサービスを活用でコスト削減！リースとは、リースとレンタルの違い、契約期間やメリット・デメリット、割賦販売との比較まで徹底解説します。",
+                                "twitter:image": "https://www.smbc-card.com/hojin/magazine/bizi-dora/general-affairs/img/lease-or-rental.jpg"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.smbc-card.com/hojin/magazine/bizi-dora/general-affairs/img/lease-or-rental.jpg"
+                            }
+                        ],
+                        "thing": [
+                            {
+                                "name": "法人カードをつくる トップ"
+                            },
+                            {
+                                "name": "法人カード活用ガイド"
+                            },
+                            {
+                                "name": "ビジドラ～起業家の経営をサポート～"
+                            },
+                            {
+                                "name": "総務"
+                            },
+                            {
+                                "name": "リースとは？レンタルとの違いやメリット・デメリットを解説"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "position": "1"
+                            },
+                            {
+                                "position": "2"
+                            },
+                            {
+                                "position": "3"
+                            },
+                            {
+                                "position": "4"
+                            },
+                            {
+                                "position": "5"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "フレッツ光プラン一覧 | フレッツ光公式 | NTT東日本 | 光回線の ...",
+                    "htmlTitle": "フレッツ光プラン一覧 | フレッツ光公式 | NTT東日本 | 光回線の ...",
+                    "link": "https://flets.com/flets-hikari/",
+                    "displayLink": "flets.com",
+                    "snippet": "NTT東日本が提供するインターネット接続サービス フレッツ光のプラン一覧ページです。 ... 2022年9月現在、フレッツ光の技術上の通信速度に基づく比較です。",
+                    "htmlSnippet": "NTT東日本が提供するインターネット接続<b>サービス</b> フレッツ光のプラン一覧ページです。 ... 2022年9月現在、フレッツ光の技術上の通信速度に基づく<b>比較</b>です。",
+                    "cacheId": "UrAoplecgl0J",
+                    "formattedUrl": "https://flets.com/flets-hikari/",
+                    "htmlFormattedUrl": "https://flets.com/flets-hikari/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1kUHhNtKIbsNmpoVeapqVCLWedsDUPkDtIcspuGh7epMmEGfml8SB00aw",
+                                "width": "262",
+                                "height": "192"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,initial-scale=1",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://flets.com/assets/images/icon_mn.svg"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 物件比較",
+                        "totalResults": "11600000",
+                        "searchTerms": "商品・サービス 物件比較",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 物件比較",
+                        "totalResults": "11600000",
+                        "searchTerms": "商品・サービス 物件比較",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 物件比較",
+                        "totalResults": "11600000",
+                        "searchTerms": "商品・サービス 物件比較",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.412278,
+                "formattedSearchTime": "0.41",
+                "totalResults": "11600000",
+                "formattedTotalResults": "11,600,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "賃貸物件は、どこの不動産会社でも同じ？【選び方のコツや比較 ...",
+                    "htmlTitle": "賃貸<b>物件</b>は、どこの不動産会社でも同じ？【選び方のコツや<b>比較</b> ...",
+                    "link": "https://www.es-life.jp/article/25284",
+                    "displayLink": "www.es-life.jp",
+                    "snippet": "2019/12/15 ... 他も同時に話をした方がいい？ 賃貸不動産会社による大きな違いはコレ・仲介手数料の金額の違い・付帯商品の違い・サービス内容の違い 賃貸物件を ...",
+                    "htmlSnippet": "2019/12/15 <b>...</b> 他も同時に話をした方がいい？ 賃貸不動産会社による大きな違いはコレ・仲介手数料の金額の違い・付帯<b>商品</b>の違い・<b>サービス</b>内容の違い 賃貸<b>物件</b>を&nbsp;...",
+                    "cacheId": "0WlScligzM0J",
+                    "formattedUrl": "https://www.es-life.jp/article/25284",
+                    "htmlFormattedUrl": "https://www.es-life.jp/article/25284",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0",
+                                "format-detection": "telephone=no"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "賃貸サイトのおすすめ人気ランキング35選【徹底比較】 | mybest",
+                    "htmlTitle": "賃貸サイトのおすすめ人気ランキング35選【徹底<b>比較</b>】 | mybest",
+                    "link": "https://my-best.com/4489",
+                    "displayLink": "my-best.com",
+                    "snippet": "物件の探しやすさ掲載数画像の充実度特典果たしてどのサービスがベストな賃貸 ... メーカー等から商品・サービスの無償提供を受けることや広告を出稿いただくことも ...",
+                    "htmlSnippet": "<b>物件</b>の探しやすさ掲載数画像の充実度特典果たしてどのサービスがベストな賃貸 ... メーカー等から<b>商品</b>・<b>サービス</b>の無償提供を受けることや広告を出稿いただくことも&nbsp;...",
+                    "cacheId": "i1X_RF8IzLYJ",
+                    "formattedUrl": "https://my-best.com/4489",
+                    "htmlFormattedUrl": "https://my-best.com/4489",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9D5sc3JZBo4bl5tynaUWP0saSWGWJYfd1tL7r-US6nv4xUbB2x-aPHTsy",
+                                "width": "259",
+                                "height": "194"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://img.my-best.com/contents/11b7ba02bf46fe2bd773e817270a9f8d.jpeg?ixlib=rails-4.3.1&q=70&lossless=0&w=1200&h=900&fit=crop&s=7a1045b9bd9826d964103784df538a2c"
+                            }
+                        ],
+                        "WebSite": [
+                            {}
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://img.my-best.com/contents/11b7ba02bf46fe2bd773e817270a9f8d.jpeg?ixlib=rails-4.3.1&q=70&lossless=0&w=1200&h=900&fit=crop&s=7a1045b9bd9826d964103784df538a2c",
+                                "next-head-count": "25",
+                                "twitter:card": "summary_large_image",
+                                "og:type": "article",
+                                "theme-color": "#000",
+                                "thumbnail": "https://img.my-best.com/contents/11b7ba02bf46fe2bd773e817270a9f8d.jpeg?ixlib=rails-4.3.1&q=70&lossless=0&w=1200&h=900&fit=crop&s=7a1045b9bd9826d964103784df538a2c",
+                                "og:site_name": "mybest",
+                                "viewport": "width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover",
+                                "og:title": "賃貸サイトのおすすめ人気ランキング35選【徹底比較】",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://my-best.com/4489",
+                                "og:description": "引っ越しの部屋探しには欠かせない賃貸サイト。学生や女性のひとり暮らしにおすすめの部屋なども探せて便利ですが、「SUUMO」や「ホームズ」など種類が多く、どのサイトを使うか迷ってしまいますよね。今回は35の人気賃貸サイトを実際に利用した1,300人に満足度調査を実施し、最もおすすめの賃貸サイトを決定したいと思います。調査は以下の4点について行いました。物件の探しやすさ掲載数画像の充実度特典果たしてどのサービスがベストな賃貸サイトなのでしょうか？選び方のポイントも解説しているので、ぜひ登録の際の参考にしてみてください。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://img.my-best.com/contents/11b7ba02bf46fe2bd773e817270a9f8d.jpeg?ixlib=rails-4.3.1&q=70&lossless=0&w=1200&h=900&fit=crop&s=7a1045b9bd9826d964103784df538a2c"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "不動産デジタル証券の特徴を知る：J-REITとの違いとは？",
+                    "htmlTitle": "不動産デジタル証券の特徴を知る：J-REITとの違いとは？",
+                    "link": "https://alterna-z.com/column/post-454/",
+                    "displayLink": "alterna-z.com",
+                    "snippet": "三井物産グループが始める、新しい資産運用サービス「ALTERNA」のサイトです。プロ品質の不動産・インフラ等の安定資産に、デジタル証券を通じてスマホから手軽に ...",
+                    "htmlSnippet": "三井物産グループが始める、新しい資産運用<b>サービス</b>「ALTERNA」のサイトです。プロ品質の不動産・インフラ等の安定資産に、デジタル証券を通じてスマホから手軽に&nbsp;...",
+                    "cacheId": "es-YAMF3p3EJ",
+                    "formattedUrl": "https://alterna-z.com/column/post-454/",
+                    "htmlFormattedUrl": "https://alterna-z.com/column/post-454/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv2gr5sCXT_Edr8a4aHu_AmveYRFQpO26qqPAjGjXm_BUTyS3RFyIfqKA",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://alterna-z.com/wp-content/uploads/2023/05/2d33c0782e96f228bf2e9279a031cd09.jpeg",
+                                "theme-color": "#061e5b",
+                                "copyright": "Copyright (C)2023 ︎Mitsui & Co. Digital Asset Management All Rights Reserved.",
+                                "article:published_time": "2023-05-22T03:48:57+00:00",
+                                "og:image:width": "2000",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "ALTERNA",
+                                "apple-mobile-web-app-title": "ALTERNA",
+                                "twitter:label1": "執筆者",
+                                "twitter:label2": "推定読み取り時間",
+                                "og:image:type": "image/jpeg",
+                                "msapplication-tileimage": "https://alterna-z.com/wp-content/themes/alterna/img/fav/fav288.png",
+                                "og:description": "三井物産グループが始める、新しい資産運用サービス「ALTERNA」のサイトです。プロ品質の不動産・インフラ等の安定資産に、デジタル証券を通じてスマホから手軽に投資。",
+                                "twitter:creator": "@ALTERNA_mdm",
+                                "article:publisher": "https://www.facebook.com/profile.php?id=100090708579138",
+                                "twitter:data1": "zeni-lp-admin",
+                                "twitter:data2": "6分",
+                                "twitter:site": "@ALTERNA_mdm",
+                                "article:modified_time": "2023-05-22T03:59:16+00:00",
+                                "msapplication-tilecolor": "#FFFFFF",
+                                "application-name": "ALTERNA",
+                                "og:type": "article",
+                                "author": "AG2",
+                                "og:title": "ALTERNA（オルタナ）｜三井物産グループが始める資産運用サービス",
+                                "og:image:height": "1050",
+                                "apple-mobile-web-app-status-bar-style": "black",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "apple-mobile-web-app-capable": "yes",
+                                "mobile-web-app-capable": "yes",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://alterna-z.com/column/post-454/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://alterna-z.com/wp-content/uploads/2023/05/2d33c0782e96f228bf2e9279a031cd09.jpeg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "マンション向け火災保険のおすすめ人気ランキング9選【徹底比較 ...",
+                    "htmlTitle": "マンション向け火災保険のおすすめ人気ランキング9選【徹底<b>比較</b> ...",
+                    "link": "https://my-best.com/11801",
+                    "displayLink": "my-best.com",
+                    "snippet": "本コンテンツはmybestが独自に制作しています。メーカー等から商品・サービスの無償提供を受けることや広告を出稿いただくこともありますが、メーカー等はコンテンツの内容 ...",
+                    "htmlSnippet": "本コンテンツはmybestが独自に制作しています。メーカー等から<b>商品</b>・<b>サービス</b>の無償提供を受けることや広告を出稿いただくこともありますが、メーカー等はコンテンツの内容&nbsp;...",
+                    "cacheId": "0SQHRivTD8AJ",
+                    "formattedUrl": "https://my-best.com/11801",
+                    "htmlFormattedUrl": "https://my-best.com/11801",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB5o6Ec0D7ymxx4wfIeL30ELcrrgYWzYSuvMHQZ3GKzbrRFi7gTb2n8IcW",
+                                "width": "259",
+                                "height": "194"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://img.my-best.com/contents/b2b1809cbb012195bee0f70e32d9b12b.png?ixlib=rails-4.3.1&q=70&lossless=0&w=1200&h=900&fit=crop&s=2712d519d9b3189c734a2e012bf46fbf"
+                            }
+                        ],
+                        "WebSite": [
+                            {}
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://img.my-best.com/contents/b2b1809cbb012195bee0f70e32d9b12b.png?ixlib=rails-4.3.1&q=70&lossless=0&w=1200&h=900&fit=crop&s=2712d519d9b3189c734a2e012bf46fbf",
+                                "next-head-count": "25",
+                                "twitter:card": "summary_large_image",
+                                "og:type": "article",
+                                "theme-color": "#000",
+                                "thumbnail": "https://img.my-best.com/contents/b2b1809cbb012195bee0f70e32d9b12b.png?ixlib=rails-4.3.1&q=70&lossless=0&w=1200&h=900&fit=crop&s=2712d519d9b3189c734a2e012bf46fbf",
+                                "og:site_name": "mybest",
+                                "viewport": "width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover",
+                                "og:title": "マンション向け火災保険のおすすめ人気ランキング9選【徹底比較2023年】",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://my-best.com/11801",
+                                "og:description": "自宅を災害リスクから守るために加入しておきたいマンション向け火災保険。日新火災・SBI損保といった保険会社からインターネットで加入できるものや保険料が安いものなどさまざまな商品が販売されています。さらに、火災保険には水濡れリスクに備える補償や地震保険などの特約もあり、内容が複雑でどれに加入すればよいか悩んでしまいますよね？そこで今回は、インターネット上で人気のマンション用の火災保険9商品を徹底的に比較しました。比較検証は以下の2点について行いました。周辺費用補償保険料はたしてどの商品があなたにおすすめの火災保険なのでしょうか？マンションで火災保険に加入する際の選び方のポイントも解説しているので、ぜひ参考にしてみてください。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://img.my-best.com/contents/b2b1809cbb012195bee0f70e32d9b12b.png?ixlib=rails-4.3.1&q=70&lossless=0&w=1200&h=900&fit=crop&s=2712d519d9b3189c734a2e012bf46fbf"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "リース・割賦・レンタルの比較 | サービス・商品のご紹介 | 積水 ...",
+                    "htmlTitle": "リース・割賦・レンタルの<b>比較</b> | <b>サービス</b>・<b>商品</b>のご紹介 | 積水 ...",
+                    "link": "https://www.sekisui-lease.co.jp/product/comparison.html",
+                    "displayLink": "www.sekisui-lease.co.jp",
+                    "snippet": "リース取引, レンタル取引, 割賦取引. 物件の選択, お客さまが指定, レンタル物件の中から, お客さまが指定. 契約期間, 比較的長期, 比較的短期, 通常5年以内.",
+                    "htmlSnippet": "リース取引, レンタル取引, 割賦取引. <b>物件</b>の選択, お客さまが指定, レンタル<b>物件</b>の中から, お客さまが指定. 契約期間, <b>比較</b>的長期, <b>比較</b>的短期, 通常5年以内.",
+                    "cacheId": "KHZuScplSmEJ",
+                    "formattedUrl": "https://www.sekisui-lease.co.jp/product/comparison.html",
+                    "htmlFormattedUrl": "https://www.sekisui-lease.co.jp/product/comparison.html",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "賃貸向け火災保険のおすすめ人気ランキング6選【徹底比較2023年 ...",
+                    "htmlTitle": "賃貸向け火災保険のおすすめ人気ランキング6選【徹底<b>比較</b>2023年 ...",
+                    "link": "https://my-best.com/14961",
+                    "displayLink": "my-best.com",
+                    "snippet": "まずはマンションの場合の保険料を検証しました。今回は、賃貸向け火災保険6商品について補償条件を設定したうえで試算を行ったのち、総合的に安い商品を高 ...",
+                    "htmlSnippet": "まずはマンションの場合の保険料を検証しました。今回は、賃貸向け火災保険6<b>商品</b>について補償条件を設定したうえで試算を行ったのち、総合的に安い<b>商品</b>を高&nbsp;...",
+                    "cacheId": "qsquXoTGiDAJ",
+                    "formattedUrl": "https://my-best.com/14961",
+                    "htmlFormattedUrl": "https://my-best.com/14961",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQQXZ-g5zuvsP-1FcBOSvpNCp92ZloOK_iFllIA4sCfdyXzZzeBxeJ3D0z",
+                                "width": "259",
+                                "height": "194"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://img.my-best.com/contents/03d4f4e5181f13bb58688751d56ea9ca.png?ixlib=rails-4.3.1&q=70&lossless=0&w=1200&h=900&fit=crop&s=0374ab902a10f643d829fc72d5541042"
+                            }
+                        ],
+                        "WebSite": [
+                            {}
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://img.my-best.com/contents/03d4f4e5181f13bb58688751d56ea9ca.png?ixlib=rails-4.3.1&q=70&lossless=0&w=1200&h=900&fit=crop&s=0374ab902a10f643d829fc72d5541042",
+                                "next-head-count": "25",
+                                "twitter:card": "summary_large_image",
+                                "og:type": "article",
+                                "theme-color": "#000",
+                                "thumbnail": "https://img.my-best.com/contents/03d4f4e5181f13bb58688751d56ea9ca.png?ixlib=rails-4.3.1&q=70&lossless=0&w=1200&h=900&fit=crop&s=0374ab902a10f643d829fc72d5541042",
+                                "og:site_name": "mybest",
+                                "viewport": "width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover",
+                                "og:title": "賃貸向け火災保険のおすすめ人気ランキング6選【徹底比較2023年】",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://my-best.com/14961",
+                                "og:description": "火災保険の加入が入居条件となっている物件は多く、賃貸契約の際に案内されたその場で加入する人も多いのではないでしょうか。しかし、賃貸向け火災保険こそ、複数の商品を比較しながらじっくり検討すべき保険といえます。不動産屋で案内される商品は、比較的保険料が高く設定されているため、その場で加入するのはもったいないことも。引越し費用を節約するためにも、できる限り安い保険料の商品に加入したいもの。そこで今回は、インターネットで人気の賃貸向け火災保険6商品を徹底的に比較しました。比較検証は以下の2点について行いました。保険料（M構造）補償内容はたしてどの商品がおすすめの賃貸向け火災保険なのでしょうか？火災保険の選び方のポイントも解説しているので、引越しの初期費用を安くしたいと思っている人はぜひ "
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://img.my-best.com/contents/03d4f4e5181f13bb58688751d56ea9ca.png?ixlib=rails-4.3.1&q=70&lossless=0&w=1200&h=900&fit=crop&s=0374ab902a10f643d829fc72d5541042"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "リースに関するよくある質問｜FAQ｜商品・サービス｜SFI ...",
+                    "htmlTitle": "リースに関するよくある質問｜FAQ｜<b>商品</b>・<b>サービス</b>｜SFI ...",
+                    "link": "https://www.sfil.co.jp/service/faq/",
+                    "displayLink": "www.sfil.co.jp",
+                    "snippet": "リースとレンタルの違いは、「リース」は長期間継続して使用することを目的として、お客様が選定された物件を当社が購入して賃貸するもので、リース期間中の中途解約が禁止 ...",
+                    "htmlSnippet": "リースとレンタルの違いは、「リース」は長期間継続して使用することを目的として、お客様が選定された<b>物件</b>を当社が購入して賃貸するもので、リース期間中の中途解約が禁止&nbsp;...",
+                    "cacheId": "POxCzaFed_8J",
+                    "formattedUrl": "https://www.sfil.co.jp/service/faq/",
+                    "htmlFormattedUrl": "https://www.sfil.co.jp/service/faq/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFguJYCLDPi7FwNYXyEJDjMK3OR0eO9Xey_CoNmbm-CHyF2XZA6HReJU4E",
+                                "width": "210",
+                                "height": "135"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=1000",
+                                "author": "SFIリーシング"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.sfil.co.jp/img/nav03.gif"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "ファイナンスリース | 商品・サービス | ひろぎんリース株式会社",
+                    "htmlTitle": "ファイナンスリース | <b>商品</b>・<b>サービス</b> | ひろぎんリース株式会社",
+                    "link": "https://www.hiroginlease.co.jp/syouhin/financelease/",
+                    "displayLink": "www.hiroginlease.co.jp",
+                    "snippet": "リース、レンタル、割賦の比較. リース取引, レンタル取引, 割賦取引. 物件の選択, お客さまが指定, レンタル物件の中から ...",
+                    "htmlSnippet": "リース、レンタル、割賦の<b>比較</b>. リース取引, レンタル取引, 割賦取引. <b>物件</b>の選択, お客さまが指定, レンタル<b>物件</b>の中から&nbsp;...",
+                    "cacheId": "ocxo0j3agzwJ",
+                    "formattedUrl": "https://www.hiroginlease.co.jp/syouhin/financelease/",
+                    "htmlFormattedUrl": "https://www.hiroginlease.co.jp/syouhin/financelease/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1",
+                                "msapplication-tileimage": "https://www.hiroginlease.co.jp/wp-content/uploads/2015/12/cropped-hllogo-1-270x270.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "HOME",
+                                "name": "HOME"
+                            },
+                            {
+                                "item": "商品・サービス",
+                                "name": "商品・サービス"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "リースについて｜リース・割賦・立替払｜商品・サービス｜SFI ...",
+                    "htmlTitle": "リースについて｜リース・割賦・立替払｜<b>商品</b>・<b>サービス</b>｜SFI ...",
+                    "link": "https://www.sfil.co.jp/service/payment/",
+                    "displayLink": "www.sfil.co.jp",
+                    "snippet": "お客様が選択された物件を当社が販売会社様より購入し、その機材をお客様に比較的長期にわたって お貸し出しさせていただく一般的なリース取引（ファイナンス・ ...",
+                    "htmlSnippet": "お客様が選択された<b>物件</b>を当社が販売会社様より購入し、その機材をお客様に<b>比較</b>的長期にわたって お貸し出しさせていただく一般的なリース取引（ファイナンス・&nbsp;...",
+                    "cacheId": "MEru17IHBKgJ",
+                    "formattedUrl": "https://www.sfil.co.jp/service/payment/",
+                    "htmlFormattedUrl": "https://www.sfil.co.jp/service/payment/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFguJYCLDPi7FwNYXyEJDjMK3OR0eO9Xey_CoNmbm-CHyF2XZA6HReJU4E",
+                                "width": "210",
+                                "height": "135"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=1000",
+                                "author": "SFIリーシング"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.sfil.co.jp/img/nav03.gif"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "SUUMOオーナーレポート｜賃貸向け｜【SUUMO(スーモ）ビジネス ...",
+                    "htmlTitle": "SUUMOオーナーレポート｜賃貸向け｜【SUUMO(スーモ）ビジネス ...",
+                    "link": "https://business.suumo.jp/chintai/lineup/ownerreport.html",
+                    "displayLink": "business.suumo.jp",
+                    "snippet": "オーナーとの接点を強化し、各種提案をスムーズに行っていただくための物件レポート作成サービスです。 当該物件と周辺物件の賃料相場・設備状況等を比較することが ...",
+                    "htmlSnippet": "オーナーとの接点を強化し、各種提案をスムーズに行っていただくための<b>物件</b>レポート作成<b>サービス</b>です。 当該<b>物件</b>と周辺<b>物件</b>の賃料相場・設備状況等を<b>比較</b>することが&nbsp;...",
+                    "cacheId": "ICbnJ0rEmJgJ",
+                    "formattedUrl": "https://business.suumo.jp/chintai/lineup/ownerreport.html",
+                    "htmlFormattedUrl": "https://business.suumo.jp/chintai/lineup/ownerreport.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFGFtK2cweQJBGYtAx5mUj32a1iBUCShy4bBSb_KiycFoLt6MR-M1dbHg",
+                                "width": "254",
+                                "height": "198"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://business.suumo.jp/chintai/lineup/image/img_owner14.jpg"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 物件比較",
+                        "totalResults": "6390000",
+                        "searchTerms": "商品・サービス 物件比較",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 物件比較",
+                        "totalResults": "6390000",
+                        "searchTerms": "商品・サービス 物件比較",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス 物件比較",
+                        "totalResults": "6390000",
+                        "searchTerms": "商品・サービス 物件比較",
+                        "count": 10,
+                        "startIndex": 31,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.208956,
+                "formattedSearchTime": "0.21",
+                "totalResults": "6390000",
+                "formattedTotalResults": "6,390,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "12月14日(金)、不動産総合情報サイト「at home web」を全面 ...",
+                    "htmlTitle": "12月14日(金)、不動産総合情報サイト「at home web」を全面 ...",
+                    "link": "https://athome-inc.jp/news/release/services/athomeweb-renewal-200712/",
+                    "displayLink": "athome-inc.jp",
+                    "snippet": "2007/12/13 ... ... ｜商品・サービスのニュースリリース｜ ... また相場ビジュアライズ、物件簡単比較、リコメンド機能等、 豊富な判断材料の ...",
+                    "htmlSnippet": "2007/12/13 <b>...</b> ... ｜<b>商品</b>・<b>サービス</b>のニュースリリース｜ ... また相場ビジュアライズ、<b>物件</b>簡単<b>比較</b>、リコメンド機能等、 豊富な判断材料の&nbsp;...",
+                    "cacheId": "cRNfElMXfIsJ",
+                    "formattedUrl": "https://athome-inc.jp/news/release/services/athomeweb-renewal-200712/",
+                    "htmlFormattedUrl": "https://athome-inc.jp/news/release/services/athomeweb-renewal-200712/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2dAzRnrGFd-abJuH8iduzK2x4Fpqvh2MGDI6qWOuJW2RY8cQK59LK55Y",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://athome-inc.jp/og-icon.png",
+                                "og:type": "article",
+                                "twitter:card": "summary",
+                                "og:site_name": "アットホーム株式会社",
+                                "twitter:site": "@athome_co",
+                                "viewport": "width=device-width,initial-scale=1",
+                                "og:title": "12月14日(金)、不動産総合情報サイト「at home web」を全面リニューアル｜商品・サービスのニュースリリース｜アットホーム株式会社",
+                                "fb:admins": "2666476466925344",
+                                "canonical": "https://athome-inc.jp/news/release/services/athomeweb-renewal-200712/",
+                                "og:url": "https://athome-inc.jp/news/release/services/athomeweb-renewal-200712/",
+                                "og:description": "掲載なし｜商品・サービスのニュースリリース｜アットホーム株式会社"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://athome-inc.jp/og-icon.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "家電レンタルはマンスリーマンションよりもお得！｜家電レンタル ...",
+                    "htmlTitle": "家電レンタルはマンスリーマンションよりもお得！｜家電レンタル ...",
+                    "link": "https://www.nrg-houjin.jp/kaden/compare/index.html",
+                    "displayLink": "www.nrg-houjin.jp",
+                    "snippet": "家電レンタルとマンスリーマンションの比較を掲載しています。当社は法人様に特化した家電レンタルサービスを提供しています。急な転勤や単身赴任、長期出張などで必要 ...",
+                    "htmlSnippet": "家電レンタルとマンスリーマンションの<b>比較</b>を掲載しています。当社は法人様に特化した家電レンタル<b>サービス</b>を提供しています。急な転勤や単身赴任、長期出張などで必要&nbsp;...",
+                    "cacheId": "WnwJzYbM15QJ",
+                    "formattedUrl": "https://www.nrg-houjin.jp/kaden/compare/index.html",
+                    "htmlFormattedUrl": "https://www.nrg-houjin.jp/kaden/compare/index.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3aTgTU39dNgkKxxLOwhB3ehgUBtGG3jE3fkHxarNeFLkbJi0Xm3GBndHe",
+                                "width": "311",
+                                "height": "162"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "copyright": "日建リース工業株式会社 著作権",
+                                "author": "日建リース工業株式会社"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.nrg-houjin.jp/kaden/compare/img/compare1.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "不動産会社向け物件コンバーターおすすめ14選まとめ - ミカタストア",
+                    "htmlTitle": "不動産会社向け<b>物件</b>コンバーターおすすめ14選まとめ - ミカタストア",
+                    "link": "https://store.f-mikata.jp/best-converter/",
+                    "displayLink": "store.f-mikata.jp",
+                    "snippet": "2023/02/02 ... 株式会社いえらぶGROUPが提供する『いえらぶCLOUD』は6,000店舗以上で利用される物件コンバーターサービスです。 ポータル数も16サイトと比較的多め、連動 ...",
+                    "htmlSnippet": "2023/02/02 <b>...</b> 株式会社いえらぶGROUPが提供する『いえらぶCLOUD』は6,000店舗以上で利用される<b>物件</b>コンバーター<b>サービス</b>です。 ポータル数も16サイトと<b>比較</b>的多め、連動&nbsp;...",
+                    "cacheId": "IU_UWPHrpDwJ",
+                    "formattedUrl": "https://store.f-mikata.jp/best-converter/",
+                    "htmlFormattedUrl": "https://store.f-mikata.jp/best-converter/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKp_bWXkkiPMc7WO4sBVM6nJUlHGQT5FPa9ir0AUffFns7fra2fZKMSA0",
+                                "width": "318",
+                                "height": "159"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://store.f-mikata.jp/wp-content/uploads/2021/03/2.jpg"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://store.f-mikata.jp/wp-content/uploads/2021/03/2.jpg",
+                                "thumbnail": "https://store.f-mikata.jp/wp-content/uploads/2021/03/2.jpg",
+                                "og:type": "article",
+                                "article:published_time": "2021-03-10T18:30:06+09:00",
+                                "og:site_name": "ミカタストア",
+                                "og:title": "不動産会社向け物件コンバーターおすすめ14選まとめ",
+                                "msapplication-tileimage": "https://store.f-mikata.jp/wp-content/uploads/2020/06/cropped-bandicam-2020-05-27-14-28-35-008-270x270.jpg",
+                                "og:description": "本記事ではおすすめ物件コンバーターの費用感や特徴をわかりやすくご紹介しています。",
+                                "article:author": "mikata",
+                                "referrer": "no-referrer-when-downgrade",
+                                "viewport": "width=device-width,initial-scale=1.0,user-scalable=no,viewport-fit=cover",
+                                "og:url": "https://store.f-mikata.jp/best-converter/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://store.f-mikata.jp/wp-content/uploads/2021/03/2.jpg"
+                            }
+                        ],
+                        "hatomfeed": [
+                            {}
+                        ],
+                        "listitem": [
+                            {
+                                "item": "HOME",
+                                "name": "HOME",
+                                "position": "1"
+                            },
+                            {
+                                "item": "サービスまとめ",
+                                "name": "サービスまとめ",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "リースとレンタルの対比 | 株式会社 JECC",
+                    "htmlTitle": "リースとレンタルの対比 | 株式会社 JECC",
+                    "link": "https://www.jecc.com/knowledge/compare/",
+                    "displayLink": "www.jecc.com",
+                    "snippet": "リースとレンタルの違いは何か · リース（ファイナンスリース）とレンタルの相違点 · リース・レンタル相違表 · 商品・サービスに関するお問い合わせ.",
+                    "htmlSnippet": "リースとレンタルの違いは何か &middot; リース（ファイナンスリース）とレンタルの相違点 &middot; リース・レンタル相違表 &middot; <b>商品</b>・<b>サービス</b>に関するお問い合わせ.",
+                    "cacheId": "Oib81TH5GhEJ",
+                    "formattedUrl": "https://www.jecc.com/knowledge/compare/",
+                    "htmlFormattedUrl": "https://www.jecc.com/knowledge/compare/",
+                    "pagemap": {
+                        "thumbnail": [
+                            {
+                                "src": "https://www.jecc.com/app-files/img/symbol/thumbnail.png"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.jecc.com/app-files/img/symbol/ogp.png",
+                                "og:type": "article",
+                                "thumbnail": "https://www.jecc.com/app-files/img/symbol/thumbnail.png",
+                                "og:site_name": "株式会社 JECC",
+                                "viewport": "width=device-width, initial-scale=1, minimum-scale=1.0, user-scalable=yes, shrink-to-fit=no",
+                                "og:title": "リースとレンタルの対比 | 株式会社 JECC",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.jecc.com/knowledge/compare/",
+                                "og:description": "JECCの「リースとレンタルの対比」についてご紹介しています。JECCは、ファイナンスリースやオペレーティングリースなどの豊富なリース・レンタルサービスの提供を通して、お客様のビジネスをサポートします。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.jecc.com/app-files/img/symbol/ogp.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "トップページ",
+                                "name": "トップページ",
+                                "position": "1"
+                            },
+                            {
+                                "item": "リース・レンタルの基礎知識",
+                                "name": "リース・レンタルの基礎知識",
+                                "position": "2"
+                            },
+                            {
+                                "name": "リースとレンタルの対比",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "不動産小口化商品、どう比較する？ 注目すべきポイントを詳しく解説",
+                    "htmlTitle": "不動産小口化<b>商品</b>、どう<b>比較</b>する？ 注目すべきポイントを詳しく解説",
+                    "link": "https://www.azn.co.jp/column/detail.html?itemid=1513&dispmid=904",
+                    "displayLink": "www.azn.co.jp",
+                    "snippet": "2021/11/16 ... しかし、不動産小口化商品を取り扱う事業者・サービスは以前よりも増えて ... 不動産小口化商品では物件の管理・運営は事業者が代行してくれるので丸 ...",
+                    "htmlSnippet": "2021/11/16 <b>...</b> しかし、不動産小口化<b>商品</b>を取り扱う事業者・<b>サービス</b>は以前よりも増えて ... 不動産小口化<b>商品</b>では<b>物件</b>の管理・運営は事業者が代行してくれるので丸&nbsp;...",
+                    "cacheId": "rP48UTudWh0J",
+                    "formattedUrl": "https://www.azn.co.jp/column/detail.html?itemid=1513&dispmid=904",
+                    "htmlFormattedUrl": "https://www.azn.co.jp/column/detail.html?itemid=1513&amp;dispmid=904",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLnq1qXxUZczBsL4h2rQLsmxckIkAPAvoDKuI5biGIdzbO56Ygm-Z4EJu2",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1",
+                                "facebook-domain-verification": "dy29na9ua28ieo2eqiqmylyyfp3v6l"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.azn.co.jp/Portals/0/images/column/SEO%E5%AF%BE%E7%AD%96/%E2%91%B0%E4%B8%8D%E5%8B%95%E7%94%A3%E5%B0%8F%E5%8F%A3%E5%8C%96%E5%95%86%E5%93%81%E3%83%BB%E6%AF%94%E8%BC%83_%E6%8F%A1%E6%89%8B.jpg?1020"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "【最新版】賃貸アパートの光回線おすすめ12社はココ！速度や料金 ...",
+                    "htmlTitle": "【最新版】賃貸アパートの光回線おすすめ12社はココ！速度や料金 ...",
+                    "link": "https://www.prime-strategy.co.jp/media/hikari-apartment/",
+                    "displayLink": "www.prime-strategy.co.jp",
+                    "snippet": "【12社比較】アパートでオススメの光回線5選！ ソフトバンクユーザーなら ... 特定商品・サービスの広告を行う場合には、商品・サービス情報に「PR」表記を記載します。",
+                    "htmlSnippet": "【12社<b>比較</b>】アパートでオススメの光回線5選！ ソフトバンクユーザーなら ... 特定<b>商品</b>・<b>サービス</b>の広告を行う場合には、<b>商品</b>・<b>サービス</b>情報に「PR」表記を記載します。",
+                    "formattedUrl": "https://www.prime-strategy.co.jp/media/hikari-apartment/",
+                    "htmlFormattedUrl": "https://www.prime-strategy.co.jp/media/hikari-apartment/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdoPnYzYg2_MdGJl3aIUKIItLX2922U1fONJiI8w-bNK6KU7faFGPp1Tc",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "website": [
+                            {
+                                "url": "https://www.prime-strategy.co.jp/media/"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://www.prime-strategy.co.jp/media/wp-content/uploads/2017/11/e4d298c51f1e7d4edaabda4743c7932a.jpg"
+                            }
+                        ],
+                        "imageobject": [
+                            {
+                                "width": "740",
+                                "url": "https://www.prime-strategy.co.jp/media/wp-content/uploads/2017/11/e4d298c51f1e7d4edaabda4743c7932a.jpg",
+                                "height": "492"
+                            }
+                        ],
+                        "person": [
+                            {
+                                "name": "プライムインターネット比較 編集部",
+                                "url": "https://www.prime-strategy.co.jp/media/author/ac-design-afe/"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.prime-strategy.co.jp/media/wp-content/uploads/2017/11/e4d298c51f1e7d4edaabda4743c7932a.jpg",
+                                "og:type": "article",
+                                "article:published_time": "2023-06-23T08:00:38+09:00",
+                                "article:section": "光回線",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "【最新版】賃貸アパートの光回線おすすめ12社はココ！速度や料金比較と利用する注意点",
+                                "thumbnail": "https://www.prime-strategy.co.jp/media/wp-content/uploads/2017/11/e4d298c51f1e7d4edaabda4743c7932a.jpg",
+                                "og:site_name": "プライムインターネット比較",
+                                "twitter:domain": "www.prime-strategy.co.jp",
+                                "twitter:url": "https://www.prime-strategy.co.jp/media/hikari-apartment/",
+                                "og:title": "【最新版】賃貸アパートの光回線おすすめ12社はココ！速度や料金比較と利用する注意点",
+                                "msapplication-tileimage": "https://www.prime-strategy.co.jp/media/wp-content/uploads/2023/03/cropped-prime_favicon-2-270x270.png",
+                                "og:description": "アパートでも対応物件や工事の許可が取れる場合は、光回線が契約できます。ただし、アパートの回線状況によっては契約できる光回線が決まっていたり、工事不要で無料のインターネットが使えたりするパターンもあるので、まずは管理会社や大家さんに確認しまし",
+                                "twitter:image": "https://www.prime-strategy.co.jp/media/wp-content/uploads/2017/11/e4d298c51f1e7d4edaabda4743c7932a.jpg",
+                                "article:tag": "おすすめ・比較",
+                                "referrer": "no-referrer-when-downgrade",
+                                "article:modified_time": "2023-06-23T08:00:38+09:00",
+                                "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover",
+                                "twitter:description": "アパートでも対応物件や工事の許可が取れる場合は、光回線が契約できます。ただし、アパートの回線状況によっては契約できる光回線が決まっていたり、工事不要で無料のインターネットが使えたりするパターンもあるので、まずは管理会社や大家さんに確認しまし",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.prime-strategy.co.jp/media/hikari-apartment/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.prime-strategy.co.jp/media/wp-content/uploads/2017/11/e4d298c51f1e7d4edaabda4743c7932a.jpg"
+                            }
+                        ],
+                        "hatomfeed": [
+                            {}
+                        ],
+                        "blog": [
+                            {
+                                "datemodified": "2023-06-23T08:00:38+09:00",
+                                "datepublished": "2023-06-23T08:00:38+09:00"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "インターネット 比較",
+                                "name": "インターネット 比較",
+                                "position": "1"
+                            },
+                            {
+                                "item": "インターネット",
+                                "name": "インターネット",
+                                "position": "2"
+                            },
+                            {
+                                "item": "光回線",
+                                "name": "光回線",
+                                "position": "3"
+                            },
+                            {
+                                "item": "【最新版】賃貸アパートの光回線おすすめ12社はココ！速度や料金比較と利用する注意点",
+                                "name": "【最新版】賃貸アパートの光回線おすすめ12社はココ！速度や料金比較と利用する注意点",
+                                "position": "4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "会社概要| 太陽光発電の見積もり・価格比較サービス【エコ発】",
+                    "htmlTitle": "会社概要| 太陽光発電の見積もり・価格<b>比較サービス</b>【エコ発】",
+                    "link": "https://www.eco-hatsu.com/management-company/",
+                    "displayLink": "www.eco-hatsu.com",
+                    "snippet": "事業内容: WEBサイト企画・開発・デザインデジタルコンテンツによるビジネスサービスの企画・提案企画・商品 ... 投資用太陽光発電所の物件検索サービス【メガ発】. https:// ...",
+                    "htmlSnippet": "事業内容: WEBサイト企画・開発・デザインデジタルコンテンツによるビジネス<b>サービス</b>の企画・提案企画・<b>商品</b> ... 投資用太陽光発電所の<b>物件</b>検索<b>サービス</b>【メガ発】. https://&nbsp;...",
+                    "cacheId": "4sMnuBORup4J",
+                    "formattedUrl": "https://www.eco-hatsu.com/management-company/",
+                    "htmlFormattedUrl": "https://www.eco-hatsu.com/management-company/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTd0Q58CrzLdMe_7kDEegis2HJGmE7gxOlrjG14ftoNII6alXsWu_bdnjE",
+                                "width": "260",
+                                "height": "60"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.eco-hatsu.com/wp-content/themes/tmp2/images/ecohatsu_logo.svg",
+                                "og:type": "article",
+                                "article:published_time": "2022-07-21T21:42:44+00:00",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "会社概要| 太陽光発電の見積もり・価格比較サービス【エコ発】",
+                                "og:site_name": "太陽光発電の見積もり・価格比較サービス【エコ発】 | 太陽光発電の見積もり価格比較ならエコ発にお任せ！",
+                                "og:title": "会社概要| 太陽光発電の見積もり・価格比較サービス【エコ発】",
+                                "google": "nositelinkssearchbox",
+                                "twitter:creator": "@ecohatsu33",
+                                "og:image:secure_url": "https://www.eco-hatsu.com/wp-content/themes/tmp2/images/ecohatsu_logo.svg",
+                                "article:publisher": "https://www.facebook.com/eko.fa.98/",
+                                "twitter:image": "https://www.eco-hatsu.com/wp-content/themes/tmp2/images/ecohatsu_logo.svg",
+                                "twitter:site": "@ecohatsu33",
+                                "article:modified_time": "2022-07-25T23:14:33+00:00",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.eco-hatsu.com/management-company/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.eco-hatsu.com/wp-content/themes/tmp2/images/ecohatsu_logo.svg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "エコ発",
+                                "name": "エコ発",
+                                "position": "1"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "マンションレビュー運営者について ｜マンションレビュー",
+                    "htmlTitle": "マンションレビュー運営者について ｜マンションレビュー",
+                    "link": "https://www.mansion-review.jp/company/",
+                    "displayLink": "www.mansion-review.jp",
+                    "snippet": "そんな中、CGM（Consumer Generated Media）がにわかに脚光を浴びております。 消費者からの情報発信、消費者同士の情報交換が活発化し、商品やサービスの評価が簡単に比較 ...",
+                    "htmlSnippet": "そんな中、CGM（Consumer Generated Media）がにわかに脚光を浴びております。 消費者からの情報発信、消費者同士の情報交換が活発化し、<b>商品</b>や<b>サービス</b>の評価が簡単に<b>比較</b>&nbsp;...",
+                    "cacheId": "8O4fJSuvsx0J",
+                    "formattedUrl": "https://www.mansion-review.jp/company/",
+                    "htmlFormattedUrl": "https://www.mansion-review.jp/company/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQg8lLOE85toDBDE-4nCXBa476H01AcMl4CygVtoOZ8G0d-fXb6XH5TnPc",
+                                "width": "150",
+                                "height": "150"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.mansion-review.jp/images/common/logo_150150.png",
+                                "og:type": "article",
+                                "twitter:card": "summary",
+                                "og:site_name": "マンション価格情報サイト｜マンションレビュー",
+                                "twitter:site": "@mansion_review",
+                                "viewport": "width=device-width,user-scalable=no,maximum-scale=1,initial-scale=1.0",
+                                "msvalidate.01": "9105EF79C798FD4C9DAB9A49BF701367",
+                                "og:title": "マンションレビュー運営者について 　｜マンションレビュー",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.mansion-review.jp/company/",
+                                "og:description": "マンションレビューは(株)ワンノブアカインドが運営しています。（株）ワンノブアカインドの会社概要を記載しております。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.mansion-review.jp/images/common/logo_150150.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "不動産投資クラウドファンディングとは？仕組みや他商品との違い ...",
+                    "htmlTitle": "不動産投資クラウドファンディングとは？仕組みや他<b>商品</b>との違い ...",
+                    "link": "https://creal.jp/blogs/crowd-funding/1982/",
+                    "displayLink": "creal.jp",
+                    "snippet": "2023/04/18 ... ... サービスです。本記事では、J-REIT ... 比較的価格が安い区分マンションでも、都内の物件であれば1,000万円を ...",
+                    "htmlSnippet": "2023/04/18 <b>...</b> ... <b>サービス</b>です。本記事では、J-REIT ... <b>比較</b>的価格が安い区分マンションでも、都内の<b>物件</b>であれば1,000万円を&nbsp;...",
+                    "cacheId": "dTgOc7t7sxoJ",
+                    "formattedUrl": "https://creal.jp/blogs/crowd-funding/1982/",
+                    "htmlFormattedUrl": "https://creal.jp/blogs/crowd-funding/1982/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2ZczpLlqBym5-Y3RNG2dcC8wlAl7WZ-i68BTV1yEg7fw3gilYdATxjek7",
+                                "width": "259",
+                                "height": "194"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://storage.googleapis.com/creal-production-blog/2023/04/48e44e4a-thumbnail_01_4x3.jpg",
+                                "og:type": "article",
+                                "article:published_time": "2023-04-18T00:57:43+00:00",
+                                "og:image:width": "1280",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "不動産投資クラウドファンディング CREAL（クリアル）",
+                                "author": "oonishi",
+                                "og:title": "不動産投資クラウドファンディングとは？仕組みや他商品との違い、始め方について解説 | 不動産投資クラウドファンディング CREAL（クリアル）",
+                                "og:image:height": "960",
+                                "twitter:label1": "執筆者",
+                                "twitter:label2": "推定読み取り時間",
+                                "og:image:type": "image/jpeg",
+                                "og:description": "不動産投資クラウドファンディングは、インターネットを通じて不特定多数の投資家から資金を集め、その資金をもとに不動産投資を行うサービスです。本記事では、J-REIT、現物不動産投資、ソーシャルレンディングなど他の商品との違いも解説します。",
+                                "twitter:data1": "oonishi",
+                                "twitter:data2": "18分",
+                                "article:modified_time": "2023-06-16T06:53:34+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:locale": "ja_JP",
+                                "position": "1",
+                                "og:url": "https://creal.jp/blogs/crowd-funding/1982/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://storage.googleapis.com/creal-production-blog/2023/04/48e44e4a-thumbnail_01_4x3.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "リース／割賦｜商品・サービス｜北海道リース株式会社",
+                    "htmlTitle": "リース／割賦｜<b>商品</b>・<b>サービス</b>｜北海道リース株式会社",
+                    "link": "https://www.do-lease.co.jp/service/lease-installment/",
+                    "displayLink": "www.do-lease.co.jp",
+                    "snippet": "リース お客様の目的・用途に応じて選定した機械設備等を、当社がお客様に代わって購入し、その物件をお客様に比較的長期にわたって賃貸する取引です。",
+                    "htmlSnippet": "リース お客様の目的・用途に応じて選定した機械設備等を、当社がお客様に代わって購入し、その<b>物件</b>をお客様に<b>比較</b>的長期にわたって賃貸する取引です。",
+                    "cacheId": "x-rzLhqLTk4J",
+                    "formattedUrl": "https://www.do-lease.co.jp/service/lease-installment/",
+                    "htmlFormattedUrl": "https://www.do-lease.co.jp/service/lease-installment/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ZN44kD1z0H_KCj2tcYA0KNc5e4AVVjvosAHWiNx81AcQydeO0IkfrVg",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.do-lease.co.jp/archives/001/201903/fe556c761e1eaf5cbffc82aaf26884de.jpg",
+                                "og:type": "article",
+                                "twitter:title": "リース／割賦｜リース／割賦｜商品・サービス｜北海道リース株式会社｜北海道リース株式会社",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "北海道リース",
+                                "twitter:domain": "www.do-lease.co.jp",
+                                "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover",
+                                "og:title": "リース／割賦｜リース／割賦｜商品・サービス｜北海道リース株式会社",
+                                "csrf-token": "5d4cfa59149dae224efcb73f59df7ce3c60c08d08a3d244a2ce4f744c97cc359",
+                                "og:url": "https://www.do-lease.co.jp/service/lease-installment/",
+                                "og:description": "リース お客様の目的・用途に応じて選定した機械設備等を、当社がお客様に代わって購入し、その物件をお客様に比較的長期にわたって賃貸する取引です。 北海道リースは、他社とどう違うの？ 品揃えの豊富さ！ 通...",
+                                "twitter:image": "https://www.do-lease.co.jp/archives/001/201903/fe556c761e1eaf5cbffc82aaf26884de.jpg"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.do-lease.co.jp/archives/001/201903/fe556c761e1eaf5cbffc82aaf26884de.jpg"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

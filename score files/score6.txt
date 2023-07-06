@@ -1,0 +1,12 @@
+Query: 商品・サービス セキュリティポリシー
+
+[0.0,	https://jp.ricoh.com/security/management/outline]
+[0.0,	https://group.ntt/jp/g_policy/]
+[0.0,	https://pxvalue.com/securitypolicy/]
+[0.0,	https://group.kadokawa.co.jp/security_policy/]
+[0.47229774173530875,	https://www.kcs.co.jp/securitypolicy/]
+[0.18946290638133084,	https://www.netztochigi.co.jp/corporate/infosec]
+[0.0,	https://www.kcs.co.jp/service/datacenter/detail_2966.html]
+[0.0,	https://www.admatechs.co.jp/security.html]
+[0.0,	https://www.kcs.co.jp/managementpolicy/]
+[0.0,	https://www.aoyoshi.co.jp/security_policy/]

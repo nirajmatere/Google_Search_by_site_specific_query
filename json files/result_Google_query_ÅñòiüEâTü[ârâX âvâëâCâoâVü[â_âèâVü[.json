@@ -1,0 +1,1206 @@
+{
+    "query": "商品・サービス プライバシーポリシー",
+    "links": [
+        [
+            "https://www.furyu.jp/privacy.html",
+            "https://www.pokemon.co.jp/privacy/",
+            "https://www.spglobal.com/en/privacy/privacy-policy-japanese",
+            "https://www.ana.co.jp/wws/privacy/j/ana.html",
+            "https://www.tokio-mednet.co.jp/company/privacy.html",
+            "https://www.livero.co.jp/service-privacy",
+            "https://www.mizkanholdings.com/ja/privacy/",
+            "https://www.nsis-net.com/companyprofile/privacypolicy.html",
+            "https://www.ntt.com/about-us/hp/privacy.html",
+            "https://www.sej.co.jp/privacy_policy.html"
+        ],
+        [
+            "https://www.sony.co.jp/privacy-policy/",
+            "https://www.isuzu-ils.co.jp/privacy/",
+            "https://www.tts-kk.co.jp/common/privacy.html",
+            "https://www.odakyu.jp/privacy/",
+            "https://carservice.co.jp/privacy/",
+            "https://cookpad.com/terms/privacy",
+            "https://www.docomo.ne.jp/utility/privacy/",
+            "https://www.yakult.co.jp/privacypolicy/",
+            "https://sinseido-co.jp/privacy.php",
+            "https://www.buffalo.jp/support/other/privacy.html"
+        ],
+        [
+            "https://policies.google.com/privacy?hl=ja",
+            "https://www.capcom.co.jp/privacy/game/jp.html",
+            "https://wester.jr-odekake.net/terms/privacypolicy/",
+            "https://www.service.ntt-east.co.jp/policy.html",
+            "https://terms2.line.me/LGAPP_privacy?lang=ja",
+            "https://www.aeonfinancial.co.jp/activity/governance/privacy/",
+            "https://www.jp.square-enix.com/privacy/",
+            "https://www.mos.jp/privacy/",
+            "https://mobile.dmp.idemitsu.com/wv/privacypolicy.html",
+            "https://www.nikkei.co.jp/digitalmedia/privacy.html"
+        ]
+    ],
+    "snapshot_ymd": "D2023-06-23",
+    "snapshot_timestamp": "D2023-06-23T01-28-52",
+    "responses": [
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "request": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス プライバシーポリシー",
+                        "totalResults": "345000000",
+                        "searchTerms": "商品・サービス プライバシーポリシー",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス プライバシーポリシー",
+                        "totalResults": "345000000",
+                        "searchTerms": "商品・サービス プライバシーポリシー",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.370765,
+                "formattedSearchTime": "0.37",
+                "totalResults": "345000000",
+                "formattedTotalResults": "345,000,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー | フリュー株式会社",
+                    "htmlTitle": "<b>プライバシーポリシー</b> | フリュー株式会社",
+                    "link": "https://www.furyu.jp/privacy.html",
+                    "displayLink": "www.furyu.jp",
+                    "snippet": "当社が提供する商品・サービスにより、別途「プライバシーポリシー」を定めている場合や、追加の規定を定めている場合がありますのでご了承ください。 1. 当社がお客様から ...",
+                    "htmlSnippet": "当社が提供する<b>商品</b>・<b>サービス</b>により、別途「<b>プライバシーポリシー</b>」を定めている場合や、追加の規定を定めている場合がありますのでご了承ください。 1. 当社がお客様から&nbsp;...",
+                    "cacheId": "ylihwYLRWkYJ",
+                    "formattedUrl": "https://www.furyu.jp/privacy.html",
+                    "htmlFormattedUrl": "https://www.furyu.jp/privacy.html",
+                    "pagemap": {
+                        "BreadcrumbList": [
+                            {
+                                "position": "1"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://static.furyu.jp/wp-content/uploads/2020/08/25174647/news_thumb_FURYU-1.jpg",
+                                "thumbnail": "https://www.furyu.jp/wp-content/themes/renewal_theme/img/top/img_w750t464_1.jpg",
+                                "og:type": "article",
+                                "og:image:width": "400",
+                                "article:published_time": "2019-03-12T06:45:27+00:00",
+                                "twitter:card": "summary",
+                                "twitter:title": "プライバシーポリシー | フリュー株式会社",
+                                "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+                                "og:site_name": "フリュー株式会社",
+                                "og:title": "プライバシーポリシー | フリュー株式会社",
+                                "og:image:height": "400",
+                                "msapplication-tileimage": "https://static.furyu.jp/wp-content/uploads/2021/02/17104325/favicon-1.ico",
+                                "og:image:secure_url": "https://static.furyu.jp/wp-content/uploads/2020/08/25174647/news_thumb_FURYU-1.jpg",
+                                "twitter:image": "https://static.furyu.jp/wp-content/uploads/2020/08/25174647/news_thumb_FURYU-1.jpg",
+                                "article:modified_time": "2023-06-05T06:33:48+00:00",
+                                "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=yes",
+                                "og:locale": "ja_JP",
+                                "position": "1",
+                                "og:url": "https://www.furyu.jp/privacy.html"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー｜ポケットモンスターオフィシャルサイト",
+                    "htmlTitle": "<b>プライバシーポリシー</b>｜ポケットモンスターオフィシャルサイト",
+                    "link": "https://www.pokemon.co.jp/privacy/",
+                    "displayLink": "www.pokemon.co.jp",
+                    "snippet": "2022/06/17 ... お客様がポケモングループの商品・サービスをご利用いただくには、本プライバシーポリシーの内容を十分ご理解のうえ、ご同意いただく必要があります。",
+                    "htmlSnippet": "2022/06/17 <b>...</b> お客様がポケモングループの<b>商品</b>・<b>サービス</b>をご利用いただくには、本<b>プライバシーポリシー</b>の内容を十分ご理解のうえ、ご同意いただく必要があります。",
+                    "cacheId": "MHR8yqrf4OMJ",
+                    "formattedUrl": "https://www.pokemon.co.jp/privacy/",
+                    "htmlFormattedUrl": "https://www.pokemon.co.jp/privacy/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "og:image": "https://www.pokemon.co.jp/common/images/ogp/tpc_logo.png",
+                                "theme-color": "#489FE6",
+                                "twitter:card": "summary_large_image",
+                                "og:type": "article",
+                                "fb:app_id": "196376567077608",
+                                "twitter:site": "@Pokemon_cojp",
+                                "og:site_name": "ポケットモンスターオフィシャルサイト",
+                                "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes",
+                                "og:title": "プライバシーポリシー｜ポケットモンスターオフィシャルサイト",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.pokemon.co.jp/privacy/",
+                                "og:description": "ポケットモンスターオフィシャルサイトはポケモンに関する最新情報をいち早く知ることができる、ポケモンの総合公式サイト。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.pokemon.co.jp/common/images/ogp/tpc_logo.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "グローバル・コーポレート・プライバシー・ポリシー | S&P Global",
+                    "htmlTitle": "グローバル・コーポレート・<b>プライバシー</b>・<b>ポリシー</b> | S&amp;P Global",
+                    "link": "https://www.spglobal.com/en/privacy/privacy-policy-japanese",
+                    "displayLink": "www.spglobal.com",
+                    "snippet": "... サービス」という）、あるいは当社がお客様やお客様の雇用主から商品・サービスの提供を受ける場合に適用されます。 プライバシーの権利および義務は一部の場所 ...",
+                    "htmlSnippet": "... サービス」という）、あるいは当社がお客様やお客様の雇用主から<b>商品</b>・<b>サービス</b>の提供を受ける場合に適用されます。 <b>プライバシー</b>の権利および義務は一部の場所&nbsp;...",
+                    "cacheId": "hIopQme_EPsJ",
+                    "formattedUrl": "https://www.spglobal.com/en/privacy/privacy-policy-japanese",
+                    "htmlFormattedUrl": "https://www.spglobal.com/en/privacy/privacy-policy-japanese",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,initial-scale=1",
+                                "asset_id": "2635296",
+                                "title": "グローバル・コーポレート・プライバシー・ポリシー",
+                                "og:url": "https://www.spglobal.com/en/privacy/privacy-policy-japanese",
+                                "asset_branch_id": "1330600"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "ANAプライバシーポリシー | ANA",
+                    "htmlTitle": "ANA<b>プライバシーポリシー</b> | ANA",
+                    "link": "https://www.ana.co.jp/wws/privacy/j/ana.html",
+                    "displayLink": "www.ana.co.jp",
+                    "snippet": "2022/11/01 ... お客様に関する個人情報（ANA ・ANAグループ会社等のサービス・商品の利用状況やANAウェブサイトやモバイルアプリの閲覧履歴等の分析データ等）について、 ...",
+                    "htmlSnippet": "2022/11/01 <b>...</b> お客様に関する個人情報（ANA ・ANAグループ会社等の<b>サービス</b>・<b>商品</b>の利用状況やANAウェブサイトやモバイルアプリの閲覧履歴等の分析データ等）について、&nbsp;...",
+                    "cacheId": "RRROB2zhGSYJ",
+                    "formattedUrl": "https://www.ana.co.jp/wws/privacy/j/ana.html",
+                    "htmlFormattedUrl": "https://www.ana.co.jp/wws/privacy/j/ana.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPxnE8bfNHwYB3zz9MXUNk52b29KVT6lXXnwNWTEyRcz4kAvZ98TaeWO4",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.ana.co.jp/common/image/og/default.jpg",
+                                "og:type": "website",
+                                "twitter:card": "summary",
+                                "og:site_name": "ANA公式サイト",
+                                "og:title": "ANAプライバシーポリシー | ANA",
+                                "og:description": "【ANA公式サイト】ANAプライバシーポリシー。サイトに関するお問い合わせやヘルプ、各種約款についてご案内しております。旅の計画・準備はANAのホームページで。",
+                                "article:publisher": "https://www.facebook.com/ana.japan/",
+                                "fb:app_id": "111467389703752",
+                                "twitter:site": "@ANA_travel_info",
+                                "viewport": "width=device-width",
+                                "og:locale": "ja_jp",
+                                "og:url": "https://www.ana.co.jp/wws/privacy/j/ana.html",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.ana.co.jp/common/image/og/default.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー | 東京海上日動メディカルサービス株式会社",
+                    "htmlTitle": "<b>プライバシーポリシー</b> | 東京海上日動メディカル<b>サービス</b>株式会社",
+                    "link": "https://www.tokio-mednet.co.jp/company/privacy.html",
+                    "displayLink": "www.tokio-mednet.co.jp",
+                    "snippet": "(15)他の事業者、研究機関等と共同して行う研究、新たな商品・サービスの開発、ならびに既存の弊社商品・サービスの品質向上（個々のお客様に係る情報の集約および当該情報 ...",
+                    "htmlSnippet": "(15)他の事業者、研究機関等と共同して行う研究、新たな<b>商品</b>・<b>サービス</b>の開発、ならびに既存の弊社<b>商品</b>・<b>サービス</b>の品質向上（個々のお客様に係る情報の集約および当該情報&nbsp;...",
+                    "cacheId": "yE1qe7tipuYJ",
+                    "formattedUrl": "https://www.tokio-mednet.co.jp/company/privacy.html",
+                    "htmlFormattedUrl": "https://www.tokio-mednet.co.jp/company/privacy.html",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "og:image": "https://www.tokio-mednet.co.jp/images/ogimage.jpg",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "プライバシーポリシー | 東京海上日動メディカルサービス株式会社",
+                                "og:site_name": "東京海上日動メディカルサービス株式会社",
+                                "og:title": "プライバシーポリシー | 東京海上日動メディカルサービス株式会社",
+                                "og:description": "東京海上日動メディカルサービスのプライバシーポリシーについて、個人情報保護に関する基本方針などをご案内しています。",
+                                "twitter:image": "https://www.tokio-mednet.co.jp/images/ogimage.jpg",
+                                "twitter:site": "@",
+                                "viewport": "width=device-width,initial-scale=1",
+                                "twitter:description": "東京海上日動メディカルサービスのプライバシーポリシーについて、個人情報保護に関する基本方針などをご案内しています。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.tokio-mednet.co.jp/company/privacy.html"
+                            }
+                        ],
+                        "webpage": [
+                            {
+                                "image": "https://www.tokio-mednet.co.jp/images/ogimage.jpg",
+                                "description": "東京海上日動メディカルサービス株式会社 プライバシーポリシー",
+                                "url": "https://www.tokio-mednet.co.jp/company/privacy.html"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.tokio-mednet.co.jp/images/ogimage.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "サービス・プライバシーポリシー｜株式会社リベロ Livero, Inc.",
+                    "htmlTitle": "<b>サービス</b>・<b>プライバシーポリシー</b>｜株式会社リベロ Livero, Inc.",
+                    "link": "https://www.livero.co.jp/service-privacy",
+                    "displayLink": "www.livero.co.jp",
+                    "snippet": "による商品又はサービス（以下「提携サービス等」といいます。）の提供に伴い取得したお客様に関する情報であって、本ポリシーに基づき当社が収集するものをいいます ...",
+                    "htmlSnippet": "による<b>商品</b>又は<b>サービス</b>（以下「提携<b>サービス</b>等」といいます。）の提供に伴い取得したお客様に関する情報であって、本<b>ポリシー</b>に基づき当社が収集するものをいいます&nbsp;...",
+                    "cacheId": "dHYUL0O5acEJ",
+                    "formattedUrl": "https://www.livero.co.jp/service-privacy",
+                    "htmlFormattedUrl": "https://www.livero.co.jp/service-privacy",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTARPBOPIM3JVQWEbYziA_baCGE3bnjeK5uvbyUzKJF-2xBEwgmJHVbyyPs",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.livero.co.jp/corporate/corp_assets/img/ogp/ogp1200_630_newlogo.png",
+                                "og:type": "website",
+                                "og:site_name": "株式会社リベロ Livero, Inc.",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "サービス・プライバシーポリシー｜株式会社リベロ Livero, Inc.",
+                                "og:url": "https://www.livero.co.jp/service-privacy",
+                                "og:description": "株式会社リベロのサービス・プライバシーポリシー。リベロは新生活コンサルティング企業です。新生活に関わるすべての人を支えるために。目指したのはオールユーザーファースト。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.livero.co.jp/corporate/corp_assets/img/ogp/ogp1200_630_newlogo.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー | MIZKAN GLOBAL",
+                    "htmlTitle": "<b>プライバシーポリシー</b> | MIZKAN GLOBAL",
+                    "link": "https://www.mizkanholdings.com/ja/privacy/",
+                    "displayLink": "www.mizkanholdings.com",
+                    "snippet": "【利用目的】. ミツカングループ又は第三者の商品・権利・サービス等の販売、配送、支払に係る業務の遂行; キャンペーン情報 ...",
+                    "htmlSnippet": "【利用目的】. ミツカングループ又は第三者の<b>商品</b>・権利・<b>サービス</b>等の販売、配送、支払に係る業務の遂行; キャンペーン情報&nbsp;...",
+                    "cacheId": "Mo4083Lq-KsJ",
+                    "formattedUrl": "https://www.mizkanholdings.com/ja/privacy/",
+                    "htmlFormattedUrl": "https://www.mizkanholdings.com/ja/privacy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1ySXX0BoWzRD3y02NZC1sVEJlalA9k9VUAlLTF9aIypyoN7c0dkv21kI",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.mizkanholdings.com/asset/common/images/ogp.png",
+                                "og:type": "article",
+                                "og:site_name": "MIZKAN GLOBAL",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "【ミツカン】プライバシーポリシー",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.mizkanholdings.com/ja/privacy/",
+                                "og:description": "ミツカンの「プライバシーポリシー」を掲載しています。",
+                                "format-detection": "email=no, telephone=no, address=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.mizkanholdings.com/asset/common/images/ogp.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー|会社案内|日鉄保険サービス株式会社",
+                    "htmlTitle": "<b>プライバシーポリシー</b>|会社案内|日鉄保険<b>サービス</b>株式会社",
+                    "link": "https://www.nsis-net.com/companyprofile/privacypolicy.html",
+                    "displayLink": "www.nsis-net.com",
+                    "snippet": "当社は⼗分な安全管理措置を講じた上で、業務上必要な範囲で、適法かつ公正な⼿段により個⼈情報を取得します。 当社は、保険契約の申込書、保険⾦請求書、取引書類、 ...",
+                    "htmlSnippet": "当社は⼗分な安全管理措置を講じた上で、業務上必要な範囲で、適法かつ公正な⼿段により個⼈情報を取得します。 当社は、保険契約の申込書、保険⾦請求書、取引書類、&nbsp;...",
+                    "cacheId": "xLF-CZcBST4J",
+                    "formattedUrl": "https://www.nsis-net.com/companyprofile/privacypolicy.html",
+                    "htmlFormattedUrl": "https://www.nsis-net.com/companyprofile/privacypolicy.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrfSsbyfjtFs8um323DNh_2WIKXbqZz2b5vCfd1LboE_IituoAt3gUs9Vh",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.nsis-net.com/img/common/ogp.jpg",
+                                "og:type": "website",
+                                "twitter:card": "summary",
+                                "og:site_name": "日鉄保険サービス株式会社",
+                                "twitter:site": "日鉄保険サービス株式会社",
+                                "viewport": "width=device-width",
+                                "og:title": "プライバシーポリシー|会社案内|日鉄保険サービス株式会社",
+                                "og:url": "https://www.nsis-net.com/companyprofile/privacypolicy.html",
+                                "og:description": "日鉄保険サービス株式会社は、新日鐵グループと住友金属グループの企業や従業員の保険を取り扱ってきた会社が統合し、2012年10月、日本製鉄グループの保険代理店として新たに誕生した会社です。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.nsis-net.com/img/common/ogp.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー｜ドコモビジネス｜NTTコミュニケーションズ ...",
+                    "htmlTitle": "<b>プライバシーポリシー</b>｜ドコモビジネス｜NTTコミュニケーションズ ...",
+                    "link": "https://www.ntt.com/about-us/hp/privacy.html",
+                    "displayLink": "www.ntt.com",
+                    "snippet": "お客さまにお勧めする商品・サービス・コンテンツ等のご案内のため; お客さまに適した当社および他社の広告の表示・配信のため. サービス・商品等の確実・安定的な提供に ...",
+                    "htmlSnippet": "お客さまにお勧めする<b>商品</b>・<b>サービス</b>・コンテンツ等のご案内のため; お客さまに適した当社および他社の広告の表示・配信のため. サービス・商品等の確実・安定的な提供に&nbsp;...",
+                    "cacheId": "R9yui4GcM4UJ",
+                    "formattedUrl": "https://www.ntt.com/about-us/hp/privacy.html",
+                    "htmlFormattedUrl": "https://www.ntt.com/about-us/hp/privacy.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUGw27YtogussnHtznv6gj-uvTeWjLvkUcYgMQZ_05swaPfM_WooMY7CeM",
+                                "width": "310",
+                                "height": "162"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.ntt.com/content/dam/nttcom/hq/cmn/img/logo-ogp-1200-630_w.png",
+                                "og:type": "article",
+                                "twitter:card": "summary",
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+                                "og:title": "プライバシーポリシー｜ドコモビジネス｜NTTコミュニケーションズ 企業情報",
+                                "title": "プライバシーポリシー｜ドコモビジネス｜NTTコミュニケーションズ 企業情報",
+                                "og:description": "ドコモビジネス NTTコミュニケーションズのプライバシーポリシーページです。NTTコミュニケーションズはお客さまの個人情報（氏名,生年月日,住所,お申し込みのサービス内容等）の保護に関し、CSOを個人情報管理責任者として取組みを実施いたしております。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.ntt.com/content/dam/nttcom/hq/cmn/img/logo-ogp-1200-630_w.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "企業情報",
+                                "name": "企業情報",
+                                "position": "1"
+                            },
+                            {
+                                "item": "サイトのご利用条件",
+                                "name": "サイトのご利用条件",
+                                "position": "2"
+                            },
+                            {
+                                "name": "プライバシーポリシー",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー｜セブン‐イレブン～近くて便利～",
+                    "htmlTitle": "<b>プライバシーポリシー</b>｜セブン‐イレブン～近くて便利～",
+                    "link": "https://www.sej.co.jp/privacy_policy.html",
+                    "displayLink": "www.sej.co.jp",
+                    "snippet": "プライバシーポリシー. 個人情報の保護に関する方針を以下の通り定め、社内体制の ... 商品・サービスの売上・お客様動向等の分析のため; ⑩上記利用目的に付随する利用 ...",
+                    "htmlSnippet": "<b>プライバシーポリシー</b>. 個人情報の保護に関する方針を以下の通り定め、社内体制の ... <b>商品</b>・<b>サービス</b>の売上・お客様動向等の分析のため; ⑩上記利用目的に付随する利用&nbsp;...",
+                    "cacheId": "Z7FAe_cRpSUJ",
+                    "formattedUrl": "https://www.sej.co.jp/privacy_policy.html",
+                    "htmlFormattedUrl": "https://www.sej.co.jp/privacy_policy.html",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "セブン‐イレブン～近くて便利～",
+                                "twitter:site": "@711SEJ",
+                                "viewport": "width=device-width, user-scalable=no, initial-scale=1, minimum-scale=1, maximum-scale=1",
+                                "og:title": "プライバシーポリシー",
+                                "fb:admins": "100002565254111",
+                                "og:url": "https://www.sej.co.jp/privacy_policy.html",
+                                "og:description": "セブン‐イレブン・ジャパン"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス プライバシーポリシー",
+                        "totalResults": "345000000",
+                        "searchTerms": "商品・サービス プライバシーポリシー",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス プライバシーポリシー",
+                        "totalResults": "345000000",
+                        "searchTerms": "商品・サービス プライバシーポリシー",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス プライバシーポリシー",
+                        "totalResults": "345000000",
+                        "searchTerms": "商品・サービス プライバシーポリシー",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.173187,
+                "formattedSearchTime": "0.17",
+                "totalResults": "345000000",
+                "formattedTotalResults": "345,000,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "ソニー株式会社 | プライバシーポリシー",
+                    "htmlTitle": "ソニー株式会社 | <b>プライバシーポリシー</b>",
+                    "link": "https://www.sony.co.jp/privacy-policy/",
+                    "displayLink": "www.sony.co.jp",
+                    "snippet": "ソニー株式会社コーポレートプライバシーポリシー. ソニー株式会社は、お客様により良い商品・サービスをご提供するにあたり、お客様の個人情報を、お客様の大切な資産 ...",
+                    "htmlSnippet": "ソニー株式会社コーポレート<b>プライバシーポリシー</b>. ソニー株式会社は、お客様により良い<b>商品</b>・<b>サービス</b>をご提供するにあたり、お客様の個人情報を、お客様の大切な資産&nbsp;...",
+                    "cacheId": "bn4ejVDi7lAJ",
+                    "formattedUrl": "https://www.sony.co.jp/privacy-policy/",
+                    "htmlFormattedUrl": "https://www.sony.co.jp/privacy-policy/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, user-scalable=yes"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "いすゞリーシングサービス：プライバシーポリシー",
+                    "htmlTitle": "いすゞリーシング<b>サービス</b>：<b>プライバシーポリシー</b>",
+                    "link": "https://www.isuzu-ils.co.jp/privacy/",
+                    "displayLink": "www.isuzu-ils.co.jp",
+                    "snippet": "プライバシーポリシー. いすゞリーシングサービス株式会社（以下「当社」という）がお客様に商品、サービス等をご提供するにあたり、個人情報を提供していただくことが ...",
+                    "htmlSnippet": "<b>プライバシーポリシー</b>. いすゞリーシングサービス株式会社（以下「当社」という）がお客様に<b>商品</b>、<b>サービス</b>等をご提供するにあたり、個人情報を提供していただくことが&nbsp;...",
+                    "cacheId": "S5yZ9tvcgY0J",
+                    "formattedUrl": "https://www.isuzu-ils.co.jp/privacy/",
+                    "htmlFormattedUrl": "https://www.isuzu-ils.co.jp/privacy/"
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー | 東京都市サービス株式会社",
+                    "htmlTitle": "<b>プライバシーポリシー</b> | 東京都市<b>サービス</b>株式会社",
+                    "link": "https://www.tts-kk.co.jp/common/privacy.html",
+                    "displayLink": "www.tts-kk.co.jp",
+                    "snippet": "当社の個人情報の利用目的 · 設備等の建設・保守・保全および附帯する業務 · 契約の締結・履行 · アフターサービスおよび商品・サービスの改善・開発 · アンケートの実施 · 商品 ...",
+                    "htmlSnippet": "当社の個人情報の利用目的 &middot; 設備等の建設・保守・保全および附帯する業務 &middot; 契約の締結・履行 &middot; アフターサービスおよび<b>商品</b>・<b>サービス</b>の改善・開発 &middot; アンケートの実施 &middot; 商品&nbsp;...",
+                    "cacheId": "Tj6vBl-H0jAJ",
+                    "formattedUrl": "https://www.tts-kk.co.jp/common/privacy.html",
+                    "htmlFormattedUrl": "https://www.tts-kk.co.jp/common/privacy.html",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "viewport": "width=960",
+                                "format-detection": "telephone=no"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "個人情報保護方針｜小田急電鉄",
+                    "htmlTitle": "個人情報保護方針｜小田急電鉄",
+                    "link": "https://www.odakyu.jp/privacy/",
+                    "displayLink": "www.odakyu.jp",
+                    "snippet": "なお、以下の商品・サービスについては、本方針のほか、各ウェブサイト内のプライバシーポリシーまたは会員規約をご参照ください。",
+                    "htmlSnippet": "なお、以下の<b>商品</b>・<b>サービス</b>については、本方針のほか、各ウェブサイト内の<b>プライバシーポリシー</b>または会員規約をご参照ください。",
+                    "cacheId": "FeDw_S7g4Q0J",
+                    "formattedUrl": "https://www.odakyu.jp/privacy/",
+                    "htmlFormattedUrl": "https://www.odakyu.jp/privacy/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1",
+                                "format-detection": "telephone=no"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー - 日本自動車サービス開発",
+                    "htmlTitle": "<b>プライバシーポリシー</b> - 日本自動車<b>サービス</b>開発",
+                    "link": "https://carservice.co.jp/privacy/",
+                    "displayLink": "carservice.co.jp",
+                    "snippet": "個人情報の利用目的 · 駐車場事業（駐輪場事業を含む）に係る商品・サービスのご案内及びご提供 · カーシェアリング事業（シェアサイクル事業を含む。） · スキー場及び ...",
+                    "htmlSnippet": "個人情報の利用目的 &middot; 駐車場事業（駐輪場事業を含む）に係る<b>商品</b>・<b>サービス</b>のご案内及びご提供 &middot; カーシェアリング事業（シェアサイクル事業を含む。） &middot; スキー場及び&nbsp;...",
+                    "cacheId": "Ox22vtbkWj8J",
+                    "formattedUrl": "https://carservice.co.jp/privacy/",
+                    "htmlFormattedUrl": "https://carservice.co.jp/privacy/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, user-scalable=no, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0, minimal-ui",
+                                "format-detection": "telephone=no"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "サービスプライバシーポリシー",
+                    "htmlTitle": "<b>サービスプライバシーポリシー</b>",
+                    "link": "https://cookpad.com/terms/privacy",
+                    "displayLink": "cookpad.com",
+                    "snippet": "なお、当社は、本ポリシーとは別に、個別サービス毎のプライバシーポリシー（以下 ... 利用端末、これまでにご利用いただいたサービスやご購入いただいた商品、ご覧に ...",
+                    "htmlSnippet": "なお、当社は、本ポリシーとは別に、個別<b>サービス</b>毎の<b>プライバシーポリシー</b>（以下 ... 利用端末、これまでにご利用いただいた<b>サービス</b>やご購入いただいた<b>商品</b>、ご覧に&nbsp;...",
+                    "formattedUrl": "https://cookpad.com/terms/privacy",
+                    "htmlFormattedUrl": "https://cookpad.com/terms/privacy",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1eNttWRfpFWUJS8LfyEwexUngvKi5Eh1oINnTsc6uZZlMNNnOTnmO",
+                                "width": "120",
+                                "height": "120"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "csrf-token-time": "1687392000",
+                                "theme-color": "#401c00",
+                                "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+                                "csrf-token": "0kaLWXp77hMW1HBkIDt2BfhNIME2YSznxGj02LeugbAsOkaYZWnHEhbKTBiGbnAiPsxWdhEw3u4JYc6msEdaJA==",
+                                "google": "nositelinkssearchbox",
+                                "csrf-param": "authenticity_token",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "x-raw-image:///db486352881a3750a679d297fa82fd871667ff13bd15b323b2ecc475f2a03cff"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "NTTドコモ プライバシーポリシー | NTTドコモ",
+                    "htmlTitle": "NTTドコモ <b>プライバシーポリシー</b> | NTTドコモ",
+                    "link": "https://www.docomo.ne.jp/utility/privacy/",
+                    "displayLink": "www.docomo.ne.jp",
+                    "snippet": "3.パーソナルデータの利用目的 · 利用目的① サービス・商品等の提供や、それに必要なお客さまとのやりとりやお知らせのため 開く 閉じる · 利用目的② サービス・商品等の ...",
+                    "htmlSnippet": "3.パーソナルデータの利用目的 &middot; 利用目的① <b>サービス</b>・<b>商品</b>等の提供や、それに必要なお客さまとのやりとりやお知らせのため 開く 閉じる &middot; 利用目的② <b>サービス</b>・<b>商品</b>等の&nbsp;...",
+                    "cacheId": "PA-r1KbVB_MJ",
+                    "formattedUrl": "https://www.docomo.ne.jp/utility/privacy/",
+                    "htmlFormattedUrl": "https://www.docomo.ne.jp/utility/privacy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5j8Jb1O8N458GjXQzGukAmV1VS1SePqUniQl4KVNOjH8kpSNW7VcBN4Xz",
+                                "width": "278",
+                                "height": "182"
+                            }
+                        ],
+                        "imageobject": [
+                            {
+                                "contenturl": "https://www.docomo.ne.jp/content/corp/jp/ja/utility/privacy/_jcr_content/root/responsivegrid_764848963/responsivegrid/responsivegrid_8822475444/image_8821068146.coreimg.gif/1669706837932/img-01-pc.gif"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "template": "page-contents-block-2col-template",
+                                "msapplication-square70x70logo": "/etc.clientlibs/docommon/clientlibs/v1/clientlib-resource/resources/icon-70x70.png",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "msapplication-square310x310logo": "/etc.clientlibs/docommon/clientlibs/v1/clientlib-resource/resources/icon-310x310.png",
+                                "msapplication-wide310x150logo": "/etc.clientlibs/docommon/clientlibs/v1/clientlib-resource/resources/icon-310x150.png",
+                                "msapplication-square150x150logo": "/etc.clientlibs/docommon/clientlibs/v1/clientlib-resource/resources/icon-150x150.png"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.docomo.ne.jp/content/dam/corp/jp/ja/utility/privacy/images/img_01_smt.gif"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "name": "NTTドコモ プライバシーポリシー",
+                                "position": "2"
+                            },
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "name": "NTTドコモ プライバシーポリシー",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー｜ヤクルト本社",
+                    "htmlTitle": "<b>プライバシーポリシー</b>｜ヤクルト本社",
+                    "link": "https://www.yakult.co.jp/privacypolicy/",
+                    "displayLink": "www.yakult.co.jp",
+                    "snippet": "なお、当グループ各社において、本プライバシーポリシーとは別途、個別の ... 商品や健康等に関する情報のお届け、サービスの提供およびこれらに関する連絡 ...",
+                    "htmlSnippet": "なお、当グループ各社において、本<b>プライバシーポリシー</b>とは別途、個別の ... <b>商品</b>や健康等に関する情報のお届け、<b>サービス</b>の提供およびこれらに関する連絡&nbsp;...",
+                    "cacheId": "L5xevLxZ8ZoJ",
+                    "formattedUrl": "https://www.yakult.co.jp/privacypolicy/",
+                    "htmlFormattedUrl": "https://www.yakult.co.jp/privacypolicy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDn_BkN1Y1M3k8DehobSVjDe6aUqCRrqzEGoAwZuIZjk5__sADmw02q417",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.yakult.co.jp/common/images/ogimage.jpg",
+                                "og:type": "website",
+                                "og:site_name": "ヤクルト本社",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "og:title": "ヤクルト本社",
+                                "og:url": "https://www.yakult.co.jp/",
+                                "og:description": "人も地球も健康に。ヤクルト本社のホームページでは、商品情報、CM情報、宅配センターの検索や工場見学のご案内など、様々な情報を皆さまにお届けしていきます。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.yakult.co.jp/common/images/ogimage.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー｜新生堂薬局コーポレートサイト",
+                    "htmlTitle": "<b>プライバシーポリシー</b>｜新生堂薬局コーポレートサイト",
+                    "link": "https://sinseido-co.jp/privacy.php",
+                    "displayLink": "sinseido-co.jp",
+                    "snippet": "当社が取得する個人情報としては、お客さまの氏名・住所・メールアドレス・年齢・性別・お買上げ履歴等が含まれます。 商品の販売、配達など当社のサービスを提供するため ...",
+                    "htmlSnippet": "当社が取得する個人情報としては、お客さまの氏名・住所・メールアドレス・年齢・性別・お買上げ履歴等が含まれます。 <b>商品</b>の販売、配達など当社の<b>サービス</b>を提供するため&nbsp;...",
+                    "cacheId": "c_lPWPVJcLgJ",
+                    "formattedUrl": "https://sinseido-co.jp/privacy.php",
+                    "htmlFormattedUrl": "https://sinseido-co.jp/privacy.php",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1cs9J9h47Ghzof744ZJgdhxpHDe1dMCsoE1hX65e7YKxxzbJIiwtX0NT-",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://sinseido-co.jp/img/common/ogp.jpg",
+                                "og:type": "website",
+                                "twitter:card": "summary",
+                                "twitter:title": "新生堂薬局コーポレートサイト",
+                                "og:site_name": "新生堂薬局コーポレートサイト",
+                                "viewport": "width=device-width,initial-scale=1",
+                                "twitter:description": "新生堂薬局コーポレートサイトです。私たちは、「思いやり」のあるこころを込めた人によるサービスを提供し、お客さま・患者さまに喜んでいただきたいと考えています。",
+                                "og:title": "プライバシーポリシー｜新生堂薬局コーポレートサイト",
+                                "og:url": "https://sinseido-co.jp/privacy.php",
+                                "og:description": "新生堂薬局コーポレートサイトです。私たちは、「思いやり」のあるこころを込めた人によるサービスを提供し、お客さま・患者さまに喜んでいただきたいと考えています。",
+                                "twitter:image": "https://sinseido-co.jp/img/common/ogp.jpg",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://sinseido-co.jp/img/common/ogp.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー | バッファロー",
+                    "htmlTitle": "<b>プライバシーポリシー</b> | バッファロー",
+                    "link": "https://www.buffalo.jp/support/other/privacy.html",
+                    "displayLink": "www.buffalo.jp",
+                    "snippet": "プライバシーポリシーに関するサイト。個人情報保護のコンテンツをご紹介。 ... 当社の取扱う商品またはサービス（以下、あわせて「当社の商品等」といいます）の提供.",
+                    "htmlSnippet": "<b>プライバシーポリシー</b>に関するサイト。個人情報保護のコンテンツをご紹介。 ... 当社の取扱う<b>商品</b>または<b>サービス</b>（以下、あわせて「当社の<b>商品</b>等」といいます）の提供.",
+                    "cacheId": "M0ur8tmg3b0J",
+                    "formattedUrl": "https://www.buffalo.jp/support/other/privacy.html",
+                    "htmlFormattedUrl": "https://www.buffalo.jp/support/other/privacy.html",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "msapplication-config": "/common/img/meta/browserconfig.xml",
+                                "copyright": "株式会社バッファロー",
+                                "theme-color": "#fff",
+                                "og:site_name": "株式会社バッファロー",
+                                "msapplication-tooltip": "株式会社バッファロー",
+                                "apple-mobile-web-app-title": "株式会社バッファロー",
+                                "msapplication-tileimage": "/common/img/meta/tile-image/mstile-144x144.png",
+                                "og:description": "プライバシーポリシーに関するサイト。個人情報保護のコンテンツをご紹介。",
+                                "twitter:creator": "@BuffaloCS",
+                                "twitter:site": "@BuffaloCS",
+                                "msapplication-tap-highlight": "no",
+                                "fb:admins": "100334",
+                                "msapplication-task-separator": "1",
+                                "application-name": "株式会社バッファロー",
+                                "msapplication-starturl": "//buffalo.jp/",
+                                "msapplication-tilecolor": "#fff",
+                                "twitter:title": "プライバシーポリシー",
+                                "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+                                "twitter:site:id": "881942455",
+                                "msapplication-window": "width=800;height=600",
+                                "handheldfriendly": "True",
+                                "twitter:domain": "buffalo.jp",
+                                "author": "株式会社バッファロー",
+                                "og:title": "プライバシーポリシー",
+                                "msapplication-navbutton-color": "#c00",
+                                "referrer": "unsafe-url",
+                                "apple-mobile-web-app-status-bar-style": "black",
+                                "twitter:creator:id": "881942455",
+                                "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover",
+                                "apple-mobile-web-app-capable": "yes",
+                                "msapplication-notification": "none",
+                                "mobileoptimized": "320",
+                                "mobile-web-app-capable": "yes",
+                                "og:locale": "ja_JP",
+                                "x-search-last_published_date": "2023-04-03 13:20:21",
+                                "og:url": "/support/other/privacy.html",
+                                "format-detection": "telephone=no, address=no, email=no"
+                            }
+                        ],
+                        "sitenavigationelement": [
+                            {
+                                "name": "Wi-Fi(無線LAN)",
+                                "url": "Wi-Fi(無線LAN)"
+                            },
+                            {
+                                "name": "サイトマップ",
+                                "url": "サイトマップ"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス プライバシーポリシー",
+                        "totalResults": "345000000",
+                        "searchTerms": "商品・サービス プライバシーポリシー",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス プライバシーポリシー",
+                        "totalResults": "345000000",
+                        "searchTerms": "商品・サービス プライバシーポリシー",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 商品・サービス プライバシーポリシー",
+                        "totalResults": "345000000",
+                        "searchTerms": "商品・サービス プライバシーポリシー",
+                        "count": 10,
+                        "startIndex": 31,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.177239,
+                "formattedSearchTime": "0.18",
+                "totalResults": "345000000",
+                "formattedTotalResults": "345,000,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシー ポリシー – ポリシーと規約 – Google",
+                    "htmlTitle": "<b>プライバシー ポリシー</b> – ポリシーと規約 – Google",
+                    "link": "https://policies.google.com/privacy?hl=ja",
+                    "displayLink": "policies.google.com",
+                    "snippet": "Google のサービスには以下のようなものがあります。 Google のアプリ、サイト、デバイス（検索、YouTube、Google Home など）; Chrome ブラウザや Android ...",
+                    "htmlSnippet": "Google の<b>サービス</b>には以下のようなものがあります。 Google のアプリ、サイト、デバイス（検索、YouTube、Google Home など）; Chrome ブラウザや Android&nbsp;...",
+                    "cacheId": "aJy2QcVmf6AJ",
+                    "formattedUrl": "https://policies.google.com/privacy?hl=ja",
+                    "htmlFormattedUrl": "https://policies.google.com/privacy?hl=ja",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-aAUWO2Zfz1BR1IpO7uYx-Lq_WoVJDwPyY7H4UECAZiitS-kNnlTWfix9",
+                                "width": "298",
+                                "height": "169"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "application-name": "Privacy & Terms – Google",
+                                "referrer": "origin",
+                                "apple-mobile-web-app-status-bar-style": "black",
+                                "msapplication-tap-highlight": "no",
+                                "viewport": "initial-scale=1, maximum-scale=5, width=device-width",
+                                "apple-mobile-web-app-capable": "yes",
+                                "apple-mobile-web-app-title": "Privacy & Terms – Google",
+                                "mobile-web-app-capable": "yes"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.gstatic.com/identity/boq/policies/privacy/privacy_illustration.svg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "カプコン ゲームプライバシーポリシー（家庭用ゲーム、PCゲーム ...",
+                    "htmlTitle": "カプコン ゲーム<b>プライバシーポリシー</b>（家庭用ゲーム、PCゲーム ...",
+                    "link": "https://www.capcom.co.jp/privacy/game/jp.html",
+                    "displayLink": "www.capcom.co.jp",
+                    "snippet": "本プライバシーポリシーは、当社が提供するゲームサービス（家庭用ゲーム、PCゲーム）のご ... 当社または第三者の提供する商品、サービス等に関する情報の配信; • d.",
+                    "htmlSnippet": "本<b>プライバシーポリシー</b>は、当社が提供するゲームサービス（家庭用ゲーム、PCゲーム）のご ... 当社または第三者の提供する<b>商品</b>、<b>サービス</b>等に関する情報の配信; • d.",
+                    "cacheId": "JQlsi4fFyPgJ",
+                    "formattedUrl": "https://www.capcom.co.jp/privacy/game/jp.html",
+                    "htmlFormattedUrl": "https://www.capcom.co.jp/privacy/game/jp.html",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "theme-color": "black",
+                                "viewport": "width=device-width, initial-scale=1"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "WESTERプライバシーポリシー | WESTER ポータル",
+                    "htmlTitle": "WESTER<b>プライバシーポリシー</b> | WESTER ポータル",
+                    "link": "https://wester.jr-odekake.net/terms/privacypolicy/",
+                    "displayLink": "wester.jr-odekake.net",
+                    "snippet": "WESTERポイントと引き換える商品・サービスの配送又は提供のため。 お問い合わせ・ご意見に対する質問、回答をさせていただくため。 会員の同意がある場合に限り、当社 ...",
+                    "htmlSnippet": "WESTERポイントと引き換える<b>商品</b>・<b>サービス</b>の配送又は提供のため。 お問い合わせ・ご意見に対する質問、回答をさせていただくため。 会員の同意がある場合に限り、当社&nbsp;...",
+                    "cacheId": "V2SL9P1qencJ",
+                    "formattedUrl": "https://wester.jr-odekake.net/terms/privacypolicy/",
+                    "htmlFormattedUrl": "https://wester.jr-odekake.net/terms/privacypolicy/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "og:type": "website",
+                                "og:site_name": "WESTERポータル",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "WESTERポータル",
+                                "og:url": "https://wester.jr-odekake.net/terms/privacypolicy",
+                                "og:description": "WESTERポータルのWESTERプライバシーポリシーページです。",
+                                "format-detection": "telephone=no"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー｜株式会社NTT東日本サービス",
+                    "htmlTitle": "<b>プライバシーポリシー</b>｜株式会社NTT東日本<b>サービス</b>",
+                    "link": "https://www.service.ntt-east.co.jp/policy.html",
+                    "displayLink": "www.service.ntt-east.co.jp",
+                    "snippet": "2．NTT東日本サービスが提供する商品・サービス等に係る個人情報の具体的な取り扱いに関する方針. （1）NTT東日本サービスが取り扱う個人情報の取得方法. NTT東日本 ...",
+                    "htmlSnippet": "2．NTT東日本サービスが提供する<b>商品</b>・<b>サービス</b>等に係る個人情報の具体的な取り扱いに関する方針. （1）NTT東日本サービスが取り扱う個人情報の取得方法. NTT東日本&nbsp;...",
+                    "cacheId": "oWwiYzsPx0YJ",
+                    "formattedUrl": "https://www.service.ntt-east.co.jp/policy.html",
+                    "htmlFormattedUrl": "https://www.service.ntt-east.co.jp/policy.html",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "theme-color": "#000",
+                                "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+                                "apple-mobile-web-app-capable": "yes"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "name": "NTT東日本サービス プライバシーポリシー",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー",
+                    "htmlTitle": "<b>プライバシーポリシー</b>",
+                    "link": "https://terms2.line.me/LGAPP_privacy?lang=ja",
+                    "displayLink": "terms2.line.me",
+                    "snippet": "LINE GAMEサービスプライバシーポリシー ... アンケートやキャンペーン及びそれらに関わる抽選及び賞品発送、ご購入商品の発送等の目的で、氏名、住所、電話番号、 ...",
+                    "htmlSnippet": "LINE GAME<b>サービスプライバシーポリシー</b> ... アンケートやキャンペーン及びそれらに関わる抽選及び賞品発送、ご購入<b>商品</b>の発送等の目的で、氏名、住所、電話番号、&nbsp;...",
+                    "cacheId": "naASDyz5SGwJ",
+                    "formattedUrl": "https://terms2.line.me/LGAPP_privacy?lang=ja",
+                    "htmlFormattedUrl": "https://terms2.line.me/LGAPP_privacy?lang=ja",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1, viewport-fit=cover"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー | イオンフィナンシャルサービス株式会社",
+                    "htmlTitle": "<b>プライバシーポリシー</b> | イオンフィナンシャル<b>サービス</b>株式会社",
+                    "link": "https://www.aeonfinancial.co.jp/activity/governance/privacy/",
+                    "displayLink": "www.aeonfinancial.co.jp",
+                    "snippet": "イオングループの金融総合サイトです。口座残高やカード利用状況を一括管理が可能。 クレジット、銀行、保険・電子マネーのサービスをワンストップでご利用いただけ ...",
+                    "htmlSnippet": "イオングループの金融総合サイトです。口座残高やカード利用状況を一括管理が可能。 クレジット、銀行、保険・電子マネーの<b>サービス</b>をワンストップでご利用いただけ&nbsp;...",
+                    "cacheId": "4PfqV07qnGQJ",
+                    "formattedUrl": "https://www.aeonfinancial.co.jp/activity/governance/privacy/",
+                    "htmlFormattedUrl": "https://www.aeonfinancial.co.jp/activity/governance/privacy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDBqpwM1Vik3I_jXlusTJkTwQNIQQtSbrvZ0BbRFm6TVa2rtKFTorjIg",
+                                "width": "178",
+                                "height": "100"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.aeonfinancial.co.jp/-/media/AeonGroup/Aeonfinancial/Images/common/logo.png?la=ja-JP&hash=E78E8FA7E8A2E7402A4778A25913C9A0",
+                                "og:type": "article",
+                                "og:site_name": "イオンフィナンシャルサービス株式会社",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "イオンフィナンシャルサービス株式会社",
+                                "og:locale": "ja-JP",
+                                "og:url": "https://www.aeonfinancial.co.jp/activity/governance/privacy/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.aeonfinancial.co.jp/-/media/AeonGroup/Aeonfinancial/Images/common/logo.png?la=ja-JP&hash=E78E8FA7E8A2E7402A4778A25913C9A0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー | PRIVACY POLICY | SQUARE ENIX",
+                    "htmlTitle": "<b>プライバシーポリシー</b> | PRIVACY POLICY | SQUARE ENIX",
+                    "link": "https://www.jp.square-enix.com/privacy/",
+                    "displayLink": "www.jp.square-enix.com",
+                    "snippet": "2022/04/01 ... また、このプライバシーポリシーは、本サービスに関連して第三者が収集 ... 興味を持つかもしれない商品やサービスの広告を提供することができます。",
+                    "htmlSnippet": "2022/04/01 <b>...</b> また、この<b>プライバシーポリシー</b>は、本<b>サービス</b>に関連して第三者が収集 ... 興味を持つかもしれない<b>商品</b>や<b>サービス</b>の広告を提供することができます。",
+                    "cacheId": "_EXLVhDIVkAJ",
+                    "formattedUrl": "https://www.jp.square-enix.com/privacy/",
+                    "htmlFormattedUrl": "https://www.jp.square-enix.com/privacy/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "og:image": "//www.jp.square-enix.com/common/images/fb_icon_sqex.jpg",
+                                "og:type": "article",
+                                "twitter:card": "summary",
+                                "twitter:title": "プライバシーポリシー | PRIVACY POLICY | SQUARE ENIX",
+                                "og:site_name": "スクウェア・エニックス 商品・サービス情報 | SQUARE ENIX",
+                                "viewport": "width=device-width",
+                                "author": "SQUARE ENIX CO., LTD.",
+                                "og:title": "プライバシーポリシー | PRIVACY POLICY | SQUARE ENIX",
+                                "og:url": "https://www.jp.square-enix.com/privacy/",
+                                "twitter:image": "//www.jp.square-enix.com/common/images/fb_icon_sqex.jpg",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "//www.jp.square-enix.com/common/images/fb_icon_sqex.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー | モスバーガー公式サイト",
+                    "htmlTitle": "<b>プライバシーポリシー</b> | モスバーガー公式サイト",
+                    "link": "https://www.mos.jp/privacy/",
+                    "displayLink": "www.mos.jp",
+                    "snippet": "当社は、本サービスを通じて取得した個人情報を以下の目的のために利用します。 本サービスの各利用規約に基づき、適切に本サービスを提供するため。 当社の商品やサービス ...",
+                    "htmlSnippet": "当社は、本<b>サービス</b>を通じて取得した個人情報を以下の目的のために利用します。 本<b>サービス</b>の各利用規約に基づき、適切に本<b>サービス</b>を提供するため。 当社の<b>商品</b>や<b>サービス</b>&nbsp;...",
+                    "cacheId": "Tj4TAiNnPQMJ",
+                    "formattedUrl": "https://www.mos.jp/privacy/",
+                    "htmlFormattedUrl": "https://www.mos.jp/privacy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlmdZOhoh7GdJSXPD9M9QFUxPslTpBb8HS6_haB6esXp6aoGzAuZNefYM",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.mos.jp/apple-touch-icon-precomposed.png",
+                                "fb:app_id": "333980463434050",
+                                "og:type": "company",
+                                "og:site_name": "モスバーガー",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "プライバシーポリシー | モスバーガー公式サイト",
+                                "og:local": "ja_JP",
+                                "og:description": "モスバーガー公式サイトのプライバシーポリシーのページです。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.mos.jp/apple-touch-icon-precomposed.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "本サービスに関するプライバシーポリシー",
+                    "htmlTitle": "本<b>サービス</b>に関する<b>プライバシーポリシー</b>",
+                    "link": "https://mobile.dmp.idemitsu.com/wv/privacypolicy.html",
+                    "displayLink": "mobile.dmp.idemitsu.com",
+                    "snippet": "Drive On/My idemitsu IDに関するプライバシーポリシー. 出光興産株式会社（以下「当社」 ...",
+                    "htmlSnippet": "Drive On/My idemitsu IDに関する<b>プライバシーポリシー</b>. 出光興産株式会社（以下「当社」&nbsp;...",
+                    "cacheId": "ka5PklkgKpkJ",
+                    "formattedUrl": "https://mobile.dmp.idemitsu.com/wv/privacypolicy.html",
+                    "htmlFormattedUrl": "https://mobile.dmp.idemitsu.com/wv/privacypolicy.html",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1, maximum-scale=6, user-scalable=1"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "法人向け情報サービス（日経テレコン、NEEDS、日経ValueSearch ...",
+                    "htmlTitle": "法人向け情報<b>サービス</b>（日経テレコン、NEEDS、日経ValueSearch ...",
+                    "link": "https://www.nikkei.co.jp/digitalmedia/privacy.html",
+                    "displayLink": "www.nikkei.co.jp",
+                    "snippet": "2022/07/22 ... このプライバシーポリシー（以下、「本ポリシー」といいます）は、株式会社日本 ... 本事業が取り扱う電子メディア関連商品やサービスに関する情報を ...",
+                    "htmlSnippet": "2022/07/22 <b>...</b> この<b>プライバシーポリシー</b>（以下、「本ポリシー」といいます）は、株式会社日本 ... 本事業が取り扱う電子メディア関連<b>商品</b>や<b>サービス</b>に関する情報を&nbsp;...",
+                    "cacheId": "WejODEXR304J",
+                    "formattedUrl": "https://www.nikkei.co.jp/digitalmedia/privacy.html",
+                    "htmlFormattedUrl": "https://www.nikkei.co.jp/digitalmedia/privacy.html"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1609 @@
+{
+    "query": "企業 Webサイト監視",
+    "links": [
+        [
+            "https://www.biz.ne.jp/matome/2007988/",
+            "https://atmarkit.itmedia.co.jp/ad/empirix/onesight/onesight01.html",
+            "https://www.capterra.jp/directory/10021/website-monitoring/software",
+            "https://jp.indeed.com/q-%E3%82%B5%E3%82%A4%E3%83%88%E7%9B%A3%E8%A6%96-l-%E6%9D%B1%E4%BA%AC%E9%83%BD-%E6%B1%82%E4%BA%BA.html",
+            "https://japan.zdnet.com/hikaku/10372611/",
+            "https://www.brandsecurity.gmo/domainsurveillance",
+            "https://kn.itmedia.co.jp/kn/articles/1412/08/news159.html",
+            "https://pig-data.jp/service/towa/",
+            "https://beyondjapan.com/appmill-teaser/",
+            "https://prtimes.jp/main/html/rd/p/000000001.000023474.html"
+        ],
+        [
+            "https://beyondjapan.com/blog/2020/11/monitoring/",
+            "https://www.ibc21.co.jp/",
+            "https://saas.gmocloud.com/service/websecurity/threat/web-surveillance.html",
+            "https://www.dotcom-monitor.com/blog/ja/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%99%E3%83%BC%E3%83%88%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%81%AE%E7%9B%A3%E8%A6%96%E3%80%81%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88/",
+            "http://max-com.co.jp/service/ito/patrol.html",
+            "https://www.denso.com/jp/ja/news/newsroom/2023/20230523-01/",
+            "https://www.logicmonitor.jp/website-monitoring",
+            "https://www.nplus-net.jp/service/security/web_tampering.html",
+            "https://classmethod.jp/cases/ana-systems-group-website/",
+            "https://www.shikoku.meti.go.jp/"
+        ],
+        [
+            "https://imitsu.jp/list/reputational/monitoring/",
+            "https://www.rworks.jp/system/system-column/sys-entry/21600/",
+            "https://www.aspicjapan.org/asu/article/969",
+            "https://www.ipa.go.jp/security/todokede/vuln/ug65p90000019gda-att/000089537.pdf",
+            "https://webtan.impress.co.jp/e/2014/09/09/18198",
+            "https://www.asgent.co.jp/services/website-protection.html",
+            "https://www.lac.co.jp/",
+            "https://eset-info.canon-its.jp/malware_info/special/detail/210105.html",
+            "https://success.trendmicro.com/jp/solution/1111420",
+            "https://appmill.work/"
+        ]
+    ],
+    "snapshot_ymd": "D2023-06-23",
+    "snapshot_timestamp": "D2023-06-23T01-26-19",
+    "responses": [
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "request": [
+                    {
+                        "title": "Google Custom Search - 企業 Webサイト監視",
+                        "totalResults": "18300000",
+                        "searchTerms": "企業 Webサイト監視",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 企業 Webサイト監視",
+                        "totalResults": "18300000",
+                        "searchTerms": "企業 Webサイト監視",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.505049,
+                "formattedSearchTime": "0.51",
+                "totalResults": "18300000",
+                "formattedTotalResults": "18,300,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "サイト監視が得意な会社17選 | Web制作会社を探すなら「比較ビズ」",
+                    "htmlTitle": "<b>サイト監視</b>が得意な会社17選 | <b>Web</b>制作会社を探すなら「比較ビズ」",
+                    "link": "https://www.biz.ne.jp/matome/2007988/",
+                    "displayLink": "www.biz.ne.jp",
+                    "snippet": "2023/06/13 ... また、インターネット上の様々なメディアやSNSを監視し、炎上や風評被害が発生した場合の対策を具体的に提案してくれる企業が望ましいです。 風評被害対策 ...",
+                    "htmlSnippet": "2023/06/13 <b>...</b> また、インターネット上の様々なメディアやSNSを<b>監視</b>し、炎上や風評被害が発生した場合の対策を具体的に提案してくれる<b>企業</b>が望ましいです。 風評被害対策&nbsp;...",
+                    "cacheId": "TT_wHUt8-OMJ",
+                    "formattedUrl": "https://www.biz.ne.jp/matome/2007988/",
+                    "htmlFormattedUrl": "https://www.biz.ne.jp/matome/2007988/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkV_ZL4p-j-CNrKpYLklaus4b8WZ1HJfm_wg5gxpzEDZL3EPS7W0p0UObT",
+                                "width": "299",
+                                "height": "168"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://img.biz.ne.jp/info/2007988_if1.jpg",
+                                "fb:app_id": "1585119665035317",
+                                "og:type": "website",
+                                "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no",
+                                "og:title": "サイト監視が得意な会社17選",
+                                "og:url": "https://www.biz.ne.jp/matome/2007988/",
+                                "og:description": "この記事では、サイト監視が得意な会社をご紹介します。ホームページを開設すると多くの人から注目を集める反面、気になるのが外部からの攻撃です。ハッキングされてしまうと、ホームページとしては終わりを迎えてしまいます。インターネット上では、常に危険にさらされているといっていいでしょう。\t\tスマホやタブレット、PCなどの端末機では端末機時代にウィルスソフトを入れて外部からの侵入を防ぎます。同様にホームページサイトを置いているサーバー（レンタルサーバーを含む）もウィルスの侵入を防ぐ監視体制が必要です。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://img.biz.ne.jp/info/2007988_if1.jpg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "HOME",
+                                "name": "HOME",
+                                "position": "1"
+                            },
+                            {
+                                "item": "比較ビズまとめ",
+                                "name": "比較ビズまとめ",
+                                "position": "2"
+                            },
+                            {
+                                "item": "風評被害対策の記事",
+                                "name": "風評被害対策の記事",
+                                "position": "3"
+                            },
+                            {
+                                "item": "サイト監視が得意な会社17選",
+                                "name": "サイト監視が得意な会社17選",
+                                "position": "4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "＠IT [FYI] 現在のWebサイト監視に欠けているポイントとは",
+                    "htmlTitle": "＠IT [FYI] 現在の<b>Webサイト監視</b>に欠けているポイントとは",
+                    "link": "https://atmarkit.itmedia.co.jp/ad/empirix/onesight/onesight01.html",
+                    "displayLink": "atmarkit.itmedia.co.jp",
+                    "snippet": "そこで当然、Webサイトを運営している企業ではシステムのモニタリングを行っているだろう。 エンピレックス OneSightプロダクトマネージャー浦口宗也氏. しかし、「現状の ...",
+                    "htmlSnippet": "そこで当然、<b>Webサイト</b>を運営している<b>企業</b>ではシステムのモニタリングを行っているだろう。 エンピレックス OneSightプロダクトマネージャー浦口宗也氏. しかし、「現状の&nbsp;...",
+                    "cacheId": "iPV9cqo6cC8J",
+                    "formattedUrl": "https://atmarkit.itmedia.co.jp/ad/empirix/onesight/onesight01.html",
+                    "htmlFormattedUrl": "https://atmarkit.itmedia.co.jp/ad/empirix/onesight/onesight01.html"
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Webサイト監視ツール - 価格や機能、人気製品の比較 - キャプテラ ...",
+                    "htmlTitle": "<b>Webサイト監視</b>ツール - 価格や機能、人気製品の比較 - キャプテラ ...",
+                    "link": "https://www.capterra.jp/directory/10021/website-monitoring/software",
+                    "displayLink": "www.capterra.jp",
+                    "snippet": "Webサイト監視ツールの人気のソフトウェアやプロバイダーを比較できます。 ... に能動的にモニタリング、分析、最適化することで、企業のデジタル変革を実現します。",
+                    "htmlSnippet": "<b>Webサイト監視</b>ツールの人気のソフトウェアやプロバイダーを比較できます。 ... に能動的にモニタリング、分析、最適化することで、<b>企業</b>のデジタル変革を実現します。",
+                    "cacheId": "GOHORJijo70J",
+                    "formattedUrl": "https://www.capterra.jp/directory/10021/website-monitoring/software",
+                    "htmlFormattedUrl": "https://www.capterra.jp/directory/10021/<b>web</b>site-monitoring/software",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvcx7MwlEDyMzzZXr-21dr8-TMOQ7sKBuJFv-pXP5xxRxQwfk6zdd4Pow",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://dm-localsites-assets-prod.imgix.net/images/capterra/og_logo-e5a8c001ed0bd1bb922639230fcea71a.png?auto=format%2Cenhance%2Ccompress",
+                                "twitter:card": "summary",
+                                "og:site_name": "Capterra",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "Webサイト監視ツール",
+                                "csrf-token": "PF0UDDw7XismKBcTWjQfCRYlHT83cWpdXeFMuk2hAxng7bwhEUKLhE02",
+                                "og:url": "https://www.capterra.jp/directory/10021/website-monitoring/software",
+                                "og:description": "Webサイト監視ツールの人気のソフトウェアやプロバイダーを比較できます。無料のインタラクティブ・ツールでソフトウェアをすばやく簡単に選択し、価格、機能、ユーザー評価で絞り込めます。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://dm-localsites-assets-prod.imgix.net/images/capterra/og_logo-e5a8c001ed0bd1bb922639230fcea71a.png?auto=format%2Cenhance%2Ccompress"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "サイト監視の求人 - 東京都 | Indeed (インディード)",
+                    "htmlTitle": "<b>サイト監視</b>の求人 - 東京都 | Indeed (インディード)",
+                    "link": "https://jp.indeed.com/q-%E3%82%B5%E3%82%A4%E3%83%88%E7%9B%A3%E8%A6%96-l-%E6%9D%B1%E4%BA%AC%E9%83%BD-%E6%B1%82%E4%BA%BA.html",
+                    "displayLink": "jp.indeed.com",
+                    "snippet": "自社サイトのWEBマーケター. 【2024年度IPO予定】自社集客サイトの運用責任者⭐再エネ業界で注目度が高まっている急成長ベンチャー企業◎. 企業名 ...",
+                    "htmlSnippet": "自社<b>サイト</b>の<b>WEB</b>マーケター. 【2024年度IPO予定】自社集客<b>サイト</b>の運用責任者⭐再エネ業界で注目度が高まっている急成長ベンチャー<b>企業</b>◎. <b>企業</b>名&nbsp;...",
+                    "formattedUrl": "https://jp.indeed.com/q-サイト監視-l-東京都-求人.html",
+                    "htmlFormattedUrl": "https://jp.indeed.com/q-<b>サイト監視</b>-l-東京都-求人.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQH_Pi5mBT_QbOaQ4VGyaTYiOF-PTDcAOxLoSN7jnkaPrk2VkIgf-bVCt4",
+                                "width": "259",
+                                "height": "194"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "referrer": "origin-when-cross-origin",
+                                "viewport": "width=device-width,initial-scale=1.0",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://d23zm5r1n38khq.cloudfront.net/thumbnail_d0c094a9-eaa2-4694-97e9-412412a7bde0.jpeg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Dehenken WebSensor(特定Webサイトの観察・監視エンジンOEM ...",
+                    "htmlTitle": "Dehenken WebSensor(特定<b>Webサイト</b>の観察・<b>監視</b>エンジンOEM ...",
+                    "link": "https://japan.zdnet.com/hikaku/10372611/",
+                    "displayLink": "japan.zdnet.com",
+                    "snippet": "2008/06/25 ... Webサイト監視の必要性 企業活動や個人消費活動において、インターネットWebサイトでの情報発信・情報収集は欠かせない重要要素になっています。 しかし ...",
+                    "htmlSnippet": "2008/06/25 <b>...</b> <b>Webサイト監視</b>の必要性 <b>企業</b>活動や個人消費活動において、インターネットWebサイトでの情報発信・情報収集は欠かせない重要要素になっています。 しかし&nbsp;...",
+                    "cacheId": "T0RZ36tE45AJ",
+                    "formattedUrl": "https://japan.zdnet.com/hikaku/10372611/",
+                    "htmlFormattedUrl": "https://japan.zdnet.com/hikaku/10372611/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJMqThWlBdjekh8sVECBn-4EzE3bm6zI7GsOq2RLM7yw9Qp22VsqeEz8a",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "msapplication-tilecolor": "#FFFFFF",
+                                "og:image": "https://japan.zdnet.com/media/z/2023/zd_ogp.png",
+                                "twitter:card": "summary",
+                                "og:type": "article",
+                                "og:site_name": "ZDNet Japan",
+                                "msvalidate.01": "4056301A54BB87F40862E212129ADBE6",
+                                "og:title": "Dehenken WebSensor(特定Webサイトの観察・監視エンジンOEM)",
+                                "title": "Dehenken WebSensor(特定Webサイトの観察・監視エンジンOEM) - IT製品比較 - ZDNET Japan",
+                                "msapplication-tileimage": "https://japan.zdnet.com/apple-touch-icon-144x144.png",
+                                "og:description": "Dehenken WebSensor(特定Webサイトの観察・監視エンジンOEM) - IT製品比較",
+                                "article:publisher": "https://www.facebook.com/ZDNetJapan",
+                                "fb:app_id": "1445243325512954",
+                                "twitter:site": "@zdnet_japan",
+                                "viewport": "width=device-width, initial-scale=1.0,minimum-scale=1.0, user-scalable=yes",
+                                "og:url": "https://japan.zdnet.com/hikaku/10372611/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://japan.zdnet.com/media/z/2023/zd_ogp.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "不正ドメイン検知・監視ツール【ドメインサーベランス】GMO ...",
+                    "htmlTitle": "不正ドメイン検知・<b>監視</b>ツール【ドメインサーベランス】GMO ...",
+                    "link": "https://www.brandsecurity.gmo/domainsurveillance",
+                    "displayLink": "www.brandsecurity.gmo",
+                    "snippet": "ドメインネームの取り返しに高額な費用がかかる. 監視が甘い企業だと認識され悪用サイトが濫立. 悪用後に素早くサイト閉鎖など逃げられ被害の全容が掴めない.",
+                    "htmlSnippet": "ドメインネームの取り返しに高額な費用がかかる. <b>監視</b>が甘い<b>企業</b>だと認識され悪用<b>サイト</b>が濫立. 悪用後に素早く<b>サイト</b>閉鎖など逃げられ被害の全容が掴めない.",
+                    "cacheId": "YOk6gqrVUoEJ",
+                    "formattedUrl": "https://www.brandsecurity.gmo/domainsurveillance",
+                    "htmlFormattedUrl": "https://www.brandsecurity.gmo/domainsurveillance",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3QHp5cbLBqpxAabwR0BdcbdUWQ9xDsJVBZgF3I-oi711E7GR52oFGRvti",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://static.wixstatic.com/media/f4bb96_d6b536c5537e49b4b923a7157c7b3bf2~mv2.png/v1/fill/w_960,h_504,al_c/f4bb96_d6b536c5537e49b4b923a7157c7b3bf2~mv2.png",
+                                "og:image:width": "960",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "不正ドメイン検知・監視ツール【ドメインサーベランス】GMOブランドセキュリティ株式会社",
+                                "theme-color": "#0066E3",
+                                "og:site_name": "GMOブランドセキュリティ株式会社",
+                                "skype_toolbar": "skype_toolbar_parser_compatible",
+                                "og:title": "不正ドメイン検知・監視ツール【GMOブランドサーベランス Forドメインネーム】GMOブランドセキュリティ株式会社",
+                                "og:image:height": "504",
+                                "og:description": "不正ドメインの効率的な検知・監視を実現する「GMOブランドサーベランス Forドメインネーム」。不正ドメインに精通した、弊社アナリストが検知内容を目視で確認しリスクを評価します。",
+                                "twitter:image": "https://static.wixstatic.com/media/f4bb96_d6b536c5537e49b4b923a7157c7b3bf2~mv2.png/v1/fill/w_960,h_504,al_c/f4bb96_d6b536c5537e49b4b923a7157c7b3bf2~mv2.png",
+                                "fb_admins_meta_tag": "BrightsConsultingInc",
+                                "viewport": "width=320, user-scalable=yes",
+                                "twitter:description": "GMOブランドセキュリティ株式会社は世界２００の国と地域に広がる弊社独自のグローバルネットワークを駆使し、当社のスタッフすべてがお客さまにとっての”最強の権利守護者”として、最適なブランドと知財のソリューションを提案し、信頼性の高いオペレーションを提供します。",
+                                "fb:admins": "BrightsConsultingInc",
+                                "og:url": "https://www.brandsecurity.gmo/domainsurveillance",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://static.wixstatic.com/media/f4bb96_d6b536c5537e49b4b923a7157c7b3bf2~mv2.png/v1/fill/w_960,h_504,al_c/f4bb96_d6b536c5537e49b4b923a7157c7b3bf2~mv2.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "クラウドで息を吹き返した「Webサイト監視ソリューション」：IT ...",
+                    "htmlTitle": "クラウドで息を吹き返した「<b>Webサイト監視</b>ソリューション」：IT ...",
+                    "link": "https://kn.itmedia.co.jp/kn/articles/1412/08/news159.html",
+                    "displayLink": "kn.itmedia.co.jp",
+                    "snippet": "2014/12/08 ... ただし、そうしたツールを自社で導入して運用するのは手間がかかり、監視そのものに時間を割くことが難しい企業も少なくない。そこで本特集では、サービス ...",
+                    "htmlSnippet": "2014/12/08 <b>...</b> ただし、そうしたツールを自社で導入して運用するのは手間がかかり、<b>監視</b>そのものに時間を割くことが難しい<b>企業</b>も少なくない。そこで本特集では、サービス&nbsp;...",
+                    "cacheId": "0m8Qn5ROfZUJ",
+                    "formattedUrl": "https://kn.itmedia.co.jp/kn/articles/1412/08/news159.html",
+                    "htmlFormattedUrl": "https://kn.itmedia.co.jp/kn/articles/1412/08/news159.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRLnlO3AaYh5vBW1GGO1DbxhT9BD5VkMVIiiF19CS_gWLsQuN07w3m8W2d",
+                                "width": "249",
+                                "height": "202"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "extraids": "at-features\tao-manage\tkw-ecm",
+                                "og:image": "https://image.itmedia.co.jp/kn/articles/1412/08/l_mi2374_30007334guide_004_MASK.jpg",
+                                "cxenseparse:itm-meta-articleid": "1412/08/news159",
+                                "article:published_time": "2014-12-08T10:00:00",
+                                "cxenseparse:itm-meta-extraid": "at-features",
+                                "og:site_name": "キーマンズネット",
+                                "pcurl": "/kn/articles/1412/08/news159.html",
+                                "apple-mobile-web-app-title": "ｷｰﾏﾝｽﾞﾈｯﾄ",
+                                "tmp_jointwriterid": "217668",
+                                "channel": "KeymansNet",
+                                "referenceurl": "/kn/spv/1412/08/news159_00.html",
+                                "cxenseparse:itm-meta-writerid": "217668",
+                                "og:description": "SIerによる手厚いサポートから自前での管理が求められるクラウド時代。だからこそ必要な「Webサイト監視ソリューション」が具体的にできることを紹介、ソリューション選びの勘所を解説する。",
+                                "masterchannel": "kn",
+                                "adoption": "/manage",
+                                "tmp_seriesid": "11663",
+                                "host": "https://kn.itmedia.co.jp",
+                                "cxenseparse:recs:publishtime": "2014-12-8日00+09:00",
+                                "cxenseparse:itm-meta-articletitle": "クラウドで息を吹き返した「Webサイト監視ソリューション」",
+                                "mastertype": "article",
+                                "og:type": "article",
+                                "og:title": "クラウドで息を吹き返した「Webサイト監視ソリューション」",
+                                "keywordids": ",,",
+                                "cxenseparse:itm-meta-keywords": "統合運用管理",
+                                "referrer": "no-referrer-when-downgrade",
+                                "cxenseparse:itm-meta-seriesid": "11663",
+                                "adoptionname": "運用管理",
+                                "adpath": "root/smartphone/kn/article",
+                                "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+                                "build": "2014年12月8日",
+                                "cxenseparse:itm-meta-adpath": "root/smartphone/kn/article",
+                                "spurl": "/kn/spv/1412/08/news159.html",
+                                "og:url": "https://kn.itmedia.co.jp/kn/articles/1412/08/news159.html",
+                                "knmembers": "0",
+                                "cxenseparse:itm-iti-keyword": "パフォーマンス管理",
+                                "cxenseparse:itm-meta-writer": "小池晃臣，タマク",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://image.itmedia.co.jp/kn/articles/1412/08/l_mi2374_30007334guide_004_MASK.jpg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "キーマンズネット",
+                                "name": "キーマンズネット",
+                                "position": "1"
+                            },
+                            {
+                                "item": "運用管理",
+                                "name": "運用管理",
+                                "position": "2"
+                            },
+                            {
+                                "item": "統合運用管理",
+                                "name": "統合運用管理",
+                                "position": "3"
+                            },
+                            {
+                                "item": "特集記事一覧",
+                                "name": "特集記事一覧",
+                                "position": "4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Webサイト監視ツール「TOWA」 – PigData | ビッグデータ収集 ...",
+                    "htmlTitle": "<b>Webサイト監視</b>ツール「TOWA」 – PigData | ビッグデータ収集 ...",
+                    "link": "https://pig-data.jp/service/towa/",
+                    "displayLink": "pig-data.jp",
+                    "snippet": "Webサイト監視あるある; \\\\ TOWAで解決！ ... 監視対象のサイトに差分が発生した後の業務を後回しにしてやり忘れた… ... 建設業、製造業、EC運営企業 など.",
+                    "htmlSnippet": "<b>Webサイト監視</b>あるある; \\\\ TOWAで解決！ ... 監視対象のサイトに差分が発生した後の業務を後回しにしてやり忘れた… ... 建設業、製造業、EC運営<b>企業</b> など.",
+                    "cacheId": "YaTyzXFNCWoJ",
+                    "formattedUrl": "https://pig-data.jp/service/towa/",
+                    "htmlFormattedUrl": "https://pig-data.jp/service/towa/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "og:type": "article",
+                                "article:published_time": "2022-09-01T09:45:52+00:00",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "Webサイト監視ツール「TOWA」 – PigData | ビッグデータ収集・分析・活用ソリューション",
+                                "og:site_name": "PigData | ビッグデータ収集・分析・活用ソリューション – PigDataは、お客様のデータ活用に対する課題を丁寧にヒアリングし、 最適なデータ活用ソリューションをご提供します。",
+                                "og:title": "Webサイト監視ツール「TOWA」 – PigData | ビッグデータ収集・分析・活用ソリューション",
+                                "msapplication-tileimage": "https://pig-data.jp/wp-content/uploads/cropped-favicon-1-270x270.png",
+                                "og:description": "新着リリース情報・補助金チェック・競合監視 資料で詳しくみるまずは無料で試してみる PigData >",
+                                "article:modified_time": "2023-05-02T09:29:23+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "新着リリース情報・補助金チェック・競合監視 資料で詳しくみるまずは無料で試してみる PigData >",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://pig-data.jp/service/towa/"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Webサイト監視サービス「Appmill（アプミル）」ティザーサイト ...",
+                    "htmlTitle": "<b>Webサイト監視</b>サービス「Appmill（アプミル）」ティザーサイト ...",
+                    "link": "https://beyondjapan.com/appmill-teaser/",
+                    "displayLink": "beyondjapan.com",
+                    "snippet": "2017/09/08 ... 「サイトが重い・表示できない・セキュリティ警告が出る。。。」 このようなことでは大事なユーザー獲得の機会を失うだけでなく、 企業やブランドイメージ ...",
+                    "htmlSnippet": "2017/09/08 <b>...</b> 「<b>サイト</b>が重い・表示できない・セキュリティ警告が出る。。。」 このようなことでは大事なユーザー獲得の機会を失うだけでなく、 <b>企業</b>やブランドイメージ&nbsp;...",
+                    "cacheId": "lufGGYH-Pb8J",
+                    "formattedUrl": "https://beyondjapan.com/appmill-teaser/",
+                    "htmlFormattedUrl": "https://beyondjapan.com/appmill-teaser/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRV9QeFn0WWWCN1hqYc80HZc_Hss8rWXNR1Rx2V6BW8oV4O4NerJ3kmYl0A",
+                                "width": "298",
+                                "height": "169"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://beyondjapan.com/cms/wp-content/uploads/2017/09/66c19942ab4ba346fdb64ccc04cde373.png",
+                                "og:type": "article",
+                                "og:image:width": "1231",
+                                "article:published_time": "2017-09-08T01:00:53+00:00",
+                                "twitter:card": "summary",
+                                "twitter:title": "Webサイト監視サービス「Appmill（アプミル）」ティザーサイト公開 | 株式会社ビヨンド",
+                                "og:site_name": "株式会社ビヨンド",
+                                "og:title": "Webサイト監視サービス「Appmill（アプミル）」ティザーサイト公開 | 株式会社ビヨンド",
+                                "og:image:height": "699",
+                                "og:description": "「Webサイトの表示が遅い・表示できない・セキュリティ警告が出る」などの問題を早期に検知できる、Webサイト監視サービス「Appmill（アプミル）」のティザーサイトを公開しました。",
+                                "twitter:creator": "@BeyondJapanInfo",
+                                "og:image:secure_url": "https://beyondjapan.com/cms/wp-content/uploads/2017/09/66c19942ab4ba346fdb64ccc04cde373.png",
+                                "article:publisher": "https://www.facebook.com/beyond.osaka/",
+                                "twitter:image": "https://beyondjapan.com/cms/wp-content/uploads/2017/09/66c19942ab4ba346fdb64ccc04cde373.png",
+                                "article:tag": "お知らせ・ニュース",
+                                "twitter:site": "@BeyondJapanInfo",
+                                "article:modified_time": "2019-07-16T09:09:38+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "「Webサイトの表示が遅い・表示できない・セキュリティ警告が出る」などの問題を早期に検知できる、Webサイト監視サービス「Appmill（アプミル）」のティザーサイトを公開しました。",
+                                "og:locale": "ja_JP",
+                                "fb:admins": "283148871748225",
+                                "og:url": "https://beyondjapan.com/appmill-teaser/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://beyondjapan.com/cms/wp-content/uploads/2017/09/66c19942ab4ba346fdb64ccc04cde373.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "https://beyondjapan.com/",
+                                "position": "1"
+                            },
+                            {
+                                "item": "お知らせ・ニュース",
+                                "name": "お知らせ・ニュース",
+                                "position": "2"
+                            },
+                            {
+                                "name": "Webサイト監視サービス「Appmill（アプミル）」ティザーサイト公開",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "誰でも気軽にWeb監視・サイトチェックをはじめられるウェブ ...",
+                    "htmlTitle": "誰でも気軽に<b>Web監視</b>・<b>サイト</b>チェックをはじめられる<b>ウェブ</b> ...",
+                    "link": "https://prtimes.jp/main/html/rd/p/000000001.000023474.html",
+                    "displayLink": "prtimes.jp",
+                    "snippet": "2017/02/15 ... しかし、中小企業のサイト管理者やウェブデザイナーが24時間365日休みなしにウェブサイトを監視することは現実的には難しいことです。",
+                    "htmlSnippet": "2017/02/15 <b>...</b> しかし、中小<b>企業</b>のサイト管理者やウェブデザイナーが24時間365日休みなしに<b>ウェブサイト</b>を<b>監視</b>することは現実的には難しいことです。",
+                    "cacheId": "S19mH5SfOZUJ",
+                    "formattedUrl": "https://prtimes.jp/main/html/rd/p/000000001.000023474.html",
+                    "htmlFormattedUrl": "https://prtimes.jp/main/html/rd/p/000000001.000023474.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXkX6VbD0ZCn2JWQoOBVgxMo-kY8sU1dzs8wbY78Vrcyt9_7KFGJZ0ahc",
+                                "width": "421",
+                                "height": "120"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://prtimes.jp/i/23474/1/resize/d23474-1-403447-1.jpg"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://prtimes.jp/i/23474/1/ogp/d23474-1-403447-1.jpg",
+                                "og:type": "article",
+                                "twitter:title": "誰でも気軽にWeb監視・サイトチェックをはじめられるウェブサービス「モニタリングプラス」をフルリニューアル",
+                                "twitter:card": "summary_large_image",
+                                "thumbnail": "https://prtimes.jp/i/23474/1/resize/d23474-1-403447-1.jpg",
+                                "og:site_name": "プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES",
+                                "twitter:url": "https://prtimes.jp/main/html/rd/p/000000001.000023474.html",
+                                "og:title": "誰でも気軽にWeb監視・サイトチェックをはじめられるウェブサービス「モニタリングプラス」をフルリニューアル",
+                                "twitter:image:height": "300",
+                                "release:company": "株式会社スタートアッププラス",
+                                "release:image": "https://prtimes.jp/i/23474/1/resize/d23474-1-403447-1.jpg",
+                                "release:date": "2017年2月15日 12時00分",
+                                "og:description": "株式会社スタートアッププラスのプレスリリース（2017年2月15日 12時00分）誰でも気軽にWeb監視・サイトチェックをはじめられるウェブサービス[モニタリングプラス]をフルリニューアル",
+                                "twitter:creator": "@PRTIMES_JP",
+                                "twitter:image": "https://prtimes.jp/i/23474/1/ogp/d23474-1-403447-1.jpg",
+                                "fb:app_id": "1495958567142613",
+                                "twitter:site": "@PRTIMES_JP",
+                                "twitter:image:width": "300",
+                                "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                                "twitter:description": "株式会社スタートアッププラスのプレスリリース（2017年2月15日 12時00分）誰でも気軽にWeb監視・サイトチェックをはじめられるウェブサービス[モニタリングプラス]をフルリニューアル",
+                                "og:locale": "ja_JP",
+                                "og:url": "http://prtimes.jp/main/html/rd/p/000000001.000023474.html"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://prtimes.jp/i/23474/1/resize/d23474-1-403447-1.jpg"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 企業 Webサイト監視",
+                        "totalResults": "18300000",
+                        "searchTerms": "企業 Webサイト監視",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 企業 Webサイト監視",
+                        "totalResults": "18300000",
+                        "searchTerms": "企業 Webサイト監視",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 企業 Webサイト監視",
+                        "totalResults": "18300000",
+                        "searchTerms": "企業 Webサイト監視",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.404088,
+                "formattedSearchTime": "0.40",
+                "totalResults": "18300000",
+                "formattedTotalResults": "18,300,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "Webサイト監視ツール の機能をまとめて解説＆おすすめツール比較 ...",
+                    "htmlTitle": "<b>Webサイト監視</b>ツール の機能をまとめて解説＆おすすめツール比較 ...",
+                    "link": "https://beyondjapan.com/blog/2020/11/monitoring/",
+                    "displayLink": "beyondjapan.com",
+                    "snippet": "2020/11/17 ... そこで、この記事では350社以上のサーバー運用保守を行っており、インフラの専門性が高い企業に所属している私なりの知見から、. Webサイト監視ツール ...",
+                    "htmlSnippet": "2020/11/17 <b>...</b> そこで、この記事では350社以上のサーバー運用保守を行っており、インフラの専門性が高い<b>企業</b>に所属している私なりの知見から、. <b>Webサイト監視</b>ツール&nbsp;...",
+                    "cacheId": "SobDSmnXYs0J",
+                    "formattedUrl": "https://beyondjapan.com/blog/2020/11/monitoring/",
+                    "htmlFormattedUrl": "https://beyondjapan.com/blog/2020/11/monitoring/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsPPyAKEAs6o-LBxi3WQlFB-OE8BdbkhR7peEN5jH3Rf9UaPu5zsFWAp8m",
+                                "width": "279",
+                                "height": "180"
+                            }
+                        ],
+                        "imageobject": [
+                            {
+                                "width": "150",
+                                "url": "https://beyondjapan.com/cms/wp-content/uploads/2021/08/web-monitoring-150x150.jpeg",
+                                "height": "150"
+                            },
+                            {
+                                "width": "150",
+                                "url": "https://beyondjapan.com/cms/wp-content/uploads/2021/08/web-monitoring-150x150.jpeg",
+                                "height": "150"
+                            },
+                            {
+                                "width": "150",
+                                "url": "https://beyondjapan.com/cms/wp-content/uploads/2021/08/web-monitoring-150x150.jpeg",
+                                "height": "150"
+                            }
+                        ],
+                        "hreviewaggregate": [
+                            {
+                                "votes": "2"
+                            }
+                        ],
+                        "organization": [
+                            {
+                                "name": "株式会社ビヨンド",
+                                "url": "https://beyondjapan.com"
+                            },
+                            {
+                                "name": "株式会社ビヨンド",
+                                "url": "https://beyondjapan.com"
+                            },
+                            {
+                                "name": "株式会社ビヨンド",
+                                "url": "https://beyondjapan.com"
+                            }
+                        ],
+                        "aggregaterating": [
+                            {
+                                "ratingvalue": "1",
+                                "ratingcount": "2",
+                                "worstrating": "1",
+                                "bestrating": "1"
+                            },
+                            {
+                                "ratingvalue": "1",
+                                "ratingcount": "2",
+                                "worstrating": "1",
+                                "bestrating": "1"
+                            },
+                            {
+                                "ratingvalue": "1",
+                                "ratingcount": "2",
+                                "worstrating": "1",
+                                "bestrating": "1"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://beyondjapan.com/cms/wp-content/uploads/2021/08/web-monitoring.jpeg",
+                                "og:type": "article",
+                                "og:image:width": "4817",
+                                "article:published_time": "2020-11-17T04:39:22+00:00",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "Webサイト監視ツール の機能をまとめて解説＆おすすめツール比較紹介[URL監視] | 株式会社ビヨンド",
+                                "og:site_name": "株式会社ビヨンド",
+                                "og:title": "Webサイト監視ツール の機能をまとめて解説＆おすすめツール比較紹介[URL監視] | 株式会社ビヨンド",
+                                "og:image:height": "3114",
+                                "og:description": "この記事ではURL監視ツールとも言われる Webサイト監視 サービス（外形監視サービス）を用いたWebサイトの運用管理方法、セキュリティチェック方法などについての概要とサービス例をいくつか紹介しています。Webサイトでオンラインビジネスをされている方に読んでいただきたい記事です。",
+                                "twitter:creator": "@BeyondJapanInfo",
+                                "og:image:secure_url": "https://beyondjapan.com/cms/wp-content/uploads/2021/08/web-monitoring.jpeg",
+                                "article:publisher": "https://www.facebook.com/beyond.osaka/",
+                                "twitter:image": "https://beyondjapan.com/cms/wp-content/uploads/2021/08/web-monitoring.jpeg",
+                                "article:tag": "webサイト監視",
+                                "twitter:site": "@BeyondJapanInfo",
+                                "article:modified_time": "2022-08-23T08:53:47+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "この記事ではURL監視ツールとも言われる Webサイト監視 サービス（外形監視サービス）を用いたWebサイトの運用管理方法、セキュリティチェック方法などについての概要とサービス例をいくつか紹介しています。Webサイトでオンラインビジネスをされている方に読んでいただきたい記事です。",
+                                "og:locale": "ja_JP",
+                                "fb:admins": "283148871748225",
+                                "og:url": "https://beyondjapan.com/blog/2020/11/monitoring/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://beyondjapan.com/cms/wp-content/uploads/2021/08/web-monitoring.jpeg"
+                            }
+                        ],
+                        "article": [
+                            {
+                                "datemodified": "2022-08-23T17:53:47+09:00",
+                                "author": "小出将伍",
+                                "name": "Webサイト監視ツール の機能をまとめて解説＆おすすめツール比較紹介[URL監視]",
+                                "description": "...",
+                                "headline": "Webサイト監視ツール の機能をまとめて解説＆おすすめツール比較紹介[URL監視]",
+                                "datepublished": "2020-11-17T13:39:22+09:00",
+                                "url": "https://beyondjapan.com/blog/2020/11/monitoring/",
+                                "mainentityofpage": "https://beyondjapan.com/blog/2020/11/monitoring/"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "https://beyondjapan.com/",
+                                "position": "1"
+                            },
+                            {
+                                "item": "ビヨンドブログ",
+                                "name": "ビヨンドブログ",
+                                "position": "2"
+                            },
+                            {
+                                "item": "Webサービス",
+                                "name": "Webサービス",
+                                "position": "3"
+                            },
+                            {
+                                "name": "Webサイト監視ツール の機能をまとめて解説＆おすすめツール比較紹介[URL監視]",
+                                "position": "4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "ITシステム性能監視のアイビーシー株式会社（IBC）",
+                    "htmlTitle": "ITシステム性能<b>監視</b>のアイビーシー株式会社（IBC）",
+                    "link": "https://www.ibc21.co.jp/",
+                    "displayLink": "www.ibc21.co.jp",
+                    "snippet": "アイビーシー株式会社は、ネットワークシステムの監視ツールSystem Answerの開発、製造、導入コンサルティングを行っております。",
+                    "htmlSnippet": "アイビーシー株式会社は、ネットワークシステムの<b>監視</b>ツールSystem Answerの開発、製造、導入コンサルティングを行っております。",
+                    "cacheId": "ytiq1ml4qjgJ",
+                    "formattedUrl": "https://www.ibc21.co.jp/",
+                    "htmlFormattedUrl": "https://www.ibc21.co.jp/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHfBVVV0InRonju7c84SoRjj7iaiVfh75N78w3VkPsGgKvobKy3Ipf0Ko",
+                                "width": "300",
+                                "height": "168"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.ibc21.co.jp/wp-content/themes/emanon-premium/assets/images/no-img/1200_675.png",
+                                "og:type": "website",
+                                "twitter:card": "summary",
+                                "og:site_name": "ITシステム性能監視のアイビーシー株式会社（IBC）",
+                                "twitter:site": "@ibc_sa",
+                                "viewport": "width=device-width,initial-scale=1.0",
+                                "og:title": "ITシステム性能監視のアイビーシー株式会社（IBC）",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.ibc21.co.jp/",
+                                "msapplication-tileimage": "https://www.ibc21.co.jp/wp-content/uploads/2022/10/cropped-IBC_logomark_非透過-270x270.png",
+                                "og:description": "アイビーシー株式会社は、ネットワークシステムの監視ツールSystem Answerの開発、製造、導入コンサルティングを行っております。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.ibc21.co.jp/wp-content/themes/emanon-premium/assets/images/no-img/1200_675.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Webサイト監視ってどれくらいの力を入れればいいの？ SiteLock ...",
+                    "htmlTitle": "<b>Webサイト監視</b>ってどれくらいの力を入れればいいの？ SiteLock ...",
+                    "link": "https://saas.gmocloud.com/service/websecurity/threat/web-surveillance.html",
+                    "displayLink": "saas.gmocloud.com",
+                    "snippet": "Webサイトを公開している企業内の担当者としてセキュリティは不安に思っているが対策はしていない。 オープンソースで監視システムを構築しようと思ったが難しくて挫折した ...",
+                    "htmlSnippet": "<b>Webサイト</b>を公開している<b>企業</b>内の担当者としてセキュリティは不安に思っているが対策はしていない。 オープンソースで<b>監視</b>システムを構築しようと思ったが難しくて挫折した&nbsp;...",
+                    "cacheId": "ZBZjQlHJbxYJ",
+                    "formattedUrl": "https://saas.gmocloud.com/service/websecurity/threat/web-surveillance.html",
+                    "htmlFormattedUrl": "https://saas.gmocloud.com/service/<b>web</b>security/threat/<b>web</b>-surveillance.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpNgFAn72avyZrBQf7onBYUKaOzI7ynq4l_FneDCzkk0n7aYSw8g4oA4A",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://saas.gmocloud.com/service/websecurity/img/websecurity_ogp.jpg",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "Webサイト監視ってどれくらいの力を入れればいいの？ SiteLock（サイトロック）｜GMOクラウドのSaaS",
+                                "og:site_name": "弱性診断＆マルウェア駆除 SiteLock（サイトロック）",
+                                "twitter:url": "https://saas.gmocloud.com/service/websecurity/threat/web-surveillance.html",
+                                "og:title": "Webサイト監視ってどれくらいの力を入れればいいの？ SiteLock（サイトロック）｜GMOクラウドのSaaS",
+                                "og:description": "一昔前では監視のイメージは高額のソリューションで運用管理が難しい（複雑）なイメージがありました。Webサイトに潜む脆弱性、不正改ざん、マルウェアといったセキュリティの脅威に対抗するなら「SiteLock（サイトロック）」！WordPressに標準対応、そして月385円(税込)からの低価格で利用できます。",
+                                "twitter:image": "https://saas.gmocloud.com/service/websecurity/img/websecurity_ogp.jpg",
+                                "twitter:site": "@GMOGSHD_JP",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "twitter:description": "一昔前では監視のイメージは高額のソリューションで運用管理が難しい（複雑）なイメージがありました。Webサイトに潜む脆弱性、不正改ざん、マルウェアといったセキュリティの脅威に対抗するなら「SiteLock（サイトロック）」！WordPressに標準対応、そして月385円(税込)からの低価格で利用できます。",
+                                "og:url": "https://saas.gmocloud.com/service/websecurity/threat/web-surveillance.html"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://saas.gmocloud.com/service/websecurity/img/websecurity_ogp.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライベートエージェントの監視、ウェブサイト、ネットワークの ...",
+                    "htmlTitle": "プライベートエージェントの<b>監視</b>、<b>ウェブサイト</b>、ネットワークの ...",
+                    "link": "https://www.dotcom-monitor.com/blog/ja/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%99%E3%83%BC%E3%83%88%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%81%AE%E7%9B%A3%E8%A6%96%E3%80%81%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88/",
+                    "displayLink": "www.dotcom-monitor.com",
+                    "snippet": "「多くの場合、外部からアクセスできない Web サイトやネットワーク サービスの監視が必要です。このため、Dotcom-Monitorは企業が自社のネットワーク内に直接展開できる ...",
+                    "htmlSnippet": "「多くの場合、外部からアクセスできない <b>Web サイト</b>やネットワーク サービスの<b>監視</b>が必要です。このため、Dotcom-Monitorは<b>企業</b>が自社のネットワーク内に直接展開できる&nbsp;...",
+                    "cacheId": "mjrPPvybTFoJ",
+                    "formattedUrl": "https://www.dotcom-monitor.com/.../ プライベートエージェントの監視、ウェブサイト/",
+                    "htmlFormattedUrl": "https://www.dotcom-monitor.com/.../ プライベートエージェントの<b>監視</b>、ウェブ<b>サイト</b>/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIXPUI0qT74L9lZ1fQGnecw5oXDwOEJRXFceLmbznOx4BAHy41j21dRJhF",
+                                "width": "215",
+                                "height": "235"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.dotcom-monitor.com/blog/wp-content/uploads/sites/3/2013/05/Dotcom-Monitor-Website-Monitoring-Private-Agent.jpg",
+                                "og:type": "article",
+                                "article:published_time": "2021-07-02T10:33:06+00:00",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "Dotcom-Monitor Web Performance Blog",
+                                "author": "Brad Canham",
+                                "og:title": "プライベートエージェントの監視、ウェブサイト、ネットワークの24時間365日のチェックを提供",
+                                "twitter:label1": "執筆者",
+                                "msapplication-tileimage": "https://www.dotcom-monitor.com/blog/wp-content/uploads/sites/3/2020/05/cropped-Dotcom-Monitor-Favicon-270x270.png",
+                                "og:description": "「プライベートエージェント」ウェブサイトの監視は、企業がネットワーク内で動作するミッションクリティカルなサービスの健全性を確保するための強力なツールを提供します。",
+                                "twitter:data1": "Brad Canham",
+                                "article:modified_time": "2021-07-02T10:33:12+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.dotcom-monitor.com/blog/ja/プライベートエージェントの監視、ウェブサイト/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.dotcom-monitor.com/blog/wp-content/uploads/sites/3/2013/05/Dotcom-Monitor-Website-Monitoring-Private-Agent.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "監視(サイトパトロール)｜マックスコム(MAXCOM)",
+                    "htmlTitle": "<b>監視</b>(<b>サイト</b>パトロール)｜マックスコム(MAXCOM)",
+                    "link": "http://max-com.co.jp/service/ito/patrol.html",
+                    "displayLink": "max-com.co.jp",
+                    "snippet": "事例詳細. 監視（サイトパトロール）をご提供した企業様の事例詳細をご紹介します。 メディアレップ. 品質・サービスレベルを確保したWeb広告入稿業務の事例.",
+                    "htmlSnippet": "事例詳細. <b>監視</b>（<b>サイト</b>パトロール）をご提供した<b>企業</b>様の事例詳細をご紹介します。 メディアレップ. 品質・サービスレベルを確保した<b>Web</b>広告入稿業務の事例.",
+                    "cacheId": "47ajgJZBcXgJ",
+                    "formattedUrl": "max-com.co.jp/service/ito/patrol.html",
+                    "htmlFormattedUrl": "max-com.co.jp/service/ito/patrol.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZ0P6UqlF5Zdxc5WFKUnp1E4aMdTS96m5jcQ8GSveejamevU-jmvyWXG0",
+                                "width": "428",
+                                "height": "118"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://max-com.co.jp/service/ito/images/patrol_img_01.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "デンソー、冷凍機の遠隔監視サービスD-FAMSと 保守メンテナンス ...",
+                    "htmlTitle": "デンソー、冷凍機の遠隔<b>監視</b>サービスD-FAMSと 保守メンテナンス ...",
+                    "link": "https://www.denso.com/jp/ja/news/newsroom/2023/20230523-01/",
+                    "displayLink": "www.denso.com",
+                    "snippet": "2023/05/23 ... 2023 DENSO CORPORATION. ご訪問いただきありがとうございます。当ウェブサイトのよりよい情報提供・サービス向上のため、 ...",
+                    "htmlSnippet": "2023/05/23 <b>...</b> 2023 DENSO CORPORATION. ご訪問いただきありがとうございます。当<b>ウェブサイト</b>のよりよい情報提供・サービス向上のため、&nbsp;...",
+                    "cacheId": "ql9aiFAxiksJ",
+                    "formattedUrl": "https://www.denso.com/jp/ja/news/newsroom/2023/20230523-01/",
+                    "htmlFormattedUrl": "https://www.denso.com/jp/ja/news/newsroom/2023/20230523-01/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1LK2j8QAgr6RvP7mvGf50OFTqlNZdZQzeSm6CRmBiVkpyPJVw6gNLlfep",
+                                "width": "300",
+                                "height": "168"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.denso.com/jp/ja/-/media/common/common-img-default.jpg?rev=dae811ec97514bf2bf56d657343aa449&hash=F066861353E05E043597DB0BBE4C4FA7",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "デンソー、冷凍機の遠隔監視サービスD-FAMSと 保守メンテナンスをセットにした「みまもりメンテパック」を発売 ｜ ニュースルーム ｜  ニュース ｜ DENSO - 株式会社デンソー / Crafting the Core /",
+                                "og:url": "http://www.denso.com/jp/ja/news/newsroom/2023/20230523-01",
+                                "og:description": "「デンソー、冷凍機の遠隔監視サービスD-FAMSと 保守メンテナンスをセットにした「みまもりメンテパック」を発売」をご覧いただけます。デンソーは、より良い日常をそっと支えるテクノロジーを、暮らしのなかに実装し続けます。",
+                                "format-detection": "email=no,telephone=no,address=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.denso.com/jp/ja/-/media/common/common-img-default.jpg?rev=dae811ec97514bf2bf56d657343aa449&hash=F066861353E05E043597DB0BBE4C4FA7"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "合成ウェブサイトの監視 | LogicMonitor",
+                    "htmlTitle": "合成<b>ウェブサイト</b>の<b>監視</b> | LogicMonitor",
+                    "link": "https://www.logicmonitor.jp/website-monitoring",
+                    "displayLink": "www.logicmonitor.jp",
+                    "snippet": "サイトのパフォーマンスをグローバルに、またはプライベートネットワーク内から監視します。 合成トランザクションを有効にして、問題がエンドユーザーに影響を与える ...",
+                    "htmlSnippet": "<b>サイト</b>のパフォーマンスをグローバルに、またはプライベートネットワーク内から<b>監視</b>します。 合成トランザクションを有効にして、問題がエンドユーザーに影響を与える&nbsp;...",
+                    "cacheId": "9UbE3dtTGcIJ",
+                    "formattedUrl": "https://www.logicmonitor.jp/website-monitoring",
+                    "htmlFormattedUrl": "https://www.logicmonitor.jp/<b>web</b>site-monitoring",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTO2FyWu5Yb34j4tUQRSfeNT7k4vwA-rFup174YJWAFmY8os0dszFxrxzo",
+                                "width": "243",
+                                "height": "207"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.logicmonitor.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-09-at-12.30.44-PM.png",
+                                "og:type": "article",
+                                "og:image:width": "1426",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "LogicMonitor",
+                                "og:title": "合成ウェブサイトの監視",
+                                "og:image:height": "1218",
+                                "twitter:label1": "EST（東部基準時。 読書の時間",
+                                "og:image:type": "image/png",
+                                "msapplication-tileimage": "https://www.logicmonitor.com/wp-content/uploads/2022/06/cropped-logicmonitor-favicon-270x270.png",
+                                "og:description": "サイトのパフォーマンスをグローバルに、またはプライベートネットワーク内から監視します。 合成トランザクションを有効にして、問題がエンドユーザーに影響を与える前に問題を特定できるようにします。",
+                                "twitter:data1": "2分",
+                                "article:modified_time": "2022-12-01T18:59:18+00:00",
+                                "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                                "og:locale": "en_US",
+                                "og:url": "https://www.logicmonitor.jp/website-monitoring"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.logicmonitor.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-09-at-12.30.44-PM.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Web改ざん検知サービス | セキュリティ | サービス | ビジネスを加速 ...",
+                    "htmlTitle": "<b>Web</b>改ざん検知サービス | セキュリティ | サービス | ビジネスを加速 ...",
+                    "link": "https://www.nplus-net.jp/service/security/web_tampering.html",
+                    "displayLink": "www.nplus-net.jp",
+                    "snippet": "企業の信用を損ねるWebサイトの改ざんリスク・監視負担を大幅軽減します. 改ざんの検知、メンテナンス画面表示、リスク通知まで自動対応. よくあるお悩み ...",
+                    "htmlSnippet": "<b>企業</b>の信用を損ねる<b>Webサイト</b>の改ざんリスク・<b>監視</b>負担を大幅軽減します. 改ざんの検知、メンテナンス画面表示、リスク通知まで自動対応. よくあるお悩み&nbsp;...",
+                    "cacheId": "aKlYYVQhLV4J",
+                    "formattedUrl": "https://www.nplus-net.jp/service/security/web_tampering.html",
+                    "htmlFormattedUrl": "https://www.nplus-net.jp/service/security/<b>web</b>_tampering.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8xXGy7og6Rtwa_esqXue-thEtSw_CSRfPYWf_tYTGWPoJB7FaF2PxDYg",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.nplus-net.jp/ogp.png",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "Web改ざん検知サービス | セキュリティ | サービス | ビジネスを加速する総合ITソリューション N-PLUS",
+                                "og:site_name": "ビジネスを加速する総合ITソリューション N-PLUS",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "目に見えない改ざんも自動で検知して、監視負担軽減",
+                                "og:title": "Web改ざん検知サービス | セキュリティ | サービス | ビジネスを加速する総合ITソリューション N-PLUS",
+                                "og:url": "https://www.nplus-net.jp/service/security/web_tampering.html",
+                                "og:description": "目に見えない改ざんも自動で検知して、監視負担軽減",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.nplus-net.jp/ogp.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "40以上のグループ企業Webサイトを統合管理 | クラスメソッド株式 ...",
+                    "htmlTitle": "40以上のグループ<b>企業Webサイト</b>を統合管理 | クラスメソッド株式 ...",
+                    "link": "https://classmethod.jp/cases/ana-systems-group-website/",
+                    "displayLink": "classmethod.jp",
+                    "snippet": "AWS上のインフラ構築にあたり、ネットワーク設定にAWS CloudFormation、構成管理ツールにChef、サーバー監視にはHoot24（※現：AWS監視オプション）、リソース監視にZabbix ...",
+                    "htmlSnippet": "AWS上のインフラ構築にあたり、ネットワーク設定にAWS CloudFormation、構成管理ツールにChef、サーバー<b>監視</b>にはHoot24（※現：AWS<b>監視</b>オプション）、リソース<b>監視</b>にZabbix&nbsp;...",
+                    "cacheId": "6AR6wynb9yYJ",
+                    "formattedUrl": "https://classmethod.jp/cases/ana-systems-group-website/",
+                    "htmlFormattedUrl": "https://classmethod.jp/cases/ana-systems-group-<b>web</b>site/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThpTxtK9H5kBhpe0l44wwTzygXhSRuNCma3a8tNR36OyE2vkb6d14Ag5s",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://classmethod.jp/wp-content/themes/classmethod/img/common/ogp.png",
+                                "og:type": "article",
+                                "article:published_time": "2016-10-21T05:31:33+00:00",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "40以上のグループ企業Webサイトを統合管理 | クラスメソッド株式会社",
+                                "og:site_name": "クラスメソッド株式会社",
+                                "og:title": "40以上のグループ企業Webサイトを統合管理 | クラスメソッド株式会社",
+                                "google": "nositelinkssearchbox",
+                                "twitter:creator": "@classmethod",
+                                "og:image:secure_url": "https://classmethod.jp/wp-content/themes/classmethod/img/common/ogp.png",
+                                "article:publisher": "https://www.facebook.com/classmethod/",
+                                "twitter:image": "https://classmethod.jp/wp-content/themes/classmethod/img/common/ogp.png",
+                                "fb:app_id": "1906077256335423",
+                                "twitter:site": "@classmethod",
+                                "article:modified_time": "2023-04-24T12:45:22+00:00",
+                                "viewport": "width=375",
+                                "og:locale": "ja_JP",
+                                "fb:admins": "176409632388390",
+                                "position": "2",
+                                "og:url": "https://classmethod.jp/cases/ana-systems-group-website/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://classmethod.jp/wp-content/themes/classmethod/img/common/ogp.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "四国経済産業局ウェブサイト",
+                    "htmlTitle": "四国経済産業局<b>ウェブサイト</b>",
+                    "link": "https://www.shikoku.meti.go.jp/",
+                    "displayLink": "www.shikoku.meti.go.jp",
+                    "snippet": "四国経済産業局のウェブサイトです。報道発表、政策、統計、申請手続きなどに関する情報を掲載しています。広範な経済産業政策を積極的に展開し、四国が元気になるため ...",
+                    "htmlSnippet": "四国経済産業局の<b>ウェブサイト</b>です。報道発表、政策、統計、申請手続きなどに関する情報を掲載しています。広範な経済産業政策を積極的に展開し、四国が元気になるため&nbsp;...",
+                    "cacheId": "yPBhd3QzSm0J",
+                    "formattedUrl": "https://www.shikoku.meti.go.jp/",
+                    "htmlFormattedUrl": "https://www.shikoku.meti.go.jp/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcReEL4MWP82cmwvwA-WoeStoSfbtkesrTZ93_5djNR0nj2T5GrwmkrSYmFj",
+                                "width": "224",
+                                "height": "224"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.shikoku.meti.go.jp/shikokubito/interview/72/image/top.png"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 企業 Webサイト監視",
+                        "totalResults": "18300000",
+                        "searchTerms": "企業 Webサイト監視",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 企業 Webサイト監視",
+                        "totalResults": "18300000",
+                        "searchTerms": "企業 Webサイト監視",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 企業 Webサイト監視",
+                        "totalResults": "18300000",
+                        "searchTerms": "企業 Webサイト監視",
+                        "count": 10,
+                        "startIndex": 31,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.458293,
+                "formattedSearchTime": "0.46",
+                "totalResults": "18300000",
+                "formattedTotalResults": "18,300,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "サイト監視でおすすめの風評被害対策会社5選【2023年最新版 ...",
+                    "htmlTitle": "<b>サイト監視</b>でおすすめの風評被害対策会社5選【2023年最新版 ...",
+                    "link": "https://imitsu.jp/list/reputational/monitoring/",
+                    "displayLink": "imitsu.jp",
+                    "snippet": "2023/05/23 ... サイト監視はもちろん、企業名やブランド名、製品名などを検索した際 ... ネガティブサイトの対策および、誹謗中傷キーワードの早期発見を望む方・web ...",
+                    "htmlSnippet": "2023/05/23 <b>...</b> <b>サイト監視</b>はもちろん、<b>企業</b>名やブランド名、製品名などを検索した際 ... ネガティブ<b>サイト</b>の対策および、誹謗中傷キーワードの早期発見を望む方・<b>web</b>&nbsp;...",
+                    "cacheId": "gtbF3IkSQYQJ",
+                    "formattedUrl": "https://imitsu.jp/list/reputational/monitoring/",
+                    "htmlFormattedUrl": "https://imitsu.jp/list/reputational/monitoring/",
+                    "pagemap": {
+                        "thumbnail": [
+                            {
+                                "src": "https://imitsu.jp/img_p/lgc/category_suppliers_content_part/46/31/293146/CZqlVJs9"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://imitsu.jp/img_p/lgc/category_suppliers_content_part/46/31/293146/CZqlVJs9",
+                                "thumbnail": "https://imitsu.jp/img_p/lgc/category_suppliers_content_part/46/31/293146/CZqlVJs9",
+                                "og:type": "website",
+                                "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                                "og:title": "サイト監視でおすすめの風評被害対策会社5選【2023年最新版】｜アイミツ",
+                                "og:url": "https://imitsu.jp/list/reputational/monitoring/",
+                                "og:description": "サイト監視で定評のある風評被害対策会社を紹介します。実績やコストパフォーマンス、口コミなどをもとに厳選したおすすめの風評被害対策会社です。会社探しに迷われた際は専任コンシェルジュへの相談も可能です。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://imitsu.jp/img_p/lgc/category_suppliers_content_part/46/31/293146/CZqlVJs9"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "WAFとは？Webサイトのセキュリティ対策の仕組みを解説 ...",
+                    "htmlTitle": "WAFとは？<b>Webサイト</b>のセキュリティ対策の仕組みを解説 ...",
+                    "link": "https://www.rworks.jp/system/system-column/sys-entry/21600/",
+                    "displayLink": "www.rworks.jp",
+                    "snippet": "2020/12/18 ... セキュリティが脆弱な中小企業が狙われやすい ... そしてWebサイトを常時リアルタイムで監視することで、怪しいアクセスがあった場合自動的 ...",
+                    "htmlSnippet": "2020/12/18 <b>...</b> セキュリティが脆弱な中小<b>企業</b>が狙われやすい ... そして<b>Webサイト</b>を常時リアルタイムで<b>監視</b>することで、怪しいアクセスがあった場合自動的&nbsp;...",
+                    "cacheId": "IpkJYxWfZLgJ",
+                    "formattedUrl": "https://www.rworks.jp/system/system-column/sys-entry/21600/",
+                    "htmlFormattedUrl": "https://www.rworks.jp/system/system-column/sys-entry/21600/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROaOZBXIknSXo2jdq4dMhpp3quow8aeK4WHWUTWzBLMW6pKzHAUuLKjrG2",
+                                "width": "293",
+                                "height": "172"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.rworks.jp/wp-content/uploads/2020/12/WAF-ttl.png",
+                                "og:type": "article",
+                                "og:image:width": "800",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "クラウド導入・システム運用ならアールワークスへ",
+                                "og:title": "WAFとは？Webサイトのセキュリティ対策の仕組みを解説 | クラウド導入・システム運用ならアールワークスへ",
+                                "og:image:height": "470",
+                                "og:image:type": "image/png",
+                                "msapplication-tileimage": "https://www.rworks.jp/wp-content/uploads/2016/10/favicon.png",
+                                "og:description": "はじめに インターネットを利用するうえで、セキュリティ対策は必須項目です。中には、「ファイアーウォールを導入しているから大丈夫！」と思っている方も多いのではないでしょうか。 しかし、実はファイアーウォールだけではWebサ […]",
+                                "article:publisher": "https://www.facebook.com/rworks.inc/",
+                                "referrer": "no-referrer-when-downgrade",
+                                "article:modified_time": "2022-01-20T09:20:37+00:00",
+                                "viewport": "width=device-width,initial-scale=1",
+                                "og:locale": "ja_JP",
+                                "position": "2",
+                                "og:url": "https://www.rworks.jp/system/system-column/sys-entry/21600/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.rworks.jp/wp-content/uploads/2020/12/WAF-ttl.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "SNS投稿監視サービスの比較10選！タイプやできることの違い ...",
+                    "htmlTitle": "SNS投稿<b>監視</b>サービスの比較10選！タイプやできることの違い ...",
+                    "link": "https://www.aspicjapan.org/asu/article/969",
+                    "displayLink": "www.aspicjapan.org",
+                    "snippet": "2023/03/30 ... 企業で運営するSNSやWebメディアの投稿を監視して、炎上対策をしたい、あるいは対策を強化 ... 出所：Webリスクモニタリングサービス公式Webサイト）.",
+                    "htmlSnippet": "2023/03/30 <b>...</b> <b>企業</b>で運営するSNSやWebメディアの投稿を<b>監視</b>して、炎上対策をしたい、あるいは対策を強化 ... 出所：Webリスクモニタリングサービス公式<b>Webサイト</b>）.",
+                    "cacheId": "lWEiOU1SlSwJ",
+                    "formattedUrl": "https://www.aspicjapan.org/asu/article/969",
+                    "htmlFormattedUrl": "https://www.aspicjapan.org/asu/article/969",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8h5oJJxDUNF-bEaciG4xBmRx8jYChuQ9ekUYCA8Wm6OOSM7_v45Sm57Q",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.aspicjapan.org/asu/cms/wp-content/uploads/2019/12/tks009.jpg",
+                                "og:type": "article",
+                                "og:image:width": "1400",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "アスピック｜SaaS比較・活用サイト",
+                                "og:title": "SNS投稿監視サービスの比較10選！タイプやできることの違い | アスピック｜SaaS比較・活用サイト",
+                                "og:image:height": "934",
+                                "twitter:label1": "推定読み取り時間",
+                                "og:image:type": "image/jpeg",
+                                "og:description": "企業で運営するSNSやWebメディアの投稿を監視して、炎上対策をしたい、あるいは対策を強化したいとお考えの方へ。投稿監視サービスを導入するメリットやサービスのタイプ、比較のポイント、主なサービスなどをご紹介します。",
+                                "twitter:data1": "25分",
+                                "article:modified_time": "2023-05-24T00:17:27+00:00",
+                                "viewport": "width=device-width,initial-scale=1.0,user-scalable=no",
+                                "twitter:description": "企業で運営するSNSやWebメディアの投稿を監視して、炎上対策をしたい、あるいは対策を強化したいとお考えの方へ。投稿監視サービスを導入するメリットやサービスのタイプ、比較のポイント、主なサービスなどをご紹介します。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.aspicjapan.org/asu/article/969",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.aspicjapan.org/asu/cms/wp-content/uploads/2019/12/tks009.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "安全なウェブサイト運営にむけて",
+                    "htmlTitle": "安全な<b>ウェブサイト</b>運営にむけて",
+                    "link": "https://www.ipa.go.jp/security/todokede/vuln/ug65p90000019gda-att/000089537.pdf",
+                    "displayLink": "www.ipa.go.jp",
+                    "snippet": "「サイバー攻撃で狙われるのは大手／有名企業のウェブサイト（ホームペー. ジ）だけ」と思っていませんか？ ... および、不正な通信の監視、遮断をする環境の構築。",
+                    "htmlSnippet": "「サイバー攻撃で狙われるのは大手／有名<b>企業</b>の<b>ウェブサイト</b>（ホームペー. ジ）だけ」と思っていませんか？ ... および、不正な通信の<b>監視</b>、遮断をする環境の構築。",
+                    "formattedUrl": "https://www.ipa.go.jp/security/todokede/vuln/...att/000089537.pdf",
+                    "htmlFormattedUrl": "https://www.ipa.go.jp/security/todokede/vuln/...att/000089537.pdf",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4ivARpWaHVbc_JwGffkps7auZob_z7Dn7ZGQoZFvKj5p0sF8q6cqV_tg",
+                                "width": "299",
+                                "height": "169"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "moddate": "D:20210323102753+09'00'",
+                                "creationdate": "D:20210323101013+09'00'",
+                                "creator": "Microsoft® PowerPoint® for Microsoft 365",
+                                "producer": "Microsoft® PowerPoint® for Microsoft 365"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "x-raw-image:///d34a97a95587192762b6766459efdb7065a1b2becf41a711cac0060244f11dcd"
+                            }
+                        ]
+                    },
+                    "mime": "application/pdf",
+                    "fileFormat": "PDF/Adobe Acrobat"
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "無料で使えるサイト監視「site24x7」が日本語対応してかなり良く ...",
+                    "htmlTitle": "無料で使える<b>サイト監視</b>「site24x7」が日本語対応してかなり良く ...",
+                    "link": "https://webtan.impress.co.jp/e/2014/09/09/18198",
+                    "displayLink": "webtan.impress.co.jp",
+                    "snippet": "2014/09/09 ... 【Web担】Webサイトの死活監視や反応速度だけでなく、ドメイン名やSSLサーバー証明書の有効期限もチェックしてくれます.",
+                    "htmlSnippet": "2014/09/09 <b>...</b> 【Web担】<b>Webサイト</b>の死活<b>監視</b>や反応速度だけでなく、ドメイン名やSSLサーバー証明書の有効期限もチェックしてくれます.",
+                    "cacheId": "_g02Vg-hoaIJ",
+                    "formattedUrl": "https://webtan.impress.co.jp/e/2014/09/09/18198",
+                    "htmlFormattedUrl": "https://<b>web</b>tan.impress.co.jp/e/2014/09/09/18198",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNuq91AqMOmQOLXe09yYoVHEllnV02DD4h5uQp-q3MwKRlYiYjIRqX9BU",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "msapplication-config": "/browserconfig.xml",
+                                "og:image": "https://webtan.impress.co.jp/sites/default/files/styles/1200x630/public/images/nakanohito/nakanohito_icon200.png?itok=iXvFSfHl",
+                                "twitter:card": "summary_large_image",
+                                "article:published_time": "2014-09-09T12:00:00+09:00",
+                                "og:site_name": "Web担当者Forum",
+                                "twitter:url": "https://webtan.impress.co.jp/e/2014/09/09/18198",
+                                "cxenseparse:imp-pubday": "20140909",
+                                "cxenseparse:imp-corner": "初代編集長ブログ―安田英久",
+                                "og:description": "Webサイトの死活監視や反応速度だけでなく、ドメイン名やSSLサーバー証明書の有効期限もチェックしてくれます",
+                                "article:publisher": "https://www.facebook.com/webtan",
+                                "og:image:secure_url": "https://webtan.impress.co.jp/sites/default/files/styles/1200x630/public/images/nakanohito/nakanohito_icon200.png?itok=iXvFSfHl",
+                                "twitter:image": "https://webtan.impress.co.jp/sites/default/files/styles/940x492/public/images/nakanohito/nakanohito_icon200.png?itok=ZReNwgrW",
+                                "cxenseparse:imp-pubyear": "2014",
+                                "twitter:site": "@webtanforum",
+                                "article:modified_time": "2014-09-16T04:45:53+09:00",
+                                "google-translate-customization": "f08fe517a26ab14a-4036251da06a8716-g8feef8dc61cd483c-1b",
+                                "contact": "web-tan@impressrd.jp",
+                                "fb:admins": "685104714",
+                                "application-name": "Web担当者Forum",
+                                "cxenseparse:imp-pubmonth": "201409",
+                                "og:type": "article",
+                                "twitter:title": "無料で使えるサイト監視「site24x7」が日本語対応してかなり良くなっていた | 初代編集長ブログ―安田英久",
+                                "og:image:url": "https://webtan.impress.co.jp/sites/default/files/styles/1200x630/public/images/nakanohito/nakanohito_icon200.png?itok=iXvFSfHl",
+                                "cxenseparse:imp-category": "Web担当者／仕事",
+                                "author": "安田英久（Web担 編集統括）",
+                                "og:title": "無料で使えるサイト監視「site24x7」が日本語対応してかなり良くなっていた | 初代編集長ブログ―安田英久",
+                                "cxenseparse:imp-junre": "コラム",
+                                "og:updated_time": "2014-09-16T04:45:53+09:00",
+                                "cxenseparse:imp-author": "安田英久（Web担 編集統括）",
+                                "cxenseparse:imp-tieup": "false",
+                                "referrer": "unsafe-url",
+                                "fb:app_id": "158843510832237",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "twitter:description": "Webサイトの死活監視や反応速度だけでなく、ドメイン名やSSLサーバー証明書の有効期限もチェックしてくれます",
+                                "cxenseparse:imp-articletype": "解説記事",
+                                "og:url": "https://webtan.impress.co.jp/e/2014/09/09/18198"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://webtan.impress.co.jp/sites/default/files/styles/1200x630/public/images/nakanohito/nakanohito_icon200.png?itok=iXvFSfHl"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "Web担トップ",
+                                "name": "Web担トップ",
+                                "position": "1"
+                            },
+                            {
+                                "item": "[コラム] Web担のなかの人――編集部ブログ",
+                                "name": "[コラム] Web担のなかの人――編集部ブログ",
+                                "position": "2"
+                            },
+                            {
+                                "item": "初代編集長ブログ―安田英久",
+                                "name": "初代編集長ブログ―安田英久",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Webサイトプロテクションサービス | セキュリティサービス ...",
+                    "htmlTitle": "<b>Webサイト</b>プロテクションサービス | セキュリティサービス ...",
+                    "link": "https://www.asgent.co.jp/services/website-protection.html",
+                    "displayLink": "www.asgent.co.jp",
+                    "snippet": "24時間365日監視運用をセットにしたクラウドWAFはSaaS型WAF（Web ... 企業のWebサイトに対するサイバーセキュリティの脅威は日を追うごとに高度化・複雑化している ...",
+                    "htmlSnippet": "24時間365日<b>監視</b>運用をセットにしたクラウドWAFはSaaS型WAF（Web ... <b>企業</b>の<b>Webサイト</b>に対するサイバーセキュリティの脅威は日を追うごとに高度化・複雑化している&nbsp;...",
+                    "cacheId": "ybffPVgZ5s8J",
+                    "formattedUrl": "https://www.asgent.co.jp/services/website-protection.html",
+                    "htmlFormattedUrl": "https://www.asgent.co.jp/services/<b>web</b>site-protection.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS93QNHd1h3EVfiupZwog7LKENPtR1nCbK0Gc6OVxeDi6CT35UD5aAO7xw",
+                                "width": "371",
+                                "height": "136"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,user-scalable=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.asgent.co.jp/img/service/cloudwaf/img-01.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "株式会社ラック - 情報を守るセキュリティ対策のパイオニア",
+                    "htmlTitle": "株式会社ラック - 情報を守るセキュリティ対策のパイオニア",
+                    "link": "https://www.lac.co.jp/",
+                    "displayLink": "www.lac.co.jp",
+                    "snippet": "サイバー攻撃の監視、異常発生時の対処など、専門家が企業システムの安全な運用 ... 独自の技術分野やセキュリティの知見と、ビジネスパートナー企業のノウハウを融合 ...",
+                    "htmlSnippet": "サイバー攻撃の<b>監視</b>、異常発生時の対処など、専門家が<b>企業</b>システムの安全な運用 ... 独自の技術分野やセキュリティの知見と、ビジネスパートナー<b>企業</b>のノウハウを融合&nbsp;...",
+                    "cacheId": "z1buCpMLkXUJ",
+                    "formattedUrl": "https://www.lac.co.jp/",
+                    "htmlFormattedUrl": "https://www.lac.co.jp/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtdQhLp2QloUsKS4rImisTzq08bH9o9lw1rlf6CuQWl82wfKnW9ltc1jgR",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.lac.co.jp/common/img/img_ogp01.jpg",
+                                "og:type": "website",
+                                "og:site_name": "株式会社ラック",
+                                "viewport": "width=device-width,maximum-scale=10.0,user-scalable=yes",
+                                "og:title": "株式会社ラック - 情報を守るセキュリティ対策のパイオニア",
+                                "og:url": "https://www.lac.co.jp/",
+                                "og:description": "株式会社ラックは、先進のセキュリティ対策技術を核としたITトータルソリューションで、お客様のビジネス発展に貢献し、安心・安全な情報化社会の実現を目指します。セキュリティ対策についてお考えなら、株式会社ラックへ。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.lac.co.jp/common/img/img_ogp01.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Web改ざんはどのように行われるのか？ その手口と対策 | サイバー ...",
+                    "htmlTitle": "<b>Web</b>改ざんはどのように行われるのか？ その手口と対策 | サイバー ...",
+                    "link": "https://eset-info.canon-its.jp/malware_info/special/detail/210105.html",
+                    "displayLink": "eset-info.canon-its.jp",
+                    "snippet": "2021/01/05 ... この記事ではWebサイト改ざんの手口や事例、その対策などについて解説する。 ... 標的型攻撃は特定の企業や組織を狙ったサイバー攻撃である。",
+                    "htmlSnippet": "2021/01/05 <b>...</b> この記事では<b>Webサイト</b>改ざんの手口や事例、その対策などについて解説する。 ... 標的型攻撃は特定の<b>企業</b>や組織を狙ったサイバー攻撃である。",
+                    "cacheId": "LdWggTo70BcJ",
+                    "formattedUrl": "https://eset-info.canon-its.jp/malware_info/special/detail/210105.html",
+                    "htmlFormattedUrl": "https://eset-info.canon-its.jp/malware_info/special/detail/210105.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbnHK2Nizg6HjUM-Hsb9VPxLxE-5_OUcpdLhODvdpUWVXEnGUPvyEzdYY",
+                                "width": "180",
+                                "height": "120"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://eset-info.canon-its.jp/files/topics/3328_ext_01_0.jpg",
+                                "og:type": "article",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "Web改ざんはどのように行われるのか？ その手口と対策 | サイバーセキュリティ情報局",
+                                "og:url": "https://eset-info.canon-its.jp/malware_info/special/detail/210105.html"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://eset-info.canon-its.jp/files/topics/3328_ext_01_0.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "ランサムウェア対策に効果的なウイルスバスター Corp.の設定",
+                    "htmlTitle": "ランサムウェア対策に効果的なウイルスバスター Corp.の設定",
+                    "link": "https://success.trendmicro.com/jp/solution/1111420",
+                    "displayLink": "success.trendmicro.com",
+                    "snippet": "2022/08/22 ... 設定をする前に · スマートスキャンの利用 · Webレピュテーションによるサイトの危険性判断 · ファイルの普及度を基にした実行制御 · 挙動監視ポリシーの ...",
+                    "htmlSnippet": "2022/08/22 <b>...</b> 設定をする前に &middot; スマートスキャンの利用 &middot; <b>Web</b>レピュテーションによる<b>サイト</b>の危険性判断 &middot; ファイルの普及度を基にした実行制御 &middot; 挙動<b>監視</b>ポリシーの&nbsp;...",
+                    "cacheId": "dYdQ4_YmvkMJ",
+                    "formattedUrl": "https://success.trendmicro.com/jp/solution/1111420",
+                    "htmlFormattedUrl": "https://success.trendmicro.com/jp/solution/1111420",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "application-name": "Trend Micro | Business Support",
+                                "msapplication-tilecolor": "#DB3D44",
+                                "msapplication-square70x70logo": "/resource/1651633768000/TS_Portal_Source/images/mstile-70x70.png",
+                                "theme-color": "#DB3D44",
+                                "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+                                "msapplication-square310x310logo": "/resource/1651633768000/TS_Portal_Source/images/mstile-310x310.png",
+                                "msapplication-wide310x150logo": "/resource/1651633768000/TS_Portal_Source/images/mstile-310x150.png",
+                                "msapplication-square150x150logo": "/resource/1651633768000/TS_Portal_Source/images/mstile-150x150.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "Webサイト監視ツール「Appmill」| 無料で100URLを自動監視",
+                    "htmlTitle": "<b>Webサイト監視</b>ツール「Appmill」| 無料で100URLを自動監視",
+                    "link": "https://appmill.work/",
+                    "displayLink": "appmill.work",
+                    "snippet": "アプミルは100URLものURL監視が無料。簡単・無料で使えるから登録～監視開始まで1分で完了。ドメイン、SSL証明書の有効期限を一括で管理。ページの表示速度、死活 ...",
+                    "htmlSnippet": "アプミルは100URLものURL<b>監視</b>が無料。簡単・無料で使えるから登録～<b>監視</b>開始まで1分で完了。ドメイン、SSL証明書の有効期限を一括で管理。ページの表示速度、死活&nbsp;...",
+                    "cacheId": "jFGXlc95X6AJ",
+                    "formattedUrl": "https://appmill.work/",
+                    "htmlFormattedUrl": "https://appmill.work/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuKmLe7XDRSUxYnALLGdmDOwdsk_Mmf88Pj8JWZ4fbC2KXUkab6w-H4VQ",
+                                "width": "324",
+                                "height": "156"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:type": "website",
+                                "og:site_name": "Webサイト監視ツール「Appmill」| 無料で100URLを自動監視",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "Webサイト監視ツール「Appmill」| 無料で100URLを自動監視",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://appmill.work/assets/img/top_mock_en-v2.png"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

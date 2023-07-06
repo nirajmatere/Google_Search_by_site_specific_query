@@ -1,0 +1,1541 @@
+{
+    "query": "企業 セキュリティポリシー",
+    "links": [
+        [
+            "https://www.softbank.jp/corp/security/",
+            "https://www.soumu.go.jp/main_sosiki/joho_tsusin/security/business/executive/04-2.html",
+            "https://www.lrm.jp/security_magazine/policy/",
+            "https://www.ipa.go.jp/security/guide/sme/about.html",
+            "https://www.kddi.com/corporate/kddi/public/security/",
+            "https://cybersecurity-jp.com/column/22421",
+            "https://corp.earth.jp/jp/security/index.html",
+            "https://www.mitsui-soko.com/company/group/msc/profile/security",
+            "https://www.mamoru-kun.com/tips/information-security-policy/",
+            "https://www.jnsa.org/result/2016/policy/"
+        ],
+        [
+            "https://linecorp.com/ja/legal/security",
+            "https://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC",
+            "https://eset-info.canon-its.jp/malware_info/special/detail/221013.html",
+            "https://www.idcf.jp/company/security/policy.html",
+            "https://www.amazon.co.jp/%E4%BC%81%E6%A5%AD%E3%82%92%E5%AE%88%E3%82%8B%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC%E3%81%A8%E3%83%AA%E3%82%B9%E3%82%AF%E8%A9%95%E4%BE%A1-%E5%A1%9A%E7%94%B0-%E5%AD%9D%E5%89%87/dp/4822280977",
+            "https://pfs.nifcloud.com/navi/beginner/security_policy.htm",
+            "https://www.techmatrix.co.jp/company/security_policy.html",
+            "https://www.city.sendai.jp/invest/securitypolicy.html",
+            "https://support.google.com/a/answer/9378686?hl=ja",
+            "https://hansui.org/gaiyo/gaiyo-announcement/?p=878.html"
+        ],
+        [
+            "https://it-trend.jp/cyber_attack/article/442-0033",
+            "https://www.docomo.ne.jp/utility/personal_data/security/",
+            "https://www.kantei.ne.jp/security_policy/index.html",
+            "https://www.fe-siken.com/kakomon/15_haru/q72.html",
+            "https://www.life-q.jp/privacypolicy/securitypolicy",
+            "https://go.chatwork.com/ja/column/work_evolution/work-evolution-115.html",
+            "https://support.kodama-system.com/column/information-system-department/information-security-policy/",
+            "https://japan.zdnet.com/article/35188629/",
+            "https://www.ihi.co.jp/ilm/company/security/index.html",
+            "https://www.westjr.co.jp/guide/security.html"
+        ]
+    ],
+    "snapshot_ymd": "D2023-06-23",
+    "snapshot_timestamp": "D2023-06-23T01-27-04",
+    "responses": [
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "request": [
+                    {
+                        "title": "Google Custom Search - 企業 セキュリティポリシー",
+                        "totalResults": "63300000",
+                        "searchTerms": "企業 セキュリティポリシー",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 企業 セキュリティポリシー",
+                        "totalResults": "63300000",
+                        "searchTerms": "企業 セキュリティポリシー",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.306072,
+                "formattedSearchTime": "0.31",
+                "totalResults": "63300000",
+                "formattedTotalResults": "63,300,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "情報セキュリティポリシー | 企業・IR | ソフトバンク",
+                    "htmlTitle": "情報<b>セキュリティポリシー</b> | <b>企業</b>・IR | ソフトバンク",
+                    "link": "https://www.softbank.jp/corp/security/",
+                    "displayLink": "www.softbank.jp",
+                    "snippet": "情報セキュリティポリシー. ソフトバンク株式会社（以下「当社」）は、情報漏えいリスクに対し抜本的、かつ高度な対策を講じることにより、お客さまをはじめ社会からの ...",
+                    "htmlSnippet": "情報<b>セキュリティポリシー</b>. ソフトバンク株式会社（以下「当社」）は、情報漏えいリスクに対し抜本的、かつ高度な対策を講じることにより、お客さまをはじめ社会からの&nbsp;...",
+                    "cacheId": "RDqzcgXwvJQJ",
+                    "formattedUrl": "https://www.softbank.jp/corp/security/",
+                    "htmlFormattedUrl": "https://www.softbank.jp/corp/security/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgAXbjfduTrClEPvLh22ZEyVe7oG1xR0nTP0DkTRqc3Val6Hc_bsUYFg",
+                                "width": "104",
+                                "height": "104"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.softbank.jp/site/set/common/shared/img/icon_softbank.gif",
+                                "og:type": "article",
+                                "fb:app_id": "378662655513103",
+                                "og:site_name": "ソフトバンク",
+                                "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                                "og:title": "情報セキュリティポリシー | 企業・IR | ソフトバンク",
+                                "og:url": "https://www.softbank.jp/corp/security/",
+                                "og:description": "ソフトバンクの公式ホームページです。企業・IRの「情報セキュリティポリシー」をご紹介します。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "webpage": [
+                            {
+                                "name": "ホーム"
+                            },
+                            {
+                                "name": "企業・IR"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.softbank.jp/site/set/common/shared/img/icon_softbank.gif"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "position": "1"
+                            },
+                            {
+                                "position": "2"
+                            },
+                            {
+                                "item": "https://www.softbank.jp/corp/security/",
+                                "name": "情報セキュリティポリシー",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "情報セキュリティポリシーの概要と目的｜情報セキュリティ ...",
+                    "htmlTitle": "情報<b>セキュリティポリシー</b>の概要と目的｜情報セキュリティ ...",
+                    "link": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/security/business/executive/04-2.html",
+                    "displayLink": "www.soumu.go.jp",
+                    "snippet": "情報セキュリティ対策は画一的なものではなく、企業や組織の持つ情報や組織の規模、体制によって、大きく異なります。つまり、業務形態、ネットワークやシステムの構成、 ...",
+                    "htmlSnippet": "情報<b>セキュリティ</b>対策は画一的なものではなく、<b>企業</b>や組織の持つ情報や組織の規模、体制によって、大きく異なります。つまり、業務形態、ネットワークやシステムの構成、&nbsp;...",
+                    "cacheId": "hX3pESgDD04J",
+                    "formattedUrl": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/security/.../04-2.html",
+                    "htmlFormattedUrl": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/security/.../04-2.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRONCaWgxIRLniEYN-sMHsRJihxvkh3khEdOO58isJkHc2FCN2Lf8Kbr1VG",
+                                "width": "135",
+                                "height": "155"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/security/business/executive/img/ill04_2_01.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "大企業との取引には必須！情報セキュリティポリシーの概要とは ...",
+                    "htmlTitle": "大<b>企業</b>との取引には必須！情報<b>セキュリティポリシー</b>の概要とは ...",
+                    "link": "https://www.lrm.jp/security_magazine/policy/",
+                    "displayLink": "www.lrm.jp",
+                    "snippet": "2023/01/05 ... 情報セキュリティポリシーとは、企業や組織が情報セキュリティを保つための全体的な指針や方針を定めたルールのことです。具体的には、情報セキュリティ（ ...",
+                    "htmlSnippet": "2023/01/05 <b>...</b> 情報<b>セキュリティポリシー</b>とは、<b>企業</b>や組織が情報セキュリティを保つための全体的な指針や方針を定めたルールのことです。具体的には、情報セキュリティ（&nbsp;...",
+                    "cacheId": "qVQf0umxsZ4J",
+                    "formattedUrl": "https://www.lrm.jp/security_magazine/policy/",
+                    "htmlFormattedUrl": "https://www.lrm.jp/security_magazine/policy/",
+                    "pagemap": {
+                        "wpfooter": [
+                            {
+                                "url": "https://www.lrm.jp/security_magazine/"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRctw3UOMacOcYgjHbgSNwgLcpjfODrLIWCpGP2OMqsOlqkJgcGIHc5L3Xm",
+                                "width": "299",
+                                "height": "168"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://www.lrm.jp/official/wp-content/uploads/2022/03/security_policy_overview.jpg"
+                            }
+                        ],
+                        "imageobject": [
+                            {
+                                "width": "206",
+                                "url": "https://www.lrm.jp/official/wp-content/themes/lrm_cocoon/images/no-amp-logo.png",
+                                "height": "60"
+                            }
+                        ],
+                        "person": [
+                            {
+                                "name": "LRM株式会社"
+                            }
+                        ],
+                        "organization": [
+                            {
+                                "name": "LRM株式会社"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.lrm.jp/official/wp-content/uploads/2022/03/security_policy_overview.jpg",
+                                "tmpzwad": "2c9cf73ae59fbbe62",
+                                "og:image:width": "700",
+                                "article:published_time": "2021-04-23T01:00:00+00:00",
+                                "twitter:card": "summary",
+                                "og:site_name": "LRM株式会社 | 情報セキュリティの総合コンサルティング会社",
+                                "tmpzwv": "0.0",
+                                "twitter:url": "https://www.lrm.jp/security_magazine/policy/",
+                                "msapplication-tileimage": "https://www.lrm.jp/official/wp-content/uploads/2021/02/cropped-ogp_logo-270x270.png",
+                                "og:description": "「情報セキュリティポリシー」という言葉をご存じですか？多くの企業や組織で導入されている、情報セキュリティに関す",
+                                "og:image:secure_url": "https://www.lrm.jp/official/wp-content/uploads/2022/03/security_policy_overview.jpg",
+                                "twitter:image": "https://www.lrm.jp/official/wp-content/uploads/2022/03/security_policy_overview.jpg",
+                                "article:modified_time": "2023-01-05T01:38:23+00:00",
+                                "zwv": "0.0",
+                                "zwad": "2c9cf73ae59fbbe62",
+                                "og:type": "article",
+                                "twitter:title": "大企業との取引には必須！情報セキュリティポリシーの概要とは | セキュマガ | LRM株式会社が発信する情報セキュリティの専門マガジン",
+                                "article:section": "情報セキュリティ対策",
+                                "thumbnail": "https://www.lrm.jp/official/wp-content/uploads/2022/03/security_policy_overview.jpg",
+                                "twitter:domain": "www.lrm.jp",
+                                "tmpzwauid": "2417fb43d6e1cf6cb06e495b3773da282",
+                                "zwauid": "2417fb43d6e1cf6cb06e495b3773da282",
+                                "og:title": "大企業との取引には必須！情報セキュリティポリシーの概要とは | セキュマガ | LRM株式会社が発信する情報セキュリティの専門マガジン",
+                                "og:image:height": "394",
+                                "article:tag": "サプライチェーンセキュリティ",
+                                "referrer": "no-referrer-when-downgrade",
+                                "zwaid": "27218d28c96aa859ed467d55181ffc378",
+                                "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover",
+                                "tmpzwaid": "27218d28c96aa859ed467d55181ffc378",
+                                "twitter:description": "「情報セキュリティポリシー」という言葉をご存じですか？多くの企業や組織で導入されている、情報セキュリティに関す",
+                                "zwaod": "27f8dd0359a559e917a52f99974ed5affede5e78a5130d9b5",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.lrm.jp/security_magazine/policy/",
+                                "tmpzwaod": "27f8dd0359a559e917a52f99974ed5affede5e78a5130d9b5"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.lrm.jp/official/wp-content/uploads/2022/03/security_policy_overview.jpg"
+                            }
+                        ],
+                        "hatomfeed": [
+                            {}
+                        ],
+                        "blogposting": [
+                            {
+                                "datemodified": "2023-01-05T10:38:23+09:00",
+                                "headline": "大企業との取引には必須！情報セキュリティポリシーの概要とは",
+                                "datepublished": "2021-04-23T10:00:00+09:00",
+                                "mainentityofpage": "「情報セキュリティポリシー」という言葉をご存じですか？多くの企業や組織で導入されている、情報セキュリティに関する指針や方針をまとめ..."
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "item": "情報セキュリティ対策",
+                                "name": "情報セキュリティ対策",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "中小企業の情報セキュリティ対策ガイドライン | 情報セキュリティ ...",
+                    "htmlTitle": "中小<b>企業</b>の情報<b>セキュリティ</b>対策ガイドライン | 情報<b>セキュリティ</b> ...",
+                    "link": "https://www.ipa.go.jp/security/guide/sme/about.html",
+                    "displayLink": "www.ipa.go.jp",
+                    "snippet": "2023/05/25 ... また、付録として新たに「中小企業のためのセキュリティインシデント対応の手引き」を追加しました。 中小企業等ではITの利活用が進む一方で、サイバー ...",
+                    "htmlSnippet": "2023/05/25 <b>...</b> また、付録として新たに「中小<b>企業</b>のための<b>セキュリティ</b>インシデント対応の手引き」を追加しました。 中小<b>企業</b>等ではITの利活用が進む一方で、サイバー&nbsp;...",
+                    "cacheId": "A7sP82Qf86YJ",
+                    "formattedUrl": "https://www.ipa.go.jp/security/guide/sme/about.html",
+                    "htmlFormattedUrl": "https://www.ipa.go.jp/security/guide/sme/about.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSHkVjnCoa3WKsYA5U9jdzWhwnSHQFzXlp8Mwmw2MFflij9hCuEtfw1zk",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "msapplication-tilecolor": "#ffffff",
+                                "og:image": "https://www.ipa.go.jp/k3q2q400000050d7-img/k3q2q400000050dg.png",
+                                "og:type": "article",
+                                "twitter:card": "summary",
+                                "twitter:title": "中小企業の情報セキュリティ対策ガイドライン | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構",
+                                "msapplication-square70x70logo": "/site-tile-70x70.png",
+                                "og:site_name": "IPA 独立行政法人 情報処理推進機構",
+                                "og:title": "中小企業の情報セキュリティ対策ガイドライン | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構",
+                                "msapplication-wide310x150logo": "/site-tile-310x150.png",
+                                "og:description": "情報処理推進機構（IPA）の「中小企業の情報セキュリティ対策ガイドライン」に関する情報です。",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "msapplication-square310x310logo": "/site-tile-310x310.png",
+                                "twitter:description": "情報処理推進機構（IPA）の「中小企業の情報セキュリティ対策ガイドライン」に関する情報です。",
+                                "og:url": "https://www.ipa.go.jp/security/guide/sme/about.html"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.ipa.go.jp/k3q2q400000050d7-img/k3q2q400000050dg.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "セキュリティポリシー | 公開情報 | KDDI株式会社",
+                    "htmlTitle": "<b>セキュリティポリシー</b> | 公開情報 | KDDI株式会社",
+                    "link": "https://www.kddi.com/corporate/kddi/public/security/",
+                    "displayLink": "www.kddi.com",
+                    "snippet": "当社は、電気通信サービスを安全に安定して提供していく企業として、お客さま情報ならびに会社の機密情報を厳密に取り扱うとともに、情報漏えいリスクなどに対して、常に ...",
+                    "htmlSnippet": "当社は、電気通信サービスを安全に安定して提供していく<b>企業</b>として、お客さま情報ならびに会社の機密情報を厳密に取り扱うとともに、情報漏えいリスクなどに対して、常に&nbsp;...",
+                    "cacheId": "UNX4U_3V0FQJ",
+                    "formattedUrl": "https://www.kddi.com/corporate/kddi/public/security/",
+                    "htmlFormattedUrl": "https://www.kddi.com/corporate/kddi/public/security/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, user-scalable=no, initial-scale=1, minimum-scale=1, maximum-scale=1"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "KDDIホーム",
+                                "name": "KDDIホーム",
+                                "position": "1"
+                            },
+                            {
+                                "item": "企業情報",
+                                "name": "企業情報",
+                                "position": "2"
+                            },
+                            {
+                                "item": "KDDIについて",
+                                "name": "KDDIについて",
+                                "position": "3"
+                            },
+                            {
+                                "item": "公開情報",
+                                "name": "公開情報",
+                                "position": "4"
+                            },
+                            {
+                                "name": "セキュリティポリシー",
+                                "position": "5"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "情報セキュリティポリシー策定のポイントとサンプル例文集と策定 ...",
+                    "htmlTitle": "情報<b>セキュリティポリシー</b>策定のポイントとサンプル例文集と策定 ...",
+                    "link": "https://cybersecurity-jp.com/column/22421",
+                    "displayLink": "cybersecurity-jp.com",
+                    "snippet": "2022/05/23 ... 情報セキュリティポリシーとは、企業や組織が情報セキュリティを保つための全体的な指針や方針を定めたルールです。企業がセキュリティ体制を構築する ...",
+                    "htmlSnippet": "2022/05/23 <b>...</b> 情報<b>セキュリティポリシー</b>とは、<b>企業</b>や組織が情報セキュリティを保つための全体的な指針や方針を定めたルールです。<b>企業</b>がセキュリティ体制を構築する&nbsp;...",
+                    "cacheId": "889wCtdRjkgJ",
+                    "formattedUrl": "https://cybersecurity-jp.com/column/22421",
+                    "htmlFormattedUrl": "https://cybersecurity-jp.com/column/22421",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7lyiIZG7OCHd-AwSc1CoNEhhqlLC8HOu6aLU5ikB8b0I90QNr2QtZiGEZ",
+                                "width": "323",
+                                "height": "156"
+                            }
+                        ],
+                        "person": [
+                            {
+                                "discription": "株式会社セキュアオンライン運営事務局です。2014年からサイバーセキュリティ専門メディア「サイバーセキュリティ.com」を立ち上げ、国内最大級...",
+                                "name": "サイバーセキュリティ.com 事務局"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://cybersecurity-jp.com/wp-content/uploads/2018/02/img_22421-00.jpg",
+                                "og:type": "article",
+                                "twitter:card": "summary",
+                                "og:site_name": "サイバーセキュリティ.com",
+                                "twitter:site": "rhino_cyber",
+                                "viewport": "width=device-width,initial-scale=1.0",
+                                "og:title": "情報セキュリティポリシー策定のポイントとサンプル例文集と策定しないリスクとは？",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://cybersecurity-jp.com/column/22421",
+                                "msapplication-tileimage": "https://cybersecurity-jp.com/wp-content/uploads/2020/06/cropped-rogo_fovi-270x270.png",
+                                "og:description": "情報セキュリティポリシーとは、企業や組織が情報セキュリティを保つための全体的な指針や方針を定めたルールです。企業がセキュリティ体制を構築する上で欠かせませんが、「どうやって作ればいいかわからない」方も多いようです。\r\n\r\nこの記事では、その",
+                                "facebook-domain-verification": "g4oh1oauej9f2u63itp0rerscpcad4"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://cybersecurity-jp.com/wp-content/uploads/2018/02/img_22421-00.jpg"
+                            }
+                        ],
+                        "blogposting": [
+                            {
+                                "text": "無料診断ありWEBセキュリティ・脆弱性診断を手軽にできる「WEBセキュリティ診断くん」 情報セキュリティポリシーとは、企業や組織が情報セキュ...",
+                                "headline": "情報セキュリティポリシー策定のポイントとサンプル例文集と策定しないリスクとは？",
+                                "datepublished": "公開日：2018.02.22 ｜ 最終更新日：2022.05.23"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "item": "コラム",
+                                "name": "コラム",
+                                "position": "2"
+                            },
+                            {
+                                "name": "情報セキュリティポリシー策定のポイントとサンプル例文集と策定しないリスクとは？",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "セキュリティポリシー | アース製薬 企業情報",
+                    "htmlTitle": "<b>セキュリティポリシー</b> | アース製薬 <b>企業</b>情報",
+                    "link": "https://corp.earth.jp/jp/security/index.html",
+                    "displayLink": "corp.earth.jp",
+                    "snippet": "セキュリティポリシー. 情報セキュリテイ基本方針. 当社では情報セキュリティマネジメントシステム（ISMS）を、平成17年1月より施行し ...",
+                    "htmlSnippet": "<b>セキュリティポリシー</b>. 情報セキュリテイ基本方針. 当社では情報セキュリティマネジメントシステム（ISMS）を、平成17年1月より施行し&nbsp;...",
+                    "cacheId": "UOQ3xU-k_6oJ",
+                    "formattedUrl": "https://corp.earth.jp/jp/security/index.html",
+                    "htmlFormattedUrl": "https://corp.earth.jp/jp/security/index.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwZsqujHvqepkNCDR0dKoV2Q5i-iRZe4S7hi1j1LEIXeLq2qUKaJcRcf4",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://corp.earth.jp/jp/common/images/logo-header.png",
+                                "copyright": "Earth Corporation.",
+                                "og:type": "article",
+                                "og:site_name": "アース製薬",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "セキュリティポリシー | アース製薬 企業情報",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://corp.earth.jp",
+                                "og:description": "アース製薬のセキュリティポリシーをご紹介します。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://corp.earth.jp/jp/common/images/logo-header.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "セキュリティポリシー｜三井倉庫株式会社",
+                    "htmlTitle": "<b>セキュリティポリシー</b>｜三井倉庫株式会社",
+                    "link": "https://www.mitsui-soko.com/company/group/msc/profile/security",
+                    "displayLink": "www.mitsui-soko.com",
+                    "snippet": "セキュリティ対策基準の策定当社は「情報セキュリティ基本方針」を遵守するために必要な、 基本的要件及び判断基準を定めた「情報セキュリティ管理システム基本要綱」 を ...",
+                    "htmlSnippet": "<b>セキュリティ</b>対策基準の策定当社は「情報<b>セキュリティ</b>基本方針」を遵守するために必要な、 基本的要件及び判断基準を定めた「情報<b>セキュリティ</b>管理システム基本要綱」 を&nbsp;...",
+                    "cacheId": "lhSUWmJpb-cJ",
+                    "formattedUrl": "https://www.mitsui-soko.com/company/group/msc/profile/security",
+                    "htmlFormattedUrl": "https://www.mitsui-soko.com/company/group/msc/profile/security",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZEzc9N2dD0QXDKfJEizftg0LWwws5JeC-dtHy6wSEs7_es7wsVI8MMvxH",
+                                "width": "299",
+                                "height": "168"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:site_name": "三井倉庫株式会社",
+                                "viewport": "width=device-width",
+                                "og:url": "http://msc.mitsui-soko.com/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.mitsui-soko.com/-/media/image/img-sustainalink.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "情報セキュリティポリシーはなぜ必要なのか？策定する意義や運用 ...",
+                    "htmlTitle": "情報<b>セキュリティポリシー</b>はなぜ必要なのか？策定する意義や運用 ...",
+                    "link": "https://www.mamoru-kun.com/tips/information-security-policy/",
+                    "displayLink": "www.mamoru-kun.com",
+                    "snippet": "2020/08/19 ... 企業のリスク管理として、情報セキュリティ対策の重要性が日に日に高まっています。悪意ある第三者のサイバー攻撃に備えるのはもちろん、従業員の人的 ...",
+                    "htmlSnippet": "2020/08/19 <b>...</b> <b>企業</b>のリスク管理として、情報<b>セキュリティ</b>対策の重要性が日に日に高まっています。悪意ある第三者のサイバー攻撃に備えるのはもちろん、従業員の人的&nbsp;...",
+                    "cacheId": "VhFH04bGHJMJ",
+                    "formattedUrl": "https://www.mamoru-kun.com/tips/information-security-policy/",
+                    "htmlFormattedUrl": "https://www.mamoru-kun.com/tips/information-security-policy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQw_pehR2quwETlcN4C7k5-SYdtg5MbVcVE8D1XoCwXjz6Mtbwt9D9Ba1M",
+                                "width": "299",
+                                "height": "168"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.mamoru-kun.com/tips/mamoru-cms-content/uploads/2020/07/policy01_w1000.jpg",
+                                "og:type": "article",
+                                "og:image:width": "1000",
+                                "article:published_time": "2020-08-18T14:00:51+00:00",
+                                "twitter:card": "summary",
+                                "twitter:title": "情報セキュリティポリシーはなぜ必要なのか？策定する意義や運用方法について",
+                                "og:site_name": "まもりの種（日本パープル）",
+                                "author": "株式会社日本パープル",
+                                "og:title": "情報セキュリティポリシーはなぜ必要なのか？策定する意義や運用方法について",
+                                "og:image:height": "563",
+                                "google": "nositelinkssearchbox",
+                                "og:description": "企業のリスク管理として、情報セキュリティ対策の重要性が日に日に高まっています。悪意ある第三者のサイバー攻撃に備えるのはもちろん、従業員の人的ミスによる情報流出にも対策が必要です。企業が情報セキュリティ対策を考えるうえで重要な役割を果たす「情報セキュリティポリシー」について解説していきます。",
+                                "og:image:secure_url": "https://www.mamoru-kun.com/tips/mamoru-cms-content/uploads/2020/07/policy01_w1000.jpg",
+                                "twitter:image": "https://www.mamoru-kun.com/tips/mamoru-cms-content/uploads/2020/07/policy01_w1000.jpg",
+                                "article:modified_time": "2020-07-29T21:52:21+00:00",
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0",
+                                "twitter:description": "企業のリスク管理として、情報セキュリティ対策の重要性が日に日に高まっています。悪意ある第三者のサイバー攻撃に備えるのはもちろん、従業員の人的ミスによる情報流出にも対策が必要です。企業が情報セキュリティ対策を考えるうえで重要な役割を果たす「情報セキュリティポリシー」について解説していきます。",
+                                "og:locale": "ja_JP",
+                                "fb:admins": "1408154536128200",
+                                "og:url": "https://www.mamoru-kun.com/tips/information-security-policy/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.mamoru-kun.com/tips/mamoru-cms-content/uploads/2020/07/policy01_w1000.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "情報セキュリティポリシーサンプル改版",
+                    "htmlTitle": "情報<b>セキュリティポリシー</b>サンプル改版",
+                    "link": "https://www.jnsa.org/result/2016/policy/",
+                    "displayLink": "www.jnsa.org",
+                    "snippet": "西日本支部 中小企業向け情報セキュリティポリシーサンプル作成ワーキング ... はじめに: 情報セキュリティポリシーサンプル0.92a版は、2002年の作成から12年以上を ...",
+                    "htmlSnippet": "西日本支部 中小<b>企業</b>向け情報<b>セキュリティポリシー</b>サンプル作成ワーキング ... はじめに: 情報<b>セキュリティポリシー</b>サンプル0.92a版は、2002年の作成から12年以上を&nbsp;...",
+                    "cacheId": "KfvQU2TCjpAJ",
+                    "formattedUrl": "https://www.jnsa.org/result/2016/policy/",
+                    "htmlFormattedUrl": "https://www.jnsa.org/result/2016/policy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCieD_SGhjM1HlmSSz_XuEvIBOnIEz7WlSlHOxGbh-Oc90H4hnjs0ChnUz",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.jnsa.org/images/obj/img_thumb_report.png",
+                                "og:type": "article",
+                                "og:site_name": "特定非営利活動法人 日本ネットワークセキュリティ協会（JNSA）",
+                                "og:title": "情報セキュリティポリシーサンプル改版",
+                                "og:url": "https://www.jnsa.org/result/2016/policy/index.html",
+                                "og:description": "情報セキュリティポリシーサンプル改版（1.0版） を公開しました"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.jnsa.org/images/obj/img_thumb_report.png"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 企業 セキュリティポリシー",
+                        "totalResults": "63300000",
+                        "searchTerms": "企業 セキュリティポリシー",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 企業 セキュリティポリシー",
+                        "totalResults": "63300000",
+                        "searchTerms": "企業 セキュリティポリシー",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 企業 セキュリティポリシー",
+                        "totalResults": "63300000",
+                        "searchTerms": "企業 セキュリティポリシー",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.167693,
+                "formattedSearchTime": "0.17",
+                "totalResults": "63300000",
+                "formattedTotalResults": "63,300,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "情報セキュリティポリシー - LINE Corporation",
+                    "htmlTitle": "情報セキュリティポリシー - LINE Corporation",
+                    "link": "https://linecorp.com/ja/legal/security",
+                    "displayLink": "linecorp.com",
+                    "snippet": "情報セキュリティポリシー. LINEグループ（以下「LINE」とします）は、インターネット事業を行う企業の責任として、お客様・お取引先様からの信頼を得ることは ...",
+                    "htmlSnippet": "情報<b>セキュリティポリシー</b>. LINEグループ（以下「LINE」とします）は、インターネット事業を行う<b>企業</b>の責任として、お客様・お取引先様からの信頼を得ることは&nbsp;...",
+                    "cacheId": "zbmMdjasAjIJ",
+                    "formattedUrl": "https://linecorp.com/ja/legal/security",
+                    "htmlFormattedUrl": "https://linecorp.com/ja/legal/security",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwo4PKUBRxmd9ZAoeiMVBQnfDITb5M41HK00Oc-TBO5Qa9r3OXX70Rq4o",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://static.line-scdn.net/linecorpweb-uit/188d7a6fa6c/images/line_icon_200_v3.png",
+                                "og:type": "company",
+                                "og:site_name": "LINE Corporation",
+                                "viewport": "width=device-width, initial-scale=1.0, maximum-scale=2.0, minimum-scale=1.0",
+                                "og:title": "LINE Corporation | 情報セキュリティポリシー",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://linecorp.com/ja/legal/security"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://static.line-scdn.net/linecorpweb-uit/188d7a6fa6c/images/line_icon_200_v3.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "情報セキュリティポリシー - Wikipedia",
+                    "htmlTitle": "情報<b>セキュリティポリシー</b> - Wikipedia",
+                    "link": "https://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC",
+                    "displayLink": "ja.wikipedia.org",
+                    "snippet": "情報セキュリティポリシー（じょうほうセキュリティポリシー、information security policy）とは、企業などの組織における情報資産の情報セキュリティ対策について、 ...",
+                    "htmlSnippet": "情報<b>セキュリティポリシー</b>（じょうほう<b>セキュリティポリシー</b>、information security policy）とは、<b>企業</b>などの組織における情報資産の情報セキュリティ対策について、&nbsp;...",
+                    "cacheId": "9PxHdbasNP8J",
+                    "formattedUrl": "https://ja.wikipedia.org/wiki/情報セキュリティポリシー",
+                    "htmlFormattedUrl": "https://ja.wikipedia.org/wiki/情報<b>セキュリティポリシー</b>",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "referrer": "origin",
+                                "theme-color": "#eaecf0",
+                                "og:type": "website",
+                                "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                                "og:title": "情報セキュリティポリシー - Wikipedia",
+                                "format-detection": "telephone=no"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "情報セキュリティポリシーとは？策定の要所と注意点 | サイバー ...",
+                    "htmlTitle": "情報<b>セキュリティポリシー</b>とは？策定の要所と注意点 | サイバー ...",
+                    "link": "https://eset-info.canon-its.jp/malware_info/special/detail/221013.html",
+                    "displayLink": "eset-info.canon-its.jp",
+                    "snippet": "2022/10/13 ... サイバー攻撃など環境の変化に伴い、情報セキュリティポリシーの重要性が高まっている。もはや、企業の責任として情報セキュリティポリシーを策定して ...",
+                    "htmlSnippet": "2022/10/13 <b>...</b> サイバー攻撃など環境の変化に伴い、情報<b>セキュリティポリシー</b>の重要性が高まっている。もはや、<b>企業</b>の責任として情報<b>セキュリティポリシー</b>を策定して&nbsp;...",
+                    "cacheId": "VDPtmclFHqoJ",
+                    "formattedUrl": "https://eset-info.canon-its.jp/malware_info/special/detail/221013.html",
+                    "htmlFormattedUrl": "https://eset-info.canon-its.jp/malware_info/special/detail/221013.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxLbk7KMizjWc5AB0kpZooNyl9yzm0pZJbt2vIjax2D3EG_jzOMa3TLw",
+                                "width": "180",
+                                "height": "120"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://eset-info.canon-its.jp/files/topics/4022_ext_01_0.jpg",
+                                "og:type": "article",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "情報セキュリティポリシーとは？策定の要所と注意点 | サイバーセキュリティ情報局",
+                                "og:url": "https://eset-info.canon-its.jp/malware_info/special/detail/221013.html"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://eset-info.canon-its.jp/files/topics/4022_ext_01_0.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "情報セキュリティポリシー - 企業情報 | 株式会社IDCフロンティア",
+                    "htmlTitle": "情報<b>セキュリティポリシー</b> - <b>企業</b>情報 | 株式会社IDCフロンティア",
+                    "link": "https://www.idcf.jp/company/security/policy.html",
+                    "displayLink": "www.idcf.jp",
+                    "snippet": "情報セキュリティポリシー · 法令、国が定める指針、その他の規範を遵守します。 · 責任を明確にし、対策を実施するための体制を整備します。 · リスクを識別し、組織的、物理 ...",
+                    "htmlSnippet": "情報<b>セキュリティポリシー</b> &middot; 法令、国が定める指針、その他の規範を遵守します。 &middot; 責任を明確にし、対策を実施するための体制を整備します。 &middot; リスクを識別し、組織的、物理&nbsp;...",
+                    "cacheId": "3G6asOfNhu0J",
+                    "formattedUrl": "https://www.idcf.jp/company/security/policy.html",
+                    "htmlFormattedUrl": "https://www.idcf.jp/company/security/policy.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu9RSJKS2Cyy16nptZBe5Jkm11Fsj8vZRljayPlwy_wdwh_asJrEw2FbE",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.idcf.jp/og/shared/og_common.png",
+                                "og:type": "article",
+                                "fb:app_id": "277211969042127",
+                                "og:site_name": "株式会社IDCフロンティア",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "og:title": "情報セキュリティポリシー - 企業情報",
+                                "og:url": "https://www.idcf.jp/company/security/policy.html",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.idcf.jp/og/shared/og_common.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "企業を守るセキュリティポリシーとリスク評価 | 塚田 孝則 |本 | 通販 ...",
+                    "htmlTitle": "<b>企業</b>を守る<b>セキュリティポリシー</b>とリスク評価 | 塚田 孝則 |本 | 通販 ...",
+                    "link": "https://www.amazon.co.jp/%E4%BC%81%E6%A5%AD%E3%82%92%E5%AE%88%E3%82%8B%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC%E3%81%A8%E3%83%AA%E3%82%B9%E3%82%AF%E8%A9%95%E4%BE%A1-%E5%A1%9A%E7%94%B0-%E5%AD%9D%E5%89%87/dp/4822280977",
+                    "displayLink": "www.amazon.co.jp",
+                    "snippet": "Amazonで塚田 孝則の企業を守るセキュリティポリシーとリスク評価。アマゾンならポイント還元本が多数。塚田 孝則作品ほか、お急ぎ便対象商品は当日お届けも可能。",
+                    "htmlSnippet": "Amazonで塚田 孝則の<b>企業</b>を守る<b>セキュリティポリシー</b>とリスク評価。アマゾンならポイント還元本が多数。塚田 孝則作品ほか、お急ぎ便対象商品は当日お届けも可能。",
+                    "cacheId": "4LbbperqQSwJ",
+                    "formattedUrl": "https://www.amazon.co.jp/企業を守るセキュリティポリシーとリスク評価.../ 4822280977",
+                    "htmlFormattedUrl": "https://www.amazon.co.jp/<b>企業</b>を守る<b>セキュリティポリシー</b>とリスク評価.../ 4822280977",
+                    "pagemap": {
+                        "scraped": [
+                            {
+                                "image_link": "https://m.media-amazon.com/images/I/4172BV9Q9NL.jpg"
+                            }
+                        ],
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHurui7y0dZQQj7o1z0J34FjFY4Nmm6WEGJbT34Bqbr0GxyGEoZtudD3I",
+                                "width": "188",
+                                "height": "268"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://m.media-amazon.com/images/I/4172BV9Q9NL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingFIVE%2cBottomLeft%2c360%2c-6_SR600%2c315_SCLZZZZZZZ_FMpng_BG255%2c255%2c255.jpg",
+                                "theme-color": "#131921",
+                                "viewport": "width=device-width, maximum-scale=1, minimum-scale=1, initial-scale=1, user-scalable=no, shrink-to-fit=no",
+                                "og:title": "企業を守るセキュリティポリシーとリスク評価",
+                                "og:url": "https://www.amazon.co.jp/dp/4822280977/ref=tsm_1_fb_lk",
+                                "title": "企業を守るセキュリティポリシーとリスク評価 | 塚田 孝則 |本 | 通販 | Amazon",
+                                "og:description": "Amazonで塚田 孝則の企業を守るセキュリティポリシーとリスク評価。アマゾンならポイント還元本が多数。塚田 孝則作品ほか、お急ぎ便対象商品は当日お届けも可能。また企業を守るセキュリティポリシーとリスク評価もアマゾン配送商品なら通常配送無料。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://m.media-amazon.com/images/I/4172BV9Q9NL._AC_UF1000,1000_QL80_.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "情報セキュリティ対策の基本的な考え方「セキュリティポリシー ...",
+                    "htmlTitle": "情報セキュリティ対策の基本的な考え方「<b>セキュリティポリシー</b> ...",
+                    "link": "https://pfs.nifcloud.com/navi/beginner/security_policy.htm",
+                    "displayLink": "pfs.nifcloud.com",
+                    "snippet": "2020/06/24 ... 企業によって、情報資産の規模や運用体制は大きく異なるため、実際にセキュリティポリシーを策定する際には、それぞれの企業にあったポリシーを作成 ...",
+                    "htmlSnippet": "2020/06/24 <b>...</b> <b>企業</b>によって、情報資産の規模や運用体制は大きく異なるため、実際に<b>セキュリティポリシー</b>を策定する際には、それぞれの<b>企業</b>にあったポリシーを作成&nbsp;...",
+                    "cacheId": "QfndBMeEI2EJ",
+                    "formattedUrl": "https://pfs.nifcloud.com/navi/beginner/security_policy.htm",
+                    "htmlFormattedUrl": "https://pfs.nifcloud.com/navi/beginner/security_policy.htm",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqiIeWNONnN5fdVBwKXSZfgBcTaE-SIXNchWGSqJrs7ZKAHX274qKlu_A",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "referrer": "no-referrer-when-downgrade",
+                                "og:image": "https://pfs.nifcloud.com/navi/beginner/images/security_policy.png",
+                                "og:type": "website",
+                                "og:site_name": "ニフクラ",
+                                "viewport": "initial-scale=1,width=device-width",
+                                "og:title": "情報セキュリティ対策の基本的な考え方「セキュリティポリシー」とは | ニフクラ",
+                                "og:url": "https://pfs.nifcloud.com/navi/beginner/security_policy.htm",
+                                "og:description": "情報セキュリティ対策の基本的な考え方であるセキュリティポリシー」について、解説いたします。国産クラウドコンピューティングサービスならニフクラ。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://pfs.nifcloud.com/navi/beginner/images/security_policy.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "セキュリティポリシー | 企業情報 | テクマトリックス株式会社",
+                    "htmlTitle": "<b>セキュリティポリシー</b> | <b>企業</b>情報 | テクマトリックス株式会社",
+                    "link": "https://www.techmatrix.co.jp/company/security_policy.html",
+                    "displayLink": "www.techmatrix.co.jp",
+                    "snippet": "当社は2006年11月に、ISMS（情報セキュリティマネジメントシステム）の第三者認証基準である国際規格「ISO/IEC 27001」及び国内規格「JIS Q 27001」を取得いたしました。",
+                    "htmlSnippet": "当社は2006年11月に、ISMS（情報<b>セキュリティ</b>マネジメントシステム）の第三者認証基準である国際規格「ISO/IEC 27001」及び国内規格「JIS Q 27001」を取得いたしました。",
+                    "cacheId": "STDj0PRocwkJ",
+                    "formattedUrl": "https://www.techmatrix.co.jp/company/security_policy.html",
+                    "htmlFormattedUrl": "https://www.techmatrix.co.jp/company/security_policy.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJ7DLTpw8THiuJz0R_cQOB-TTjLFWMcHdJu2RD1DlRUo_YVX4nCrBc2Q",
+                                "width": "196",
+                                "height": "53"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.techmatrix.co.jp/thhp7i00000000gp-img/logo.png",
+                                "og:type": "website",
+                                "og:site_name": "テクマトリックス株式会社",
+                                "viewport": "width=device-width, initial-scale=1,minimum-scale=1.0,user-scalable=no",
+                                "og:title": "セキュリティポリシー",
+                                "og:url": "https://www.techmatrix.co.jp/company/security_policy.html",
+                                "og:description": "テクマトリックス株式会社がお届けする公式ページです。IT業界で役立つ最先端で最良のソリューションをご提案いたします。テクマトリックスの企画力・展開力にご期待ください。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.techmatrix.co.jp/thhp7i00000000gp-img/logo.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "「仙台市企業進出ガイド」セキュリティポリシー｜仙台市",
+                    "htmlTitle": "「仙台市<b>企業</b>進出ガイド」<b>セキュリティポリシー</b>｜仙台市",
+                    "link": "https://www.city.sendai.jp/invest/securitypolicy.html",
+                    "displayLink": "www.city.sendai.jp",
+                    "snippet": "2023/04/01 ... 「仙台市企業進出ガイド」セキュリティポリシー. 当ウェブサイト運営者である仙台市経済局産業政策部企業立地課（以下「担当課」という。",
+                    "htmlSnippet": "2023/04/01 <b>...</b> 「仙台市<b>企業</b>進出ガイド」<b>セキュリティポリシー</b>. 当ウェブサイト運営者である仙台市経済局産業政策部<b>企業</b>立地課（以下「担当課」という。",
+                    "cacheId": "BwAXj5fWW4wJ",
+                    "formattedUrl": "https://www.city.sendai.jp/invest/securitypolicy.html",
+                    "htmlFormattedUrl": "https://www.city.sendai.jp/invest/securitypolicy.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjQhg7OG1Lm6YSwrT9IcLHv7JL73qI742Ju6eY7VuSuRFAnkRMhXUvNN3p",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "http://www.city.sendai.jp/shared/images/sns/logo.jpg",
+                                "og:type": "article",
+                                "og:site_name": "仙台市役所 City of Sendai",
+                                "viewport": "width=412",
+                                "author": "仙台市役所 City of Sendai",
+                                "og:title": "「仙台市企業進出ガイド」セキュリティポリシー",
+                                "og:locale": "ja",
+                                "og:url": "https://www.city.sendai.jp/invest/securitypolicy.html",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "http://www.city.sendai.jp/shared/images/sns/logo.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "高度な保護機能プログラムでユーザーを保護する - Google ...",
+                    "htmlTitle": "高度な保護機能プログラムでユーザーを保護する - Google ...",
+                    "link": "https://support.google.com/a/answer/9378686?hl=ja",
+                    "displayLink": "support.google.com",
+                    "snippet": "一般ユーザー向けアカウントと企業向けアカウントの両方でご利用いただけます。高度な保護機能プログラムには、 ... 高度な保護機能プログラムのセキュリティ ポリシー.",
+                    "htmlSnippet": "一般ユーザー向けアカウントと<b>企業</b>向けアカウントの両方でご利用いただけます。高度な保護機能プログラムには、 ... 高度な保護機能プログラムの<b>セキュリティ ポリシー</b>.",
+                    "formattedUrl": "https://support.google.com/a/answer/9378686?hl=ja",
+                    "htmlFormattedUrl": "https://support.google.com/a/answer/9378686?hl=ja",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=3,user-scalable=yes",
+                                "format-detection": "email=no"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "阪神水道企業団情報セキュリティポリシー",
+                    "htmlTitle": "阪神水道<b>企業</b>団情報<b>セキュリティポリシー</b>",
+                    "link": "https://hansui.org/gaiyo/gaiyo-announcement/?p=878.html",
+                    "displayLink": "hansui.org",
+                    "snippet": "阪神水道企業団情報セキュリティポリシー ... PDFファイルを閲覧するには「Adobe Reader（Acrobat Reader）」が必要です。お持ちでない方は、左記の「Adobe Reader（Acrobat ...",
+                    "htmlSnippet": "阪神水道<b>企業</b>団情報<b>セキュリティポリシー</b> ... PDFファイルを閲覧するには「Adobe Reader（Acrobat Reader）」が必要です。お持ちでない方は、左記の「Adobe Reader（Acrobat&nbsp;...",
+                    "cacheId": "M1I32O8O5DUJ",
+                    "formattedUrl": "https://hansui.org/gaiyo/gaiyo-announcement/?p=878.html",
+                    "htmlFormattedUrl": "https://hansui.org/gaiyo/gaiyo-announcement/?p=878.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTa6h5rLBOTbYF2GyT9vnGvmZpE5IxPuc2ucVk_P2U_NXbvsS5bfh8nUP4I",
+                                "width": "290",
+                                "height": "136"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1.0"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://hansui.org/hansui-wp/wp-content/uploads/2020/01/05.jpg"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 企業 セキュリティポリシー",
+                        "totalResults": "94600000",
+                        "searchTerms": "企業 セキュリティポリシー",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 企業 セキュリティポリシー",
+                        "totalResults": "94600000",
+                        "searchTerms": "企業 セキュリティポリシー",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 企業 セキュリティポリシー",
+                        "totalResults": "94600000",
+                        "searchTerms": "企業 セキュリティポリシー",
+                        "count": 10,
+                        "startIndex": 31,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.424064,
+                "formattedSearchTime": "0.42",
+                "totalResults": "94600000",
+                "formattedTotalResults": "94,600,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "情報セキュリティポリシーとは？記載内容や策定ポイントも解説 ...",
+                    "htmlTitle": "情報<b>セキュリティポリシー</b>とは？記載内容や策定ポイントも解説 ...",
+                    "link": "https://it-trend.jp/cyber_attack/article/442-0033",
+                    "displayLink": "it-trend.jp",
+                    "snippet": "情報資産を内外の脅威から守り、適正に企業活動を行うには情報セキュリティ対策が欠かせません。その対策の根幹となるのが情報セキュリティポリシーで、想定できる ...",
+                    "htmlSnippet": "情報資産を内外の脅威から守り、適正に<b>企業</b>活動を行うには情報セキュリティ対策が欠かせません。その対策の根幹となるのが情報<b>セキュリティポリシー</b>で、想定できる&nbsp;...",
+                    "cacheId": "IiEwiK0lCtUJ",
+                    "formattedUrl": "https://it-trend.jp/cyber_attack/article/442-0033",
+                    "htmlFormattedUrl": "https://it-trend.jp/cyber_attack/article/442-0033",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlCDLb9KShic600kneGN7PZ7TKQdLf3v1uYj8EAmw4xlP29hGeMMnAl8uA",
+                                "width": "324",
+                                "height": "155"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://cdn.it-trend.jp/articles/3828/current/article_scheme?1643680569",
+                                "copyright": "@ITトレンド",
+                                "og:type": "article",
+                                "twitter:card": "summarylargeimage",
+                                "og:site_name": "ITトレンド",
+                                "author": "IT Trend",
+                                "apple-mobile-web-app-title": "ITトレンド",
+                                "og:title": "情報セキュリティポリシーとは？記載内容や策定ポイントも解説！｜ITトレンド",
+                                "og:description": "情報資産を内外の脅威から守り、適正に企業活動を行うには情報セキュリティ対策が欠かせません。その対策の根幹となるのが情報セキュリティポリシーで、想定できるリスクに対し、企業がどのように応じるかといった方針や規則を指します。この記事では情報セキュリティポリシーの概要から記載内容、策定ポイント、運用のコツまで解説します。",
+                                "facebook-domain-verification": "rc1p6gmdo282sl94iymnzy20c7pm40",
+                                "referrer": "no-referrer-when-downgrade",
+                                "fb:app_id": "1521261137961960",
+                                "viewport": "width=device-width, initial-scale=1, maximum-scale=5.0",
+                                "csrf-token": "7pHVAe5Q0hUexMDFkUcmSqZ1RvSddAFjVuHoCAlP",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://it-trend.jp/cyber_attack/article/442-0033"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://cdn.it-trend.jp/articles/3828/current/article_scheme?1643680569"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "IT製品 比較TOP",
+                                "name": "IT製品 比較TOP",
+                                "position": "1"
+                            },
+                            {
+                                "item": "ネットワークセキュリティ",
+                                "name": "ネットワークセキュリティ",
+                                "position": "2"
+                            },
+                            {
+                                "item": "サイバー攻撃対策製品",
+                                "name": "サイバー攻撃対策製品",
+                                "position": "3"
+                            },
+                            {
+                                "name": "情報セキュリティポリシーとは？記載内容や策定ポイントも解説！",
+                                "position": "4"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "情報セキュリティポリシー | パーソナルデータについて | NTTドコモ",
+                    "htmlTitle": "情報<b>セキュリティポリシー</b> | パーソナルデータについて | NTTドコモ",
+                    "link": "https://www.docomo.ne.jp/utility/personal_data/security/",
+                    "displayLink": "www.docomo.ne.jp",
+                    "snippet": "情報セキュリティポリシーが対象とする情報資産は、当社の企業活動において入手および知り得た情報、ならびに当社が業務上保有するすべての情報を対象とします。",
+                    "htmlSnippet": "情報<b>セキュリティポリシー</b>が対象とする情報資産は、当社の<b>企業</b>活動において入手および知り得た情報、ならびに当社が業務上保有するすべての情報を対象とします。",
+                    "cacheId": "92W3-DZHfEoJ",
+                    "formattedUrl": "https://www.docomo.ne.jp/utility/personal_data/security/",
+                    "htmlFormattedUrl": "https://www.docomo.ne.jp/utility/personal_data/security/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRyFxFshULy4kT98mCAt0j6Ogrn30oe8sVt40fScmxO_qe8eVeevzd",
+                                "width": "123",
+                                "height": "124"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "template": "page-contents-block-2col-template",
+                                "msapplication-square70x70logo": "/etc.clientlibs/docommon/clientlibs/v1/clientlib-resource/resources/icon-70x70.png",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "msapplication-square310x310logo": "/etc.clientlibs/docommon/clientlibs/v1/clientlib-resource/resources/icon-310x310.png",
+                                "msapplication-wide310x150logo": "/etc.clientlibs/docommon/clientlibs/v1/clientlib-resource/resources/icon-310x150.png",
+                                "msapplication-square150x150logo": "/etc.clientlibs/docommon/clientlibs/v1/clientlib-resource/resources/icon-150x150.png"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.docomo.ne.jp/content/dam/corp/jp/ja/common/images/ico/ico_long_thanks.png"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "item": "パーソナルデータについて",
+                                "name": "パーソナルデータについて",
+                                "position": "2"
+                            },
+                            {
+                                "name": "情報セキュリティポリシー",
+                                "position": "3"
+                            },
+                            {
+                                "item": "ホーム",
+                                "name": "ホーム",
+                                "position": "1"
+                            },
+                            {
+                                "item": "パーソナルデータについて",
+                                "name": "パーソナルデータについて",
+                                "position": "2"
+                            },
+                            {
+                                "name": "情報セキュリティポリシー",
+                                "position": "3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "セキュリティポリシー | 東京カンテイ",
+                    "htmlTitle": "<b>セキュリティポリシー</b> | 東京カンテイ",
+                    "link": "https://www.kantei.ne.jp/security_policy/index.html",
+                    "displayLink": "www.kantei.ne.jp",
+                    "snippet": "我々の提供するデータやサービスが、お客様の企業活動において極めて重要な価値を持つものと認識いたしております。法令順守は勿論のこと、企業リスクを回避して、皆様に安 ...",
+                    "htmlSnippet": "我々の提供するデータやサービスが、お客様の<b>企業</b>活動において極めて重要な価値を持つものと認識いたしております。法令順守は勿論のこと、<b>企業</b>リスクを回避して、皆様に安&nbsp;...",
+                    "cacheId": "8jnxh_q2D2UJ",
+                    "formattedUrl": "https://www.kantei.ne.jp/security_policy/index.html",
+                    "htmlFormattedUrl": "https://www.kantei.ne.jp/security_policy/index.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoeBpWw2sUthvdi_YpX6h8V7zsS95ECfiPQPEi2JOjZ228iM9xknNunhYT",
+                                "width": "287",
+                                "height": "176"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,user-scalable=yes",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.kantei.ne.jp/common/img/megamenu_04_pic01.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "平成15年春期問72 企業の情報セキュリティポリシ｜基本情報技術者 ...",
+                    "htmlTitle": "平成15年春期問72 <b>企業</b>の情報<b>セキュリティポリシ</b>｜基本情報技術者 ...",
+                    "link": "https://www.fe-siken.com/kakomon/15_haru/q72.html",
+                    "displayLink": "www.fe-siken.com",
+                    "snippet": "企業の情報セキュリティポリシの基本方針策定に関する記述のうち，適切なものはどれか。 ア 業種ごとに共通であり，各企業で独自のものを策定する必要性は低い。",
+                    "htmlSnippet": "<b>企業</b>の情報<b>セキュリティポリシ</b>の基本方針策定に関する記述のうち，適切なものはどれか。 ア 業種ごとに共通であり，各<b>企業</b>で独自のものを策定する必要性は低い。",
+                    "cacheId": "eGQE3ajHYJgJ",
+                    "formattedUrl": "https://www.fe-siken.com/kakomon/15_haru/q72.html",
+                    "htmlFormattedUrl": "https://www.fe-siken.com/kakomon/15_haru/q72.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTx6ubJDdx34MKVbbMnQds68kDliukMUmz0xKRgwBn4CA4bD8gdXI7l0HU",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.fe-siken.com/img/ogimage.png",
+                                "og:type": "article",
+                                "og:site_name": "基本情報技術者試験ドットコム",
+                                "viewport": "width=960,user-scalable=yes",
+                                "og:title": "平成15年春期問72 企業の情報セキュリティポリシ",
+                                "og:url": "https://www.fe-siken.com/kakomon/15_haru/q72.html",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.fe-siken.com/img/ogimage.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "ソフトウェア医療機器のテクノロジー企業 - 情報セキュリティポリシー",
+                    "htmlTitle": "ソフトウェア医療機器のテクノロジー<b>企業</b> - 情報<b>セキュリティポリシー</b>",
+                    "link": "https://www.life-q.jp/privacypolicy/securitypolicy",
+                    "displayLink": "www.life-q.jp",
+                    "snippet": "情報セキュリティポリシー. 株式会社ライフクエスト （以下「当社」という。）は、当社が保有する情報資産を漏えいや破壊等のリスクから保護することが事業継続の上で ...",
+                    "htmlSnippet": "情報<b>セキュリティポリシー</b>. 株式会社ライフクエスト （以下「当社」という。）は、当社が保有する情報資産を漏えいや破壊等のリスクから保護することが事業継続の上で&nbsp;...",
+                    "cacheId": "sxt6H4UAwEsJ",
+                    "formattedUrl": "https://www.life-q.jp/privacypolicy/securitypolicy",
+                    "htmlFormattedUrl": "https://www.life-q.jp/privacypolicy/securitypolicy",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "referrer": "strict-origin-when-cross-origin",
+                                "og:image": "https://lh4.googleusercontent.com/J3kVqeaGqalk6_wqlQ7DpnjcWmpeUz-28JtboYkTwSyIFDj_UO8O0RdTcp-M0uxkywFnmQ=w16383",
+                                "og:type": "website",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "ソフトウェア医療機器のテクノロジー企業 - 情報セキュリティポリシー",
+                                "og:url": "https://www.life-q.jp/privacypolicy/securitypolicy",
+                                "og:description": "株式会社ライフクエスト （以下「当社」という。）は、当社が保有する情報資産を漏えいや破壊等のリスクから保護することが事業継続の上で極めて重要であることを認識し、情報資産を適正に管理運用するため、本情報セキュリティポリシーを定め、情報セキュリティ管理体制の維持に努める。\n \n1. 適用範囲\n本情報セキュリティポリシーは、当社が保有するすべての情報資産（当社が利用者にサービスを提供するうえで扱う情報、及びその情報を扱うために必要な設備をいう。）に適用する。\n \n2."
+                            }
+                        ],
+                        "webpage": [
+                            {
+                                "image": "https://lh4.googleusercontent.com/J3kVqeaGqalk6_wqlQ7DpnjcWmpeUz-28JtboYkTwSyIFDj_UO8O0RdTcp-M0uxkywFnmQ=w16383",
+                                "imageurl": "https://lh4.googleusercontent.com/J3kVqeaGqalk6_wqlQ7DpnjcWmpeUz-28JtboYkTwSyIFDj_UO8O0RdTcp-M0uxkywFnmQ=w16383",
+                                "name": "ソフトウェア医療機器のテクノロジー企業 - 情報セキュリティポリシー",
+                                "description": "株式会社ライフクエスト （以下「当社」という。）は、当社が保有する情報資産を漏えいや破壊等のリスクから保護することが事業継続の上で極...",
+                                "url": "https://www.life-q.jp/privacypolicy/securitypolicy",
+                                "thumbnailurl": "https://lh4.googleusercontent.com/J3kVqeaGqalk6_wqlQ7DpnjcWmpeUz-28JtboYkTwSyIFDj_UO8O0RdTcp-M0uxkywFnmQ=w16383"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://lh4.googleusercontent.com/J3kVqeaGqalk6_wqlQ7DpnjcWmpeUz-28JtboYkTwSyIFDj_UO8O0RdTcp-M0uxkywFnmQ=w16383"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "セキュリティポリシーとは？セキュリティポリシーが必要な理由 ...",
+                    "htmlTitle": "<b>セキュリティポリシー</b>とは？<b>セキュリティポリシー</b>が必要な理由 ...",
+                    "link": "https://go.chatwork.com/ja/column/work_evolution/work-evolution-115.html",
+                    "displayLink": "go.chatwork.com",
+                    "snippet": "2021/11/08 ... 企業活動で起こり得るリスクを把握し、セキュリティポリシーを策定する基準を考えてみましょう。 外部からのサイバー攻撃に備える. セキュリティポリシー ...",
+                    "htmlSnippet": "2021/11/08 <b>...</b> <b>企業</b>活動で起こり得るリスクを把握し、<b>セキュリティポリシー</b>を策定する基準を考えてみましょう。 外部からのサイバー攻撃に備える. <b>セキュリティポリシー</b>&nbsp;...",
+                    "cacheId": "saeAjJBMorgJ",
+                    "formattedUrl": "https://go.chatwork.com/ja/column/work.../work-evolution-115.html",
+                    "htmlFormattedUrl": "https://go.chatwork.com/ja/column/work.../work-evolution-115.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhCNSLny2dLAK4-EFAoY4Na5Ox3pslYEZo-wmorrAd27H9lSSfVCh5x5jE",
+                                "width": "287",
+                                "height": "176"
+                            }
+                        ],
+                        "thumbnail": [
+                            {
+                                "src": "https://go.chatwork.com/ja/column/catch-img699.jpg"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://go.chatwork.com/ja/column/ogp-img699.jpg",
+                                "twitter:card": "summary",
+                                "thumbnail": "https://go.chatwork.com/ja/column/catch-img699.jpg",
+                                "og:type": "article",
+                                "og:site_name": "お役立ちコラム",
+                                "msvalidate.01": "5C24AA36B822148CE9F4187B7EEE17D3",
+                                "og:title": "セキュリティポリシーとは？セキュリティポリシーが必要な理由 | ビジネスチャットならChatwork",
+                                "og:description": "さまざまなリスクから企業を守るためにも、セキュリティポリシーの策定が必要です。しかし、セキュリティポリシーとはどのようなものであるのか、よくわからないという方も多いのではないでしょうか。セキュリティポリシーを策定するべき理由や、策定の際のポイントについて解説します。",
+                                "twitter:site": "@chatwork_ja",
+                                "viewport": "width=device-width,initial-scale=1",
+                                "og:locale": "ja_JP",
+                                "fb:admins": "100000391675297",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://go.chatwork.com/ja/column/catch-img699.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "情報セキュリティポリシーはなぜ必要？その目的と内容を解説 ...",
+                    "htmlTitle": "情報<b>セキュリティポリシー</b>はなぜ必要？その目的と内容を解説 ...",
+                    "link": "https://support.kodama-system.com/column/information-system-department/information-security-policy/",
+                    "displayLink": "support.kodama-system.com",
+                    "snippet": "2020/08/28 ... 近年悪質化するサイバー犯罪から大切な情報を守るため、民間企業のみならず、公的機関もあらゆるセキュリティ対策を講じています。内閣は各省庁に対し ...",
+                    "htmlSnippet": "2020/08/28 <b>...</b> 近年悪質化するサイバー犯罪から大切な情報を守るため、民間<b>企業</b>のみならず、公的機関もあらゆる<b>セキュリティ</b>対策を講じています。内閣は各省庁に対し&nbsp;...",
+                    "cacheId": "7qL1orgLPB8J",
+                    "formattedUrl": "https://support.kodama-system.com/.../information-security-policy/",
+                    "htmlFormattedUrl": "https://support.kodama-system.com/.../information-security-policy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQi8oWwVT9gzKYqeC1xNVg8QJ9oZ2PsOL94sKlR0OrHlFOsGi-k-P89jbI",
+                                "width": "275",
+                                "height": "183"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://support.kodama-system.com/wordpress/wp-content/uploads/2020/08/Padlock-on-laptop.jpg",
+                                "og:type": "article",
+                                "article:published_time": "2020-08-28T11:46:18+00:00",
+                                "og:image:width": "700",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "こだまシステムのITアウトソーシング",
+                                "og:title": "情報セキュリティポリシーはなぜ必要？その目的と内容を解説 - こだまシステムのITアウトソーシング",
+                                "og:image:height": "467",
+                                "twitter:label1": "によって書かれた",
+                                "msapplication-tileimage": "https://support.kodama-system.com/wordpress/wp-content/uploads/2021/07/cropped-ファビコン-270x270.png",
+                                "og:description": "近年悪質化するサイバー犯罪から大切な情報を守るため、民間企業のみならず、公的機関もあらゆるセキュリティ対策を講じています。 そして、内閣は各省庁に対して「情報セキュリティポリシーに関するガイドライン」を発行しています。 このガイドラインは、民間企業でも使用できるものです。 しかし、民間企業からは目的 […]",
+                                "twitter:data1": "JB",
+                                "twitter:site": "@kodama_system",
+                                "article:modified_time": "2021-01-26T17:44:32+00:00",
+                                "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://support.kodama-system.com/column/information-system-department/information-security-policy/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://support.kodama-system.com/wordpress/wp-content/uploads/2020/08/Padlock-on-laptop.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "サイバーレジリエンスにおけるITセキュリティポリシーの定義 ...",
+                    "htmlTitle": "サイバーレジリエンスにおけるIT<b>セキュリティポリシー</b>の定義 ...",
+                    "link": "https://japan.zdnet.com/article/35188629/",
+                    "displayLink": "japan.zdnet.com",
+                    "snippet": "2022/06/16 ... 本連載ではセキュリティ対策に関わる部分を全社的・グローバルに、かつスピーディーに企業へ展開できるガバナンスモデルについて解説する。",
+                    "htmlSnippet": "2022/06/16 <b>...</b> 本連載では<b>セキュリティ</b>対策に関わる部分を全社的・グローバルに、かつスピーディーに<b>企業</b>へ展開できるガバナンスモデルについて解説する。",
+                    "cacheId": "6omrzDxqHdIJ",
+                    "formattedUrl": "https://japan.zdnet.com/article/35188629/",
+                    "htmlFormattedUrl": "https://japan.zdnet.com/article/35188629/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrewANIDTrWRnR_4ReU5jLksGefgzzwX0i3sJ_t_XCCvRR5qNwfCqLKcFO",
+                                "width": "259",
+                                "height": "194"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "msapplication-tilecolor": "#FFFFFF",
+                                "og:image": "https://japan.zdnet.com/storage/2021/09/15/d7a291c5b0f90fa72713606a08483d48/thumb_ztsa_1280.jpg",
+                                "twitter:card": "summary_large_image",
+                                "og:type": "article",
+                                "article:published_time": "2022-06-16T06:00:00+09:00",
+                                "og:site_name": "ZDNet Japan",
+                                "cxenseparse:pageclass": "article",
+                                "msvalidate.01": "4056301A54BB87F40862E212129ADBE6",
+                                "og:title": "サイバーレジリエンスにおけるITセキュリティポリシーの定義",
+                                "title": "サイバーレジリエンスにおけるITセキュリティポリシーの定義 - ZDNET Japan",
+                                "msapplication-tileimage": "https://japan.zdnet.com/apple-touch-icon-144x144.png",
+                                "og:description": "セキュリティ対策を講じてもインシデントが減らない要因の1つに、統制（ガバナンス）の難しさがあるだろう。本連載ではセキュリティ対策に関わる部分を全社的・グローバルに、かつスピーディーに企業へ展開できるガバナンスモデルについて解説する。",
+                                "dc.date.issued": "2022-06-16T06:00:00+09:00",
+                                "article:publisher": "https://www.facebook.com/ZDNetJapan",
+                                "fb:app_id": "1445243325512954",
+                                "twitter:site": "@zdnet_japan",
+                                "cxenseparse:author": "井上洋一 （タニウム）",
+                                "article:modified_time": "2022-06-16T06:00:00+09:00",
+                                "viewport": "width=device-width, initial-scale=1.0,minimum-scale=1.0, user-scalable=yes",
+                                "og:url": "https://japan.zdnet.com/article/35188629/",
+                                "cxenseparse:ash-category": "security",
+                                "cxenseparse:ash-subcategory": "sp_22securiy_governance"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://japan.zdnet.com/storage/2021/09/15/d7a291c5b0f90fa72713606a08483d48/thumb_ztsa_1280.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "情報セキュリティポリシー｜企業情報｜株式会社IHI物流産業システム",
+                    "htmlTitle": "情報<b>セキュリティポリシー</b>｜<b>企業</b>情報｜株式会社IHI物流産業システム",
+                    "link": "https://www.ihi.co.jp/ilm/company/security/index.html",
+                    "displayLink": "www.ihi.co.jp",
+                    "snippet": "当社は，当社が保有する情報資産の安全性を確保し，顧客およびユーザや社会との信頼関係を強固としたものにするため，ここに情報セキュリティポリシ－を定める｡",
+                    "htmlSnippet": "当社は，当社が保有する情報資産の安全性を確保し，顧客およびユーザや社会との信頼関係を強固としたものにするため，ここに情報<b>セキュリティポリシ</b>－を定める｡",
+                    "cacheId": "Mz6J-0UyNAEJ",
+                    "formattedUrl": "https://www.ihi.co.jp/ilm/company/security/index.html",
+                    "htmlFormattedUrl": "https://www.ihi.co.jp/ilm/company/security/index.html",
+                    "pagemap": {
+                        "breadcrumb": [
+                            {
+                                "title": "ホーム",
+                                "url": "ホーム"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "{ogp_image}",
+                                "og:type": "website",
+                                "og:site_name": "株式会社IHI物流産業システム",
+                                "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+                                "og:title": "株式会社IHI物流産業システム",
+                                "og:url": "{URL}",
+                                "og:description": "{description}"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "{ogp_image}"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "JR西日本グループ情報セキュリティポリシー：JR西日本",
+                    "htmlTitle": "JR西日本グループ情報<b>セキュリティポリシー</b>：JR西日本",
+                    "link": "https://www.westjr.co.jp/guide/security.html",
+                    "displayLink": "www.westjr.co.jp",
+                    "snippet": "2017/04/01 ... 企業・IR・採用・ ... JR西日本グループ情報セキュリティポリシー ... 情報セキュリティに関する法令および行政機関が定めた方針・ガイドライン等を ...",
+                    "htmlSnippet": "2017/04/01 <b>...</b> <b>企業</b>・IR・採用・ ... JR西日本グループ情報<b>セキュリティポリシー</b> ... 情報セキュリティに関する法令および行政機関が定めた方針・ガイドライン等を&nbsp;...",
+                    "cacheId": "yCraaYGV9egJ",
+                    "formattedUrl": "https://www.westjr.co.jp/guide/security.html",
+                    "htmlFormattedUrl": "https://www.westjr.co.jp/guide/security.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTahZwdi3siJ19JFcZZR-suw-TvACOCql5-FdXszpRU5cBbZJTAbC4hO65g",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.westjr.co.jp/common/img/facebook.gif",
+                                "viewport": "width=1024"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.westjr.co.jp/common/img/facebook.gif"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

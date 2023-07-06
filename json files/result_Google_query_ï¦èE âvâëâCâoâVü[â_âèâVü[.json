@@ -1,0 +1,1381 @@
+{
+    "query": "業界 プライバシーポリシー",
+    "links": [
+        [
+            "https://www.rvsta.co.jp/privacypolicy/",
+            "https://www.nagase.co.jp/privacy_website/",
+            "https://www.ryoen.io/privacypolicy",
+            "https://ldp.media/privacy/",
+            "https://diamond-rm.net/privacy/",
+            "https://0423craft.beer/privacy-policy/",
+            "https://www.chuosystem.co.jp/privacy.html",
+            "https://www.jsda.or.jp/privacy/sengen.html",
+            "https://www.chuosystem.co.jp/appli_privacy.html",
+            "https://www.qlc.co.jp/policy/"
+        ],
+        [
+            "https://www.qlc.co.jp/policy/",
+            "https://traevo.jp/privacy/",
+            "https://dental-seek.com/privacypolicy",
+            "http://www.apogee-users.jp/privacy.html",
+            "https://www.hf-staff.jp/privacy/",
+            "https://www.uchideno-kozuchi.com/privacy/",
+            "https://www.dan-net.com/privacy/",
+            "http://j-hrm.co.jp/entry/privacy/",
+            "https://fittio.co.jp/privacy-policy/",
+            "https://billyken.org/privacy-policy/"
+        ],
+        [
+            "https://www.inter-bee.com/ja/privacy/",
+            "https://gyokai-renkei.jp/privacy_policy/",
+            "https://www.novartis.com/jp-ja/privacy-policy",
+            "https://corp.shiseido.com/jp/privacy-policy/",
+            "https://chatplus.jp/privacy/",
+            "https://www.meti.go.jp/policy/it_policy/privacy/privacy.html",
+            "https://akihabara-creative.co.jp/privacypolicy",
+            "https://cocolive.co.jp/privacy/",
+            "https://nagasaki-jack.co.jp/privacy/",
+            "https://kankyodigital-sol.jp/privacy-policy/"
+        ]
+    ],
+    "snapshot_ymd": "D2023-06-23",
+    "snapshot_timestamp": "D2023-06-23T01-27-55",
+    "responses": [
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "request": [
+                    {
+                        "title": "Google Custom Search - 業界 プライバシーポリシー",
+                        "totalResults": "178000000",
+                        "searchTerms": "業界 プライバシーポリシー",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 業界 プライバシーポリシー",
+                        "totalResults": "178000000",
+                        "searchTerms": "業界 プライバシーポリシー",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.45708,
+                "formattedSearchTime": "0.46",
+                "totalResults": "178000000",
+                "formattedTotalResults": "178,000,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー｜株式会社リバスタ｜建設業界向けIT支援",
+                    "htmlTitle": "<b>プライバシーポリシー</b>｜株式会社リバスタ｜建設<b>業界</b>向けIT支援",
+                    "link": "https://www.rvsta.co.jp/privacypolicy/",
+                    "displayLink": "www.rvsta.co.jp",
+                    "snippet": "privacy policy プライバシーポリシー. 1. 個人情報保護についての考え方. 株式会社リバスタ（以下「当社」といいます）は、当社の業務を円滑に行うため、お客様の氏名 ...",
+                    "htmlSnippet": "privacy policy <b>プライバシーポリシー</b>. 1. 個人情報保護についての考え方. 株式会社リバスタ（以下「当社」といいます）は、当社の業務を円滑に行うため、お客様の氏名&nbsp;...",
+                    "cacheId": "mDd-tLul2NUJ",
+                    "formattedUrl": "https://www.rvsta.co.jp/privacypolicy/",
+                    "htmlFormattedUrl": "https://www.rvsta.co.jp/privacypolicy/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                                "msapplication-tileimage": "https://www.rvsta.co.jp/cms/wp-content/uploads/2022/01/cropped-favicon-270x270.png",
+                                "format-detection": "telephone=no"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー | 長瀬産業株式会社",
+                    "htmlTitle": "<b>プライバシーポリシー</b> | 長瀬産業株式会社",
+                    "link": "https://www.nagase.co.jp/privacy_website/",
+                    "displayLink": "www.nagase.co.jp",
+                    "snippet": "プライバシーポリシー. 長瀬産業株式会社（以下、「当社」といいます。）のウェブサイト（以下、「当社ウェブサイト」といいます。）にご訪問いただき、また、NAGASE ...",
+                    "htmlSnippet": "<b>プライバシーポリシー</b>. 長瀬産業株式会社（以下、「当社」といいます。）のウェブサイト（以下、「当社ウェブサイト」といいます。）にご訪問いただき、また、NAGASE&nbsp;...",
+                    "cacheId": "iSsVmAJ5IJkJ",
+                    "formattedUrl": "https://www.nagase.co.jp/privacy_website/",
+                    "htmlFormattedUrl": "https://www.nagase.co.jp/privacy_website/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwi-x620pdHPex0LwaLKR0RvojnqYew0HDWkQNMWLrmpZ5r43oub8Sb64",
+                                "width": "415",
+                                "height": "121"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.nagase.co.jp/shared/images/logo.svg",
+                                "copyright": "Copyright c 2023 NAGASE & CO., LTD. All Rights Reserved.",
+                                "og:type": "website",
+                                "og:site_name": "長瀬産業株式会社",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "author": "長瀬産業株式会社",
+                                "og:title": "長瀬産業株式会社",
+                                "og:url": "https://www.nagase.co.jp/",
+                                "og:description": "染料、化学品、合成樹脂、機械、電子材料、化粧品、健康食品、医療機器等の輸出・輸入及び国内販売を行なう化学品専門商社"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.nagase.co.jp/shared/images/logo.svg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシーについて | 住宅・不動産業界営業支援システム ...",
+                    "htmlTitle": "<b>プライバシーポリシー</b>について | 住宅・不動産<b>業界</b>営業支援システム ...",
+                    "link": "https://www.ryoen.io/privacypolicy",
+                    "displayLink": "www.ryoen.io",
+                    "snippet": "住宅・不動産業界営業支援システム Digima（デジマ）のプライバシーポリシーについてのページです。",
+                    "htmlSnippet": "住宅・不動産<b>業界</b>営業支援システム Digima（デジマ）の<b>プライバシーポリシー</b>についてのページです。",
+                    "cacheId": "N0YT0Nh4AewJ",
+                    "formattedUrl": "https://www.ryoen.io/privacypolicy",
+                    "htmlFormattedUrl": "https://www.ryoen.io/privacypolicy",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdqgWvpCoQTwBecip7iQe9cp4p_gMcQNR3bREnF17S69LbgFCl9stfG5SB",
+                                "width": "305",
+                                "height": "165"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.ryoen.io/hubfs/ryoen/common/OGP01.png",
+                                "twitter:title": "プライバシーポリシーについて | 住宅・不動産業界営業支援システム Digima（デジマ）",
+                                "twitter:card": "summary",
+                                "og:site_name": "株式会社コンベックス",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "住宅・不動産業界営業支援システム Digima（デジマ）のプライバシーポリシーについてのページです。",
+                                "og:title": "プライバシーポリシーについて | 住宅・不動産業界営業支援システム Digima（デジマ）",
+                                "og:url": "https://www.ryoen.io/privacypolicy",
+                                "og:description": "住宅・不動産業界営業支援システム Digima（デジマ）のプライバシーポリシーについてのページです。",
+                                "twitter:image": "https://www.ryoen.io/hubfs/ryoen/common/OGP01.png",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.ryoen.io/hubfs/ryoen/common/OGP01.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー | LDP - 住宅業界に新しい視点を生み出すWEB ...",
+                    "htmlTitle": "<b>プライバシーポリシー</b> | LDP - 住宅<b>業界</b>に新しい視点を生み出すWEB ...",
+                    "link": "https://ldp.media/privacy/",
+                    "displayLink": "ldp.media",
+                    "snippet": "PRIVACY POLICY プライバシーポリシー. 個人情報保護方針. 株式会社ベツダイ（以下、「当社」）の運営するホームページ（以下 ...",
+                    "htmlSnippet": "PRIVACY POLICY <b>プライバシーポリシー</b>. 個人情報保護方針. 株式会社ベツダイ（以下、「当社」）の運営するホームページ（以下&nbsp;...",
+                    "cacheId": "oo2INwJfKE4J",
+                    "formattedUrl": "https://ldp.media/privacy/",
+                    "htmlFormattedUrl": "https://ldp.media/privacy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBTDyB47seJVi8hd1QD8jPEQfcynN88iZMWwtYTjUPdF4ALegdSORLK5Qj",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://ldp.media/cms/wp-content/themes/betsudaitokyo/images/ogp.jpg",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "プライバシーポリシー | LDP - 住宅業界に新しい視点を生み出すWEBメディア",
+                                "og:site_name": "プライバシーポリシー | LDP - 住宅業界に新しい視点を生み出すWEBメディア",
+                                "twitter:url": "https://ldp.media/privacy/",
+                                "og:title": "プライバシーポリシー | LDP - 住宅業界に新しい視点を生み出すWEBメディア",
+                                "og:description": "LDPを運営するBETSUDAI Inc. TOKYO（ベツダイ東京）のプライバシーポリシーです。",
+                                "twitter:image": "https://ldp.media/cms/wp-content/themes/betsudaitokyo/images/ogp.jpg",
+                                "facebook-domain-verification": "3gpmme6974ny6dcl26zf1qr1ihqvcj",
+                                "viewport": "width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1",
+                                "twitter:description": "LDPを運営するBETSUDAI Inc. TOKYO（ベツダイ東京）のプライバシーポリシーです。",
+                                "og:url": "https://ldp.media/privacy/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://ldp.media/cms/wp-content/themes/betsudaitokyo/images/ogp.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー | 小売・流通業界で働く人の情報サイト_ ...",
+                    "htmlTitle": "<b>プライバシーポリシー</b> | 小売・流通<b>業界</b>で働く人の情報サイト_ ...",
+                    "link": "https://diamond-rm.net/privacy/",
+                    "displayLink": "diamond-rm.net",
+                    "snippet": "プライバシーポリシー. 個人情報の取扱いについて. 2020年4月制定 2022年4月改訂. 株式会社ダイヤモンド・リテイルメディア（以下 ...",
+                    "htmlSnippet": "<b>プライバシーポリシー</b>. 個人情報の取扱いについて. 2020年4月制定 2022年4月改訂. 株式会社ダイヤモンド・リテイルメディア（以下&nbsp;...",
+                    "cacheId": "JxgYERll7sQJ",
+                    "formattedUrl": "https://diamond-rm.net/privacy/",
+                    "htmlFormattedUrl": "https://diamond-rm.net/privacy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFAUHQS2_i06QU_MoXCzHdnnq9ypJ_CJmdKHufEzG8PI4gx2K9T8W_JA",
+                                "width": "24",
+                                "height": "24"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "http://diamond-rm.net/wp-content/uploads/2019/12/PDF_24.png",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "小売・流通業界で働く人の情報サイト_ダイヤモンド・チェーンストアオンライン",
+                                "twitter:site": "@D_R_M_online",
+                                "article:modified_time": "2023-02-28T01:56:14+00:00",
+                                "viewport": "width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no",
+                                "og:title": "プライバシーポリシー | 小売・流通業界で働く人の情報サイト_ダイヤモンド・チェーンストアオンライン",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://diamond-rm.net/privacy/",
+                                "og:description": "個人情報の取扱いについて 2020年4月制定 2022年4月改訂 株式会社ダイヤモンド・リテイルメディア（以下「当社」といいます。）は、当社のお客様（当社が主催又は他社と共催するセミナーに応募されるお客様、当社出版物の購...続きを読む",
+                                "article:publisher": "https://www.facebook.com/diamond.rm.online/?tn-str=k%2aF"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "http://diamond-rm.net/wp-content/uploads/2019/12/PDF_24.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー – 日本クラフトビール業界団体連絡協議会 ...",
+                    "htmlTitle": "<b>プライバシーポリシー</b> – 日本クラフトビール<b>業界</b>団体連絡協議会 ...",
+                    "link": "https://0423craft.beer/privacy-policy/",
+                    "displayLink": "0423craft.beer",
+                    "snippet": "PRIVACY POLICYプライバシーポリシー. 日本クラフトビール業界団体連絡協議会（以下当会）は、本ウェブサイト上で提供するサービス（以下、本サービス）における登録者 ...",
+                    "htmlSnippet": "PRIVACY POLICY<b>プライバシーポリシー</b>. 日本クラフトビール<b>業界</b>団体連絡協議会（以下当会）は、本ウェブサイト上で提供するサービス（以下、本サービス）における登録者&nbsp;...",
+                    "cacheId": "Bo-lX6zG5CMJ",
+                    "formattedUrl": "https://0423craft.beer/privacy-policy/",
+                    "htmlFormattedUrl": "https://0423craft.beer/privacy-policy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGZiVhYbrnW6vZkzj6dzZqxc8iIejy5u27DLIht1S17KHcDpW5KGKMUZyF",
+                                "width": "308",
+                                "height": "164"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://0423craft.beer/cms/wp-content/themes/0423craft1.1/img/ogp.jpg",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "プライバシーポリシー – 日本クラフトビール業界団体連絡協議会（クラビ連）",
+                                "og:type": "article",
+                                "fb:app_id": "5184816551629560",
+                                "og:site_name": "日本クラフトビール業界団体連絡協議会（クラビ連）",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "og:title": "プライバシーポリシー – 日本クラフトビール業界団体連絡協議会（クラビ連）",
+                                "og:url": "https://0423craft.beer/privacy-policy/",
+                                "twitter:image": "https://0423craft.beer/cms/wp-content/themes/0423craft1.1/img/ogp.jpg"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://0423craft.beer/cms/wp-content/themes/0423craft1.1/img/ogp.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー | お客様を業界No.1にするITソリューション ...",
+                    "htmlTitle": "<b>プライバシーポリシー</b> | お客様を<b>業界</b>No.1にするITソリューション ...",
+                    "link": "https://www.chuosystem.co.jp/privacy.html",
+                    "displayLink": "www.chuosystem.co.jp",
+                    "snippet": "プライバシーポリシー｜中央システム株式会社は、1981年の創業以来、時代の進化に対応する技術力で、幅広い業種のお客様にシステム設計、開発を中心としたITサ－ビスを ...",
+                    "htmlSnippet": "<b>プライバシーポリシー</b>｜中央システム株式会社は、1981年の創業以来、時代の進化に対応する技術力で、幅広い業種のお客様にシステム設計、開発を中心としたITサ－ビスを&nbsp;...",
+                    "cacheId": "XnkKnX9VOpYJ",
+                    "formattedUrl": "https://www.chuosystem.co.jp/privacy.html",
+                    "htmlFormattedUrl": "https://www.chuosystem.co.jp/privacy.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQthj6mRvZLGe2b2v9GS8r623krobH1ewQIc2UaXirrnYIACq-hbK2qwpA",
+                                "width": "179",
+                                "height": "179"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "http://www.chuosystem.co.jp/dcms_media/image/security_0417.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "本協会個人情報保護宣言（プライバシーポリシー） | 日本証券業協会",
+                    "htmlTitle": "本協会個人情報保護宣言（<b>プライバシーポリシー</b>） | 日本証券<b>業</b>協会",
+                    "link": "https://www.jsda.or.jp/privacy/sengen.html",
+                    "displayLink": "www.jsda.or.jp",
+                    "snippet": "本協会個人情報保護宣言（プライバシーポリシー） ... ① 自主規制業務; ② 金融商品取引業及び金融商品市場の健全な発展を推進する業務; ③ 認定個人情報保護団体 ...",
+                    "htmlSnippet": "本協会個人情報保護宣言（<b>プライバシーポリシー</b>） ... ① 自主規制業務; ② 金融商品取引<b>業</b>及び金融商品市場の健全な発展を推進する業務; ③ 認定個人情報保護団体&nbsp;...",
+                    "cacheId": "MF502tbISpkJ",
+                    "formattedUrl": "https://www.jsda.or.jp/privacy/sengen.html",
+                    "htmlFormattedUrl": "https://www.jsda.or.jp/privacy/sengen.html",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,initial-scale=1",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "HOME",
+                                "name": "HOME",
+                                "position": "1"
+                            },
+                            {
+                                "item": "個人情報の取扱い",
+                                "name": "個人情報の取扱い",
+                                "position": "2"
+                            },
+                            {
+                                "name": "本協会個人情報保護宣言（プライバシーポリシー）"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "アプリケーション・プライバシーポリシー | お客様を業界No.1にする ...",
+                    "htmlTitle": "アプリケーション・<b>プライバシーポリシー</b> | お客様を<b>業界</b>No.1にする ...",
+                    "link": "https://www.chuosystem.co.jp/appli_privacy.html",
+                    "displayLink": "www.chuosystem.co.jp",
+                    "snippet": "本アプリケーション・プライバシーポリシーは、中央システム株式会社（以下「当社」といいます）が提供するアプリケーションソフトウェア「レコル」に関するサービス（ ...",
+                    "htmlSnippet": "本アプリケーション・<b>プライバシーポリシー</b>は、中央システム株式会社（以下「当社」といいます）が提供するアプリケーションソフトウェア「レコル」に関するサービス（&nbsp;...",
+                    "cacheId": "gSuTNdyd9akJ",
+                    "formattedUrl": "https://www.chuosystem.co.jp/appli_privacy.html",
+                    "htmlFormattedUrl": "https://www.chuosystem.co.jp/appli_privacy.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQthj6mRvZLGe2b2v9GS8r623krobH1ewQIc2UaXirrnYIACq-hbK2qwpA",
+                                "width": "179",
+                                "height": "179"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "http://www.chuosystem.co.jp/dcms_media/image/security_0417.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー | 医療・介護業界の連携プラットフォームの ...",
+                    "htmlTitle": "<b>プライバシーポリシー</b> | 医療・介護<b>業界</b>の連携プラットフォームの ...",
+                    "link": "https://www.qlc.co.jp/policy/",
+                    "displayLink": "www.qlc.co.jp",
+                    "snippet": "QLCプロデュース株式会社のプライバシーポリシーを紹介します。QLCプロデュース株式会社は、介護ビジネス新規参入支援、各種POSシステムの開発、中古メディアの卸事業 ...",
+                    "htmlSnippet": "QLCプロデュース株式会社の<b>プライバシーポリシー</b>を紹介します。QLCプロデュース株式会社は、介護ビジネス新規参入支援、各種POSシステムの開発、中古メディアの卸事業&nbsp;...",
+                    "cacheId": "01Vn-Te7EK0J",
+                    "formattedUrl": "https://www.qlc.co.jp/policy/",
+                    "htmlFormattedUrl": "https://www.qlc.co.jp/policy/",
+                    "pagemap": {
+                        "wpfooter": [
+                            {
+                                "copyrightholder": "QLC Produce Corporation All Rights Reserved.",
+                                "name": "QLC Produce Corporation All Rights Reserved."
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:type": "article",
+                                "article:published_time": "2019-01-11T08:20:48+00:00",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "プライバシーポリシー | 医療・介護業界の連携プラットフォームの構築・システム開発・運動プログラムの開発 | QLCプロデュース株式会社",
+                                "theme-color": "#0068b7",
+                                "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+                                "og:site_name": "QLCプロデュース株式会社 -",
+                                "og:title": "プライバシーポリシー | 医療・介護業界の連携プラットフォームの構築・システム開発・運動プログラムの開発 | QLCプロデュース株式会社",
+                                "og:description": "QLCプロデュース株式会社のプライバシーポリシーを紹介します。QLCプロデュース株式会社は、介護ビジネス新規参入支援、各種POSシステムの開発、中古メディアの卸事業を通して、ビジネスソリューション・システムソリューションの両面から総合的に店舗運営をプロデュースいたします。",
+                                "article:modified_time": "2019-01-21T10:41:01+00:00",
+                                "viewport": "width=device-width,initial-scale=1.0",
+                                "twitter:description": "QLCプロデュース株式会社のプライバシーポリシーを紹介します。QLCプロデュース株式会社は、介護ビジネス新規参入支援、各種POSシステムの開発、中古メディアの卸事業を通して、ビジネスソリューション・システムソリューションの両面から総合的に店舗運営をプロデュースいたします。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.qlc.co.jp/policy/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "Breadcrumb": [
+                            {
+                                "title": "QLCプロデュース株式会社",
+                                "url": "QLCプロデュース株式会社"
+                            },
+                            {
+                                "title": "プライバシーポリシー"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 業界 プライバシーポリシー",
+                        "totalResults": "144000000",
+                        "searchTerms": "業界 プライバシーポリシー",
+                        "count": 10,
+                        "startIndex": 1,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 業界 プライバシーポリシー",
+                        "totalResults": "144000000",
+                        "searchTerms": "業界 プライバシーポリシー",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 業界 プライバシーポリシー",
+                        "totalResults": "144000000",
+                        "searchTerms": "業界 プライバシーポリシー",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.300152,
+                "formattedSearchTime": "0.30",
+                "totalResults": "144000000",
+                "formattedTotalResults": "144,000,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー | 医療・介護業界の連携プラットフォームの ...",
+                    "htmlTitle": "<b>プライバシーポリシー</b> | 医療・介護<b>業界</b>の連携プラットフォームの ...",
+                    "link": "https://www.qlc.co.jp/policy/",
+                    "displayLink": "www.qlc.co.jp",
+                    "snippet": "QLCプロデュース株式会社のプライバシーポリシーを紹介します。QLCプロデュース株式会社は、介護ビジネス新規参入支援、各種POSシステムの開発、中古メディアの卸事業 ...",
+                    "htmlSnippet": "QLCプロデュース株式会社の<b>プライバシーポリシー</b>を紹介します。QLCプロデュース株式会社は、介護ビジネス新規参入支援、各種POSシステムの開発、中古メディアの卸事業&nbsp;...",
+                    "cacheId": "01Vn-Te7EK0J",
+                    "formattedUrl": "https://www.qlc.co.jp/policy/",
+                    "htmlFormattedUrl": "https://www.qlc.co.jp/policy/",
+                    "pagemap": {
+                        "wpfooter": [
+                            {
+                                "copyrightholder": "QLC Produce Corporation All Rights Reserved.",
+                                "name": "QLC Produce Corporation All Rights Reserved."
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:type": "article",
+                                "article:published_time": "2019-01-11T08:20:48+00:00",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "プライバシーポリシー | 医療・介護業界の連携プラットフォームの構築・システム開発・運動プログラムの開発 | QLCプロデュース株式会社",
+                                "theme-color": "#0068b7",
+                                "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+                                "og:site_name": "QLCプロデュース株式会社 -",
+                                "og:title": "プライバシーポリシー | 医療・介護業界の連携プラットフォームの構築・システム開発・運動プログラムの開発 | QLCプロデュース株式会社",
+                                "og:description": "QLCプロデュース株式会社のプライバシーポリシーを紹介します。QLCプロデュース株式会社は、介護ビジネス新規参入支援、各種POSシステムの開発、中古メディアの卸事業を通して、ビジネスソリューション・システムソリューションの両面から総合的に店舗運営をプロデュースいたします。",
+                                "article:modified_time": "2019-01-21T10:41:01+00:00",
+                                "viewport": "width=device-width,initial-scale=1.0",
+                                "twitter:description": "QLCプロデュース株式会社のプライバシーポリシーを紹介します。QLCプロデュース株式会社は、介護ビジネス新規参入支援、各種POSシステムの開発、中古メディアの卸事業を通して、ビジネスソリューション・システムソリューションの両面から総合的に店舗運営をプロデュースいたします。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.qlc.co.jp/policy/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "Breadcrumb": [
+                            {
+                                "title": "QLCプロデュース株式会社",
+                                "url": "QLCプロデュース株式会社"
+                            },
+                            {
+                                "title": "プライバシーポリシー"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー | 業界横断型の車両動態管理システム物流DX ...",
+                    "htmlTitle": "<b>プライバシーポリシー</b> | <b>業界</b>横断型の車両動態管理システム物流DX ...",
+                    "link": "https://traevo.jp/privacy/",
+                    "displayLink": "traevo.jp",
+                    "snippet": "2022/04/13 ... プライバシーポリシー. プライバシーポリシー. 個人情報保護方針. 株式会社traevo(以下｢当社｣という｡)は､お客様に価値あるサービスをご提供させて ...",
+                    "htmlSnippet": "2022/04/13 <b>...</b> <b>プライバシーポリシー</b>. <b>プライバシーポリシー</b>. 個人情報保護方針. 株式会社traevo(以下｢当社｣という｡)は､お客様に価値あるサービスをご提供させて&nbsp;...",
+                    "cacheId": "xd9zDThgR6YJ",
+                    "formattedUrl": "https://traevo.jp/privacy/",
+                    "htmlFormattedUrl": "https://traevo.jp/privacy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSo_57em2XKO8pL3VZTv6-dKLQ_vxAtakIbZFo5kZLChYlmHHXyBdmnD2Q",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://traevo.jp/img/global/ogpi/default.jpg",
+                                "copyright": "Copyright © traevo. All rights reserved.",
+                                "og:type": "website",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "traevo.jp",
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0",
+                                "author": "traevo",
+                                "og:title": "プライバシーポリシー | 業界横断型の車両動態管理システム物流DXプラットフォーム",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://traevo.jp/privacy/",
+                                "og:description": "株式会社traevoは､お客様に価値あるサービスをご提供させていただくために取得しご利用させていただく個人情報､あるいは､業務の過程でお預かりした個人情報につきましても､適正な保護を重大な責務と認識し､この責務を果たすために､次の方針のもとで取り扱います｡",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://traevo.jp/img/global/ogpi/default.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー |【歯科業界専門】採用マッチングアプリ ...",
+                    "htmlTitle": "<b>プライバシーポリシー</b> |【歯科<b>業界</b>専門】採用マッチングアプリ ...",
+                    "link": "https://dental-seek.com/privacypolicy",
+                    "displayLink": "dental-seek.com",
+                    "snippet": "プライバシーポリシー. 株式会社ノーザ（以下、「当社」といいます。）は、当社が提供するサービス（以下、「当社サービス」といいます。）における個人情報の取り扱い ...",
+                    "htmlSnippet": "<b>プライバシーポリシー</b>. 株式会社ノーザ（以下、「当社」といいます。）は、当社が提供するサービス（以下、「当社サービス」といいます。）における個人情報の取り扱い&nbsp;...",
+                    "cacheId": "FjVxIQiHTnwJ",
+                    "formattedUrl": "https://dental-seek.com/privacypolicy",
+                    "htmlFormattedUrl": "https://dental-seek.com/privacypolicy",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZWjb6JWoVqmzvCpFW7ZO2LA0muC7i2TXYHuYmSta-IhZ6fGHmhO6eVkNN",
+                                "width": "214",
+                                "height": "236"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://dental-seek.com:443/public/release/tiny/raw/screenshot.jpg",
+                                "twitter:card": "summary_large_image",
+                                "og:type": "website",
+                                "og:site_name": "【歯科業界専門】採用マッチングアプリ「dentalseek」",
+                                "viewport": "width=device-width,initial-scale=1.0,user-scalable=no",
+                                "og:title": "プライバシーポリシー |【歯科業界専門】採用マッチングアプリ「seek」 | 【歯科業界専門】採用マッチングアプリ「dentalseek」",
+                                "og:url": "https://dental-seek.com//privacypolicy",
+                                "og:description": "dentalseek（デンタルシーク）は歯科業界専門の求人マッチングアプリなので、歯科医院とスタッフの双方の詳細なニーズにマッチした採用募集が実現可能。「イメージと違った」ということのない、求職活動をサポートします。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://dental-seek.com/public/release/tiny/raw/fv_230309.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー | 日本アグフア・ゲバルト株式会社 製版･印刷 ...",
+                    "htmlTitle": "<b>プライバシーポリシー</b> | 日本アグフア・ゲバルト株式会社 製版･印刷 ...",
+                    "link": "http://www.apogee-users.jp/privacy.html",
+                    "displayLink": "www.apogee-users.jp",
+                    "snippet": "日本アグフア・ゲバルト株式会社は、ハードウエア、ワークフロー、UVインクジェットプリンタのリーディングカンパニーです。製版･印刷業界に於ける材料として ...",
+                    "htmlSnippet": "日本アグフア・ゲバルト株式会社は、ハードウエア、ワークフロー、UVインクジェットプリンタのリーディングカンパニーです。製版･印刷<b>業界</b>に於ける材料として&nbsp;...",
+                    "cacheId": "4WDcQMe2HkIJ",
+                    "formattedUrl": "www.apogee-users.jp/privacy.html",
+                    "htmlFormattedUrl": "www.apogee-users.jp/privacy.html"
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー｜医療・介護業界の転職・派遣なら【ハート ...",
+                    "htmlTitle": "<b>プライバシーポリシー</b>｜医療・介護<b>業界</b>の転職・派遣なら【ハート ...",
+                    "link": "https://www.hf-staff.jp/privacy/",
+                    "displayLink": "www.hf-staff.jp",
+                    "snippet": "医療・介護業界の転職・派遣のことならハートフルスタッフ。東京、神奈川（横浜・川崎）、山梨、千葉県、埼玉県、長野県の求人情報（看護師、介護・福祉、薬剤師、保育 ...",
+                    "htmlSnippet": "医療・介護<b>業界</b>の転職・派遣のことならハートフルスタッフ。東京、神奈川（横浜・川崎）、山梨、千葉県、埼玉県、長野県の求人情報（看護師、介護・福祉、薬剤師、保育&nbsp;...",
+                    "cacheId": "6Nlhurzuf2MJ",
+                    "formattedUrl": "https://www.hf-staff.jp/privacy/",
+                    "htmlFormattedUrl": "https://www.hf-staff.jp/privacy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbalNbhnP6iet2K_k3vYJqNGPGcEDJxwUY2-5xHZLhMVmoilZsB2eHmtwm",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.hf-staff.jp/common/img/ogp.jpg",
+                                "og:type": "website",
+                                "og:site_name": "医療・介護業界の転職・派遣なら【ハートフルスタッフ】",
+                                "viewport": "width=device-width",
+                                "author": "株式会社ハートフルスタッフ",
+                                "og:title": "プライバシーポリシー｜医療・介護業界の転職・派遣なら【ハートフルスタッフ】",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.hf-staff.jp/privacy/",
+                                "og:description": "医療・介護業界の転職・派遣のことならハートフルスタッフ。東京、神奈川（横浜・川崎）、山梨、千葉県、埼玉県、長野県の求人情報（看護師、介護・福祉、薬剤師、保育士等）を多数取り扱っています。"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.hf-staff.jp/img/ico_cross.svg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー – うちでのこづち ｜業界トップクラス800社 ...",
+                    "htmlTitle": "<b>プライバシーポリシー</b> – うちでのこづち ｜<b>業界</b>トップクラス800社 ...",
+                    "link": "https://www.uchideno-kozuchi.com/privacy/",
+                    "displayLink": "www.uchideno-kozuchi.com",
+                    "snippet": "プライバシーポリシー. TOP>; プライバシーポリシー. ウェブサイトにおける個人情報の取扱について. 株式会社E-Grant(以下「当社」といいます。)は、当社の「個人情報 ...",
+                    "htmlSnippet": "<b>プライバシーポリシー</b>. TOP&gt;; <b>プライバシーポリシー</b>. ウェブサイトにおける個人情報の取扱について. 株式会社E-Grant(以下「当社」といいます。)は、当社の「個人情報&nbsp;...",
+                    "cacheId": "FIZOzLWodCIJ",
+                    "formattedUrl": "https://www.uchideno-kozuchi.com/privacy/",
+                    "htmlFormattedUrl": "https://www.uchideno-kozuchi.com/privacy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZjTimWQeyHNKhCYSo1mxzHpCpofoJQuLwy_8jhaVa53WvlKHKMSBhb6dq",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "breadcrumb": [
+                            {
+                                "url": "TOP"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.uchideno-kozuchi.com/wp-content/themes/kozuchi/image/ogp_logo.png",
+                                "og:type": "article",
+                                "article:published_time": "2021-02-16T18:57:18+00:00",
+                                "twitter:card": "summary",
+                                "twitter:title": "プライバシーポリシー – うちでのこづち ｜業界トップクラス800社以上が使うEC・通販CRM/MAツール",
+                                "og:site_name": "うちでのこづち –",
+                                "og:title": "プライバシーポリシー – うちでのこづち ｜業界トップクラス800社以上が使うEC・通販CRM/MAツール",
+                                "msapplication-tileimage": "https://www.uchideno-kozuchi.com/wp-content/uploads/2022/09/cropped-favicon01.png-270x270.webp",
+                                "og:description": "ウェブサイトにおける個人情報の取扱について 株式会社E-Grant(以下「当社」といいます。)は、当社の「個人",
+                                "og:image:secure_url": "https://www.uchideno-kozuchi.com/wp-content/themes/kozuchi/image/ogp_logo.png",
+                                "twitter:image": "https://www.uchideno-kozuchi.com/wp-content/uploads/2022/03/ogp_logo.png.webp",
+                                "article:modified_time": "2022-05-18T11:52:36+00:00",
+                                "viewport": "width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1",
+                                "twitter:description": "ウェブサイトにおける個人情報の取扱について 株式会社E-Grant(以下「当社」といいます。)は、当社の「個人",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.uchideno-kozuchi.com/privacy/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.uchideno-kozuchi.com/wp-content/themes/kozuchi/image/ogp_logo.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー | 株式会社ダン・タクマ 半導体・電子 ...",
+                    "htmlTitle": "<b>プライバシーポリシー</b> | 株式会社ダン・タクマ 半導体・電子 ...",
+                    "link": "https://www.dan-net.com/privacy/",
+                    "displayLink": "www.dan-net.com",
+                    "snippet": "半導体・電子デバイス業界の求めるクリーン環境の創造.",
+                    "htmlSnippet": "半導体・電子デバイス<b>業界</b>の求めるクリーン環境の創造.",
+                    "cacheId": "OmSdpPQ0psoJ",
+                    "formattedUrl": "https://www.dan-net.com/privacy/",
+                    "htmlFormattedUrl": "https://www.dan-net.com/privacy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReuNgyCMVRLB6FLGYdz8u6tpqQTRMQI3F5Hr4Lg5eiJF0H44-yuexqMAwq",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.dan-net.com/cms/wp-content/uploads/2023/01/ogp.png",
+                                "og:type": "article",
+                                "og:image:width": "1200",
+                                "twitter:card": "summary_large_image",
+                                "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+                                "og:site_name": "株式会社ダン・タクマ 半導体・電子デバイス業界の求めるクリーン環境の創造",
+                                "og:title": "プライバシーポリシー | 株式会社ダン・タクマ 半導体・電子デバイス業界の求めるクリーン環境の創造",
+                                "og:image:height": "630",
+                                "og:image:type": "image/png",
+                                "og:description": "ダン・タクマのプライバシーポリシーページです。",
+                                "article:modified_time": "2023-02-15T11:28:51+00:00",
+                                "viewport": "width=device-width, initial-scale=1.0",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://www.dan-net.com/privacy/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.dan-net.com/cms/wp-content/uploads/2023/01/ogp.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー ｜ 株式会社H.R.M. レストラン・ホテル ...",
+                    "htmlTitle": "<b>プライバシーポリシー</b> ｜ 株式会社H.R.M. レストラン・ホテル ...",
+                    "link": "http://j-hrm.co.jp/entry/privacy/",
+                    "displayLink": "j-hrm.co.jp",
+                    "snippet": "プライバシーポリシー · 法令等の順守個人情報保護に関して適用される法令、国の定めた法令のガイドラインを順守します。 · 個人情報の取得利用目的を明確にしたうえで、必要 ...",
+                    "htmlSnippet": "<b>プライバシーポリシー</b> &middot; 法令等の順守個人情報保護に関して適用される法令、国の定めた法令のガイドラインを順守します。 &middot; 個人情報の取得利用目的を明確にしたうえで、必要&nbsp;...",
+                    "cacheId": "9bCU0y8yGpoJ",
+                    "formattedUrl": "j-hrm.co.jp/entry/privacy/",
+                    "htmlFormattedUrl": "j-hrm.co.jp/entry/privacy/",
+                    "pagemap": {
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー | 株式会社Fittio | IT・Web業界専門の人材紹介 ...",
+                    "htmlTitle": "<b>プライバシーポリシー</b> | 株式会社Fittio | IT・Web<b>業界</b>専門の人材紹介 ...",
+                    "link": "https://fittio.co.jp/privacy-policy/",
+                    "displayLink": "fittio.co.jp",
+                    "snippet": "株式会社Fittioは、派遣人材事業及びITシステムの企画・設計・開発事業を実施する上で、お客様の個人情報がプライバシーを構成する重要な情報であることを深く認識し、 ...",
+                    "htmlSnippet": "株式会社Fittioは、派遣人材事業及びITシステムの企画・設計・開発事業を実施する上で、お客様の個人情報が<b>プライバシー</b>を構成する重要な情報であることを深く認識し、&nbsp;...",
+                    "cacheId": "rSkpKv4J36gJ",
+                    "formattedUrl": "https://fittio.co.jp/privacy-policy/",
+                    "htmlFormattedUrl": "https://fittio.co.jp/privacy-policy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfu4huBNpM6xRsUwSNLfKIl3awFz08MymJ65hQzdBmsl-JZXIcV58YXqU",
+                                "width": "180",
+                                "height": "180"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://fittio.co.jp/wp-content/uploads/2019/11/apple-touch-icon.png",
+                                "og:type": "activity",
+                                "twitter:card": "summary",
+                                "twitter:title": "プライバシーポリシー | 株式会社Fittio | IT・Web業界専門の人材紹介・派遣・業務委託案件",
+                                "og:site_name": "Fittio",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "プライバシーポリシー | 株式会社Fittio | IT・Web業界専門の人材紹介・派遣・業務委託案件",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://fittio.co.jp/privacy-policy/",
+                                "og:image:secure_url": "https://fittio.co.jp/wp-content/uploads/2019/11/apple-touch-icon.png",
+                                "twitter:image": "https://fittio.co.jp/wp-content/uploads/2019/11/apple-touch-icon.png"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://fittio.co.jp/wp-content/uploads/2019/11/apple-touch-icon.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー エクステリア業界の発展への貢献 株式会社 ...",
+                    "htmlTitle": "<b>プライバシーポリシー</b>  エクステリア<b>業界</b>の発展への貢献 株式会社 ...",
+                    "link": "https://billyken.org/privacy-policy/",
+                    "displayLink": "billyken.org",
+                    "snippet": "プライバシーポリシー. 株式会社ビリーケン（以下、「当社」という。）は、当社が取得した個人情報の取扱いに関し、個人情報の保護に関する法律、個人情報保護に関する ...",
+                    "htmlSnippet": "<b>プライバシーポリシー</b>. 株式会社ビリーケン（以下、「当社」という。）は、当社が取得した個人情報の取扱いに関し、個人情報の保護に関する法律、個人情報保護に関する&nbsp;...",
+                    "cacheId": "A8lFPXWUFzgJ",
+                    "formattedUrl": "https://billyken.org/privacy-policy/",
+                    "htmlFormattedUrl": "https://billyken.org/privacy-policy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRw8LVPOSulw1B5CS7jgAg52mR97hHkdB9bkP4G9OX3X31aGwl04ZEGItf2",
+                                "width": "300",
+                                "height": "168"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://billyken.org/wp-content/themes/the-thor/img/img_no_768.gif",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "エクステリア業界の発展への貢献 株式会社ビリーケン",
+                                "twitter:site": "@examples",
+                                "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                                "og:title": "プライバシーポリシー",
+                                "msapplication-tileimage": "https://billyken.org/wp-content/uploads/2022/10/cropped-unnamed-270x270.png",
+                                "og:url": "https://billyken.org/privacy-policy/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://billyken.org/wp-content/themes/the-thor/img/img_no_768.gif"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "kind": "customsearch#search",
+            "url": {
+                "type": "application/json",
+                "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+            },
+            "queries": {
+                "previousPage": [
+                    {
+                        "title": "Google Custom Search - 業界 プライバシーポリシー",
+                        "totalResults": "178000000",
+                        "searchTerms": "業界 プライバシーポリシー",
+                        "count": 10,
+                        "startIndex": 11,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "request": [
+                    {
+                        "title": "Google Custom Search - 業界 プライバシーポリシー",
+                        "totalResults": "178000000",
+                        "searchTerms": "業界 プライバシーポリシー",
+                        "count": 10,
+                        "startIndex": 21,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ],
+                "nextPage": [
+                    {
+                        "title": "Google Custom Search - 業界 プライバシーポリシー",
+                        "totalResults": "178000000",
+                        "searchTerms": "業界 プライバシーポリシー",
+                        "count": 10,
+                        "startIndex": 31,
+                        "language": "lang_ja",
+                        "inputEncoding": "utf8",
+                        "outputEncoding": "utf8",
+                        "safe": "off",
+                        "cx": "450af68b0a7fb4ecd"
+                    }
+                ]
+            },
+            "context": {
+                "title": "グーグル検索（日本）"
+            },
+            "searchInformation": {
+                "searchTime": 0.184782,
+                "formattedSearchTime": "0.18",
+                "totalResults": "178000000",
+                "formattedTotalResults": "178,000,000"
+            },
+            "items": [
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー | 映像・音響、放送・通信業界の情報発信 ...",
+                    "htmlTitle": "<b>プライバシーポリシー</b> | 映像・音響、放送・通信<b>業界</b>の情報発信 ...",
+                    "link": "https://www.inter-bee.com/ja/privacy/",
+                    "displayLink": "www.inter-bee.com",
+                    "snippet": "Inter BEE プライバシーポリシー. ... など、更に、他の情報と容易に照合することができ、それにより特定の個人を識別できるものは、個人のプライバシーを構成する重要 ...",
+                    "htmlSnippet": "Inter BEE <b>プライバシーポリシー</b>. ... など、更に、他の情報と容易に照合することができ、それにより特定の個人を識別できるものは、個人のプライバシーを構成する重要&nbsp;...",
+                    "cacheId": "jFie2hworIEJ",
+                    "formattedUrl": "https://www.inter-bee.com/ja/privacy/",
+                    "htmlFormattedUrl": "https://www.inter-bee.com/ja/privacy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg0g3XYdHZfYXC80bGketlE5gfUZ1rt5Bzgo62FhIxoXO7aop5yCFynCU",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.inter-bee.com/assets/img/common/OGP_j_main.png?2305",
+                                "fb:app_id": "3446475788779575",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "Inter BEE 2023｜映像・音響、放送・通信のプロフェッショナルが集まるメディア総合イベント",
+                                "twitter:site": "@Inter_BEE",
+                                "viewport": "width=device-width, initial-scale=1, user-scalable=no",
+                                "og:title": "プライバシーポリシー | 映像・音響、放送・通信業界の情報発信サイト INTER BEE 2023",
+                                "og:url": "https://www.inter-bee.com/ja/privacy/",
+                                "og:description": "Inter BEE プライバシーポリシー",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.inter-bee.com/assets/img/common/OGP_j_main.png?2305"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー | 業界連携再就職プログラム",
+                    "htmlTitle": "<b>プライバシーポリシー</b> | <b>業界</b>連携再就職プログラム",
+                    "link": "https://gyokai-renkei.jp/privacy_policy/",
+                    "displayLink": "gyokai-renkei.jp",
+                    "snippet": "プライバシーポリシー. 個人情報の取り扱いについて. 株式会社エイジェック（以下「当社」という）は、公益財団法人東京しごと財団より受託した「業界連携再就職 ...",
+                    "htmlSnippet": "<b>プライバシーポリシー</b>. 個人情報の取り扱いについて. 株式会社エイジェック（以下「当社」という）は、公益財団法人東京しごと財団より受託した「<b>業界</b>連携再就職&nbsp;...",
+                    "cacheId": "dCc7OuKtDtIJ",
+                    "formattedUrl": "https://gyokai-renkei.jp/privacy_policy/",
+                    "htmlFormattedUrl": "https://gyokai-renkei.jp/privacy_policy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQITQiUY73YMQPIURNRMSDiEV_MVtI35gE4EXzLZPsNzvsYD1N8u7CCVRk",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://gyokai-renkei.jp/wp/wp-content/uploads/2021/06/card-gyokai2.jpg",
+                                "og:type": "activity",
+                                "og:image:width": "1200",
+                                "twitter:card": "summary",
+                                "twitter:title": "プライバシーポリシー | 業界連携再就職プログラム",
+                                "og:site_name": "業界連携再就職プログラム",
+                                "twitter:domain": "gyokai-renkei.jp",
+                                "og:title": "プライバシーポリシー | 業界連携再就職プログラム",
+                                "og:image:height": "630",
+                                "og:description": "業界連携再就職プログラムの公式ホームページです。プライバシーポリシーをご案内します。",
+                                "og:image:secure_url": "https://gyokai-renkei.jp/wp/wp-content/uploads/2021/06/card-gyokai2.jpg",
+                                "twitter:image": "https://gyokai-renkei.jp/wp/wp-content/uploads/2021/06/card-gyokai2.jpg",
+                                "facebook-domain-verification": "p3yze6r5rqr9puxuxgalljjd99trxr",
+                                "viewport": "width=device-width",
+                                "twitter:description": "業界連携再就職プログラムの公式ホームページです。プライバシーポリシーをご案内します。",
+                                "og:url": "https://gyokai-renkei.jp/privacy_policy/"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://gyokai-renkei.jp/wp/wp-content/uploads/2021/06/card-gyokai2.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー | novartis",
+                    "htmlTitle": "<b>プライバシーポリシー</b> | novartis",
+                    "link": "https://www.novartis.com/jp-ja/privacy-policy",
+                    "displayLink": "www.novartis.com",
+                    "snippet": "弊社との取引、事業運営または業界活動に関する連絡、協働 · 医薬品等の適正使用に関する情報の提供、収集 · 医薬品等の副作用発生、事故発生、回収等における円滑な対応 ...",
+                    "htmlSnippet": "弊社との取引、事業運営または<b>業界</b>活動に関する連絡、協働 &middot; 医薬品等の適正使用に関する情報の提供、収集 &middot; 医薬品等の副作用発生、事故発生、回収等における円滑な対応&nbsp;...",
+                    "cacheId": "1PXCEABpLhkJ",
+                    "formattedUrl": "https://www.novartis.com/jp-ja/privacy-policy",
+                    "htmlFormattedUrl": "https://www.novartis.com/jp-ja/privacy-policy",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQEKvNzAU-8ewNdB2Dh2C_iYb5O7dzqukeUTcLLZ7wBKUwUsfAhhAoIzIM",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://www.novartis.com/sites/novartis_com/files/novartis-logo-open-graph.jpg",
+                                "og:type": "Website",
+                                "og:image:alt": "Novartis logo",
+                                "twitter:card": "summary_large_image",
+                                "twitter:title": "プライバシーポリシー",
+                                "og:site_name": "Novartis Japan",
+                                "twitter:site:id": "17226612",
+                                "og:image:url": "https://www.novartis.com/sites/novartis_com/files/novartis-logo-open-graph.jpg",
+                                "handheldfriendly": "true",
+                                "twitter:url": "https://www.novartis.com/jp-ja/privacy-policy",
+                                "og:title": "プライバシーポリシー",
+                                "og:description": "ノバルティスはスイスに本拠を置くヘルスケアの世界的リーディングカンパニーです。世界の患者さんへ変化する医療ニーズに対応した医薬品を提供しています",
+                                "og:image:secure_url": "https://www.novartis.com/sites/novartis_com/files/novartis-logo-open-graph.jpg",
+                                "twitter:image": "https://www.novartis.com/sites/novartis_com/files/novartis-logo-open-graph.jpg",
+                                "twitter:image:alt": "Novartis is a global healthcare company based in Switzerland that provides solutions to address the evolving needs of patients worldwide. We deliver innovative medicines to the medical field in order to realize the health and affluent lives of people around the world and Japan.",
+                                "twitter:site": "@novartis",
+                                "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                                "twitter:description": "ノバルティスはスイスに本拠を置くヘルスケアの世界的リーディングカンパニーです。世界の患者さんへ変化する医療ニーズに対応した医薬品を提供しています",
+                                "mobileoptimized": "width",
+                                "og:url": "https://www.novartis.com/jp-ja/privacy-policy"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.novartis.com/sites/novartis_com/files/novartis-logo-open-graph.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "個人情報について | 資生堂 企業情報",
+                    "htmlTitle": "個人情報について | 資生堂 企業情報",
+                    "link": "https://corp.shiseido.com/jp/privacy-policy/",
+                    "displayLink": "corp.shiseido.com",
+                    "snippet": "... 業界ガイドラインなどを遵守するとともに、「資生堂グローバル個人情報保護 ... 本プライバシーポリシーは、日本法に準拠し、同法に従って解釈されるものとします ...",
+                    "htmlSnippet": "... <b>業界</b>ガイドラインなどを遵守するとともに、「資生堂グローバル個人情報保護 ... 本<b>プライバシーポリシー</b>は、日本法に準拠し、同法に従って解釈されるものとします&nbsp;...",
+                    "cacheId": "hVD18dheLHIJ",
+                    "formattedUrl": "https://corp.shiseido.com/jp/privacy-policy/",
+                    "htmlFormattedUrl": "https://corp.shiseido.com/jp/privacy-policy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGYomC7VLRjQ5WqCt75baTlcYw-Clz9BE3k4kSEgBocxqb68H6QU1ryOS3",
+                                "width": "225",
+                                "height": "225"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://corp.shiseido.com/jp/cmn_new/img/fb_icon_img.jpg",
+                                "viewport": "width=device-width",
+                                "author": "Shiseido Co., Ltd."
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://corp.shiseido.com/jp/cmn_new/img/fb_icon_img.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー チャットプラス | ChatPlus",
+                    "htmlTitle": "<b>プライバシーポリシー</b> チャットプラス | ChatPlus",
+                    "link": "https://chatplus.jp/privacy/",
+                    "displayLink": "chatplus.jp",
+                    "snippet": "プライバシーポリシー チャットプラスはウェブサイトで企業や個人がすぐにつながる「売上が上がる＆お客様が喜ぶ」チャットサービス、チャットプラス(ChatPlus)を提供 ...",
+                    "htmlSnippet": "<b>プライバシーポリシー</b> チャットプラスはウェブサイトで企業や個人がすぐにつながる「売上が上がる＆お客様が喜ぶ」チャットサービス、チャットプラス(ChatPlus)を提供&nbsp;...",
+                    "cacheId": "z4hVAxmPrIEJ",
+                    "formattedUrl": "https://chatplus.jp/privacy/",
+                    "htmlFormattedUrl": "https://chatplus.jp/privacy/",
+                    "pagemap": {
+                        "BreadcrumbList": [
+                            {}
+                        ],
+                        "metatags": [
+                            {
+                                "og:type": "article",
+                                "og:site_name": "チャットプラス",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "プライバシーポリシー",
+                                "og:locale": "ja_JP",
+                                "position": "1",
+                                "og:url": "https://chatplus.jp/privacy/",
+                                "msapplication-tileimage": "https://chatplus.jp/wp/wp-content/uploads/2017/01/cropped-chatplus_logo_512-270x270.png",
+                                "og:description": "プライバシーポリシー チャットプラスはウェブサイトで企業や個人がすぐにつながる「売上が上がる＆お客様が喜ぶ」チャットサービス、チャットプラス(ChatPlus)を提供いたしております。当社では事業を運営するにあたり、多く...",
+                                "url": "https://chatplus.jp/privacy/",
+                                "format-detection": "telephone=no"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーガバナンス （METI/経済産業省）",
+                    "htmlTitle": "<b>プライバシー</b>ガバナンス （METI/経済産業省）",
+                    "link": "https://www.meti.go.jp/policy/it_policy/privacy/privacy.html",
+                    "displayLink": "www.meti.go.jp",
+                    "snippet": "2023/04/25 ... プライバシーガバナンス. DX時代の企業のプライバシーガバナンスガイドブック; カメラ画像利活用ガイドブック; 新たなデータ ...",
+                    "htmlSnippet": "2023/04/25 <b>...</b> <b>プライバシー</b>ガバナンス. DX時代の企業の<b>プライバシー</b>ガバナンスガイドブック; カメラ画像利活用ガイドブック; 新たなデータ&nbsp;...",
+                    "cacheId": "1iQqx8RK9cEJ",
+                    "formattedUrl": "https://www.meti.go.jp/policy/it_policy/privacy/privacy.html",
+                    "htmlFormattedUrl": "https://www.meti.go.jp/policy/it_policy/privacy/privacy.html",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfA9XV4vFLgJsRmd7yWx13fw4lJUS5KKDBKvHZxvGE-8todP_qYIugwz9s",
+                                "width": "197",
+                                "height": "256"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://www.meti.go.jp/policy/it_policy/privacy/images/privacy_img_main.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー｜秋葉原クリエイティブ株式会社｜業界で ...",
+                    "htmlTitle": "<b>プライバシーポリシー</b>｜秋葉原クリエイティブ株式会社｜<b>業界</b>で ...",
+                    "link": "https://akihabara-creative.co.jp/privacypolicy",
+                    "displayLink": "akihabara-creative.co.jp",
+                    "snippet": "秋葉原クリエイティブ株式会社は「はやい」「簡単」「明瞭会計」をモットーにした、業界で最も良心的なWEB制作会社です。 ... HOME > プライバシーポリシー.",
+                    "htmlSnippet": "秋葉原クリエイティブ株式会社は「はやい」「簡単」「明瞭会計」をモットーにした、<b>業界</b>で最も良心的なWEB制作会社です。 ... HOME &gt; <b>プライバシーポリシー</b>.",
+                    "cacheId": "uG7roMb99CoJ",
+                    "formattedUrl": "https://akihabara-creative.co.jp/privacypolicy",
+                    "htmlFormattedUrl": "https://akihabara-creative.co.jp/privacypolicy",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfUgMwLnFfv89WX0fFoqg1uqgCDNZcfNeSM-CyQZ0PpTYUnb0DeTq1av8",
+                                "width": "264",
+                                "height": "191"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://storage.googleapis.com/production-os-assets/assets/fbc0cf44-db09-48be-a629-ba297b56d77e",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "秋葉原クリエイティブ株式会社｜業界で最も良心的なWEB制作会社",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "og:title": "プライバシーポリシー｜秋葉原クリエイティブ株式会社｜業界で最も良心的なWEB制作会社",
+                                "apple-mobile-web-app-title": "プライバシーポリシー｜秋葉原クリエイティブ株式会社｜業界で最も良心的なWEB制作会社",
+                                "og:url": "https://akihabara-creative.co.jp/privacypolicy",
+                                "og:description": "秋葉原クリエイティブ株式会社は「はやい」「簡単」「明瞭会計」をモットーにした、業界で最も良心的なWEB制作会社です。特にスタートアップや安価にHP・LPなどのWEBサイトを制作したい方に負担の少ない形でサービスをご提供しております。",
+                                "twitter:image": "https://storage.googleapis.com/production-os-assets/assets/fbc0cf44-db09-48be-a629-ba297b56d77e"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://storage.googleapis.com/production-os-assets/assets/fbc0cf44-db09-48be-a629-ba297b56d77e"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "住宅・不動産業界に特化したマーケティングオートメーション ...",
+                    "htmlTitle": "住宅・不動産<b>業界</b>に特化したマーケティングオートメーション ...",
+                    "link": "https://cocolive.co.jp/privacy/",
+                    "displayLink": "cocolive.co.jp",
+                    "snippet": "不動産販売・住宅建築業界に特化したマーケティングオートメーションツールKASIKA。運営会社Cocolive株式会社のプライバシーポリシーはこちらをご覧ください。",
+                    "htmlSnippet": "不動産販売・住宅建築<b>業界</b>に特化したマーケティングオートメーションツールKASIKA。運営会社Cocolive株式会社の<b>プライバシーポリシー</b>はこちらをご覧ください。",
+                    "cacheId": "rbbe8JwUfAYJ",
+                    "formattedUrl": "https://cocolive.co.jp/privacy/",
+                    "htmlFormattedUrl": "https://cocolive.co.jp/privacy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7RzhfhgFyzMxsn6t-326tNRfR2ouj61aSMD0aWToc3DHUe8VLUa3a9KkD",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://cocolive.co.jp/newsite/wp-content/uploads/2021/06/ogp.jpg",
+                                "og:type": "article",
+                                "og:image:width": "1200",
+                                "article:published_time": "2020-01-15T06:00:13Z",
+                                "twitter:card": "summary",
+                                "twitter:title": "住宅・不動産業界に特化したマーケティングオートメーションツールKASIKA。Cocolive株式会社。プライバシーポリシーについて。",
+                                "og:site_name": "住宅・不動産業界に特化したマーケティングオートメーションツール『KASIKA』 - Cocolive 株式会社 - KASIKAは、住宅・不動産業界に特化したマーケティングオートメーションツールです。不動産会社・工務店様が抱える悩みをKASIKAが解決します。",
+                                "twitter:domain": "cocolive.co.jp",
+                                "og:title": "住宅・不動産業界に特化したマーケティングオートメーションツールKASIKA。Cocolive株式会社。プライバシーポリシーについて。",
+                                "og:image:height": "630",
+                                "msapplication-tileimage": "https://cocolive.co.jp/newsite/wp-content/uploads/2023/03/cropped-favicon-270x270.jpg",
+                                "og:description": "不動産販売・住宅建築業界に特化したマーケティングオートメーションツールKASIKA。運営会社Cocolive株式会社のプライバシーポリシーはこちらをご覧ください。",
+                                "og:image:secure_url": "https://cocolive.co.jp/newsite/wp-content/uploads/2021/06/ogp.jpg",
+                                "twitter:image": "https://cocolive.co.jp/newsite/wp-content/uploads/2021/06/ogp.jpg",
+                                "facebook-domain-verification": "l6q5lg837wwzimokf3tbdej2cvthai",
+                                "article:modified_time": "2023-03-27T16:54:47Z",
+                                "viewport": "width=375",
+                                "twitter:description": "不動産販売・住宅建築業界に特化したマーケティングオートメーションツールKASIKA。運営会社Cocolive株式会社のプライバシーポリシーはこちらをご覧ください。",
+                                "og:url": "https://cocolive.co.jp/privacy/",
+                                "format-detection": "email=no,telephone=no,address=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://cocolive.co.jp/newsite/wp-content/uploads/2021/06/ogp.jpg"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー | 長崎ジャッキ | 整備業界を下から支える ...",
+                    "htmlTitle": "<b>プライバシーポリシー</b> | 長崎ジャッキ | 整備<b>業界</b>を下から支える ...",
+                    "link": "https://nagasaki-jack.co.jp/privacy/",
+                    "displayLink": "nagasaki-jack.co.jp",
+                    "snippet": "長崎ジャッキ株式会社の「プライバシーポリシー」のページです。",
+                    "htmlSnippet": "長崎ジャッキ株式会社の「<b>プライバシーポリシー</b>」のページです。",
+                    "cacheId": "4StUD4YUN7gJ",
+                    "formattedUrl": "https://nagasaki-jack.co.jp/privacy/",
+                    "htmlFormattedUrl": "https://nagasaki-jack.co.jp/privacy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxYJxKh20Zowgz5CUoaEMLPykdrutA-QKSaXFPsBJFDNWBEBVAh0Z2V6Ec",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "og:image": "https://nagasaki-jack.co.jp/nagasaki-jack-wp/wp-content/uploads/2022/09/ogp.png",
+                                "og:type": "article",
+                                "twitter:card": "summary_large_image",
+                                "og:site_name": "長崎ジャッキ | 整備業界を下から支えるジャッキメーカー",
+                                "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes",
+                                "og:title": "プライバシーポリシー | 長崎ジャッキ | 整備業界を下から支えるジャッキメーカー",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://nagasaki-jack.co.jp/privacy/",
+                                "og:description": "長崎ジャッキ株式会社の「プライバシーポリシー」のページです。",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://nagasaki-jack.co.jp/nagasaki-jack-wp/wp-content/uploads/2022/09/ogp.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "kind": "customsearch#result",
+                    "title": "プライバシーポリシー｜廃棄物業界のWeb制作会社なら環境 ...",
+                    "htmlTitle": "<b>プライバシーポリシー</b>｜廃棄物<b>業界</b>のWeb制作会社なら環境 ...",
+                    "link": "https://kankyodigital-sol.jp/privacy-policy/",
+                    "displayLink": "kankyodigital-sol.jp",
+                    "snippet": "当社は、個人情報に関し、不正アクセス、紛失、改ざん及び漏えい等の防止に努め、必要かつ適切な措置を実施いたします。 当社は、法令に定める場合を ...",
+                    "htmlSnippet": "当社は、個人情報に関し、不正アクセス、紛失、改ざん及び漏えい等の防止に努め、必要かつ適切な措置を実施いたします。 当社は、法令に定める場合を&nbsp;...",
+                    "cacheId": "NG26pO8ByR0J",
+                    "formattedUrl": "https://kankyodigital-sol.jp/privacy-policy/",
+                    "htmlFormattedUrl": "https://kankyodigital-sol.jp/privacy-policy/",
+                    "pagemap": {
+                        "cse_thumbnail": [
+                            {
+                                "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtS7AMMMubjbrP-MDCMQ_hrWaws9qtpcJXS3cTdzXhCkOZG4IfKgw-D249",
+                                "width": "310",
+                                "height": "163"
+                            }
+                        ],
+                        "metatags": [
+                            {
+                                "msapplication-tilecolor": "#ffffff",
+                                "og:image": "https://kankyodigital-sol.jp/wp-content/uploads/2022/04/facebook_ogb.jpg",
+                                "theme-color": "#ffffff",
+                                "og:type": "article",
+                                "og:image:width": "720",
+                                "article:published_time": "2018-05-28T05:07:54+00:00",
+                                "twitter:card": "summary",
+                                "twitter:title": "プライバシーポリシー｜廃棄物業界のWeb制作会社なら環境デジタルソリューション",
+                                "og:site_name": "環境デジタルソリューション | ディスクリプション",
+                                "og:title": "プライバシーポリシー｜廃棄物業界のWeb制作会社なら環境デジタルソリューション",
+                                "og:image:height": "378",
+                                "google": "nositelinkssearchbox",
+                                "msapplication-tileimage": "https://kankyodigital-sol.jp/wp-content/uploads/2022/03/cropped-favicon-270x270.jpg",
+                                "og:description": "廃棄物業界の営業コンサルティング,ホームページ制作やWeb制作の環境デジタルソリーションのプライバシーポリシーです。個人情報の取り扱い方法について確認したい方はこちらのページをご覧ください。",
+                                "og:image:secure_url": "https://kankyodigital-sol.jp/wp-content/uploads/2022/04/facebook_ogb.jpg",
+                                "twitter:image": "https://kankyodigital-sol.jp/wp-content/uploads/2022/04/twitter_ogb.jpg",
+                                "article:modified_time": "2022-09-14T07:43:26+00:00",
+                                "viewport": "width=device-width, initial-scale=1",
+                                "twitter:description": "廃棄物業界の営業コンサルティング,ホームページ制作やWeb制作の環境デジタルソリーションのプライバシーポリシーです。個人情報の取り扱い方法について確認したい方はこちらのページをご覧ください。",
+                                "og:locale": "ja_JP",
+                                "og:url": "https://kankyodigital-sol.jp/privacy-policy/",
+                                "format-detection": "telephone=no"
+                            }
+                        ],
+                        "cse_image": [
+                            {
+                                "src": "https://kankyodigital-sol.jp/wp-content/uploads/2022/04/facebook_ogb.jpg"
+                            }
+                        ],
+                        "listitem": [
+                            {
+                                "item": "HOME",
+                                "name": "HOME",
+                                "position": "1"
+                            },
+                            {
+                                "item": "プライバシーポリシー",
+                                "name": "プライバシーポリシー",
+                                "position": "2"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
